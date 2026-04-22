@@ -1,0 +1,6 @@
+Metformin activates AMP-activated protein kinase (AMPK) pathway.
+AMPK activation is associated with neuroprotective effects in neurodegeneration.
+Metformin reduces mTOR signaling which is implicated in Alzheimer's disease pathology.
+AMPK activation reduces tau phosphorylation and amyloid beta production.
+Biological pathway: AMPK-mTOR-tau axis relevant to neurodegeneration.
+Drug mechanism: insulin sensitizer with pleiotropic effects on neuroinflammation.

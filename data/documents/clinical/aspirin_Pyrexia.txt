@@ -1,0 +1,125 @@
+Trial: NCT02058563
+Title: Immunogenicity and Safety of GSK Biologicals' Combined Measles-mumps-rubella Vaccine in Volunteers, Seven Years of Age and Older
+Phase: PHASE3
+Status: COMPLETED
+Summary: The purpose of this study is to evaluate the immunogenicity and safety of GSK's trivalent MMR (Priorix®), comparing it to Merck"s MMR vaccine (M-M-R®II), which is approved for use in the US.
+---
+Trial: NCT01421069
+Title: Extension Study Evaluating Etanercept in 3 Subtypes of Childhood Arthritis
+Phase: PHASE3
+Status: COMPLETED
+Summary: This is a 8-year extension study in pediatric subjects who have been diagnosed with one of 3 subtypes of Juvenile Idiopathic Arthritis (JIA) \[extended oligoarticular JIA, enthestitis related arthritis (ERA), or psoriatic arthritis (PsA)\] who have completed approximately 96 weeks of participation in study 0881A1-3338 (B1801014). The study contains an active treatment period, withdrawal/re-treatme
+---
+Trial: NCT06866964
+Title: A Single-arm, Phase II Clinical Trial of ASPIRin to prEvent Venous Thromboembolism in Patients With Advanced Germ Cell Tumors Receiving Chemotherapy
+Phase: PHASE2
+Status: RECRUITING
+Summary: The purpose of this study is to the 6-month Venous Thromboembolism (VTE)-free rate in participants with advanced germ cell cancer at high risk of VTE who are receiving standard of care cisplatin-based chemotherapy and low-dose acetylsalicylic acid (ASA) and compare to relevant historical controls
+---
+Trial: NCT01361399
+Title: Active and Placebo Controlled Study to Test the Efficacy and Safety of an Aspirin-Lidocaine Lozenge in the Symptomatic Treatment of Sore Throat Associated With a Common Cold
+Phase: PHASE3
+Status: COMPLETED
+Summary: The purpose of this study is to investigate the analgesic efficacy of a single dose of a fixed combination of 500 mg Aspirin (Acetylsalicylic Acid) and 4 mg Lidocaine in adult patients with sore throat associated with a common cold in comparison to a single treatment with 500 mg Aspirin or 4 mg Lidocaine alone as well a Placebo (treatment without any active ingredient). The combination of Aspirin 
+---
+Trial: NCT06018688
+Title: Osimertinib Combined With Aspirin Neoadjuvant Therapy for Resectable EGFR Mutated NSCLC Patients.
+Phase: PHASE2
+Status: NOT_YET_RECRUITING
+Summary: This is a single-center, prospective, single-arm, phase II study of Osimertinib combined with Aspirin neoadjuvant therapy for resectable, EGFR mutated non-small cell lung cancer (NSCLC). It is mainly aimed at the population of patients with primary IIA- IIIA EGFR sensitive mutations that are intended to be treated with Osimertinib neoadjuvant therapy.
+---
+Trial: NCT04003844
+Title: Study of Combined Therapy IVIG-SN 10% and Acetylsalicylic Acid in Kawasaki Disease
+Phase: PHASE4
+Status: COMPLETED
+Summary: The purpose of this study is to evaluate the efficacy and safety of high-dose human Immunoglobulin G Intravenous (IGIV) 10% in subjects with Kawasaki diseases (KD).
+---
+Trial: NCT01432600
+Title: Pomalidomide in Combination With High Dose Dexamethasone and Oral Cyclophosphamide
+Phase: PHASE1
+Status: COMPLETED
+Summary: The main purpose of this study is to see whether pomalidomide can help people with myeloma. Researchers also want to find out if pomalidomide is safe and tolerable.
+---
+Trial: NCT03051646
+Title: Aspirin as a Pre-Treatment for Exercise in Multiple Sclerosis
+Phase: EARLY_PHASE1
+Status: COMPLETED
+Summary: Exercise has many benefits for people with multiple sclerosis (MS), such as improved physical symptoms, mood, fatigue, and cognition. However, many people with MS refrain from exercising because of the discomfort of exhaustion and overheating that they experience. This study investigates the use of aspirin before exercise as a treatment to reduce overheating and exhaustion, thereby availing many m
+---
+Trial: NCT00760435
+Title: Infliximab Plus Intravenous Immunoglobulin for the Primary Treatment of Kawasaki Disease
+Phase: PHASE3
+Status: COMPLETED
+Summary: The purpose of this study is to determine whether the addition of infliximab to standard primary therapy of intravenous immunoglobulin (IVIG) and high dose aspirin will reduce resistance to therapy in acute Kawasaki disease (KD).
+---
+Trial: NCT02155985
+Title: Modulation of Immune Activation by Aspirin
+Phase: PHASE2
+Status: COMPLETED
+Summary: Since people started taking HIV medications, illness from AIDS has decreased, but other serious diseases like heart disease, cancer, and kidney, and liver disease have increased. HIV causes inflammation (irritation) inside the body that cannot be felt but can be measured by blood. Inflammation can lead to diseases that have become some of the leading causes of death in people with HIV. HIV therapy
+---
+Trial: NCT02927249
+Title: Aspirin in Preventing Recurrence of Cancer in Patients With HER2 Negative Stage II-III Breast Cancer After Chemotherapy, Surgery, and/or Radiation Therapy
+Phase: PHASE3
+Status: TERMINATED
+Summary: This randomized phase III trial studies how well aspirin works in preventing the cancer from coming back (recurrence) in patients with human epidermal growth factor receptor 2 (HER2) negative breast cancer after chemotherapy, surgery, and/or radiation therapy. Aspirin is a drug that reduces pain, fever, inflammation, and blood clotting. It is also being studied in cancer prevention. Giving aspirin
+---
+Trial: NCT03919110
+Title: Immunome Project Consortium for Autoinflammatory Disorders
+Phase: NA
+Status: COMPLETED
+Summary: Rare systemic auto inflammatory diseases are a group of diseases that can be inherited and have non specific symptoms (fevers, rashes, joint pain, etc.). These diseases can be divided into two groups:
+
+* Diseases for which genetic mutations have been identified
+* The so-called genetically undetermined diseases for which no genetic mutation has been identified and for which the diagnosis is based o
+---
+Trial: NCT03661463
+Title: Unruptured Intracranial Aneurysm Aspirin Trial (UIAAT).
+Phase: PHASE2
+Status: UNKNOWN
+Summary: Does Aspirin reduce inflammation in the walls of unruptured brain aneurysms?
+
+Brain aneurysms are balloon-like outpouchings of a blood vessel resulting from a weakness in the vessel wall. They generally cause no symptoms, but can burst and cause a bleed in the brain, resulting in death or disability. Aneurysms occur in 1 in 30 people, but rarely burst, with 1 in 10,000 people having a brain bleed.
+---
+Trial: NCT00132080
+Title: Trial of Pulse Steroid Therapy in Kawasaki Disease--Pediatric Heart Network
+Phase: PHASE3
+Status: COMPLETED
+Summary: The primary endpoint is coronary artery diameter, normalized for body surface area, 5 weeks after randomization. Secondary endpoints include duration of fever, CRP levels, and adverse events.
+---
+Trial: NCT02439996
+Title: Different Doses of IVIG for Kawasaki Disease
+Phase: PHASE3
+Status: COMPLETED
+Summary: The objective of this study is to investigate the effect of different doses of intravenous immunoglobulin (IVIG) (1g/kg once, 1g/kg twice, 2g/kg once) for Kawasaki disease (KD) in a multicentre, prospective,randomised trial.
+---
+Trial: NCT00961532
+Title: Improving Platelet Activity for Cerebral Hemorrhage Treatment - DDAVP Proof of Concept
+Phase: PHASE2
+Status: COMPLETED
+Summary: The investigators intend to show that DDAVP improves platelet activity from baseline to 60 minutes after treatment start.
+---
+Trial: NCT00531362
+Title: Enteric Coating as a Factor in Aspirin Resistance
+Phase: NA
+Status: COMPLETED
+Summary: Aspirin is an essential drug for the treatment of cardiovascular disease. The standard dose is 75mg per day (much lower than that for inflammation or fever). One of the side-effects of aspirin is a gastric ulcer which can be fatal. To prevent this it is common to use enteric-coated aspirin. This passes through the stomach intact and dissolves in the intestines. This prevents high levels of drug fo
+---
+Trial: NCT01464944
+Title: Placebo and Active Controlled Study to Compare the Antipyretic Efficacy of Aspirin® in Patients With Acute Febrile Upper Respiratory Tract Infections Suspected to be of Viral Origin
+Phase: PHASE4
+Status: COMPLETED
+Summary: This study is addressed to patients suffering from an acute febrile upper respiratory tract infection suspected to be of viral origin. The purpose of this study is to determine the antipyretic efficacy (reduction of fever by lowering the body temperature from a raised state) of Aspirin in doses of 500 and 1000 mg (study medication) compared to the one of Paracetamol in doses of 500 and 1000 mg (co
+---
+Trial: NCT02407314
+Title: Ticagrelor and Peripheral Arterial Disease
+Phase: PHASE4
+Status: TERMINATED
+Summary: This is an interventional study assessing the effectiveness of Ticagrelor on the reduction of thrombus burden using optical coherence tomography in patients undergoing peripheral artery stenting.
+---
+Trial: NCT03016884
+Title: Safety and Tolerability of Herpes Zoster Vaccine Rheumatologic Patients
+Phase: PHASE4
+Status: UNKNOWN
+Summary: The reactivation of varicella zoster virus (VZV) (herpes zoster (HZ)) is of substantial public health concern. Updated ACR recommendations for RA treatment suggest that RA patients aged ≥ 50 years should be vaccinated before receiving biologic or tofacitinib therapy. The Investigators therefore propose a prospective study to evaluate the safety, tolerability, and immunogenicity of a zoster vaccine
+---

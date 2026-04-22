@@ -1,0 +1,133 @@
+Trial: NCT01963130
+Title: Does Vildagliptin Affect Portal Vein Pressure In Patients With Type 2 Diabetes Mellitus? A Cross Sectional Study
+Phase: NA
+Status: COMPLETED
+Summary: This study investigated how vildagliptin (a di-peptidyl peptidase 4 inhibitor) affects portal vein pressure and hepatosteatosis in patients with type 2 diabetes mellitus.
+---
+Trial: NCT05055219
+Title: Conventional and Metabolomic Predictors of Prediabetes & Insulin Resistance
+Phase: NA
+Status: COMPLETED
+Summary: The purpose of this study is to evaluate the longitudinal test performance of an array of conventional biomarkers of glycemia, including Hemoglobin A1c (HbA1c), and novel metabolomic biomarkers for identifying progression of glucose tolerance (normal to prediabetes or prediabetes to diabetes) in an overweight and obese pediatric cohort.
+---
+Trial: NCT00653302
+Title: Phenotype Evaluation in Insulin Naive Patients Using Lantus (Insulin Glargine)
+Phase: PHASE4
+Status: COMPLETED
+Summary: Primary objective:
+
+* Efficacy assessment of the percentage of positive responders patients receiving Lantus plus glucophage association. Positive responders patients are defined by a final value of HbA1c\<7% and/or a final decrease of HbA1c\>15% compare to the basal value (HbA1c final - HbA1c basal).
+
+Secondary objectives:
+
+* Determination of the predictive criterion of HbA1c final,
+* Determinati
+---
+Trial: NCT01881828
+Title: Metformin Therapy for Overweight Adolescents With Type 1 Diabetes
+Phase: PHASE3
+Status: COMPLETED
+Summary: The objective of the proposed research is to evaluate the efficacy and safety of the use of metformin in addition to standard insulin therapy in overweight and obese children and adolescents, age 12-\<20 years, with type 1 diabetes for at least 1 year. Secondary objectives are to assess the effect of metformin on C-peptide levels, a measure of how much insulin is still being produced by the beta c
+---
+Trial: NCT03061981
+Title: A Study To Evaluate The Safety,Tolerability, PK and PD Of DA-1241 In Healthy Male Subjects
+Phase: PHASE1
+Status: COMPLETED
+Summary: This is a randomized, double blind, placebo controlled, single ascending dose study to assess the safety, tolerability, PK, PD and IE with metformin following a single oral dose of DA-1241 in healthy male subjects.
+---
+Trial: NCT03030300
+Title: Remission Rate of Newly Diagnosed Type 2 Diabetes Outpatients Treated With Short-term Intensive Insulin Therapy
+Phase: PHASE4
+Status: COMPLETED
+Summary: To evaluate the long-term remission rate of short-term intensive insulin (STII) therapy in newly diagnosed type 2 diabetes outpatients and investigate the predictors contributing to the remission rate.
+---
+Trial: NCT00952198
+Title: A Safety Study of ARRY-403 in Patients With Type 2 Diabetes
+Phase: PHASE1
+Status: COMPLETED
+Summary: This is a Phase 1 study, involving a 10-day dosing period, designed to test the safety of investigational study drug ARRY-403 (as monotherapy or in addition to stable metformin therapy) in patients with Type 2 diabetes. Approximately 128 patients from the US will be enrolled in this study.
+---
+Trial: NCT01213563
+Title: Management of Type 2 Diabetes After Gastric Bypass Surgery
+Phase: NA
+Status: TERMINATED
+Summary: Gastric bypass surgery has been proposed as an effective treatment strategy for type 2 diabetes mellitus (T2DM), but thus far algorithms for the management of T2DM immediately after surgery have not been established. The investigators designed an algorithm to achieve good glycaemic control in patients with insulin-requiring T2DM upon discharge after gastric bypass surgery, and evaluated this algor
+---
+Trial: NCT00309608
+Title: Efficacy and Safety of BI 1356 BS (Linagliptin) in Combination With Metformin in Patients With type2 Diabetes
+Phase: PHASE2
+Status: COMPLETED
+Summary: The objective of the study is to test the efficacy, safety and tolerability of several doses of BI 1356 BS (1, 5, or 10 mg taken once daily) compared to placebo given for 12 weeks together with metformin in patients with type 2 diabetes mellitus who are not at goal with their HbA1c levels. In addition, there will be an unblinded treatment arm with glimepiride as add-on therapy to metformin for com
+---
+Trial: NCT02024971
+Title: Special Drug Use Surveillance of Pioglitazone/Metformin Hydrochloride Combination Tablets Survey on Long-term Use for Type 2 Diabetes Mellitus
+Phase: NA
+Status: COMPLETED
+Summary: The purpose of this study is to investigate the safety and efficacy of long-term use of pioglitazone/metformin hydrochloride combination tablets in the routine clinical setting in patients with type 2 diabetes mellitus for whom therapy with pioglitazone hydrochloride combined with metformin hydrochloride is considered suitable.
+---
+Trial: NCT00399711
+Title: Effect of Repaglinide and Metformin Combination Tablet or Rosiglitazone and Metformin in Fixed Dose Combination on Blood Glucose Control in Patients With Type 2 Diabetes
+Phase: PHASE3
+Status: COMPLETED
+Summary: This trial is conducted in the United States of America (USA). This trial compares the changes in HbA1c after 26 weeks of repaglinide and metformin fixed dose combination tablet given as twice daily versus three times daily regimens or versus twice daily rosiglitazone and metformin fixed dose combination tablet in subjects with type 2 diabetes currently on monotherapy.
+---
+Trial: NCT05422092
+Title: Canagliflozin on Liver Inflammation Damage in Type 2 Diabetes Patients With Nonalcoholic Fatty Liver Disease
+Phase: NA
+Status: UNKNOWN
+Summary: Type 2 diabetes mellitus (T2DM) is always accompanied with nonalcoholic fatty liver disease (NAFLD).This prospective, randomized controlled intervention study was designed to reveal the potential clinical application and underlying mechanisms of canagliflozin in the treatment of type 2 diabetes combined with nonalcoholic fatty liver disease.
+---
+Trial: NCT00698230
+Title: Safety and Efficacy of INCB013739 Plus Metformin Compared to Metformin Alone on Glycemic Control in Type 2 Diabetics
+Phase: PHASE2
+Status: COMPLETED
+Summary: Determine the effect of treatment with INCB013739 administered as an 'add-on' to metformin therapy in type 2 diabetic subjects on safety and tolerability and glycemic control.
+---
+Trial: NCT07519265
+Title: Bioequivalence Study of Chiglitazar/Metformin Extended-Release Tablets
+Phase: NA
+Status: NOT_YET_RECRUITING
+Summary: This is a single-center, randomized, open-label, two-period, two-sequence crossover bioequivalence study under fed conditions. The primary objective is to evaluate the bioequivalence of a single oral dose of the test formulation compared with the reference formulation in the fed state.
+---
+Trial: NCT03048500
+Title: Nivolumab and Metformin Hydrochloride in Treating Patients With Stage III-IV Non-small Cell Lung Cancer That Cannot Be Removed by Surgery
+Phase: PHASE2
+Status: UNKNOWN
+Summary: The purpose of this study is to find the benefits of combining nivolumab with metformin in advanced non-small cell lung cancer with and without prior treatment with immunotherapy. We will also be looking at the safety of the combination. Nivolumab is currently approved in certain cancers such as melanoma, lung cancer and kidney cancer. Metformin is approved by the US Food and Drug Administration (
+---
+Trial: NCT03189732
+Title: Effect of Metformin on Exercise-induced Lipolysis
+Phase: NA
+Status: COMPLETED
+Summary: The aim of this study is to investigate whether metformin has inhibitory effect on exercise-induced lipolysis in subcutaneous adipose tissue in healthy lean man. Ten healthy lean mean will follow protocols consisting of 60 minutes of exercise on bicycle ergometer combined with a) orally administered metformin and b) locally administered metformin into adipose tissue and c) without metformin treatm
+---
+Trial: NCT06716216
+Title: A Study of BGM0504 in Participants with Type 2 Diabetes
+Phase: PHASE3
+Status: RECRUITING
+Summary: This trial is conducted in China. The aim of the trial is to evaluate the efficacy and safety of BGM0504 versus semaglutide as add-on to metformin and/or sulfonylureas in patients with type 2 diabetes
+---
+Trial: NCT00353834
+Title: The Effect of Exenatide Compared to Lantus Insulin on Vascular Function in Type 2 Diabetes
+Phase: PHASE4
+Status: COMPLETED
+Summary: The main goals of the study are to evaluate the effect of Exenatide on endothelial-dependent vasodilation, as measured by flow mediated dilation (FMD), to evaluate the effect on endothelial-independent vasodilation, as measured by nitroglycerin (TNG) response, and to evaluate the effect on arterial stiffness, as measured by pulse wave analysis (PWA). We will also measure the effects on various mar
+---
+Trial: NCT05413369
+Title: iGlarLixi vs IDegAsp in Chinese Participants After OAD(s)
+Phase: PHASE3
+Status: COMPLETED
+Summary: This was a parallel-group treatment, Phase 3, randomized, 2-arm study that assessed the efficacy and safety of iGlarLixi to IDegAsp in Chinese T2DM participants insufficiently controlled with oral antidiabetic drug(s).
+
+Study details included:
+
+* Study duration per participant: approximately up to 27 weeks
+* Treatment duration: 24 weeks
+* Visit frequency: after screening (an on-site visit), on-sit
+---
+Trial: NCT05297045
+Title: A Study of Oral GLP1RA RGT001-075 in Adults With Type 2 Diabetes
+Phase: PHASE2
+Status: TERMINATED
+Summary: This is a phase 2 study designed to evaluate the efficacy of daily (QD) oral RGT001-075 GLP1 receptor agonist relative to placebo after up to 16 weeks of double-blind treatment as determined by mean change from baseline in HbA1c in adult patients with Type 2 Diabetes Mellitus (T2DM) who have inadequate glycemic control with diet and exercise and stable metformin treatment.
+---

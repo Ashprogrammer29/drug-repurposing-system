@@ -1,0 +1,7 @@
+Mechanistic pathway data for lisinopril.
+Primary target pathway: lisinopril.
+Drug class biological mechanism relevant to disease modulation.
+Protein interaction pathways associated with lisinopril therapeutic effects.
+Molecular target engagement data for lisinopril.
+Pathway analysis: lisinopril signaling cascade.
+Biological plausibility of lisinopril in neurological and metabolic disease contexts.

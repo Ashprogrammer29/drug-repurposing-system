@@ -1,0 +1,72 @@
+Reaction: Drug-induced liver injury | Outcome: 5
+Reaction: Nephrogenic systemic fibrosis | Outcome: 3
+Reaction: Metastatic malignant melanoma | Outcome: 5
+Reaction: Ulcer haemorrhage | Outcome: 5
+Reaction: Skin lesion | Outcome: 5
+Reaction: Pain | Outcome: 5
+Reaction: Infection | Outcome: 6
+Reaction: Inflammation | Outcome: 6
+Reaction: Purulent discharge | Outcome: 6
+Reaction: VIIth nerve paralysis | Outcome: 3
+Reaction: Seborrhoeic keratosis | Outcome: 3
+Reaction: Angina pectoris | Outcome: 6
+Reaction: Dehydration | Outcome: 6
+Reaction: Malaise | Outcome: 6
+Reaction: Pain | Outcome: 6
+Reaction: Oral surgery | Outcome: 6
+Reaction: Immunosuppressant drug level increased | Outcome: 1
+Reaction: Drug interaction | Outcome: 6
+Reaction: Pulmonary artery atresia | Outcome: 4
+Reaction: Low birth weight baby | Outcome: 1
+Reaction: Heart disease congenital | Outcome: 4
+Reaction: Drug-induced liver injury | Outcome: 5
+Reaction: Hepatic necrosis | Outcome: 5
+Reaction: Malignant neoplasm progression | Outcome: 5
+Reaction: Respiratory failure | Outcome: 1
+Reaction: Pneumonia | Outcome: 1
+Reaction: Nausea | Outcome: 1
+Reaction: Abdominal pain upper | Outcome: 6
+Reaction: Convulsion | Outcome: 1
+Reaction: Asthenia | Outcome: 6
+Reaction: Cytomegalovirus infection | Outcome: 1
+Reaction: Cryptococcosis | Outcome: 1
+Reaction: Febrile neutropenia | Outcome: 1
+Reaction: Cytomegalovirus infection | Outcome: 6
+Reaction: Off label use | Outcome: 6
+Reaction: Thrombotic microangiopathy | Outcome: 5
+Reaction: Bronchopulmonary aspergillosis | Outcome: 5
+Reaction: Gastrointestinal haemorrhage | Outcome: 5
+Reaction: Graft versus host disease | Outcome: 5
+Reaction: Off label use | Outcome: 6
+Reaction: Thrombotic microangiopathy | Outcome: 5
+Reaction: Bronchopulmonary aspergillosis | Outcome: 5
+Reaction: Graft versus host disease | Outcome: 5
+Reaction: Off label use | Outcome: 6
+Reaction: Thrombotic microangiopathy | Outcome: 5
+Reaction: Off label use | Outcome: 6
+Reaction: Thrombotic microangiopathy | Outcome: 5
+Reaction: Aspergillus infection | Outcome: 5
+Reaction: Cytomegalovirus infection | Outcome: 5
+Reaction: Graft versus host disease | Outcome: 5
+Reaction: Febrile neutropenia | Outcome: 3
+Reaction: Transplant rejection | Outcome: 6
+Reaction: Diabetes mellitus | Outcome: 6
+Reaction: Renal failure chronic | Outcome: 6
+Reaction: Renal impairment | Outcome: 6
+Reaction: Lupus nephritis | Outcome: 6
+Reaction: Hyperlipidaemia | Outcome: 6
+Reaction: Kidney transplant rejection | Outcome: 2
+Reaction: Renal impairment | Outcome: 2
+Reaction: Febrile neutropenia | Outcome: 1
+Reaction: Febrile neutropenia | Outcome: 1
+Reaction: Febrile neutropenia | Outcome: 1
+Reaction: Abscess | Outcome: 6
+Reaction: Bacteraemia | Outcome: 6
+Reaction: Stevens-Johnson syndrome | Outcome: 5
+Reaction: Hyperglycaemia | Outcome: 6
+Reaction: Alanine aminotransferase increased | Outcome: 6
+Reaction: Neutropenia | Outcome: 6
+Reaction: Thrombocytopenia | Outcome: 6
+Reaction: Thrombotic thrombocytopenic purpura | Outcome: 6
+Reaction: Infection | Outcome: 6
+Reaction: Cytomegalovirus infection | Outcome: 6

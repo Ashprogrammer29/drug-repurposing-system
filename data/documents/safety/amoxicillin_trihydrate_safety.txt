@@ -1,0 +1,86 @@
+Reaction: Post procedural haemorrhage | Outcome: 1
+Reaction: Haematuria | Outcome: 6
+Reaction: Contusion | Outcome: 6
+Reaction: International normalised ratio increased | Outcome: 6
+Reaction: Drug interaction | Outcome: 6
+Reaction: Bronchitis | Outcome: 1
+Reaction: Dysphonia | Outcome: 1
+Reaction: Erythema | Outcome: 1
+Reaction: Palatal oedema | Outcome: 1
+Reaction: Erythema | Outcome: 2
+Reaction: Pruritus | Outcome: 2
+Reaction: Hepatic enzyme increased | Outcome: 3
+Reaction: Pneumonitis | Outcome: 1
+Reaction: Oropharyngeal pain | Outcome: 6
+Reaction: Immunodeficiency common variable | Outcome: 
+Reaction: Weight decreased | Outcome: 
+Reaction: Diarrhoea | Outcome: 
+Reaction: Sinusitis | Outcome: 
+Reaction: Treatment failure | Outcome: 
+Reaction: Nausea | Outcome: 
+Reaction: Vomiting | Outcome: 
+Reaction: Colitis | Outcome: 
+Reaction: Rash pruritic | Outcome: 
+Reaction: Diabetes mellitus | Outcome: 
+Reaction: Pain | Outcome: 
+Reaction: Rash papular | Outcome: 
+Reaction: Stomatitis | Outcome: 
+Reaction: Headache | Outcome: 
+Reaction: Myocardial infarction | Outcome: 6
+Reaction: Cardiac flutter | Outcome: 6
+Reaction: Cerebrovascular accident | Outcome: 6
+Reaction: Renal failure acute | Outcome: 
+Reaction: Renal tubular necrosis | Outcome: 
+Reaction: Febrile neutropenia | Outcome: 
+Reaction: Foreign body aspiration | Outcome: 6
+Reaction: General physical health deterioration | Outcome: 5
+Reaction: Myocardial infarction | Outcome: 4
+Reaction: Angina pectoris | Outcome: 4
+Reaction: Chest pain | Outcome: 4
+Reaction: Infection | Outcome: 
+Reaction: Neonatal asphyxia | Outcome: 
+Reaction: Multi-organ failure | Outcome: 
+Reaction: Premature baby | Outcome: 
+Reaction: Maternal drugs affecting foetus | Outcome: 
+Reaction: Bronchopulmonary dysplasia | Outcome: 
+Reaction: Pulmonary hypertension | Outcome: 
+Reaction: Intraventricular haemorrhage | Outcome: 
+Reaction: Apgar score low | Outcome: 
+Reaction: Transaminases increased | Outcome: 1
+Reaction: Gamma-glutamyltransferase increased | Outcome: 1
+Reaction: Pulmonary haemorrhage | Outcome: 1
+Reaction: Haemoptysis | Outcome: 1
+Reaction: Haematemesis | Outcome: 1
+Reaction: Gastrooesophageal reflux disease | Outcome: 6
+Reaction: Nausea | Outcome: 6
+Reaction: Abdominal pain | Outcome: 6
+Reaction: Dysgeusia | Outcome: 6
+Reaction: Sepsis | Outcome: 6
+Reaction: Respiratory tract infection | Outcome: 6
+Reaction: Influenza | Outcome: 6
+Reaction: Asthma | Outcome: 3
+Reaction: Dyspnoea | Outcome: 2
+Reaction: Rhinitis allergic | Outcome: 6
+Reaction: Nasopharyngitis | Outcome: 6
+Reaction: Drug hypersensitivity | Outcome: 3
+Reaction: Dizziness | Outcome: 2
+Reaction: Drug eruption | Outcome: 3
+Reaction: Red man syndrome | Outcome: 6
+Reaction: Hypersomnia | Outcome: 6
+Reaction: Clostridium difficile infection | Outcome: 
+Reaction: Pulmonary embolism | Outcome: 
+Reaction: Deep vein thrombosis | Outcome: 
+Reaction: Drug interaction | Outcome: 1
+Reaction: Convulsion | Outcome: 6
+Reaction: Anaemia | Outcome: 1
+Reaction: Muscle haemorrhage | Outcome: 1
+Reaction: Diarrhoea | Outcome: 1
+Reaction: Febrile neutropenia | Outcome: 1
+Reaction: Pyrexia | Outcome: 1
+Reaction: Leukopenia | Outcome: 1
+Reaction: Pre-eclampsia | Outcome: 1
+Reaction: Infection | Outcome: 6
+Reaction: Maternal exposure during pregnancy | Outcome: 
+Reaction: Caesarean section | Outcome: 
+Reaction: Pregnancy | Outcome: 
+Reaction: Epistaxis | Outcome: 

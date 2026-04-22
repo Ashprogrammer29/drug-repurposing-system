@@ -1,0 +1,122 @@
+Trial: NCT04575675
+Title: Dapagliflozin on Hypotensive Heart Failure Patients After Sacubitril/Valsartan Therapy
+Phase: PHASE4
+Status: COMPLETED
+Summary: The DAPA-HF trial demonstrated that dapagliflozin was able to reduce the risk of worsening heart failure events and cardiovascular death comparing to placebo in patients with reduced ejection fraction further to standard of care. However, hypotensive patients who generally have higher risks comparing to normotensive patients, were under represented in the DAPA-HF. The investigators aimed to evalua
+---
+Trial: NCT05390892
+Title: PREvention of CardIovascular and DiabEtic kidNey Disease in Type 2 Diabetes
+Phase: PHASE4
+Status: RECRUITING
+Summary: PRECIDENTD is a randomized, open label, pragmatic clinical trial designed to compare rates of the total number of cardiovascular, kidney, and death events among two alternative treatments for patients with type 2 diabetes (T2D) and either established atherosclerotic cardiovascular disease (ASCVD) or at high risk for ASCVD. To accomplish this objective, we will randomly assign 6,000 patients with e
+---
+Trial: NCT05719714
+Title: Effect of Dapagliflozin on Metabolomics and Cardiac Mechanics in Chronic Kidney Disease
+Phase: PHASE1
+Status: RECRUITING
+Summary: The goal of this study is to better understand the effects of a sodium-glucose transport protein 2 inhibitor, dapagliflozin, added on to standard of care on heart and lung function and circulating metabolites (substances created when our bodies break down food, drugs, or its own tissues) in patients with chronic kidney disease.
+---
+Trial: NCT04778787
+Title: Sodium-glucose Cotransporter Type 2 Inhibitors for Acute Cardiorenal Syndrome Prevention
+Phase: PHASE4
+Status: COMPLETED
+Summary: The effect of sodium-glucose cotransporter type 2 inhibitors (SGLT2i) on the parameters of renal function in acute decompensation of chronic heart failure (ADHF) compared to standard therapy will be analyzed. Based on the dynamics of the clinical condition, the duration of hospitalization, and blood biochemical parameters (creatinine, urea, uric acid, potassium, sodium, N-terminal pro-brain natriu
+---
+Trial: NCT02397421
+Title: Safety and Effectiveness of SGLT-2 Inhibitors in Patients With Heart Failure and Diabetes
+Phase: PHASE4
+Status: COMPLETED
+Summary: Patients with diabetes are at increased risk of developing heart failure (HF) which can lead to increased shortness of breath, reduced ability to exercise and in some cases premature death as the heart becomes less efficient at pumping blood around the body. However the treatment options for such patients remain limited.
+
+This study will test the safety and benefits of using a new class of drug, t
+---
+Trial: NCT04445714
+Title: To Assess Safety of Fixed Dose Combination of Dapagliflozin and Saxagliptin in Type 2 Diabetes Mellitus Patients
+Phase: PHASE4
+Status: COMPLETED
+Summary: A prospective, multicenter, phase -IV study to assess the safety of fixed dose combination of dapagliflozin and saxagliptin in Indian Type 2 Diabetes Mellitus (T2D) patients.
+---
+Trial: NCT04385589
+Title: Dapagliflozin in Diabetic Patients (Type 2) With Decompensated Heart Failure
+Phase: PHASE4
+Status: COMPLETED
+Summary: We hypothesize that Dapagliflozin could improve the diuretic response in diabetic patients with acute decompensated heart failure owing to its diuretic effect in addition to improvement of blood glucose level without remarkable effect on kidney function or electrolytes.
+---
+Trial: NCT07513883
+Title: The Assessment of Partial Guideline-Directed Medical Therapy Down Titration in Heart Failure in Remission.
+Phase: PHASE4
+Status: RECRUITING
+Summary: Heart failure (HF) is a chronic condition that is characterized by a weakened and enlarged heart. It typically causes symptoms such as breathlessness and swelling of the legs, and it is a serious illness that shortens life expectancy. In recent years, new medicines have been developed that can improve heart function and help patients with HF live longer. HF patients with reduced heart function typ
+---
+Trial: NCT06307652
+Title: Study to Evaluate the Effect of Balcinrenone/Dapagliflozin in Patients With Heart Failure and Impaired Kidney Function
+Phase: PHASE3
+Status: RECRUITING
+Summary: This is a Phase III, international, multi-centre, randomised, double-blind, parallel-group, double-dummy, active-controlled, event-driven study in patients with chronic HF and impaired kidney function who had a recent HF event. The aim is to evaluate the effect of balcinrenone/dapagliflozin vs dapagliflozin, given once daily on top of other classes of SoC, on CV death and HF events.
+---
+Trial: NCT04887935
+Title: Neoadjuvant SGLT2 Inhibition in Localized Prostate Cancer
+Phase: PHASE1
+Status: RECRUITING
+Summary: This is a pilot study of the tolerability and safety of neoadjuvant dapagliflozin for patients with unfavorable intermediate, high-risk, or very high-risk prostatic adenocarcinoma prior to radical prostatectomy. The primary hypothesis is that four weeks of daily dapagliflozin prior to surgery is well-tolerated and safe to use in this patient population. The investigators also hypothesize that dapa
+---
+Trial: NCT05550441
+Title: Effect of Dapagliflozin on VT in Patients With Heart Failure.
+Phase: PHASE4
+Status: UNKNOWN
+Summary: This project plans to design a randomized controlled clinical trial to evaluate the effect of dapagliflozin on ventricular arrhythmia in the participants with heart failure with reduced ejection fraction after ICD implantation by collecting and analyzing the data of ECG, cardiac ultrasound and ICD programming. This project will explore the anti-ventricular arrhythmia effect of dapagliflozin in HFr
+---
+Trial: NCT05612269
+Title: SGLT2 Inhibitors and Reducing the Risk of Cancers Among Diabetics , an Observational Study
+Phase: NA
+Status: UNKNOWN
+Summary: Since the discovery of SGLT2 inhibitors, there is a great shift in diabetic treatment, so this drug is magic, this drug can reduce the blood sugar level by blocking the reabsorption of glucose in the kidney and increasing glucose excretion the first discovery by Josef von Mering who discovered the glucosuric effect of phlorizin. Phlorizin is the progenitor of contemporary SGLT2 inhibitors, the FDA
+---
+Trial: NCT06341842
+Title: Potential Protective Role of SGLT-2 Inhibitors for Chemotherapy-induced Cardiotoxicity
+Phase: PHASE2
+Status: UNKNOWN
+Summary: The purpose of this study is to evaluate whether dapagliflozin reduces chemotherapy-induced cardiotoxicity in participants with breast cancer treated with (neo-)adjuvant Anthracycline-based chemotherapy +/- trastuzumab. The study aims to describe the efficacy for dapagliflozin as compared to standard of care. Participants will be recruited in participating centers, where they are planning on start
+---
+Trial: NCT00736879
+Title: Safety and Efficacy of Dapagliflozin as Monotherapy in Subjects With Type 2 Diabetes
+Phase: PHASE3
+Status: COMPLETED
+Summary: The purpose of this clinical research study is to learn if BMS-512148 (Dapagliflozin) can help reduce the blood sugar levels in subjects with Type 2 Diabetes who are not well controlled on diet and exercise alone. The safety of this treatment will also be studied
+---
+Trial: NCT07025629
+Title: Dapagliflozin for Cardio-renal Protection After ICU Discharge
+Phase: PHASE3
+Status: RECRUITING
+Summary: Several millions of patients are admitted to ICUs in Europe or USA each year. We and others, have shown that patients discharged from intensive care units (ICU) have a high incidence of cardiovascular and/or renal events and high mortality rate (22%) during the year following ICU discharge. Furthermore, a very recent meta-analysis found an excess hazard of late cardiovascular events which persists
+---
+Trial: NCT03982381
+Title: SGLT2 Inhibitor or Metformin as Standard Treatment of Early Stage Type 2 Diabetes
+Phase: PHASE4
+Status: COMPLETED
+Summary: A real-world, nationwide, register-based, randomised trial (RRCT) comparing SGLT2 inhibitors with metformin as standard treatment in early typ 2 diabetes. An open-label trial addressing efficacy with respect to clinically important macro- and microvascular events.
+---
+Trial: NCT01730534
+Title: Multicenter Trial to Evaluate the Effect of Dapagliflozin on the Incidence of Cardiovascular Events
+Phase: PHASE3
+Status: COMPLETED
+Summary: This study is being carried out to determine the effect of dapagliflozin on cardiovacular outcomes when added to current background therapy in patients with type 2 diabetes with either established cardiovacular disease or cardiovascular risk factors.
+---
+Trial: NCT05392959
+Title: Effect of the Antidiabetic Drug Dapagliflozin on the Coronary Macrovascular and Microvascular Function in Type 2 Diabetic Patients
+Phase: PHASE4
+Status: TERMINATED
+Summary: Cardiovascular events remain a major driver of morbidity and mortality in patients with type 2 diabetes mellitus. Diffuse coronary atherosclerosis, combined with impairment of the microcirculation are frequent even in asymptomatic patients and can lead to unfavourable outcomes. In recent years, novel classes of antidiabetic drugs have been introduced, with salutary effects on cardiovascular outcom
+---
+Trial: NCT06762964
+Title: CAMEO-FONTAN -Dapagliflozin in the Failing Fontan Circulation
+Phase: PHASE2
+Status: RECRUITING
+Summary: The purpose of this research is to determine whether treatment with the study drug dapagliflozin for 6 months affects pulmonary capillary wedge pressure (PCWP) at rest and during exercise in adults with failing Fontan circulation.
+---
+Trial: NCT07198191
+Title: SGLT2 Inhibitor Use After Acute Myocardial Infarction in Patients With Type 2 Diabetes: A Nationwide Cohort Study
+Phase: NA
+Status: ACTIVE_NOT_RECRUITING
+Summary: This observational, retrospective cohort study aims to evaluate the impact of sodium-glucose cotransporter 2 (SGLT2) inhibitor use after acute myocardial infarction (AMI) in patients with type 2 diabetes mellitus (T2DM). Using the nationwide database from the Korean National Health Insurance Service, the investigators will compare cardiovascular outcomes between patients treated with SGLT2 inhibit
+---

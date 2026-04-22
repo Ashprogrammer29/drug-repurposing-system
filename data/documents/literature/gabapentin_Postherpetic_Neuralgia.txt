@@ -1,0 +1,1481 @@
+1. Pain Physician. 2019 May;22(3):209-228.
+
+Interventional Treatments for Postherpetic Neuralgia: A Systematic Review.
+
+Lin CS(1), Lin YC(1), Lao HC(1), Chen CC(1).
+
+Author information:
+(1)Department of Anesthesiology, Mackay Memorial Hospital, Taipei City, Taiwan.
+
+BACKGROUND: Postherpetic neuralgia, a persistent pain condition often 
+characterized by allodynia and hyperalgesia, is a deleterious consequence 
+experienced by patients after an acute herpes zoster vesicular eruption has 
+healed. The pain associated with postherpetic neuralgia can severely affect a 
+patient's quality of life, quality of sleep, and ability to participate in 
+activities of daily living. Currently, first-line treatments for this condition 
+include the administration of medication therapies such as tricyclic 
+antidepressants, pregabalin, gabapentin, and lidocaine patches, followed by the 
+application of tramadol and capsaicin creams and patches as second- or 
+third-line therapies. As not all patients respond to such conservative options, 
+however, interventional therapies are valuable for those who continue to 
+experience pain.
+OBJECTIVE: This review focuses on interventional therapies that have been 
+subjected to randomized controlled trials for the treatment of postherpetic 
+neuralgia, including transcutaneous electrical nerve stimulation; local 
+botulinum toxin A, cobalamin, and triamcinolone injection; intrathecal 
+methylprednisolone and midazolam injection; stellate ganglion block; dorsal root 
+ganglion destruction; and pulsed radiofrequency therapy.
+STUDY DESIGN: Systematic review.
+SETTING: Hospital department in Taiwan.
+METHODS: Search of PubMed database for all randomized controlled trials 
+regarding postherpetic neuralgia that were published before the end of May 2017.
+RESULTS: The current evidence is insufficient for determining the single best 
+interventional treatment. Considering invasiveness, price, and safety, the 
+subcutaneous injection of botulinum toxin A or triamcinolone, transcutaneous 
+electrical nerve stimulation, peripheral nerve stimulation, and stellate 
+ganglion block are recommended first, followed by paravertebral block and pulsed 
+radiofrequency. If severe pain persists, spinal cord stimulation could be 
+considered. Given the destructiveness of dorsal root ganglion and adverse events 
+of intrathecal methylprednisolone injection, these interventions should be 
+carried out with great care and only following comprehensive discussion.
+LIMITATIONS: Although few adverse effects were reported, these procedures are 
+invasive, and a careful assessment of the risk-benefit ratio should be conducted 
+prior to administration.
+CONCLUSION: With the exception of intrathecal methylprednisolone injection for 
+postherpetic neuralgia, the evidence for most interventional procedures used to 
+treat postherpetic neuralgia is Level 2, according to "The Oxford Levels of 
+Evidence 2". Therefore, these modalities have received only grade B 
+recommendations. Despite the lack of a high level of evidence, spinal cord 
+stimulation and peripheral nerve stimulation are possibly useful for the 
+treatment of postherpetic neuralgia.
+KEY WORDS: Interventional treatment, postherpetic neuralgia, botulinum toxin, 
+steroid, stellate ganglion block, peripheral nerve stimulation, paravertebral 
+block, radiofrequency, spinal cord stimulation.
+
+PMID: 31151330 [Indexed for MEDLINE]
+
+
+2. Curr Pain Headache Rep. 2023 Sep;27(9):307-319. doi:
+10.1007/s11916-023-01146-x.  Epub 2023 Jul 26.
+
+Therapeutic Strategies for Postherpetic Neuralgia: Mechanisms, Treatments, and 
+Perspectives.
+
+Tang J(1), Zhang Y(1), Liu C(1), Zeng A(2), Song L(3).
+
+Author information:
+(1)School of Medical and Life Sciences, Chengdu University of Traditional 
+Chinese Medicine, Chengdu, Sichuan, 611137, People's Republic of China.
+(2)Institute of Translational Pharmacology and Clinical Application, Sichuan 
+Academy of Chinese Medical Science, Chengdu, Sichuan, 610041, People's Republic 
+of China. zeng6002aq@163.com.
+(3)School of Medical and Life Sciences, Chengdu University of Traditional 
+Chinese Medicine, Chengdu, Sichuan, 611137, People's Republic of China. 
+linjsong_scu@163.com.
+
+PURPOSE OF REVIEW: Postherpetic neuralgia is an annoying pain that mainly 
+affects older people. In order to give patients more options, this review 
+summarizes the pharmacological and interventional treatments for postherpetic 
+neuralgia and updates the research on the efficacy, thereby providing doctors 
+with more treatment options. The adverse effects and effective doses of its 
+various treatments are also presented so that the therapy can be prescribed 
+according to their concrete physical conditions. In a word, this review is 
+dedicated to providing a comprehensive overview of the treatment options for 
+postherpetic neuralgia and offering patients more choices.
+RECENT FINDINGS: Combinational therapy is more excellent than monotherapy. The 
+local anesthesia and gabapentin comprised outstanding compatibility. In 
+addition, two therapeutic tools for PHN patients, especially for the intractable 
+ones, electroacupuncture (EA), and osteopathic manipulative treatment (OMT), 
+show their efficacy and become potential options to alleviate pain. In terms of 
+treatment, guidelines recommend patients use tricyclic antidepressants (TCAs), 
+gabapentin, pregabalin, and 5% lidocaine patches as the first-line medications, 
+and gabapentin is investigated most, especially the gabapentin enacarbil (GEn). 
+And drug efficacy can be limited by adverse effects and tolerated doses. 
+Interventional treatments, with their invasiveness and operational difficulty, 
+are usually considered for intractable patients. Combinational therapies may be 
+used when a single therapy cannot achieve the desired effect. Therapies such as 
+OMT and EA have also been proposed to palliate pain in some cases, and future 
+directions of treatment may be investigated in Chinese medicine and acupuncture.
+
+© 2023. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s11916-023-01146-x
+PMID: 37493871 [Indexed for MEDLINE]
+
+
+3. Am Fam Physician. 2017 Nov 15;96(10):656-663.
+
+Herpes Zoster and Postherpetic Neuralgia: Prevention and Management.
+
+Saguil A(1), Kane S(1), Mercado M(1), Lauters R(2).
+
+Author information:
+(1)F. Edward Hébert School of Medicine, Uniformed Services University of the 
+Health Sciences, Bethesda, MD, USA.
+(2)Nellis Family Medicine Residency, Mike O'Callaghan Federal Medical Center, 
+Nellis Air Force Base, NV, USA.
+
+Herpes zoster, or shingles, is caused by reactivation of varicella zoster virus, 
+which causes chickenpox. There are an estimated 1 million cases in the Unites 
+States annually, with an individual lifetime risk of 30%. Patients with 
+conditions that decrease cell-mediated immunity are 20 to 100 times more likely 
+to develop herpes zoster. Patients may present with malaise, headache, low-grade 
+fever, and abnormal skin sensations for two to three days before the classic 
+maculopapular rash appears. The rash is usually unilateral, confined to a single 
+dermatome, and typically progresses to clear vesicles that become cloudy and 
+crust over in seven to 10 days. Herpes zoster can be treated with acyclovir, 
+valacyclovir, or famciclovir, ideally within 72 hours of the development of the 
+rash. Postherpetic neuralgia is the most common complication, occurring in about 
+one in five patients. It is defined as pain in a dermatomal distribution 
+sustained for at least 90 days after acute herpes zoster. Treatment is focused 
+on symptom control and includes topical lidocaine or capsaicin and oral 
+gabapentin, pregabalin, or tricyclic antidepressants. The varicella zoster virus 
+vaccine decreases the incidence of herpes zoster and is approved for adults 50 
+years and older. The Centers for Disease Control and Prevention's Advisory 
+Committee on Immunization Practices recommends this vaccine for adults 60 years 
+and older, except for certain immunosuppressed patients.
+
+PMID: 29431387 [Indexed for MEDLINE]
+
+
+4. CNS Drugs. 2003;17(13):975-82. doi: 10.2165/00023210-200317130-00004.
+
+Gabapentin: in postherpetic neuralgia.
+
+Curran MP(1), Wagstaff AJ.
+
+Author information:
+(1)Adis International Limited, Auckland, New Zealand. demail@adis.co.nz
+
+Comment in
+    CNS Drugs. 2003;17(13):983. doi: 10.2165/00023210-200317130-00005.
+    CNS Drugs. 2003;17(13):983-4. doi: 10.2165/00023210-200317130-00006.
+
+Gabapentin is a structural analogue of the neurotransmitter gamma-aminobutyric 
+acid (GABA) approved for use in adults with postherpetic neuralgia. Gabapentin 
+does not bind to GABA(A) or GABA(B) receptors. Its mechanism of action in humans 
+is unclear, but may involve binding to alpha2delta calcium channel subunits in 
+animal models. Reductions in the mean daily pain score from baseline to week 7 
+or 8 of treatment (primary endpoint) were significantly greater with gabapentin 
+1800-3600 mg/day than placebo therapy in two well designed trials in patients 
+with postherpetic neuralgia. The proportion of responders (patients showing a > 
+or =50% reduction in mean daily pain score at endpoint versus baseline) was 
+significantly greater with gabapentin than placebo. Daily sleep rating scores, 
+the Short Form McGill Pain Questionnaire (total pain scores), Patient and 
+Clinician Global Impression of Change and measures on the Short Form-36 Health 
+Survey (including physical functioning, role-physical, bodily pain, vitality or 
+mental health) improved to a significantly greater extent with gabapentin than 
+placebo. Adverse events associated with gabapentin in patients with postherpetic 
+neuralgia were usually mild to moderate in intensity, with dizziness, somnolence 
+and peripheral oedema being commonly reported.
+
+DOI: 10.2165/00023210-200317130-00004
+PMID: 14533947 [Indexed for MEDLINE]
+
+
+5. N Engl J Med. 2014 Oct 16;371(16):1526-33. doi: 10.1056/NEJMcp1403062.
+
+Clinical practice. Postherpetic neuralgia.
+
+Johnson RW, Rice AS.
+
+DOI: 10.1056/NEJMcp1403062
+PMID: 25317872 [Indexed for MEDLINE]
+
+
+6. JAMA. 2024 Jun 25;331(24):2114-2124. doi: 10.1001/jama.2024.4899.
+
+Chronic Pruritus: A Review.
+
+Butler DC(1), Berger T(2), Elmariah S(2), Kim B(3), Chisolm S(4)(5), Kwatra 
+SG(6), Mollanazar N(7), Yosipovitch G(8).
+
+Author information:
+(1)University of Arizona College of Medicine, Tucson.
+(2)Department of Dermatology, University of California, San Francisco.
+(3)Department of Dermatology, Icahn School of Medicine at Mount Sinai, New York, 
+New York.
+(4)Department of Dermatology, Emory University, Grady Memorial Hospital, 
+Atlanta, Georgia.
+(5)Regional Telehealth Service, Veterans Affairs Veterans Integrated Service 
+Network 7 Southeast Network, Duluth, Georgia.
+(6)Department of Dermatology, Johns Hopkins University School of Medicine and 
+Bloomberg School of Public Health, Johns Hopkins University, Baltimore, 
+Maryland.
+(7)Department of Dermatology, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia.
+(8)Miami Itch Center, Phillip Frost Department of Dermatology and Cutaneous 
+Surgery, Miller School of Medicine, University of Miami, Miami, Florida.
+
+IMPORTANCE: Chronic pruritus, defined as itch experienced for 6 weeks or longer, 
+affects approximately 22% of people in their lifetime. Approximately 1% of 
+physician visits are for the chief concern of chronic pruritus. Chronic pruritus 
+is associated with adverse outcomes, including impaired sleep and reduced 
+quality of life.
+OBSERVATIONS: Chronic pruritus can be categorized by etiology into inflammatory, 
+neuropathic, or a combination of inflammatory and neuropathic pruritus. Chronic 
+pruritus is due to inflammation in approximately 60% of patients and may be 
+caused by eczema, psoriasis, or seborrheic dermatitis. Chronic pruritus is due 
+to a neuropathic or mixed etiology in approximately 25% of patients. Neuropathic 
+causes of chronic pruritus include postherpetic neuralgia and notalgia 
+paresthetica and are typically due to localized or generalized nerve 
+dysregulation. Approximately 15% of people with chronic pruritus have other 
+causes including systemic diseases with secondary itch, such as uremic pruritus 
+and cholestatic pruritus, medication-induced pruritus such as pruritus due to 
+immunotherapy, and infectious etiologies such as tinea corporis and scabies. 
+When few primary changes are present, a thorough history, review of symptoms, 
+and laboratory evaluation should be performed, particularly for people with 
+chronic pruritus lasting less than 1 year. Clinicians should consider the 
+following tests: complete blood cell count, complete metabolic panel, and 
+thyroid function testing to evaluate for hematologic malignancy, liver disease, 
+kidney disease, or thyroid disease. First-line treatment for inflammatory 
+chronic pruritus includes topical anti-inflammatory therapies such as 
+hydrocortisone (2.5%), triamcinolone (0.1%), or tacrolimus ointment. 
+Approximately 10% of patients do not respond to topical therapies. In these 
+patients, referral to dermatology and systemic oral or injectable treatments 
+such as dupilumab or methotrexate may be considered. When no underlying systemic 
+disease associated with pruritus is identified, patients are likely to have 
+neuropathic chronic pruritus or mixed etiology such as chronic pruritus of 
+unknown origin. In these patients, neuropathic topical treatments such as 
+menthol, pramoxine, or lidocaine can be used either alone or in combination with 
+immunomodulatory agents such as topical steroids. Other effective therapies for 
+neuropathic pruritus include gabapentin, antidepressants such as sertraline or 
+doxepin, or opioid receptor agonist/antagonists such as naltrexone or 
+butorphanol.
+CONCLUSIONS AND RELEVANCE: Chronic pruritus can adversely affect quality of life 
+and can be categorized into inflammatory, neuropathic, or a combined etiology. 
+First-line therapies are topical steroids for inflammatory causes, such as 
+hydrocortisone (2.5%) or triamcinolone (0.1%); topical neuropathic agents for 
+neuropathic causes, such as menthol or pramoxine; and combinations of these 
+therapies for mixed etiologies of chronic pruritus.
+
+DOI: 10.1001/jama.2024.4899
+PMID: 38809527 [Indexed for MEDLINE]
+
+
+7. BMJ Clin Evid. 2010 Oct 8;2010:0905.
+
+Postherpetic neuralgia.
+
+Watson PN(1).
+
+Author information:
+(1)University of Toronto, Toronto, Canada.
+
+INTRODUCTION: Although there is some variability (depending on the definition of 
+postherpetic neuralgia), about 10% of those with zoster will have persisting 
+pain 1 month after the rash.The main risk factor for postherpetic neuralgia is 
+increasing age; it is uncommon in people aged <50 years, but develops in 20% of 
+people aged 60 to 65 years who have had acute herpes zoster, and in >30% of 
+those people aged >80 years. Up to 2% of people with acute herpes zoster may 
+continue to have postherpetic pain for 5 years or more.
+METHODS AND OUTCOMES: We conducted a systematic review and aimed to answer the 
+following clinical questions: What are the effects of interventions aimed at 
+preventing herpes zoster and subsequent postherpetic neuralgia? What are the 
+effects of interventions during an acute attack of herpes zoster aimed at 
+preventing postherpetic neuralgia? What are the effects of interventions to 
+relieve established postherpetic neuralgia after the rash has healed? We 
+searched: Medline, Embase, The Cochrane Library, and other important databases 
+up to December 2009 (Clinical Evidence reviews are updated periodically, please 
+check our website for the most up-to-date version of this review). We included 
+harms alerts from relevant organisations such as the US Food and Drug 
+Administration (FDA) and the UK Medicines and Healthcare products Regulatory 
+Agency (MHRA).
+RESULTS: We found 41 systematic reviews, RCTs, or observational studies that met 
+our inclusion criteria. We performed a GRADE evaluation of the quality of 
+evidence for interventions.
+CONCLUSIONS: In this systematic review we present information relating to the 
+effectiveness and safety of the following interventions: corticosteroids, 
+capsaicin, dextromethorphan, dressings, gabapentin, herpes zoster vaccine, oral 
+antiviral agents, oral opioid analgesics, lidocaine, topical antiviral agents 
+(idoxuridine), and tricyclic antidepressants.
+
+PMCID: PMC3217735
+PMID: 21418680 [Indexed for MEDLINE]
+
+
+8. BMJ Clin Evid. 2007 Aug 1;2007:0905.
+
+Postherpetic neuralgia.
+
+Wareham DW(1).
+
+Author information:
+(1)Centre for Infectious Disease, Institute of Cell and Molecular Science, Barts 
+and the London, Queen Mary's School of Medicine and Dentistry, London, UK.
+
+INTRODUCTION: The main risk factor for postherpetic neuralgia is increasing age; 
+it is uncommon in people under 50 years, but develops in 20% of people aged 
+60-65 years who have had acute herpes zoster, and in more than 30% of those 
+people aged over 80 years. Up to 2% of people with acute herpes zoster may 
+continue to have postherpetic pain for 5 years or more.
+METHODS AND OUTCOMES: We conducted a systematic review and aimed to answer the 
+following clinical questions: What are the effects of interventions, during an 
+acute attack of herpes zoster, aimed at preventing postherpetic neuralgia? What 
+are the effects of interventions to relieve established postherpetic neuralgia 
+after the rash has healed? We searched: Medline, Embase, The Cochrane Library 
+and other important databases up to December 2006 (Clinical Evidence reviews are 
+updated periodically, please check our website for the most up-to-date version 
+of this review). We included harms alerts from relevant organisations such as 
+the US Food and Drug Administration (FDA) and the UK Medicines and Healthcare 
+products Regulatory Agency (MHRA).
+RESULTS: We found 28 systematic reviews, RCTs, or observational studies that met 
+our inclusion criteria. We performed a GRADE evaluation of the quality of 
+evidence for interventions.
+CONCLUSIONS: In this systematic review we present information relating to the 
+effectiveness and safety of the following interventions: corticosteroids, 
+dextromethorphan, dressings, gabapentin, oral antiviral agents, oral opioid 
+analgesics, topical anaesthesia (lidocaine), topical antiviral agents 
+(idoxuridine), topical counterirritants (capsaicin), tricyclic antidepressants.
+
+PMCID: PMC2943822
+PMID: 19454113 [Indexed for MEDLINE]
+
+
+9. Pain Ther. 2023 Feb;12(1):1-18. doi: 10.1007/s40122-022-00451-4. Epub 2022 Nov
+ 5.
+
+A Meta-analysis of Randomized Controlled Trials Comparing the Efficacy and 
+Safety of Pregabalin and Gabapentin in the Treatment of Postherpetic Neuralgia.
+
+Cao X(#)(1)(2), Shen Z(#)(1)(2), Wang X(1)(2), Zhao J(3), Liu W(4), Jiang 
+G(5)(6).
+
+Author information:
+(1)Department of Neurology, Affiliated Hospital of North Sichuan Medical 
+College, Nanchong, Sichuan, China.
+(2)Institute of Neurological Diseases, North Sichuan Medical College, Nanchong, 
+Sichuan, China.
+(3)Department of Neurology, Nanbu County Hospital Affiliated to North Sichuan 
+Medical College, Nanchong, Sichuan, China.
+(4)Department of Neurology, Nanbu County Hospital Affiliated to North Sichuan 
+Medical College, Nanchong, Sichuan, China. 1326170352@qq.com.
+(5)Department of Neurology, Affiliated Hospital of North Sichuan Medical 
+College, Nanchong, Sichuan, China. neurodoctor@163.com.
+(6)Institute of Neurological Diseases, North Sichuan Medical College, Nanchong, 
+Sichuan, China. neurodoctor@163.com.
+(#)Contributed equally
+
+OBJECTIVE: To systematically evaluate the clinical efficacy of pregabalin and 
+gabapentin in the treatment of postherpetic neuralgia (PHN), including the 
+difference in pain control and occurrence of adverse reactions.
+METHODS: PubMed, MEDLINE, EMBASE, Cochrane Library, and Web of Science databases 
+were searched for randomized controlled trials (RCTs) comparing the efficacy of 
+pregabalin and gabapentin in patients with PHN. Data from studies meeting the 
+inclusion criteria were extracted and the Cochrane Risk of Bias risk assessment 
+tool was used to evaluate the quality of the included studies. Revman 5.3 and 
+Stata17 were used to perform the meta-analysis and to detect publication bias.
+RESULTS: A total of 14 RCTs with 3545 patients were included in this study, 
+including 926 in the pregabalin treatment group, 1256 in the gabapentin 
+treatment group, and 1363 in the placebo control group. Pregabalin was better 
+than gabapentin in alleviating pain and improving the global perception of 
+change in pain and sleep (P < 0.05). Gabapentin was associated with a lower 
+incidence of adverse events than pregabalin (P < 0.05). Funnel plot and Begg's 
+and Egger's tests showed no significant publication bias.
+CONCLUSION: Pregabalin appears to have a better overall therapeutic effect than 
+gabapentin for patients with PHN, but gabapentin has a lower incidence of 
+adverse reactions and a better safety profile. Clinicians should comprehensively 
+consider patient factors and fully evaluate the advantages and disadvantages of 
+each treatment option to select the most suitable drugs for patient use. 
+Considering the limited quantity and quality of the existing literature, 
+high-quality RCTs are needed to confirm the advantages of pregabalin over 
+gabapentin in the treatment of PHN and guide clinical decision-making.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s40122-022-00451-4
+PMCID: PMC9845451
+PMID: 36334235
+
+
+10. J Dermatolog Treat. 2017 Feb;28(1):65-77. doi: 10.3109/09546634.2016.1163315.
+ Epub 2016 Nov 1.
+
+Different doses of gabapentin formulations for postherpetic neuralgia: A 
+systematical review and meta-analysis of randomized controlled trials.
+
+Wang J(1), Zhu Y(2).
+
+Author information:
+(1)a Department of Dermatology , the Affiliated Provincial Hospital of Anhui 
+Medical University , Hefei , China.
+(2)b Department of Neurology , the Affiliated Provincial Hospital of Anhui 
+Medical University , Hefei , China.
+
+WHAT IS KNOWN AND OBJECTIVE: Gabapentin, extended-release gabapentin (gabapentin 
+ER), and gabapentin enacarbil (GEn), play an important role in relieving pain 
+associated with postherpetic neuralgia (PHN). Although previous systematic 
+reviews have assessed the efficacy and safety of gabapentin formulations for 
+PHN, they have failed to take formulation differences and dose differences into 
+account. Aiming at assessing the efficacy and safety of different doses of 
+gabapentin formulations for PHN, this study performed a systematical review and 
+meta-analysis of randomized controlled trials (RCTs).
+METHODS: Electronic databases (PubMed, EBSCO, Ovid MEDLINE, and Web of Science) 
+were systematically searched by terms of "gabapentin [Title/Abstract] AND 
+postherpetic neuralgia [Title/Abstract]" from the year 1966 to present. Efficacy 
+measurements were changes in average daily pain (ADP) scores, sleep interference 
+scores, at least 50% reduction in pain intensity, and changes in 
+Patient/Clinician Global Impression of Change (PGIC/CGIC) from baseline to the 
+end of treatment. Safety measures were the proportion of patients suffering from 
+any adverse event, dizziness, somnolence, and peripheral edema. Outcomes for 
+continuous data and dichotomous data were estimated with standard mean 
+difference (SMD) and risk ratio (RR), respectively.
+RESULTS AND DISCUSSION: Seven RCTs encompassing 2041 randomized participants for 
+efficacy assessment and 2050 randomized participants for safety assessment were 
+identified. Gabapentin formulations in reducing ADP scores (the primary 
+outcomes) were as follows: gabapentin 3600 mg/day, SMD: -0.86; 95% CI: -1.13, 
+-0.58; p < 0.00001; gabapentin ER 1800 mg/day once daily, SMD: -0.21; 95% CI: 
+-0.42, -0.01; p = 0.04; gabapentin ER 1800 mg/day twice daily, SMD: -0.25; 95% 
+CI: -0.57, 0.06; p = 0.12; GEn 1200 mg/day, SMD: -0.43; 95% CI: -0.66, -0.20; 
+p = 0.0002; GEn 2400 mg/day, SMD: -0.33; 95% CI: -0.62, -0.03; p = 0.03; GEn 
+3600 mg/day, SMD: -0.50; 95% CI: -0.79, -0.20; p = 0.0009. In addition, 
+gabapentin from 1800 to 3600 mg/day doses could significantly improve sleep 
+interference, at least 50% reduction in pain intensity and PGIC/CGIC, but highly 
+increased the incidence of any adverse event, dizziness, somnolence and 
+peripheral edema with an increasing dose. Gabapentin ER 1800 mg/day once daily 
+treatment could not only effectively relieve PHN pain but also significantly 
+increase the risk of adverse events, while twice daily treatment almost showed 
+no significant pharmacological effect and adverse events. GEn at doses of 
+1200 mg/day and 2400 mg/day were safe in decreasing any adverse event 
+(1200 mg/day, RR = 1.08, 95% CI: 0.91, 1.29, p = 0.38; 2400 mg/day, RR = 1.18, 
+95% CI: 0.98, 1.41, p = 0.08), dizziness (1200 mg/day, RR = 1.86, 95% CI: 0.58, 
+6.01, p = 0.30; 2400 mg/day, RR = 1.74, 95% CI: 0.95, 3.19, p = 0.07), and 
+somnolence (1200 mg/day, RR = 1.22, 95% CI: 0.51, 2.91, p = 0.65; 2400 mg/day, 
+RR = 1.30, 95% CI: 0.53, 3.22, p = 0.57). GEn 3600 mg/day could only increase 
+the risk of any adverse event (RR = 1.23, 95% CI: 1.03, 1.47, p = 0.02) and 
+dizziness (RR = 2.03, 95% CI: 1.13, 3.63, p = 0.02).
+WHAT IS NEW AND CONCLUSION: An increasing gabapentin dose may not provide a good 
+pharmacological therapy, whereas it can increase the risk of adverse events. 
+Gabapentin ER, 1800 mg/day once daily treatment is significantly effective in 
+pain relief, following high incidence of adverse events, but twice daily 
+treatment shows no significant differences in both efficacy and safety compared 
+with placebo. GEn 1200 mg/day and 2400 mg/day doses are more effective and safe 
+in treating PHN. The long-term efficacy and safety of different doses of 
+gabapentin formulations remain to be determined.
+
+DOI: 10.3109/09546634.2016.1163315
+PMID: 27798973 [Indexed for MEDLINE]
+
+
+11. Clin Ther. 2003 Mar;25(3):852-89. doi: 10.1016/s0149-2918(03)80111-x.
+
+The use of gabapentin for the treatment of postherpetic neuralgia.
+
+Singh D(1), Kennedy DH.
+
+Author information:
+(1)Pharmacy Practice, Nova Southeastern University College of Pharmacy-Davie 
+Campus, Fort Lauderdale, Florida 33328-2018, USA. singh@nova.edu
+
+BACKGROUND: Varicella-zoster virus causes chickenpox and can reemerge later in 
+life to cause herpes zoster or shingles. One of the most common and disabling 
+complications of herpes zoster is postherpetic neuralgia (PHN).
+OBJECTIVES: This article reviews the current primary literature about the 
+efficacy and tolerability of gabapentin for the treatment of PHN. Gabapentin 
+pharmacokinetics and drug interactions are also reviewed.
+METHODS: A literature search in the English language was conducted using OVID 
+Web, which contained the following databases: MEDLINE (1966-present), EMBASE 
+(1980-2002), Current Contents/Clinical Medicine (1999-2002), Cochrane Controlled 
+Trials Register (1898-present), Cochrane Database of Systemic Reviews (fourth 
+quarter, 2002), and International Pharmaceutical Abstracts (1970-2002). Search 
+terms used were postherpetic neuralgia; zoster; gabapentin; neuropathic pain; 
+pain; pharmacoeconomic; cost; controlled clinical trial; randomized, controlled 
+trial; postherpetic neuralgia and gabapentin; gabapentin and pain; treatment and 
+postherpetic neuralgia; gabapentin and age; gabapentin and gender; gabapentin 
+and ethnicity; and gabapentin and pharmacokinetics.
+RESULTS: Gabapentin displays nonlinear absorption kinetics, is minimally protein 
+bound (< 3%), has a high mean (SD) volume of distribution (50.4 [8.0] L), and is 
+excreted via the kidneys as unchanged drug. Two randomized, placebo-controlled, 
+parallel-group, multicenter clinical trials demonstrated the effectiveness of 
+gabapentin at doses of up to 3600 mg/d to significantly reduce pain (P < 0.01 
+and P < 0.001), improve sleep (P < 0.01), and improve some parameters on the 
+Short Form-McGill Pain Questionnaire (P < 0.05). Dizziness and somnolence were 
+the most common side effects leading to withdrawal from the trials. The 
+recommended dosage in adults is 300 mg at bedtime on day 1,300 mg BID on day 2, 
+and 300 mg TID on day 3, titrating up as needed to 2400 to 3600 mg/d. To reduce 
+adverse events in patients with renal impairment, the dose should be adjusted 
+based on the patient's creatinine clearance.
+CONCLUSIONS: Gabapentin appears to be effective and well tolerated for the 
+short-term treatment of PHN. However, future controlled studies are needed to 
+determine whether the effectiveness of gabapentin for PHN is maintained for > 2 
+months, to establish the optimal dose of gabapentin for PHN, and to compare the 
+efficacy of gabapentin with that of other pharmacologic agents used for the 
+treatment of PHN.
+
+DOI: 10.1016/s0149-2918(03)80111-x
+PMID: 12852705 [Indexed for MEDLINE]
+
+
+12. Curr Pain Headache Rep. 2016 Mar;20(3):17. doi: 10.1007/s11916-016-0548-x.
+
+Post-herpetic Neuralgia: a Review.
+
+Hadley GR(1), Gayle JA(1), Ripoll J(1), Jones MR(1), Argoff CE(2), Kaye RJ(3), 
+Kaye AD(4).
+
+Author information:
+(1)Department of Anesthesiology, Louisiana State University Health Sciences 
+Center, Room 656, 1542 Tulane Ave., New Orleans, LA, USA.
+(2)Department of Neurology, Albany Medical College, Comprehensive Pain Center, 
+Albany Medical Center, 43 New Scotland Avenue, MC 70, Albany, NY, USA.
+(3)Department of Biochemistry, Bowdoin College, Brunswick, ME, USA.
+(4)Department of Anesthesiology, Louisiana State University Health Sciences 
+Center, Room 656, 1542 Tulane Ave., New Orleans, LA, USA. 
+alankaye44@hotmail.com.
+
+Erratum in
+    Curr Pain Headache Rep. 2016 Apr;20(4):28. doi: 10.1007/s11916-016-0566-8.
+
+Post-herpetic neuralgia (PHN) is a chronic neuropathic pain condition that 
+persists 3 months or more following an outbreak of shingles. Shingles, also 
+known as acute herpes zoster, is associated with the reactivation of the dormant 
+varicella zoster virus in an individual who has experienced chicken pox. PHN is 
+associated with persistent and often refractory neuropathic pain. Patients may 
+experience multiple types of pain including a constant deep, aching, or burning 
+pain; a paroxysmal, lancinating pain; hyperalgesia (painful stimuli are more 
+painful than expected); and allodynia (pain associated with typically 
+non-painful stimuli). The pharmacological treatment of PHN may include a variety 
+of medications including alpha-2 delta ligands (gabapentin and pregabalin), 
+other anticonvulsants (carbamazepine), tricyclic antidepressants (amitriptyline, 
+nortriptyline, doxepin), topical analgesics (5 % lidocaine patch, capsaicin) 
+tramadol, or other opioids. The considerable side effect profiles of the 
+commonly used oral medications often limit their practical use, and a 
+combination of both topical and systemic agents may be required for optimal 
+outcomes. Physicians and other treatment providers must tailor treatment based 
+on the response of individual patients.
+
+DOI: 10.1007/s11916-016-0548-x
+PMID: 26879875 [Indexed for MEDLINE]
+
+
+13. Epilepsia. 1999;40 Suppl 6:S51-6; discussion S73-4. doi: 
+10.1111/j.1528-1157.1999.tb00933.x.
+
+Postherpetic neuralgia: role of gabapentin and other treatment modalities.
+
+Beydoun A(1).
+
+Author information:
+(1)Department of Neurology, University of Michigan Medical School, Ann Arbor 
+48109, USA.
+
+Postherpetic neuralgia (PHN) is a chronic and painful condition that may occur 
+after a herpes zoster infection. The frequency of PHN after untreated zoster 
+varies widely. Age is the most important risk factor for development of PHN. The 
+condition occurs in an estimated 50% of patients older than 50 years. The pain 
+of PHN can be severe and debilitating and is frequently associated with 
+allodynia. Although in most patients pain remits within the first year, it may 
+persist for a lifetime. Tricyclic antidepressants (TCAs), topical agents, 
+opioids, and gabapentin, a structural gamma-amino butyric acid (GABA) analogue, 
+are the only agents that have demonstrated efficacy in randomized clinical 
+trials for treatment of both the shooting and the burning form of pain 
+associated with PHN. TCAs are among the most commonly used classes of agents for 
+treating PHN and are effective in a significant proportion of patients. However, 
+various adverse events can limit treatment. These side effects tend to be more 
+acute in the elderly, the population most likely to suffer from PHN. Topical 
+agents have led to mild to moderate improvement in patients with PHN but are 
+usually ineffective as monotherapy for this condition. Until recently, 
+carbamazepine was the only antiepileptic drug evaluated for the treatment of 
+PHN. Over the past few years, however, gabapentin has received increasing 
+attention as a useful treatment for neuropathic pain. Gabapentin lacks 
+significant drug-drug interactions and has a favorable safety profile, which 
+makes it particularly useful for treatment of PHN.
+
+DOI: 10.1111/j.1528-1157.1999.tb00933.x
+PMID: 10530683 [Indexed for MEDLINE]
+
+
+14. Daru. 2024 Dec;32(2):705-714. doi: 10.1007/s40199-024-00541-y. Epub 2024 Oct
+8.
+
+Relieving postherpetic neuralgia pain via gabapentin-loaded bigels as an 
+auspicious topical drug delivery system.
+
+Abd-Elsalam WH(1), Al-Mahallawi AM(2)(3), Makhlouf A(2)(4).
+
+Author information:
+(1)Department of Pharmaceutics and Industrial Pharmacy, Faculty of Pharmacy, 
+Cairo University, Cairo, Egypt. wessam.hamdy@pharma.cu.edu.eg.
+(2)Department of Pharmaceutics and Industrial Pharmacy, Faculty of Pharmacy, 
+Cairo University, Cairo, Egypt.
+(3)School of Life and Medical Sciences, University of Hertfordshire Hosted By 
+Global Academic Foundation, New Administrative Capital, Cairo, Egypt.
+(4)Department of Pharmaceutics and Industrial Pharmacy, Faculty of Pharmacy, 
+October University for Modern Sciences and Arts (MSA), Cairo, Egypt.
+
+BACKGROUND: Over the past decades, a substantial portion of the population 
+worldwide has been infected with varicella zoster and most cases developed 
+shingles. Unfortunately, shingles is usually accompanied by postherpetic 
+neuralgia, which may persist for months to years after the resolution of the 
+viral infection.
+OBJECTIVES: Gabapentin is an orally gamma-aminobutyric acid analogue approved by 
+the Food and Drug Administration to manage shingles postherpetic neuralgia. 
+However, gabapentin shows nonlinear pharmacokinetics, with variable absorption 
+and bioavailability along with its short half-life and long side effects that 
+may include dizziness and somnolence, which calls for an appropriate topical 
+dosage form. Bigels are unique semisolid dosage forms with boosted penetrability 
+and satisfactory hydrophilic texture.
+METHODS: The current work pointed to formulating gabapentin-loaded bigels for 
+the treatment of postherpetic neuralgia, where the analysis and optimization of 
+design were performed via Design-Expert®.
+RESULTS AND CONCLUSIONS: The selected bigel (F5), incorporating 400 mg Span 60, 
+1000 mg Tween 80, and 1000 mg Transcutol, displayed spherical nanosized 
+particles with acceptable viscosity and spreadability. Subsequent topical 
+application of the selected bigel on the skin of Wistar rats, F5, demonstrated a 
+boosted accumulation of gabapentin in the skin similar to PLO gel but superior 
+to the drug solution. Furthermore, a histopathological study demonstrated the 
+biosafety of the selected bigel when applied topically. Accordingly, 
+gabapentin-loaded bigel would be considered a potentially topical dosage form 
+for the delivery of gabapentin for the management of postherpetic neuralgia.
+
+© 2024. The Author(s), under exclusive licence to Tehran University of Medical 
+Sciences.
+
+DOI: 10.1007/s40199-024-00541-y
+PMCID: PMC11554951
+PMID: 39378009 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations Competing interests The authors 
+declare that they have no competing interests that would influence this work and 
+this work did not receive any funds.
+
+
+15. Pain Pract. 2024 Oct 4;25(1):e13423. doi: 10.1111/papr.13423. Online ahead of
+ print.
+
+8. Herpes zoster and post herpetic neuralgia.
+
+Adriaansen EJM(1), Jacobs JG(2), Vernooij LM(1)(3), van Wijck AJM(1), Cohen 
+SP(4)(5), Huygen FJPM(1)(6), Rijsdijk M(1).
+
+Author information:
+(1)Pain Clinic, Department of Anesthesiology, University Medical Center Utrecht, 
+Utrecht University, Utrecht, The Netherlands.
+(2)Anesthesiology, Amsterdam University Medical Center, Amsterdam, The 
+Netherlands.
+(3)Department of Anesthesiology, Intensive Care and Pain Medicine, St. Antonius 
+Hospital, Nieuwegein, The Netherlands.
+(4)Anesthesiology, Neurology, Physical Medicine & Rehabilitation and Psychiatry 
+and Behavioral Sciences, Northwestern University Feinberg School of Medicine, 
+Chicago, Illinois, USA.
+(5)Anesthesiology and Physical Medicine & Rehabilitation, Walter Reed National 
+Military Medical Center, Uniformed Services University of the Health Sciences, 
+Bethesda, Maryland, USA.
+(6)Pain Clinic, Department of Anesthesiology, Erasmus Medical Center Rotterdam, 
+Rotterdam, The Netherlands.
+
+INTRODUCTION: Patients suffering from postherpetic neuralgia (PHN) report 
+unilateral chronic pain in one or more dermatomes after an acute herpes zoster 
+(HZ) infection. The incidence of acute HZ ranges between three and five patients 
+per 1000 person-years. In one out of four patients, acute HZ-related pain will 
+transition into PHN. PHN can be very disabling for patients and reduce quality 
+of life. Additionally, the treatment of PHN is characterized by high failure 
+rates. The aim of this review is to give an update on the previous practical 
+guideline published in 2011 and revised in 2015 (published in 2019) and to 
+provide an overview of current interventional treatment options for HZ infection 
+and PHN.
+METHODS: The literature on the diagnosis and treatment of HZ and PHN was 
+systematically reviewed and summarized.
+RESULTS: The most important treatment for acute HZ-related pain is antiviral 
+therapy within 72 h of symptom onset. Additional symptomatic treatment options 
+are analgesic drugs according to the WHO pain ladder, tricyclic antidepressants 
+(eg, nortriptyline), and antiepileptic drugs (eg, gabapentin). If pain is not 
+sufficiently reduced, interventional treatment such as an epidural injection 
+with local anesthetics and corticosteroids or pulsed radiofrequency of the 
+dorsal root ganglion (DRG) are options. Treatment for PHN is preferably 
+transdermal capsaicin, lidocaine, or oral drugs such as antidepressants or 
+antiepileptics.
+CONCLUSIONS: Treatment of acute HZ-related pain especially PHN is challenging. 
+Besides the conventional treatment for PHN, interventional management is 
+considered a new treatment option. PRF of DRG seems to be the most promising 
+interventional management.
+
+© 2024 The Author(s). Pain Practice published by Wiley Periodicals LLC on behalf 
+of World Institute of Pain.
+
+DOI: 10.1111/papr.13423
+PMCID: PMC11683194
+PMID: 39364882
+
+Conflict of interest statement: Prof. Dr. Frank Huygen is an Editorial Board 
+member of Pain Practice and a co‐author of this article. To minimize bias, they 
+were excluded from all editorial decision‐making related to the acceptance of 
+this article for publication.
+
+
+16. Clin Ther. 2003 Oct;25(10):2597-608. doi: 10.1016/s0149-2918(03)80320-x.
+
+Use of gabapentin for postherpetic neuralgia: results of two randomized, 
+placebo-controlled studies.
+
+Stacey BR(1), Glanzman RL.
+
+Author information:
+(1)Pain Management Center, Oregon Health & Science University, 3181 SW Sam 
+Jackson Park Road, Portland, OR 97239, USA. staceyb@ohsu.edu
+
+BACKGROUND: Postherpetic neuralgia (PHN), which affects up to 70% of elderly 
+persons with herpes zoster, can have debilitating effects, including physical 
+and social disability and significant psychological distress. A variety of 
+agents have been used, either singly or in combination, to control PHN, 
+including topical and oral analgesics, antidepressants, and antiepileptic drugs 
+(AEDs). However, PHN often proves refractory to these therapies.
+OBJECTIVE: This article reviews available data on the use of the newer AED 
+gabapentin for the control of PHN.
+METHODS: A MEDLINE search was undertaken to identify all randomized, 
+placebo-controlled trials on the use of gabapentin in PHN. The search terms were 
+gabapentin and postherpetic neuralgia.
+RESULTS: The literature search identified 2 published studies of the efficacy of 
+gabapentin in a total of 563 patients with PHN that had persisted for at least 3 
+months after the healing of herpes zoster rash. The studies employed multiple 
+outcome measures, including visual analog and Likert scales for pain intensity, 
+and quality-of-life and functional measures that included the Medical Outcomes 
+Study 36-item Short Form Health Survey (SF-36) and the Profile of Mood States. 
+At maximum target dosages of 1800 to 3600 mg/d, gabapentin produced significant 
+reductions in mean daily pain scores compared with placebo on both visual 
+analog(P < 0.001) and Likert scales (P < 0.01). Improvements were also seen on 
+the SF-36 subscales for physical functioning, bodily pain, vitality, and mental 
+health(P < 0.01).
+CONCLUSION: Gabapentin may provide benefits in terms of alleviation of pain and 
+overall quality of life in patients with chronic PHN.
+
+DOI: 10.1016/s0149-2918(03)80320-x
+PMID: 14667960 [Indexed for MEDLINE]
+
+
+17. Masui. 2010 Nov;59(11):1342-9.
+
+[Postherpetic neuralgia].
+
+[Article in Japanese]
+
+Higa K(1), Shono S, Nitahara K.
+
+Author information:
+(1)Department of Anesthesiology, Fukuoka University Faculty of Medicine, Fukuoka 
+814-0180.
+
+Varicella-zoster virus (VZV) causes two clinically distinct diseases: varicella 
+and herpes zoster. Herpes zoster, recurrent infection of VZV occurs when the 
+cell-mediated immunity to VZV declines. Since the cell-medicated immunity to VZV 
+declines with aging, herpes zoster occurs more frequently in the elderly. Most 
+frequent and dreaded complication of herpes zoster is postherpetic neuralgia 
+(PHN). The first line of treatment of PHN is medication with tricyclic 
+antidipressants and anticonvulsants. Double-blind studies showed that effective 
+tricyclic antidepressants for the treatment of PHN are amitriptyline and 
+nortriptyline, and effective anticonvulsants gabapentin and pregabalin. When 
+tricyclic antidepressant and/or anticonvulsant cannot relieve PHN, opioids 
+should be considered in some selected patients. Although neuroablative 
+procedures have been performed for the treatment of PHN, their effectiveness was 
+not confirmed by double-blind studies. They rather aggravate PHN with time. 
+Recent research with a live attenuated varicella vaccine to prevent herpes 
+zoster indicated that the vaccine decreased the occurrence of herpes zoster and 
+postherpetic neuralgia by almost half as compared with placebo. Vaccination of 
+high risk subjects with the varicella vaccine seems to be the most effective 
+measure for the prevention of postherpetic neuralgia.
+
+PMID: 21077300 [Indexed for MEDLINE]
+
+
+18. Ther Clin Risk Manag. 2013;9:469-75. doi: 10.2147/TCRM.S50212. Epub 2013 Nov
+25.
+
+Gabapentin enacarbil extended release for the treatment of postherpetic 
+neuralgia in adults.
+
+Thomas BM(1), Farquhar-Smith P(2).
+
+Author information:
+(1)Chelsea Westminster Hospital, London, UK.
+(2)Department of Anaesthetics, The Royal Marsden NHS Foundation Trust, London, 
+UK.
+
+The development of biomedical technology is allowing refinement of drug 
+therapies in order to improve medication profiles and benefit patients. 
+Gabapentin (Gp) is a medication licensed globally for various indications, 
+including postherpetic neuralgia. It has a pharmacokinetic profile which has 
+been suggested may limit its clinical effects and reduce medication compliance. 
+In 2012, the US Food and Drug Administration licensed a novel preparation which 
+aims to circumvent these limitations. Gp enacarbil is a prodrug of Gp, which is 
+additionally prepared in an extended release preparation. The resulting compound 
+has an improved absorption profile and a reduced dosing frequency in comparison 
+to immediate release Gp. An absence of comparative data, however, limits the 
+direct evaluation of the medication to both immediate release and other extended 
+release preparations available on the market. Additionally, no data are 
+currently available addressing efficacy, tolerability, or side effects with 
+other first line treatments of postherpetic neuralgia. Additional experimental 
+data should be sought to clarify the position of Gp enacarbil, both within 
+postherpetic neuralgia treatment protocols and in relation to the increasing 
+numbers of gabapentinoids available.
+
+DOI: 10.2147/TCRM.S50212
+PMCID: PMC3861364
+PMID: 24353426
+
+
+19. Clin Pharmacokinet. 2010 Oct;49(10):661-9. doi: 
+10.2165/11536200-000000000-00000.
+
+A comparison of the pharmacokinetics and pharmacodynamics of pregabalin and 
+gabapentin.
+
+Bockbrader HN(1), Wesche D, Miller R, Chapel S, Janiczek N, Burger P.
+
+Author information:
+(1)Pfizer Global Research & Development, Ann Arbor, Michigan 48105, USA. 
+howard.bockbrader@pfizer.com
+
+Pregabalin and gabapentin share a similar mechanism of action, inhibiting 
+calcium influx and subsequent release of excitatory neurotransmitters; however, 
+the compounds differ in their pharmacokinetic and pharmacodynamic 
+characteristics. Gabapentin is absorbed slowly after oral administration, with 
+maximum plasma concentrations attained within 3-4 hours. Orally administered 
+gabapentin exhibits saturable absorption--a nonlinear (zero-order) 
+process--making its pharmacokinetics less predictable. Plasma concentrations of 
+gabapentin do not increase proportionally with increasing dose. In contrast, 
+orally administered pregabalin is absorbed more rapidly, with maximum plasma 
+concentrations attained within 1 hour. Absorption is linear (first order), with 
+plasma concentrations increasing proportionately with increasing dose. The 
+absolute bioavailability of gabapentin drops from 60% to 33% as the dosage 
+increases from 900 to 3600 mg/day, while the absolute bioavailability of 
+pregabalin remains at > or = 90% irrespective of the dosage. Both drugs can be 
+given without regard to meals. Neither drug binds to plasma proteins. Neither 
+drug is metabolized by nor inhibits hepatic enzymes that are responsible for the 
+metabolism of other drugs. Both drugs are excreted renally, with elimination 
+half-lives of approximately 6 hours. Pregabalin and gabapentin both show 
+dose-response relationships in the treatment of postherpetic neuralgia and 
+partial seizures. For neuropathic pain, a pregabalin dosage of 450 mg/day 
+appears to reduce pain comparably to the predicted maximum effect of gabapentin. 
+As an antiepileptic, pregabalin may be more effective than gabapentin, on the 
+basis of the magnitude of the reduction in the seizure frequency. In conclusion, 
+pregabalin appears to have some distinct pharmacokinetic advantages over 
+gabapentin that may translate into an improved pharmacodynamic effect.
+
+DOI: 10.2165/11536200-000000000-00000
+PMID: 20818832 [Indexed for MEDLINE]
+
+
+20. Br J Hosp Med (Lond). 2024 Dec 30;85(12):1-11. doi: 10.12968/hmed.2024.0485. 
+Epub 2024 Dec 9.
+
+Effectiveness and Safety of Gabapentin versus Pregabalin in the Treatment of 
+Postherpetic Neuralgia: A Retrospective Cohort Study.
+
+Shi Y(1), Song C(1).
+
+Author information:
+(1)Department of Neurology, Huai'an Hospital of Huai'an City, Huai'an, Jiangsu, 
+China.
+
+Aims/Background Postherpetic neuralgia (PHN) is a common chronic pain disease 
+that persists after the rash (clusters of clear blisters on the surface of the 
+skin) has healed, adversely affecting the quality of life of affected patients. 
+Gabapentin (GPT) and pregabalin (PGB) are two commonly used drugs for the 
+treatment of PHN, but there have been broad concerns regarding their efficacy 
+and safety. Thus, this retrospective cohort study was conducted to investigate 
+the effectiveness and safety of GPT versus PGB in the treatment of PHN. Methods 
+A total of 150 patients with PHN receiving routine antiviral and neurotrophic 
+therapies, admitted between January 2022 and November 2023, were selected. 71 
+patients who were treated with GPT were included in the control group, while the 
+remaining 79 patients who were given PGB were categorized in the observation 
+group. Information on clinical effectiveness, safety (xerostomia, drowsiness, 
+blurred vision, ataxia, and dizziness), analgesic effect (Visual Analogue Scale 
+[VAS] and time to pain relief), sleep quality (Sleep Quality Scale [SQS] and 
+Pittsburgh Sleep Quality Index [PSQI]), and adverse emotions (Self-rating 
+Anxiety/Depression Scale [SAS/SDS]) was collected for analysis. Results Compared 
+to the control group, the observation group exhibited significantly higher 
+clinical effectiveness of PGB in the treatment of PHN (p < 0.05). In other 
+aspects, the overall incidence of adverse events such as xerostomia, drowsiness, 
+blurred vision, ataxia, and dizziness (p > 0.05) was equivalent in these two 
+groups. In addition, significantly lower VAS, SQS, PSQI, SAS, and SDS scores 
+were observed in the observation group after treatment, compared with the 
+control group (p < 0.05). The observation group showed evidently shorter time to 
+pain relief than the other group (p < 0.05). Conclusion PGB is an effective and 
+safe medication for the treatment of PHN, by improving the analgesic effect and 
+sleep quality, and alleviating negative emotions.
+
+DOI: 10.12968/hmed.2024.0485
+PMID: 39831496 [Indexed for MEDLINE]
+
+
+21. Cochrane Database Syst Rev. 2017 Jun 9;6(6):CD007938. doi: 
+10.1002/14651858.CD007938.pub4.
+
+Gabapentin for chronic neuropathic pain in adults.
+
+Wiffen PJ(1), Derry S, Bell RF, Rice AS, Tölle TR, Phillips T, Moore RA.
+
+Author information:
+(1)Pain Research and Nuffield Department of Clinical Neurosciences (Nuffield 
+Division of Anaesthetics), University of Oxford, Pain Research Unit, Churchill 
+Hospital, Oxford, Oxfordshire, UK, OX3 7LE.
+
+Update of
+    Cochrane Database Syst Rev. 2014 Apr 27;(4):CD007938. doi: 
+10.1002/14651858.CD007938.pub3.
+
+BACKGROUND: Gabapentin is commonly used to treat neuropathic pain (pain due to 
+nerve damage). This review updates a review published in 2014, and previous 
+reviews published in 2011, 2005 and 2000.
+OBJECTIVES: To assess the analgesic efficacy and adverse effects of gabapentin 
+in chronic neuropathic pain in adults.
+SEARCH METHODS: For this update we searched CENTRAL), MEDLINE, and Embase for 
+randomised controlled trials from January 2014 to January 2017. We also searched 
+the reference lists of retrieved studies and reviews, and online clinical trials 
+registries.
+SELECTION CRITERIA: We included randomised, double-blind trials of two weeks' 
+duration or longer, comparing gabapentin (any route of administration) with 
+placebo or another active treatment for neuropathic pain, with 
+participant-reported pain assessment.
+DATA COLLECTION AND ANALYSIS: Two review authors independently extracted data 
+and assessed trial quality and potential bias. Primary outcomes were 
+participants with substantial pain relief (at least 50% pain relief over 
+baseline or very much improved on Patient Global Impression of Change scale 
+(PGIC)), or moderate pain relief (at least 30% pain relief over baseline or much 
+or very much improved on PGIC). We performed a pooled analysis for any 
+substantial or moderate benefit. Where pooled analysis was possible, we used 
+dichotomous data to calculate risk ratio (RR) and number needed to treat for an 
+additional beneficial outcome (NNT) or harmful outcome (NNH). We assessed the 
+quality of the evidence using GRADE and created 'Summary of findings' tables.
+MAIN RESULTS: We included four new studies (530 participants), and excluded 
+three previously included studies (126 participants). In all, 37 studies 
+provided information on 5914 participants. Most studies used oral gabapentin or 
+gabapentin encarbil at doses of 1200 mg or more daily in different neuropathic 
+pain conditions, predominantly postherpetic neuralgia and painful diabetic 
+neuropathy. Study duration was typically four to 12 weeks. Not all studies 
+reported important outcomes of interest. High risk of bias occurred mainly due 
+to small size (especially in cross-over studies), and handling of data after 
+study withdrawal.In postherpetic neuralgia, more participants (32%) had 
+substantial benefit (at least 50% pain relief or PGIC very much improved) with 
+gabapentin at 1200 mg daily or greater than with placebo (17%) (RR 1.8 (95% CI 
+1.5 to 2.1); NNT 6.7 (5.4 to 8.7); 8 studies, 2260 participants, 
+moderate-quality evidence). More participants (46%) had moderate benefit (at 
+least 30% pain relief or PGIC much or very much improved) with gabapentin at 
+1200 mg daily or greater than with placebo (25%) (RR 1.8 (95% CI 1.6 to 2.0); 
+NNT 4.8 (4.1 to 6.0); 8 studies, 2260 participants, moderate-quality 
+evidence).In painful diabetic neuropathy, more participants (38%) had 
+substantial benefit (at least 50% pain relief or PGIC very much improved) with 
+gabapentin at 1200 mg daily or greater than with placebo (21%) (RR 1.9 (95% CI 
+1.5 to 2.3); NNT 5.9 (4.6 to 8.3); 6 studies, 1277 participants, 
+moderate-quality evidence). More participants (52%) had moderate benefit (at 
+least 30% pain relief or PGIC much or very much improved) with gabapentin at 
+1200 mg daily or greater than with placebo (37%) (RR 1.4 (95% CI 1.3 to 1.6); 
+NNT 6.6 (4.9 to 9.9); 7 studies, 1439 participants, moderate-quality 
+evidence).For all conditions combined, adverse event withdrawals were more 
+common with gabapentin (11%) than with placebo (8.2%) (RR 1.4 (95% CI 1.1 to 
+1.7); NNH 30 (20 to 65); 22 studies, 4346 participants, high-quality evidence). 
+Serious adverse events were no more common with gabapentin (3.2%) than with 
+placebo (2.8%) (RR 1.2 (95% CI 0.8 to 1.7); 19 studies, 3948 participants, 
+moderate-quality evidence); there were eight deaths (very low-quality evidence). 
+Participants experiencing at least one adverse event were more common with 
+gabapentin (63%) than with placebo (49%) (RR 1.3 (95% CI 1.2 to 1.4); NNH 7.5 
+(6.1 to 9.6); 18 studies, 4279 participants, moderate-quality evidence). 
+Individual adverse events occurred significantly more often with gabapentin. 
+Participants taking gabapentin experienced dizziness (19%), somnolence (14%), 
+peripheral oedema (7%), and gait disturbance (14%).
+AUTHORS' CONCLUSIONS: Gabapentin at doses of 1800 mg to 3600 mg daily (1200 mg 
+to 3600 mg gabapentin encarbil) can provide good levels of pain relief to some 
+people with postherpetic neuralgia and peripheral diabetic neuropathy. Evidence 
+for other types of neuropathic pain is very limited. The outcome of at least 50% 
+pain intensity reduction is regarded as a useful outcome of treatment by 
+patients, and the achievement of this degree of pain relief is associated with 
+important beneficial effects on sleep interference, fatigue, and depression, as 
+well as quality of life, function, and work. Around 3 or 4 out of 10 
+participants achieved this degree of pain relief with gabapentin, compared with 
+1 or 2 out of 10 for placebo. Over half of those treated with gabapentin will 
+not have worthwhile pain relief but may experience adverse events. Conclusions 
+have not changed since the previous update of this review.
+
+DOI: 10.1002/14651858.CD007938.pub4
+PMCID: PMC6452908
+PMID: 28597471 [Indexed for MEDLINE]
+
+Conflict of interest statement: PW: none known SD: none known RFB: none known. 
+RFB is a retired specialist pain physician who has managed patients with 
+neuropathic pain. ASCR: undertakes consultancy and advisory board work for 
+Imperial College Consultants ‐ since June 2013 this has included remunerated 
+work for: Spinifex, Abide, Astellas, Neusentis, Merck, Medivir, Mitsubishi, 
+Aquilas, Asahi Kasei, Relmada, Novartis, and Orion. All consultancy activity 
+relates to consultancy advice on the preclinical/clinical development of drugs 
+for neuropathic pain. Neusentis was a subsidiary of Pfizer. He owned share 
+options in Spinifex Pharmaceuticals which was acquired by Novartis in July 2015. 
+ASCR was a Principal Investigator in the EuroPain consortium. EuroPain has 
+received support from the Innovative Medicines Initiative Joint Undertaking 
+under grant agreement number 115007, resources for which are composed of 
+financial contribution from the European Union's Seventh Framework Programme 
+(FP7/20072013) and European Federation of Pharmaceutical Industries and 
+Associations (EFPIA) companies (www.imieuropain.org). Specifically, research 
+funding for ASCR's laboratory has been received by Imperial College from Pfizer 
+(manufacturer of gabapentin) and Astellas ‐ both these grants were for projects 
+related to improving the validity of animal models of neuropathic pain. ASCR is 
+a site investigator for the Neuropain project, funded by Pfizer via Kiel 
+University ‐ Chief Investigator Prof Ralf Baron. He is Vice‐Chair of the 
+International Association for the Study of Pain (IASP) Special Interest Group on 
+Neuropathic Pain (www.neupsig.org) and serves on the Executive Committee of 
+ACTTION (Analgesic, Anesthetic, and Addiction Clinical Trial Translations, 
+Innovations, Opportunities, and Networks; www.acttion.org). TRT is a site 
+investigator for the Neuropain project, funded by Pfizer. Since 2014 TRT has 
+consulted with or received lecture fees from pharmaceutical companies related to 
+chronic pain and analgesics: Astellas, Eli Lilly, Grünenthal, Pfizer, and 
+Mundipharma. TP: none known. TP is a specialist pain physician who has managed 
+patients with neuropathic pain. RAM has received grant support from Grünenthal 
+relating to individual participant‐level analyses of trial data regarding 
+tapentadol in osteoarthritis and back pain (2015) and from Novartis for network 
+meta‐analyses in acute pain. He has received honoraria for attending boards with 
+Menarini concerning methods of analgesic trial design (2014), with Novartis 
+(2014) about the design of network meta‐analyses, and RB on understanding 
+pharmacokinetics of drug uptake (2015). He has received honoraria from Omega 
+Pharma (2016) and Futura Pharma (2016) for providing advice on trial and data 
+analysis methods. This review was identified in a 2019 audit as not meeting the 
+current definition of the Cochrane Commercial Sponsorship policy. At the time of 
+its publication it was compliant with the interpretation of the existing policy. 
+As with all reviews, new and updated, at update this review will be revised 
+according to 2020 policy update.
+
+
+22. BMJ. 2020 Apr 28;369:m1315. doi: 10.1136/bmj.m1315.
+
+Pregabalin and gabapentin for pain.
+
+Mathieson S(1)(2), Lin CC(3)(2), Underwood M(4)(5), Eldabe S(6).
+
+Author information:
+(1)Institute for Musculoskeletal Health, Sydney, Australia 
+stephanie.mathieson@sydney.edu.au.
+(2)Sydney School of Public Health, University of Sydney, Australia.
+(3)Institute for Musculoskeletal Health, Sydney, Australia.
+(4)Warwick Clinical Trials Unit, University of Warwick, Coventry, UK.
+(5)University Hospitals Coventry and Warwickshire, Coventry, UK.
+(6)James Cook University Hospital, Middlesbrough, UK.
+
+DOI: 10.1136/bmj.m1315
+PMID: 32345589 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: No funding was received to 
+conduct this review. The BMJ has judged that there are no disqualifying 
+financial ties to commercial companies. The authors declare the following other 
+interests: SM holds a National Health and Medical Research Council of Australia 
+(NHMRC) Health Professional Research Early Career Fellowship (APP1158463). SM 
+and CL conducted an investigator initiated NHMRC funded trial (PRECISE) 
+published in NEJM in 2017, for which Pfizer Australia provided investigational 
+product only. SE is CI and PI of National Institute for Health Research studies 
+as well as industry sponsored studies. He is chair of the Specialised Pain 
+Clinical Reference Group at NHS England. SE prescribes gabapentinoids as part of 
+his clinical practice. Neither he nor his institution have received funding from 
+the pharmaceutical industry in relation to this or any other work. He consults 
+for manufacturers of neuromodulation devices including Medtronic, Saluda 
+Medical, and Mainstay Medical. SE and MU are co-chief investigator and 
+co-investigator on a UK National Institute for Health Research (NIHR) funded 
+trial of opioid withdrawal ISRCTN49470934. MU is chief investigator or 
+co-investigator on multiple previous and current research grants from the UK 
+NIHR, Arthritis Research UK, and is a co-investigator on grants funded by the 
+Australian NHMRC. He is an NIHR senior investigator. He has received travel 
+expenses for speaking at conferences from the professional organisations hosting 
+the conferences. He is a director and shareholder of Clinvivo Ltd, which 
+provides electronic data collection for health services research. He is part of 
+an academic partnership with Serco Ltd related to return to work initiatives. He 
+is a co-investigator on two NIHR funded studies that receive additional support 
+from Stryker Ltd. He has accepted honorariums for teaching/lecturing from a 
+consortium for advanced research training in Africa. He was an editor of the 
+NIHR journal series, and a member of the NIHR Journal Editors Group, for which 
+he received a fee. Further details of The BMJ policy on financial interests are 
+here: 
+https://www.bmj.com/about-bmj/resources-authors/forms-policies-and-checklists/declaration-competing-interests
+
+
+23. JAMA Dermatol. 2024 Nov 1;160(11):1182-1191. doi: 
+10.1001/jamadermatol.2024.3410.
+
+Efficacy and Safety of Crisugabalin (HSK16149) in Adults with Postherpetic 
+Neuralgia: A Phase 3 Randomized Clinical Trial.
+
+Zhang D(1), Lei T(2), Qin L(3), Li C(4), Lin X(5), Wang H(6), Zhang G(7), Zhang 
+S(8), Shi K(9), Li L(10), Yang Z(11), Yang X(12), Ba X(13), Gao Y(14), Zhang 
+Z(15), Wang G(16), Wu L(17), Wang Y(18), Wang Y(19), Zhu S(20), Shi J(21), Ye 
+Z(22), Yang C(23), Liu C(24), Zhang T(25), Lu S(26), Yu N(27), Li X(28), Han 
+X(29), Chen X(30), Wan L(31), Cheng Z(32), Bai N(33), Jin Z(34), Yu C(35), Zhang 
+W(36), Lu J(37), Wang D(38), Sun H(39), Wu W(40), Qin P(41), Feng Z(42), Chen 
+R(43), Zhang T(44), Yang D(45), Yin W(46), Zhang J(47), Li X(48), Li F(49), Wu 
+T(49), Lu Q(50).
+
+Author information:
+(1)Department of Pain Medicine, The First Affiliated Hospital of Nanchang 
+University, Donghu District, Nanchang, Jiangxi, China.
+(2)Department of Dermatology, Renmin Hospital of Wuhan University, Wuchang 
+District, Wuhan, Hubei, China.
+(3)Department of Dermatology, Cangzhou People's Hospital, Cangzhou, Hebei, 
+China.
+(4)Department of Neurology, Chongqing Traditional Chinese Medicine Hospital, 
+Panxi, Jiangbei District, Chongqing, China.
+(5)Department of Anaesthesiology, The First Affiliated Hospital of Bengbu 
+Medical University, Longzihu District, Bengbu, Anhui Province, China.
+(6)Department of Dermatovenereology, Tianjin Medical University General 
+Hospital, Heping District, Tianjin, China.
+(7)Department of Dermatology, The First Hospital of Hebei Medical University, 
+Yuhua District, Shijiazhuang, Hebei Province, China.
+(8)Department of Dermatology, Henan Provincial People's Hospital, Zhengzhou, 
+Henan Province, China.
+(9)Pain Management Center, The Second Hospital of Tianjin Medical University, 
+Hexi District, Tianjin, China.
+(10)Department of Dermatology, Beijing Friendship Hospital, Capital Medical 
+University, Xicheng District, Beijing, China.
+(11)Department of Pain, The First of Affiliated Hospital of Henan University, 
+Kaifeng, Henan, China.
+(12)Department of Dermatology, Beijing Tongren Hospital, Capital Medical 
+University, Dongcheng District, Beijing, China.
+(13)Department of Neurology, The First Affiliated Hospital of Jinzhou Medical 
+University, Jinzhou, Liaoning, China.
+(14)Department of Dermatology, The Central Hospital of Wuhan, Tongji Medical 
+College, Huazhong University of Science and Technology, Jiang'an District, 
+Wuhan, Hubei, China.
+(15)Department of Neurology, The Fourth Hospital of Harbin Medical University, 
+Nangang District, Harbin, Heilongjiang, China.
+(16)Department of Anesthesiology, The Fourth Hospital of Harbin Medical 
+University, Nangang District, Harbin, Heilongjiang, China.
+(17)Department of Dermatology and Venereology, Affiliated Hangzhou First 
+People's Hospital, Hangzhou, Zhejiang, China.
+(18)Department of Anesthesiology, The Second Xiangya Hospital of Central South 
+University, Changsha, Hunan, China.
+(19)Department of Dermatology, The Affiliated Hospital of Guizhou Medical 
+University, Yunyan District, Guiyang, Guizhou, China.
+(20)Department of Dermatology, People's Hospital Affiliated to Chongqing Three 
+Gorges Medical College, Wanzhou District, Chongqing, China.
+(21)Department of Dermatology, The First Affiliated Hospital of Baotou Medical 
+College, Kundulun District, Baotou, Inner Mongolia Autonomous Region, China.
+(22)Department of Anesthesiology, The Affiliated Jinhua Hospital of Wenzhou 
+Medical University, Jindong District, Jinhua, Zhejiang, China.
+(23)Department of Dermatology and Venereology, The Second Affiliated Hospital of 
+Anhui Medical University, Shushan District, Hefei, Anhui, China.
+(24)Department of Neurology, The First Hospital of Qiqihar, Longsha District, 
+Qiqihar, Heilongjiang, China.
+(25)Department of Neurology, Research Ward, China Rehabilitation Research 
+Center, Fengtai District, Beijing, China.
+(26)Research Ward, China Rehabilitation Research Center, Fengtai District, 
+Beijing, China.
+(27)Department of Dermatology, General Hospital of Ningxia Medical University, 
+Xingqing Area, Ningxia, Ningxia Hui Autonomous Region, China.
+(28)Department of Anesthesiology, Sichuan Provincial People's Hospital, School 
+of Medicine, University of Electronic Science and Technology of China, Qingyang 
+District, Chengdu, Sichuan, China.
+(29)Department of Dermatology, Shengjing Hospital of China Medical University, 
+Heping District Shenyang, Liaoning, China.
+(30)Department of Dermatology, Xianyang Hospital of Yan'an University, Weicheng 
+District, Xianyang, Shaanxi, China.
+(31)Pain Management Department, The Second Affiliated Hospital of Guangzhou 
+Medical University, Haizhu District, Guangzhou, Guangdong, China.
+(32)Department of Anesthesiology, Xiangya Hospital Central South University, 
+Changsha, Hunan, China.
+(33)Xiangya Hospital, Central South University, Changsha, Hunan, China.
+(34)Department of Dermatology, The Affiliated Hospital of Yanbian University 
+(Yanbian Hospital), Yanji, Jilin, China.
+(35)Department of Dermatology, Suining Central Hospital, Chuanshan District, 
+Suining, Sichuan, China.
+(36)Department of Anesthesiology, West China Hospital, Sichuan University, Wuhou 
+District, Chengdu, Sichuan, China.
+(37)Department of Dermatology, The Third Xiangya Hospital of Central South 
+University, Yuelu District, Changsha, Hunan, China.
+(38)Department of Chinese Medicine Dermatology, Dermatology Hospital of Southern 
+Medical University, Yuexiu District, Guangzhou, Guangdong, China.
+(39)Department of Dermatology, Wuxi Second People's Hospital, Liangxi District, 
+Wuxi, Jiangsu, China.
+(40)Department of Dermatology, Shenzhen Second People's Hospital, Futian 
+District, Shenzhen, Guangdong, China.
+(41)Department of Dermatology, Yancheng No.1 People's Hospital, Yancheng, Hubei, 
+China.
+(42)Department of Pain Medicine, The First Affiliated Hospital, Zhejiang 
+University School of Medicine, Hangzhou, Zhejiang, China.
+(43)Department of Dermatology, Nanyang First People's Hospital, Nanyang, Henan, 
+China.
+(44)Department of Dermatology, Zhujiang Hospital of Southern Medical University, 
+Guangzhou, Guangdong, China.
+(45)Department of Pain Medicine, Union Hospital, Tongji Medical College, 
+Huazhong University of Science and Technology, Wuhan, Hubei, China.
+(46)Department of Dermatology, The First Hospital of Jiaxing, Jiaxing, Zhejiang 
+Province, China.
+(47)Department of Dermatology, Shenzhen People's Hospital, Luohu District, 
+Shenzhen, Guangdong, China.
+(48)Department of Dermatology, Yueyang Hospital of Integrated Traditional 
+Chinese and Western Medicine, Shanghai University of Traditional Chinese 
+Medicine, Shanghai, China.
+(49)Haisco Pharmaceutical Group Co, Ltd, Wenjiang District, Chengdu, Sichuan, 
+China.
+(50)Hospital for Skin Diseases (Institute of Dermatology), Chinese Academy of 
+Medical Sciences and Peking Union Medical College, Nanjing, Jiangsu, China.
+
+IMPORTANCE: China carries a heavy burden of postherpetic neuralgia, with an 
+unmet need for novel drugs with greater efficacy and less prominent neurotoxic 
+effects than existing calcium channel ligands.
+OBJECTIVE: To investigate the efficacy and safety of crisugabalin, an oral 
+calcium channel α2δ-1 subunit ligand, for postherpetic neuralgia.
+DESIGN, SETTING, AND PARTICIPANTS: This randomized clinical trial, carried out 
+between November 9, 2021, and January 5, 2023, at 48 tertiary care centers 
+across China had 2 parts. Part 1 was a phase 3, multicenter, randomized, 
+double-blind, placebo-controlled, parallel-group study consisting of a 2-week 
+screening period, a 7-day run-in period, and a 12-week double-blind treatment 
+period. Part 2 was a 14-week open-label extension study. Investigators, 
+statisticians, trial clinicians, and patients were blinded to trial group 
+assignments. Participants included adults with postherpetic neuralgia with an 
+average daily pain score (ADPS) of at least 4 on the 11-point Numeric Pain 
+Rating Scale over the preceding week, with the exclusion of patients with pain 
+not controlled by prior therapy with pregabalin (≥300 mg/d) or gabapentin (≥1200 
+mg/d).
+INTERVENTIONS: Patients were randomized 1:1:1 to receive crisugabalin, 20 mg 
+twice daily (ie, 40 mg/d), and crisugabalin, 40 mg twice daily (ie, 80 mg/d), or 
+placebo for 12 weeks. Eligible patients received crisugabalin, 40 mg, twice 
+daily during extension.
+MAIN OUTCOME AND MEASURE: The primary efficacy end point was the change from 
+baseline in ADPS at week 12.
+RESULTS: The study enrolled 366 patients (121 patients receiving crisugabalin, 
+40 mg/d; 121 patients receiving crisugabalin, 80 mg/d; 124 patients receiving 
+placebo; median [IQR] age, 63.0 [56.0-69.0] years; 193 men [52.7%]). At week 12, 
+the least squares mean (SD) change from baseline in ADPS was -2.2 (0.2) for 
+crisugabalin, 40 mg/d, and -2.6 (0.2) for crisugabalin, 80 mg/d, vs -1.1 (0.2) 
+for placebo, with a least squares mean difference of -1.1 (95% CI, -1.6 to -0.7; 
+P < .001) and -1.5 (-95% CI, -2.0 to -1.0; P < .001) vs placebo, respectively. 
+No new safety concerns emerged.
+CONCLUSIONS AND RELEVANCE: Crisugabalin, 40 mg/d, or crisugabalin, 80 mg/d, was 
+well tolerated and demonstrated a statistically significant improvement in ADPS 
+over placebo.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT05140863.
+
+DOI: 10.1001/jamadermatol.2024.3410
+PMCID: PMC11581609
+PMID: 39320907 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr D. Zhang 
+reported other support from Haisco Pharmaceutical Group Co, Ltd, which sponsored 
+and funded the trial and participated in its design and data analysis. Dr F. Li 
+reported employment with Haisco Pharmaceutical Group Co, Ltd during the study. 
+Dr T. Wu reported employment with Haisco Pharmaceutical Group Co, Ltd during the 
+study. Dr Q. Lu reported other support from Haisco Pharmaceutical Group Co, Ltd, 
+which sponsored and funded the trial and participated in its design and data 
+analysis. No other disclosures were reported.
+
+
+24. J Am Geriatr Soc. 2007 Aug;55(8):1176-84. doi:
+10.1111/j.1532-5415.2007.01246.x.
+
+A cost-effectiveness comparison of desipramine, gabapentin, and pregabalin for 
+treating postherpetic neuralgia.
+
+O'Connor AB(1), Noyes K, Holloway RG.
+
+Author information:
+(1)Department of Medicine, School of Medicine and Dentistry, University of 
+Rochester, Rochester, New York, USA. alec_oconnor@urmc.rochester.edu
+
+OBJECTIVES: To compare the net health effects and costs resulting from treatment 
+with different first-line postherpetic neuralgia (PHN) medications.
+DESIGN: Cost-utility analysis using published literature.
+PARTICIPANTS: Hypothetical cohort of patients aged 60 to 80 with PHN.
+INTERVENTIONS: Desipramine 100 mg/d, gabapentin 1,800 mg/d, and pregabalin 450 
+mg/d.
+MEASUREMENTS: A decision model was designed to describe possible treatment 
+outcomes, including different combinations of analgesia and side effects, during 
+the first 3 months of therapy for moderate to severe PHN. The main outcome was 
+cost per quality-adjusted life-year (QALY) gained. Costs were estimated using 
+the perspective of a third-party payer. Multivariate, univariate, and 
+probabilistic sensitivity analyses were performed, and the time frame of the 
+model was varied to 1-month and 6-month horizons.
+RESULTS: Desipramine was more effective and less expensive than gabapentin or 
+pregabalin (dominant) under all conditions tested. Gabapentin was more effective 
+than pregabalin but at an incremental cost of $216,000/QALY. Below $140/month, 
+gabapentin became more cost-effective than pregabalin at a threshold of 
+$50,000/QALY, and below $115/month gabapentin dominated pregabalin.
+CONCLUSION: Desipramine appears to be more effective and less expensive than 
+gabapentin or pregabalin for the treatment of older patients with PHN in whom it 
+is not contraindicated. After its price falls, generic gabapentin will likely be 
+more cost-effective than pregabalin.
+
+DOI: 10.1111/j.1532-5415.2007.01246.x
+PMID: 17661955 [Indexed for MEDLINE]
+
+
+25. Minerva Anestesiol. 2014 May;80(5):556-67. Epub 2013 Nov 21.
+
+Efficacy and safety of gabapentin for treatment of postherpetic neuralgia: a 
+meta-analysis of randomized controlled trials.
+
+Meng FY(1), Zhang LC, Liu Y, Pan LH, Zhu M, Li CL, Li YW, Qian W, Liang R.
+
+Author information:
+(1)Department of Anesthesiology, Tumor Hospital of Guangxi Medical University, 
+Nanning, People's Republic of China - ykdxliangrui@163.com.
+
+BACKGROUND: Postherpetic neuralgia (PHN) is a common type of neuropathic pain 
+occurring after resolution of herpes zoster rash. Although gabapentin is a 
+widely used treatment, some disagreements exist about its efficacy and safety. 
+Meta-analysis was performed to better evaluate the efficacy and safety of 
+gabapentin for management of PHN.
+METHODS: Randomized, double-blind, placebo-controlled trials of gabapentin to 
+treat PHN were identified by searching MEDLINE, EMBASE, and CENTRAL databases. 
+Searches were restricted to studies published in English.
+RESULTS: Seven trials involving a total of 2039 participants were identified. 
+Pooled analysis showed that gabapentin reduced PHN-related pain significantly 
+more than placebo (mean difference, MD=-0.89, 95% CI -1.58 to -0.18, P<0.001). 
+Gabapentin reduced pain below baseline by at least 50% in significantly more 
+patients than did placebo (RR=1.59, 95% CI 1.35 to 1.88, P<0.001). Gabapentin 
+was significantly more likely than placebo to lead patients to rate their global 
+impression of change as "much improved" or "very much improved" (RR=1.82, 95% CI 
+1.41 to 2.35, P=0.003). Gabapentin also improved sleep quality significantly 
+more than did placebo (MD=-0.62, 95% CI -0.67 to -0.57, P<0.001). On the other 
+hand, patients given gabapentin were significantly more likely to experience 
+dizziness, somnolence, peripheral edema, ataxia or gait disturbance and 
+diarrhea. Subgroup analysis on formulation of gabapentin showed that gabapentin 
+enacarbil had similar efficacy of pain relief with other formulations while it 
+may be superior to others in term of compliance and safety.
+CONCLUSION: This meta-analysis indicates that gabapentin is an effective and 
+well-tolerated treatment for patients with PHN.
+
+PMID: 24257149 [Indexed for MEDLINE]
+
+
+26. Clin Evid. 2004 Dec;(12):1182-93.
+
+Postherpetic neuralgia.
+
+Wareham D(1).
+
+Author information:
+(1)Queen Mary University of London & Barts & The London NHS Trust, London, UK.
+
+Update in
+    Clin Evid. 2005 Dec;(14):1017-25.
+
+Update of
+    Clin Evid. 2003 Dec;(10):942-52.
+
+PMID: 15865712 [Indexed for MEDLINE]
+
+
+27. Clin Evid. 2003 Dec;(10):942-52.
+
+Postherpetic neuralgia.
+
+Wareham D(1).
+
+Author information:
+(1)Queen Mary University of London & Barts & The London NHS Trust, London, UK.
+
+Update in
+    Clin Evid. 2004 Dec;(12):1182-93.
+
+Update of
+    Clin Evid. 2003 Jun;(9):890-900.
+
+PMID: 15555130 [Indexed for MEDLINE]
+
+
+28. Biomed Res Int. 2018 Jul 4;2018:7474207. doi: 10.1155/2018/7474207.
+eCollection  2018.
+
+A Meta-Analysis of Therapeutic Efficacy and Safety of Gabapentin in the 
+Treatment of Postherpetic Neuralgia from Randomized Controlled Trials.
+
+Zhang M(1), Gao CX(2), Ma KT(3), Li L(3), Dai ZG(1), Wang S(1), Si JQ(3)(4).
+
+Author information:
+(1)Department of Anesthesiology, First Affiliated Hospital, School of Medicine, 
+Shihezi University, Shihezi 832002, China.
+(2)Department of Urology, First Affiliated Hospital, School of Medicine, Shihezi 
+University, Shihezi 832002, China.
+(3)Electrophysiological Laboratory, Laboratory of Xinjiang Endemic and Ethnic 
+Diseases, China.
+(4)Department of Physiology, Medical College of Shihezi University, Shihezi, 
+Xinjiang 832002, China.
+
+OBJECTIVE: The study aims to systematically evaluate the clinical effect of 
+gabapentin in the treatment of postherpetic neuralgia (PHN).
+METHOD: Data were retrieved electronically from PubMed, Embase, CNKI, the China 
+Biomedical Database, and the Library of Clinical Database, beginning from the 
+time of inception to April 2017, in order to collect data on randomized 
+controlled trials (RCTs) of gabapentin and placebo in PHN treatment.
+RESULTS: A total of 11 RCTs (2376 people) were retrieved. The gabapentin group 
+reported significantly reduced pain intensity [MD=-0.91, 95% CI -1.32 to -0.51, 
+P<0.00001] compared with the placebo group. Those treated with gabapentin also 
+experienced significantly improved sleep quality [SMD=-0.44, 95% CI -0.66 to 
+-0.23, P<0.0001], but were more likely to experience incidence of adverse 
+events, such as somnolence, dizziness, and peripheral edema. Results of the 
+subgroup analysis showed that the source of heterogeneity may be related to the 
+formulations of the drug.
+CONCLUSION: Gabapentin can be used to effectively and safely treat PHN.
+
+DOI: 10.1155/2018/7474207
+PMCID: PMC6057412
+PMID: 30069477 [Indexed for MEDLINE]
+
+
+29. J Coll Physicians Surg Pak. 2025 Sep;35(9):1122-1127. doi: 
+10.29271/jcpsp.2025.09.1122.
+
+Comparative Effectiveness of Gabapentin and Pregabalin Combination Therapy in 
+Postherpetic Neuralgia: A Single-Masked Randomised Controlled Trial.
+
+Tao L(1), Yin D(1), Xie J(1).
+
+Author information:
+(1)Department of Dermatology, Zhongnan Hospital of Wuhan University, Wuhan, 
+China.
+
+OBJECTIVE: To compare the efficacy of gabapentin combined with pregabalin in 
+postherpetic neuralgia (PHN) attenuation, focusing on patient-reported outcomes 
+and inflammatory cytokine reduction.
+STUDY DESIGN: Single-blinded randomised controlled trial. Place and Duration of 
+the Study: Department of Dermatology, Zhongnan Hospital of Wuhan University, 
+Wuhan, China, from June to December 2022.
+METHODOLOGY: A total of 134 consecutive patients diagnosed with PHN were 
+randomly allocated into two groups: gabapentin alone (GB group, n = 67) or a 
+combination of gabapentin and pregabalin (GBP group, n = 67) administered orally 
+for 8 weeks. The outcome measures, including the visual analogue scale (VAS) 
+score, clinical efficacy rate, and serum inflammatory factors, were analysed 
+using the t-test, paired t-test, or χ2 test.
+RESULTS: At 8 weeks post-treatment, the VAS score of the GBP group was 
+statistically lower than that of the GB group (t = 22.441, p <0.001). The 
+clinical efficacy rate of the GBP group was statistically higher than that of 
+the GB group (74.6% vs. 56.7%, p = 0.029). The GBP group had significantly lower 
+serum levels of interleukin (IL)-6, IL-1β, and tumour necrosis factor-α (TNF-α) 
+compared to the GB group (p <0.05). No significant differences were observed in 
+adverse effects between the two groups (46.3% vs. 54.8%, χ2 = 0.478, p = 0.489).
+CONCLUSION: The combination therapy with gabapentin and low-dose pregabalin 
+could help reduce pain and inflammatory factors.
+KEY WORDS: Postherpetic neuralgia, Gabapentin, Pregabalin, Anti-inflammatory, 
+Single-masked, Randomised controlled trial.
+
+DOI: 10.29271/jcpsp.2025.09.1122
+PMID: 40948158 [Indexed for MEDLINE]
+
+
+30. J Pharm Sci. 2013 Apr;102(4):1155-64. doi: 10.1002/jps.23467. Epub 2013 Feb
+4.
+
+Pharmacokinetics, efficacy, and tolerability of a once-daily gastroretentive 
+dosage form of gabapentin for the treatment of postherpetic neuralgia.
+
+Chen C(1), Han CH, Sweeney M, Cowles VE.
+
+Author information:
+(1)Depomed Inc., Newark, California 94560, USA. cchen@depomed.com
+
+Neurontin®, an immediate-release (IR) formulation of gabapentin, was the first 
+drug approved by the United States Food and Drug Administration for the 
+treatment of postherpetic neuralgia (PHN). The effective dosing regimen of 
+gabapentin IR (G-IR) for PHN is 1800 mg/day in three divided doses. In 2011, a 
+gastroretentive (GR) formulation of gabapentin (G-GR, Gralise®) was approved for 
+the treatment of PHN. The effective dosing regimen of G-GR is 1800 mg, once 
+daily taken with the evening meal. Compared with G-IR, G-GR has an apparently 
+better tolerability profile with a 1-2 weeks shorter titration period to reach 
+the same therapeutically effective dose. The differences in the dosing frequency 
+and tolerability between G-IR and GR are mainly because of the difference in 
+formulations and thus pharmacokinetic properties. The GR formulation takes 
+advantage of normal human gastrointestinal (GI) physiology and the unique 
+pharmacokinetic properties of gabapentin. In this review, we compare the IR and 
+GR formulations of gabapentin, overview the GI physiology and GR mechanism of 
+G-GR, and describe the unique pharmacokinetic properties of gabapentin. The 
+effect of GR formulation on efficacy and the incidence of adverse events that 
+are commonly associated with G-IR treatment in PHN patients are also discussed.
+
+Copyright © 2013 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jps.23467
+PMID: 23381946 [Indexed for MEDLINE]

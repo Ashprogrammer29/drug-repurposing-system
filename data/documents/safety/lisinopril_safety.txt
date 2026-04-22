@@ -1,0 +1,78 @@
+Reaction: Drug hypersensitivity | Outcome: 6
+Reaction: Oedema peripheral | Outcome: 6
+Reaction: Fluid retention | Outcome: 1
+Reaction: Pulmonary embolism | Outcome: 1
+Reaction: Anaemia | Outcome: 1
+Reaction: Haemoglobin decreased | Outcome: 6
+Reaction: Fatigue | Outcome: 2
+Reaction: Insomnia | Outcome: 2
+Reaction: Hypertension | Outcome: 6
+Reaction: Dehydration | Outcome: 6
+Reaction: Night sweats | Outcome: 6
+Reaction: Panic attack | Outcome: 1
+Reaction: Hyperlipidaemia | Outcome: 6
+Reaction: Insomnia | Outcome: 1
+Reaction: Cold sweat | Outcome: 3
+Reaction: Bipolar disorder | Outcome: 6
+Reaction: Hyperhidrosis | Outcome: 6
+Reaction: Dysgeusia | Outcome: 3
+Reaction: Nausea | Outcome: 3
+Reaction: Influenza | Outcome: 2
+Reaction: Pneumonia | Outcome: 2
+Reaction: Dehydration | Outcome: 1
+Reaction: Hair growth abnormal | Outcome: 2
+Reaction: Skin disorder | Outcome: 3
+Reaction: Alopecia | Outcome: 3
+Reaction: Grand mal convulsion | Outcome: 1
+Reaction: Vomiting | Outcome: 1
+Reaction: Amnesia | Outcome: 3
+Reaction: Balance disorder | Outcome: 2
+Reaction: Gait disturbance | Outcome: 2
+Reaction: Gait disturbance | Outcome: 2
+Reaction: Blood count abnormal | Outcome: 6
+Reaction: Platelet count decreased | Outcome: 1
+Reaction: Nausea | Outcome: 2
+Reaction: Vomiting | Outcome: 2
+Reaction: Abdominal pain upper | Outcome: 2
+Reaction: Fatigue | Outcome: 2
+Reaction: Haemoglobin decreased | Outcome: 2
+Reaction: Anaphylactic reaction | Outcome: 1
+Reaction: Metrorrhagia | Outcome: 3
+Reaction: Dizziness | Outcome: 6
+Reaction: Convulsion | Outcome: 1
+Reaction: Alcohol detoxification | Outcome: 1
+Reaction: Loss of consciousness | Outcome: 1
+Reaction: Alcohol withdrawal syndrome | Outcome: 1
+Reaction: Renal failure acute | Outcome: 1
+Reaction: Dehydration | Outcome: 1
+Reaction: Joint injury | Outcome: 1
+Reaction: Tongue injury | Outcome: 1
+Reaction: Swollen tongue | Outcome: 1
+Reaction: Electrolyte imbalance | Outcome: 1
+Reaction: Dysarthria | Outcome: 1
+Reaction: Fall | Outcome: 1
+Reaction: Laceration | Outcome: 1
+Reaction: Gait disturbance | Outcome: 1
+Reaction: Headache | Outcome: 1
+Reaction: Drug ineffective | Outcome: 6
+Reaction: Fatigue | Outcome: 3
+Reaction: Stomatitis | Outcome: 6
+Reaction: Haemoglobin decreased | Outcome: 3
+Reaction: Platelet count decreased | Outcome: 3
+Reaction: Weight increased | Outcome: 3
+Reaction: Glaucoma | Outcome: 6
+Reaction: Cataract | Outcome: 6
+Reaction: Vitamin D decreased | Outcome: 6
+Reaction: Arthropathy | Outcome: 6
+Reaction: Dry mouth | Outcome: 3
+Reaction: Dry eye | Outcome: 3
+Reaction: Retinal detachment | Outcome: 6
+Reaction: Visual field defect | Outcome: 6
+Reaction: Fibromyalgia | Outcome: 6
+Reaction: Eye disorder | Outcome: 6
+Reaction: Abdominal pain upper | Outcome: 1
+Reaction: Headache | Outcome: 1
+Reaction: Dizziness | Outcome: 1
+Reaction: Cerebrovascular accident | Outcome: 6
+Reaction: Weight increased | Outcome: 2
+Reaction: Withdrawal syndrome | Outcome: 6

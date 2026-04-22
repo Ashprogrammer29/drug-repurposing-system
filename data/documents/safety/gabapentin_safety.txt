@@ -1,0 +1,68 @@
+Reaction: Drug ineffective | Outcome: 6
+Reaction: Pulmonary arterial hypertension | Outcome: 6
+Reaction: Grand mal convulsion | Outcome: 6
+Reaction: Malaise | Outcome: 6
+Reaction: Abdominal pain upper | Outcome: 6
+Reaction: Fatigue | Outcome: 6
+Reaction: Feeling abnormal | Outcome: 6
+Reaction: Pneumonia | Outcome: 6
+Reaction: Suicidal ideation | Outcome: 6
+Reaction: Psychotic disorder | Outcome: 6
+Reaction: Unevaluable event | Outcome: 6
+Reaction: Unevaluable event | Outcome: 6
+Reaction: Malaise | Outcome: 6
+Reaction: Drug level increased | Outcome: 6
+Reaction: Asthenia | Outcome: 6
+Reaction: Apathy | Outcome: 6
+Reaction: Pain | Outcome: 6
+Reaction: Oral mucosal erythema | Outcome: 6
+Reaction: Oral pain | Outcome: 6
+Reaction: Abdominal tenderness | Outcome: 6
+Reaction: Alopecia | Outcome: 2
+Reaction: Drug withdrawal syndrome | Outcome: 6
+Reaction: Cardiac disorder | Outcome: 6
+Reaction: Mental status changes | Outcome: 1
+Reaction: Weight increased | Outcome: 6
+Reaction: Drug ineffective | Outcome: 6
+Reaction: Vomiting | Outcome: 1
+Reaction: Diplopia | Outcome: 1
+Reaction: Gait disturbance | Outcome: 1
+Reaction: Balance disorder | Outcome: 1
+Reaction: Dyspnoea | Outcome: 1
+Reaction: Gastroenteritis | Outcome: 1
+Reaction: Dizziness | Outcome: 1
+Reaction: Mental status changes | Outcome: 6
+Reaction: Dehydration | Outcome: 6
+Reaction: Anaemia | Outcome: 6
+Reaction: Finger deformity | Outcome: 1
+Reaction: Oral surgery | Outcome: 6
+Reaction: Foot deformity | Outcome: 3
+Reaction: Arthropathy | Outcome: 1
+Reaction: Arthropathy | Outcome: 1
+Reaction: Prostatic disorder | Outcome: 3
+Reaction: Abnormal loss of weight | Outcome: 3
+Reaction: Body height decreased | Outcome: 3
+Reaction: Memory impairment | Outcome: 3
+Reaction: Myalgia | Outcome: 2
+Reaction: Muscular weakness | Outcome: 2
+Reaction: Fall | Outcome: 6
+Reaction: Blood sodium decreased | Outcome: 6
+Reaction: Drug ineffective | Outcome: 6
+Reaction: Drug hypersensitivity | Outcome: 6
+Reaction: Heart rate irregular | Outcome: 1
+Reaction: Atrioventricular block second degree | Outcome: 1
+Reaction: Dyspnoea | Outcome: 6
+Reaction: Nasopharyngitis | Outcome: 6
+Reaction: Diarrhoea | Outcome: 6
+Reaction: Myelodysplastic syndrome | Outcome: 5
+Reaction: Abasia | Outcome: 6
+Reaction: Chronic obstructive pulmonary disease | Outcome: 6
+Reaction: Diabetes mellitus | Outcome: 6
+Reaction: Pancytopenia | Outcome: 6
+Reaction: Asthenia | Outcome: 6
+Reaction: Faecal incontinence | Outcome: 1
+Reaction: Neck surgery | Outcome: 1
+Reaction: Drug effect decreased | Outcome: 3
+Reaction: Abdominal pain | Outcome: 1
+Reaction: Diarrhoea | Outcome: 1
+Reaction: Cellulitis | Outcome: 1

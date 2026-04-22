@@ -1,0 +1,130 @@
+Trial: NCT00457964
+Title: RAD001 Therapy of Angiomyolipomata in Patients With TS Complex and Sporadic LAM
+Phase: PHASE1
+Status: COMPLETED
+Summary: The purpose of this research study is to find out what effects RAD001 has on angiomyolipomas of a person with Tuberous Sclerosis Complex and to determine the safe dose of RAD001 without toxicity.
+
+The hypothesis is that the drug will inhibit the growth of the angiomyolipomas and possibly even cause regression.
+---
+Trial: NCT05252585
+Title: A Phase IV Study of Safety and Efficacy of Everolimus in Taiwanese Patients With Tuberous Sclerosis Complex Who Have Renal Angiomyolipoma (TSC-AML)
+Phase: PHASE4
+Status: ACTIVE_NOT_RECRUITING
+Summary: The purpose of this prospective study is to assess the safety and efficacy of everolimus in Taiwanese patients with renal angiomyolipoma (AML) associated with tuberous sclerosis complex (TSC) . Only patients who fulfil the local reimbursement criteria of everolimus for TSC-AML will be included in this study.
+---
+Trial: NCT02188550
+Title: Single Arm Trial With Combination of Everolimus and Letrozole in Treatment of Platinum Resistant Relapse or Refractory or Persistent Ovarian Cancer/Endometrial Cancer
+Phase: PHASE2
+Status: UNKNOWN
+Summary: The purpose of the study is to determine if the combination of Everolimus and Letrozole is effective in the treatment of women with either recurrent or persistent epithelial ovarian, fallopian tube, primary peritoneal or endometrial cancer.
+
+Experiments have shown that everolimus (Afinitor®) can prevent cells such as cancer from growing in number. Therefore, everolimus (Afinitor®) is being tested 
+---
+Trial: NCT05103358
+Title: Phase 2 Basket Trial of Nab-sirolimus in Patients With Malignant Solid Tumors With Pathogenic Alterations in TSC1/TSC2 Genes (PRECISION 1)
+Phase: PHASE2
+Status: ACTIVE_NOT_RECRUITING
+Summary: A Phase 2 multi-center open-label basket trial of nab-sirolimus for adult and adolescent patients with malignant solid tumors harboring pathogenic inactivating alterations in TSC1 or TSC2 genes
+---
+Trial: NCT07477548
+Title: A Study to Evaluate the Efficacy and Safety of Everolimus in Patients With Teratment-refractory Vascular Anomalies
+Phase: PHASE2
+Status: NOT_YET_RECRUITING
+Summary: Background and Objectives Vascular anomalies are a heterogeneous group of disorders classified into vascular tumors and vascular malformations according to the ISSVA classification. Although most follow a benign course, a subset causes serious complications including organ dysfunction, chronic pain, thrombocytopenia, and hemorrhage. Kaposiform hemangioendothelioma (KHE) complicated by Kasabach-Mer
+---
+Trial: NCT02201212
+Title: Everolimus for Cancer With TSC1 or TSC2 Mutation
+Phase: PHASE2
+Status: COMPLETED
+Summary: In this research study, the investigators are evaluating the clinical benefit of everolimus in cancer patients with inactivating TSC1 or TSC2 mutations or activating MTOR mutations.
+
+This research study is a Phase II clinical trial, which tests the safety and effectiveness of an investigational drug called everolimus to learn whether the drug works in treating a specific cancer. "Investigational" 
+---
+Trial: NCT03826628
+Title: Dose-Ranging Efficacy and Safety Study of Topical Rapamycin Cream for Facial Angiofibroma Associated With Tuberous Sclerosis Complex
+Phase: PHASE2
+Status: COMPLETED
+Summary: The study aims to compare the safety and efficacy of two different strengths of Rapamycin cream, topical and placebo over 26 weeks in the treatment of facial angiofibroma (FA) associated with Tuberous Sclerosis Complex (TSC).
+---
+Trial: NCT02962414
+Title: Roll-over Study to Collect and Assess Long-term Safety of Everolimus in Patients With TSC and Refractory Seizures Who Have Completed the EXIST-3 Study [CRAD001M2304] and Who Are Benefitting From Continued Treatment
+Phase: PHASE3
+Status: ACTIVE_NOT_RECRUITING
+Summary: The purpose of this study is to evaluate the long-term safety in patients with TSC and refractory seizures who are currently receiving everolimus treatment in the Novartis-sponsored EXIST-3 study and who are determined to be benefiting from continued treatment as judged by the investigator at the completion of EXIST-3
+---
+Trial: NCT06160310
+Title: Tuberous Sclerosis Complex and Lymphangioleiomyomatosis Pregnancy Registry (TSC-LAM Registry)
+Phase: NA
+Status: RECRUITING
+Summary: This study is an observational registry designed to gather information about Tuberous Sclerosis Complex (TSC) and Lymphangioleiomyomatosis (LAM) in pregnant women and their child.
+---
+Trial: NCT07369505
+Title: Sapu003 in Advanced mTOR-sensitive Solid Tumors
+Phase: PHASE1
+Status: RECRUITING
+Summary: This is a phase 1b, open-label, dose-escalation study to evaluate the safety, tolerability, pharmacokinetics of Sapu003 in combination with Exemestane in in patients with advanced mTOR-sensitive solid tumors (HR+/HER2-negative breast cancer, renal cell carcinoma \[RCC\], neuroendocrine tumors \[NETs\], tuberous sclerosis complex \[TSC\]-associated tumors, and hepatocellular carcinoma \[HCC\]).
+---
+Trial: NCT04128722
+Title: TOPical Sirolimus in linGUal Microcystic Lymphatic Malformation -TOPGUN
+Phase: PHASE2
+Status: COMPLETED
+Summary: Lingual microcystic lymphatic malformations (LMLMs) are rare congenital vascular malformations, presenting as clusters of cysts filled with lymph fluid or blood. They are responsible for a heavy burden even with small well-limited lesions because of oozing, bleeding, infections, or even speech, chewing or breathing impairment. Pain and aesthetic prejudice are also frequently reported. The natural 
+---
+Trial: NCT00411619
+Title: Everolimus (RAD001) Therapy of Giant Cell Astrocytoma in Patients With Tuberous Sclerosis Complex
+Phase: PHASE1
+Status: COMPLETED
+Summary: The purpose of the study is to evaluate the safety and potential side effects of everolimus (an experimental drug) on a person with Tuberous Sclerosis Complex who also has been diagnosed with a brain tumor (astrocytoma)
+
+The hypothesis is that the drug will cause the tumor size to decrease, and may have beneficial activity separate from effects on tumors in patients.
+---
+Trial: NCT05104983
+Title: Stopping TSC Onset and Progression 2B: Sirolimus TSC Epilepsy Prevention Study
+Phase: PHASE2
+Status: RECRUITING
+Summary: This trial is a Phase II randomized, double-blind, placebo controlled multi-site study to evaluate the safety and efficacy of early sirolimus to prevent or delay seizure onset in TSC infants.
+
+This study is supported by research funding from the Office of Orphan Products Division (OOPD) of the US Food and Drug Administration (FDA).
+---
+Trial: NCT01954693
+Title: A Study of Everolimus in the Treatment of Neurocognitive Problems in Tuberous Sclerosis
+Phase: PHASE2
+Status: UNKNOWN
+Summary: This is a single centre, two-arm, individually randomised, Phase II, double- blind, placebo-controlled trial of RAD001 (Everolimus) versus placebo in the treatment of neurocognitive problems in patients with tuberous sclerosis (TSC). The IMP is a licensed medicine in this patient group but for a different target of effect. The current trial is a proof of principle study for memory and executive fu
+---
+Trial: NCT03525834
+Title: Safety and Efficacy of Everolimus (Afinitor®) in Chinese Adult Patients With Angiomyolipoma Associated With Tuberous Sclerosis Complex.
+Phase: PHASE4
+Status: COMPLETED
+Summary: The purpose of this study was to assess the safety and efficacy of everolimus (Afinitor®) in Chinese patients with renal angiomyolipoma (AML) associated with tuberous sclerosis complex (TSC).
+---
+Trial: NCT04987463
+Title: Efficacy and Safety of Rapamycin Versus Vigabatrin in the Prevention of Tuberous Sclerosis Complex Symptoms in Infants
+Phase: PHASE2
+Status: UNKNOWN
+Summary: The purpose of the study is to evaluate the efficacy, tolerability, and safety of vigabatrin versus rapamycin as a preventive treatment in infants with Tuberous Sclerosis Complex (TSC).
+---
+Trial: NCT01070316
+Title: Everolimus (RAD001) Therapy for Epilepsy in Patients With Tuberous Sclerosis Complex (TSC)
+Phase: PHASE1
+Status: COMPLETED
+Summary: The goal of this study is to learn if the study drug RAD001 can reduced the number of epileptic seizures, and can be taken safety by people who have epilepsy associated with Tuberous Sclerosis Complex.
+---
+Trial: NCT02294006
+Title: Activity and Safety of Everolimus+Octreotide LAR+Metformin in Advanced Pancreatic Well-differentiated NETs
+Phase: PHASE2
+Status: UNKNOWN
+Summary: Abnormal PI3K-Akt-mTOR (mammalian target of rapamycin) pathway signaling and autocrine activation of the mTOR pathway, mediated through insulin-like growth factor 1 (IGF1), has been implicated in the proliferation of pNET ( primitive neuroectodermal tumor) cells. Everolimus ,an mTOR inhibitor (a central regulator of growth/proliferation, cellular metabolism and angiogenesis) has shown antitumor be
+---
+Trial: NCT04388371
+Title: Glutamine PET Imaging in LAM
+Phase: PHASE1
+Status: COMPLETED
+Summary: In this study, subjects with spontaneous or tuberous sclerosis complex associated lymphangioleiomyomatosis (LAM) who have not been started on therapy with mTOR inhibitors such as sirolimus or everolimus to undergo a PET/CT scan using an novel PET tracer that may better evaluate disease activity in LAM subjects both before and after the initiation of mTOR inhibitor therapy will be enrolled. The pro
+---
+Trial: NCT02061397
+Title: Safety of Simvastatin in LAM and TSC
+Phase: PHASE1
+Status: COMPLETED
+Summary: The purpose of this research study is to see if simvastatin can be taken safely in patients with either LAM or TSC, who are already being treated with everolimus or sirolimus. This is the first step in looking at simvastatin as a drug that may help patients, by impacting the growth and survival of cells that make up the lung lesions that cause problems in LAM and TSC patients. The study also seeks
+---

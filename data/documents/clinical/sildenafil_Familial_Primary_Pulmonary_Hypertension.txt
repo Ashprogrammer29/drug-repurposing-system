@@ -1,0 +1,60 @@
+Trial: NCT01800292
+Title: Characterization of LV Strain Patterns in Mildly Elevated PCWP and PAH.
+Phase: PHASE4
+Status: COMPLETED
+Summary: The purpose of this study is to determine if patients with pulmonary hypertension and mildly elevated heart pressure known as PCWP will exhibit different patterns on echocardiography and that these patterns will predict treatment response to sildenafil, a drug given for this condition.
+---
+Trial: NCT07536880
+Title: Effect of Sildenafil on Left Ventricular Function in Pediatric With Primary Dilated Cardiomyopathy
+Phase: NA
+Status: NOT_YET_RECRUITING
+Summary: Dilated cardiomyopathy (DCM) is a clinical diagnosis characterized by left ventricular or biventricular dilation and impaired contraction that is not explained by abnormal loading conditions.(1) Both inherited predisposition and environmental factors play an important part in the natural history of disease.(1) Cardiomyopathies are group of heart diseases that influence cardiac muscles directly and
+---
+Trial: NCT00586794
+Title: Therapy of Pulmonary Arterial Hypertension (PAH) - Treatment With Sildenafil in Eisenmenger Patients
+Phase: PHASE3
+Status: TERMINATED
+Summary: Eisenmenger's syndrome presents as a severe clinical picture of polymorbidity that constitutes a great burden at the individual as well as the familial and social level. The combination of critically increased pulmonary vascular resistance, progressive pressure load of the right ventricle and disturbance of pulmonary gas exchange result in long-term polymorbidity. The objective of this study is to
+---
+Trial: NCT00159913
+Title: A Randomized, Double-Blind, Placebo-Controlled Study of Sildenafil in Children With Pulmonary Arterial Hypertension.
+Phase: PHASE3
+Status: COMPLETED
+Summary: This is a clinical research study designed to evaluate sildenafil for the treatment of Pulmonary Arterial Hypertension in children, aged 1 to 17 years. The purpose of the study is to assess the efficacy, safety, and pharmacokinetics of 16 weeks of chronic treatment with oral sildenafil given in three different doses, compared to placebo (inactive treatment). Efficacy will be measured by exercise a
+---
+Trial: NCT01720524
+Title: A Study To Evaluate Safety And Efficacy Of IV Sildenafil In The Treatment Of Neonates With Persistent Pulmonary Hypertension Of The Newborn
+Phase: PHASE3
+Status: COMPLETED
+Summary: This study will evaluate whether IV sildenafil can reduce the time on inhaled nitric oxide treatment and reduce the failure rate of available treatments for persistent pulmonary hypertension of the newborn.
+---
+Trial: NCT02565030
+Title: Chronic Thrombo-embolic Pulmonary Hypertension: Classification and Long Term Outcome
+Phase: NA
+Status: COMPLETED
+Summary: This study will help to provide more up to date prognostic data on the natural history of untreated proximal CTEPH which will be helpful in discussions regarding surgical versus medical treatment and by exploring the similarities and differences between distal CTEPH and IPAH the investigators hope to get insights into disease mechanisms in patients with distal CTEPH.
+---
+Trial: NCT00709098
+Title: Safety Study Extension of Iloprost Power 15 in Pulmonary Arterial Hypertension
+Phase: PHASE3
+Status: COMPLETED
+Summary: Patients with symptomatic idiopathic (IPAH) or familial (FPAH) pulmonary arterial hypertension in New York Heart Association (NYHA) class II to IV , naive to PAH treatment or currently being treated with a stable dose of either bosentan or sildenafil and who complete PROWESS 15 will be enrolled in the PROWESS 15 Extension study. This is a double-blind (12 week), randomized study to compare the saf
+---
+Trial: NCT00709956
+Title: Iloprost Power 15 in Pulmonary Arterial Hypertension
+Phase: PHASE3
+Status: COMPLETED
+Summary: Patients with symptomatic idiopathic pulmonary arterial hypertension (IPAH), or familial pulmonary arterial hypertension (FPAH) or pulmonary hypertension associated with Human immunodeficiency virus (HIV) or drugs/toxins in New York Heart Association (NYHA) functional class II to IV at baseline, naive to PAH treatment or currently being treated with a stable dose of either bosentan, ambrisentan or
+---
+Trial: NCT05275725
+Title: Finding Solutions to Thrive After Birth Asphyxia in Africa
+Phase: PHASE1
+Status: ACTIVE_NOT_RECRUITING
+Summary: Neonatal encephalopathy (NE) is the third leading cause of under 5-year mortality and contributes substantially to long-term neurological morbidity worldwide. In low-income countries (LICs), families often lack the resources to care for affected children. For those with disabilities, stigma is high, and social and emotional impacts are substantial. Improving our understanding of NE in LICs is cruc
+---
+Trial: NCT00853112
+Title: A Research Study To Assess The Effectiveness And Safety Of Different Doses Of Oral PF-00489791 In The Treatment Of Adult Patients With Pulmonary Arterial Hypertension
+Phase: PHASE2
+Status: TERMINATED
+Summary: Study will assess PF-00489791 efficacy and safety in Pulmonary Arterial Hypertension (PAH)
+---

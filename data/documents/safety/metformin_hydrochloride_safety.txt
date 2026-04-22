@@ -1,0 +1,56 @@
+Reaction: Spinal disorder | Outcome: 6
+Reaction: Off label use | Outcome: 6
+Reaction: Maternal exposure during pregnancy | Outcome: 1
+Reaction: Off label use | Outcome: 6
+Reaction: Abortion | Outcome: 1
+Reaction: Off label use | Outcome: 6
+Reaction: Abortion | Outcome: 6
+Reaction: Maternal exposure during pregnancy | Outcome: 6
+Reaction: Maternal exposure during pregnancy | Outcome: 1
+Reaction: Off label use | Outcome: 6
+Reaction: Abortion | Outcome: 1
+Reaction: Maternal exposure during pregnancy | Outcome: 1
+Reaction: Off label use | Outcome: 6
+Reaction: Abortion | Outcome: 1
+Reaction: Ectopic pregnancy | Outcome: 6
+Reaction: Maternal exposure during pregnancy | Outcome: 1
+Reaction: Off label use | Outcome: 6
+Reaction: Gastrointestinal haemorrhage | Outcome: 6
+Reaction: Drug interaction | Outcome: 6
+Reaction: Haemorrhage | Outcome: 6
+Reaction: Drug interaction | Outcome: 6
+Reaction: Lower gastrointestinal haemorrhage | Outcome: 6
+Reaction: Drug interaction | Outcome: 6
+Reaction: Melaena | Outcome: 6
+Reaction: Haematochezia | Outcome: 6
+Reaction: Metabolic acidosis | Outcome: 2
+Reaction: Pulmonary oedema | Outcome: 2
+Reaction: Vomiting | Outcome: 2
+Reaction: Blood creatinine increased | Outcome: 2
+Reaction: Neutropenia | Outcome: 3
+Reaction: Anaemia | Outcome: 1
+Reaction: Pancytopenia | Outcome: 6
+Reaction: Thrombocytopenia | Outcome: 3
+Reaction: Acute kidney injury | Outcome: 5
+Reaction: Toxicity to various agents | Outcome: 5
+Reaction: Lactic acidosis | Outcome: 5
+Reaction: Demyelination | Outcome: 1
+Reaction: Diabetic neuropathy | Outcome: 1
+Reaction: Epistaxis | Outcome: 1
+Reaction: Lower gastrointestinal haemorrhage | Outcome: 6
+Reaction: Drug interaction | Outcome: 6
+Reaction: Melaena | Outcome: 6
+Reaction: Haematochezia | Outcome: 6
+Reaction: Bladder neoplasm | Outcome: 
+Reaction: Bladder cancer | Outcome: 
+Reaction: Abdominal pain upper | Outcome: 
+Reaction: Constipation | Outcome: 
+Reaction: Blighted ovum | Outcome: 6
+Reaction: Off label use | Outcome: 6
+Reaction: Maternal exposure during pregnancy | Outcome: 6
+Reaction: Blighted ovum | Outcome: 6
+Reaction: Off label use | Outcome: 6
+Reaction: Maternal exposure during pregnancy | Outcome: 1
+Reaction: Blighted ovum | Outcome: 6
+Reaction: Off label use | Outcome: 6
+Reaction: Maternal exposure during pregnancy | Outcome: 1

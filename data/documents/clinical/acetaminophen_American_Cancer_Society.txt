@@ -1,0 +1,41 @@
+Trial: NCT01391962
+Title: Sunitinib or Cediranib for Alveolar Soft Part Sarcoma
+Phase: PHASE2
+Status: COMPLETED
+Summary: Background:
+
+* Alveolar soft part sarcoma (ASPS) is a rare, highly vascular tumor accounting for less than 1% of soft tissue sarcomas. There is no effective systemic treatment for patients with metastatic ASPS. Little is known with regards to relevant molecular markers as potential therapeutic targets.
+* Cediranib (AZD2171) and sunitinib (SU011248), oral small molecule inhibitors of vascular endot
+---
+Trial: NCT04529135
+Title: The Effect of Dexmedetomidine During Opioid Free Anesthesia on Postoperative Recovery After Gastrectomy
+Phase: NA
+Status: COMPLETED
+Summary: "Want to know the effect of dexmedetomidine during opioid free anesthesia on postoperative recovery after gastrectomy. Patients undergoing open gastrectomy are divided into dexmedetomidine group and control(remifentanil) group, administered during surgery, and compared with the speed of postoperative intestinal function recovery. Based on our institution's previous record, the average recovery tim
+---
+Trial: NCT03504865
+Title: Post-Mastectomy Analgesia Using Exparel (Liposomal) Versus Standard Bupivacaine or Placebo
+Phase: PHASE2
+Status: UNKNOWN
+Summary: This is a randomized, single-blinded placebo-controlled trial.
+
+Patients will be randomized to one of three arms: (1) injection of liposomal bupivacaine at the end of the operation, (2) injection of standard bupivacaine at the end of the operation, or (3) no injection of local anesthetic. All patients will be able to receive IV and oral narcotic medications in the postoperative period on an as-nee
+---
+Trial: NCT03349034
+Title: Local Infusion of Ropivacaine for Post-Op Pain Control After Osseocutaneous Free Flaps
+Phase: PHASE2
+Status: COMPLETED
+Summary: Head and neck oncologic surgery often requires the use of free tissue transfer, or microvascular reconstruction, to reconstruct defects created by tumor resections. Although there are several techniques for the reconstruction of defects, resection of large tumors leave defects that require the transfer of vascularized tissue from one part of the body to repair the defect. For example, the removal 
+---
+Trial: NCT05597878
+Title: Opioid-Free Pain Control Regimen Following Robotic Radical Prostatectomy
+Phase: PHASE2
+Status: SUSPENDED
+Summary: The objective of this study is to conduct a randomized clinical trial to evaluate an opioid versus an opioid-free pathway of perioperative use of ketamine, ketorolac, and IV acetaminophen followed by the postoperative use of ketorolac, and oral acetaminophen for pain associated with robotic-assisted radical prostatectomy. Escalation to use of opioid treatment for the opioid-free constituents will 
+---
+Trial: NCT02528188
+Title: Long Term Safety and Efficacy Study of Tanezumab in Subjects With Osteoarthritis of the Hip or Knee
+Phase: PHASE3
+Status: COMPLETED
+Summary: The purpose of this study is to compare the long-term joint safety and efficacy (pain relief) of the investigational study drug, tanezumab compared to non-steroidal anti inflammatory drugs (NSAIDs) in subjects with osteoarthritis of the hips or knees.
+---

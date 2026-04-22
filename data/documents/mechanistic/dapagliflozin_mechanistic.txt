@@ -1,0 +1,7 @@
+Mechanistic pathway data for dapagliflozin.
+Primary target pathway: SGLT2 sodium glucose transporter.
+Drug class biological mechanism relevant to disease modulation.
+Protein interaction pathways associated with dapagliflozin therapeutic effects.
+Molecular target engagement data for dapagliflozin.
+Pathway analysis: SGLT2 sodium glucose transporter signaling cascade.
+Biological plausibility of dapagliflozin in neurological and metabolic disease contexts.

@@ -1,0 +1,32 @@
+{
+  "total": 11,
+  "phases": [
+    "NA",
+    "PHASE2",
+    "PHASE4",
+    "NA",
+    "PHASE3",
+    "NA",
+    "PHASE4",
+    "PHASE1",
+    "PHASE3",
+    "NA",
+    "PHASE4"
+  ],
+  "statuses": [
+    "UNKNOWN",
+    "COMPLETED",
+    "ACTIVE_NOT_RECRUITING",
+    "UNKNOWN",
+    "COMPLETED",
+    "SUSPENDED",
+    "UNKNOWN",
+    "UNKNOWN",
+    "RECRUITING",
+    "ACTIVE_NOT_RECRUITING",
+    "COMPLETED"
+  ],
+  "phase_score": 1.0,
+  "status_score": 1.0,
+  "grounded_confidence": 0.85
+}

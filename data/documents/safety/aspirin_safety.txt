@@ -1,0 +1,62 @@
+Reaction: Drug hypersensitivity | Outcome: 6
+Reaction: Back pain | Outcome: 1
+Reaction: Cerebrovascular accident | Outcome: 6
+Reaction: Blood pressure increased | Outcome: 6
+Reaction: Pain | Outcome: 6
+Reaction: Oedema peripheral | Outcome: 6
+Reaction: Fluid retention | Outcome: 1
+Reaction: Hypertension | Outcome: 6
+Reaction: Dehydration | Outcome: 6
+Reaction: Night sweats | Outcome: 6
+Reaction: Panic attack | Outcome: 1
+Reaction: Hyperlipidaemia | Outcome: 6
+Reaction: Insomnia | Outcome: 1
+Reaction: Cold sweat | Outcome: 3
+Reaction: Bipolar disorder | Outcome: 6
+Reaction: Hyperhidrosis | Outcome: 6
+Reaction: Dysgeusia | Outcome: 3
+Reaction: Nausea | Outcome: 3
+Reaction: Transfusion | Outcome: 6
+Reaction: Influenza | Outcome: 2
+Reaction: Pneumonia | Outcome: 2
+Reaction: Rash | Outcome: 6
+Reaction: Dyspnoea | Outcome: 6
+Reaction: Haemoglobin decreased | Outcome: 3
+Reaction: Weight increased | Outcome: 6
+Reaction: Type 2 diabetes mellitus | Outcome: 3
+Reaction: Grand mal convulsion | Outcome: 1
+Reaction: Vomiting | Outcome: 1
+Reaction: Amnesia | Outcome: 3
+Reaction: Blood count abnormal | Outcome: 6
+Reaction: Platelet count decreased | Outcome: 1
+Reaction: Platelet count decreased | Outcome: 2
+Reaction: Blood count abnormal | Outcome: 6
+Reaction: Increased appetite | Outcome: 6
+Reaction: Incontinence | Outcome: 6
+Reaction: Off label use | Outcome: 6
+Reaction: Epistaxis | Outcome: 6
+Reaction: Blindness | Outcome: 6
+Reaction: Weight increased | Outcome: 6
+Reaction: Skin cancer | Outcome: 6
+Reaction: Nasopharyngitis | Outcome: 6
+Reaction: Dizziness | Outcome: 6
+Reaction: Dry eye | Outcome: 6
+Reaction: Wrong technique in product usage process | Outcome: 6
+Reaction: Pruritus | Outcome: 6
+Reaction: Increased tendency to bruise | Outcome: 6
+Reaction: Diarrhoea | Outcome: 6
+Reaction: Constipation | Outcome: 6
+Reaction: Pain | Outcome: 6
+Reaction: Dizziness | Outcome: 6
+Reaction: Headache | Outcome: 6
+Reaction: Malaise | Outcome: 3
+Reaction: Nausea | Outcome: 3
+Reaction: Haemoglobin decreased | Outcome: 6
+Reaction: Headache | Outcome: 3
+Reaction: Lower gastrointestinal haemorrhage | Outcome: 1
+Reaction: Rash | Outcome: 6
+Reaction: Rash | Outcome: 3
+Reaction: Headache | Outcome: 6
+Reaction: Oral mucosal erythema | Outcome: 6
+Reaction: Oral pain | Outcome: 6
+Reaction: Abdominal tenderness | Outcome: 6

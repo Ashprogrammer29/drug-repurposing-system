@@ -1,0 +1,31 @@
+Reaction: Adenoviral haemorrhagic cystitis | Outcome: 3
+Reaction: Pyrexia | Outcome: 1
+Reaction: Disease progression | Outcome: 5
+Reaction: Disease progression | Outcome: 5
+Reaction: Disease progression | Outcome: 5
+Reaction: Disease progression | Outcome: 5
+Reaction: Disease progression | Outcome: 5
+Reaction: Disease progression | Outcome: 5
+Reaction: Disease progression | Outcome: 5
+Reaction: Disease progression | Outcome: 5
+Reaction: Disease progression | Outcome: 5
+Reaction: Disease progression | Outcome: 5
+Reaction: Disease progression | Outcome: 5
+Reaction: Disease progression | Outcome: 5
+Reaction: Neurological decompensation | Outcome: 5
+Reaction: Disease progression | Outcome: 5
+Reaction: Muscular weakness | Outcome: 2
+Reaction: Paraesthesia | Outcome: 2
+Reaction: Platelet count decreased | Outcome: 2
+Reaction: Blood count abnormal | Outcome: 6
+Reaction: Cerebrovascular accident | Outcome: 6
+Reaction: Migraine | Outcome: 6
+Reaction: Presyncope | Outcome: 6
+Reaction: Syncope | Outcome: 6
+Reaction: Mental status changes | Outcome: 1
+Reaction: Flatulence | Outcome: 6
+Reaction: Abdominal distension | Outcome: 6
+Reaction: Hypertension | Outcome: 6
+Reaction: Increased appetite | Outcome: 6
+Reaction: Weight increased | Outcome: 6
+Reaction: Haemoglobin decreased | Outcome: 

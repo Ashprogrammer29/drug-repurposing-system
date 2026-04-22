@@ -1,0 +1,803 @@
+1. Expert Opin Drug Saf. 2025 Apr;24(4):461-467. doi: 
+10.1080/14740338.2024.2448202. Epub 2025 Jan 21.
+
+Drug classes associated with the development of fulminant type 1 diabetes: a 
+retrospective analysis using the FDA adverse event reporting system database.
+
+Zhou Y(1), Chen Y(1), Zhang S(1), Wen Z(1), Zhuang Z(1), Liu X(1), Ni Q(1).
+
+Author information:
+(1)Department of Endocrinology, Guang'anmen Hospital of China Academy of Chinese 
+Medical Sciences, Beijing, China.
+
+BACKGROUND: Fulminant type 1 diabetes mellitus (FT1DM) is a severe subtype of 
+type 1 diabetes characterized by rapid onset, metabolic disturbances, and 
+irreversible insulin secretion failure. Recent studies have suggested 
+associations between FT1DM and certain medications, warranting further 
+investigation.
+OBJECTIVES: This study aims to identify drugs associated with an increased risk 
+of FT1DM using the FDA Adverse Event Reporting System (FAERS) database, evaluate 
+reporting patterns, and provide actionable insights to reduce FT1DM occurrence 
+and improve medication safety.
+METHODS: A retrospective analysis of FAERS data from 2013 to 2023 was conducted. 
+Drug names were standardized using text mining tools, and safety signals were 
+evaluated using reporting odds ratio (ROR), proportional reporting ratio (PRR), 
+Bayesian Confidence Propagation Neural Network (BCPNN), and Multi-item Gamma 
+Poisson Shrinker (MGPS).
+RESULTS: A total of 706 FT1DM cases were identified, predominantly in older 
+individuals and males. Nineteen drugs were implicated, including immune 
+checkpoint inhibitors (nivolumab, ipilimumab, pembrolizumab, avelumab, 
+durvalumab, atezolizumab), lenvatinib, eribulin, psychiatric drugs (atomoxetine, 
+carbamazepine, lamotrigine), anti-infectives (sulfamethoxazole, trimethoprim, 
+amoxicillin), and metabolic modulators (dapagliflozin, sitagliptin, 
+hydrochlorothiazide, allopurinol).
+CONCLUSION: This study highlights drugs potentially triggering FT1DM and 
+emphasizes the need for pharmacovigilance and glucose monitoring in patients 
+treated with these medications.
+
+DOI: 10.1080/14740338.2024.2448202
+PMID: 39797494 [Indexed for MEDLINE]
+
+
+2. J Pediatr Gastroenterol Nutr. 2004 Apr;38(4):422-5. doi: 
+10.1097/00005176-200404000-00010.
+
+Helicobacter pylori eradication rate and glycemic control in young patients with 
+type 1 diabetes.
+
+Candelli M(1), Rigante D, Marietti G, Nista EC, Crea F, Schiavino A, Cammarota 
+G, Pignataro G, Petrucci S, Gasbarrini G, Gasbarrini A.
+
+Author information:
+(1)Department of Internal Medicine, Università Cattolica Sacro Cuore, Rome, 
+Italy.
+
+OBJECTIVES: Eradication of Helicobacter pylori is more difficult in adult 
+patients with diabetes than in patients with dyspepsia. It has also been 
+suggested that eradication of H. pylori in children with type 1 diabetes 
+mellitus improves their metabolic control. The aim of the current study was to 
+assess the eradication rate of a standard triple therapy and its effects on 
+glycemic control in young patients with type 1 diabetes.
+METHODS: The authors enrolled 29 type 1 diabetic patients with H. pylori, 29 
+type 1 diabetic patients without H. pylori, and 29 dyspeptic children with H. 
+pylori. Groups were matched for gender and age and had similar geographical 
+origin and socioeconomic status. H.pylori status was investigated before and 6 
+weeks after therapy by C-urea breath test. All enrolled patients with H. pylori 
+were prescribed a standard triple therapy for eradicating H. pylori. 
+Glycosylated hemoglobin A and daily insulin requirement were evaluated at 
+enrollment and 6 months later in all patients with diabetes. The prevalence of 
+the most common gastrointestinal symptoms also was investigated by means of a 
+questionnaire in all subjects at enrollment and 6 months later.
+RESULTS: Eradication of H. pylori was similar in patients with diabetes (24/29) 
+and those with dyspepsia (23/29) (83%v 79%; P = NS). No difference in metabolic 
+control was observed before or after antibiotic treatment in the patients who 
+experienced H. pylori eradication. No difference in glycemic control was 
+observed after 6 months of follow-up.
+CONCLUSIONS: The eradication rate of H. pylori infection was similar for young 
+patients with type 1 diabetes and those with dyspepsia and did not improve 
+metabolic control in a short-term follow-up.
+
+DOI: 10.1097/00005176-200404000-00010
+PMID: 15085021 [Indexed for MEDLINE]
+
+
+3. Presse Med. 2007 Sep;36(9 Pt 1):1191-5. doi: 10.1016/j.lpm.2006.12.030. Epub 
+2007 Mar 13.
+
+[Helicobacter pylori infection and eradication are not related to glycosylated 
+hemoglobin levels (HbA1c) in young patients with type 1 diabetes].
+
+[Article in French]
+
+Khalil T(1), Dorchy H, Scaillon M, Melot C.
+
+Author information:
+(1)Clinique de diabétologie, Hôpital universitaire des enfants reine Fabiola, 
+Bruxelles, Belgique.
+
+OBJECTIVE: Helicobacter pylori (Hp) is a chronic stomach infection common 
+throughout the world. The pediatric diabetes literature on the relation between 
+Hp and HbA1c is sparse and controversial. This study aimed to investigate this 
+relation.
+METHODS: The study included 100 youth with type 1 diabetes and seropositive for 
+Hp (European Caucasians: n=49; Moghrabin Caucasians: n=51). Mean socioeconomic 
+status was lower among the latter. Hp infection was demonstrated by the 
+(13)C-urea breath test and a gastric biopsy for antibiotic susceptibility 
+testing. HbA1c levels were measured for a year (mean: 6 measurements; upper 
+normal limit: 6.2%) before and after Hp eradication, which was proved by the 
+(13)C-urea breath test.
+RESULTS: Of 100 Hp-seropositive patients, 49 had active Hp infections and were 
+treated. Mean age+/-SD was 14.2+/-2.8 years, and duration of diabetes at Hp 
+diagnosis was 6.2 +/-2.3 years. Hp infection was eradicated in 38/49 subjects 
+(78%). Eleven (22%) remained infected and required a second treatment. The two 
+subgroups did not differ for age, duration of diabetes or pretreatment HbA1c 
+levels (7.3+/-1.5% versus 7.8+/-0.8%; p=0.16). Mean HbA1c levels in the 49 
+infected subjects did not differ significantly in the year before and after 
+eradication (7.4+/-1.3% versus 7.9+/-1.1%; p=0.08). Prevalence of infection was 
+higher among youth of North African than European ancestry (47% versus 22%; 
+p<0.001). Their HbA1c levels, however, did not differ (7.3+/-1.5% versus 
+7.7+/-0.9%; p=0.31), nor did age or duration of diabetes. Among the 100 
+Hp-seropositive patients, vague abdominal pain was reported by 45 of them; only 
+24 had active Hp infections.
+CONCLUSION: Before treatment, patients seropositive for Hp did not differ in 
+HbA1c levels or abdominal complaints according to whether they had active Hp 
+infection. Hp infection was twice as frequent in Moghrabin Caucasians than in 
+European Caucasians, perhaps associated with their lower socioeconomic status. 
+HbA1c levels were similar in patients with and without Hp eradication after one 
+treatment. After a one-year follow-up, Hp eradication had no significant effect 
+on HbA1c levels.
+
+DOI: 10.1016/j.lpm.2006.12.030
+PMID: 17360147 [Indexed for MEDLINE]
+
+
+4. Diabetes Res Clin Pract. 2001 Apr;52(1):1-9. doi:
+10.1016/s0168-8227(00)00219-9.
+
+Effect of the treatment of Helicobacter pylori infection on gastric emptying and 
+its influence on the glycaemic control in type 1 diabetes mellitus.
+
+de Luis DA(1), Cordero JM, Caballero C, Boixeda D, Aller R, Cantón R, de la 
+Calle H.
+
+Author information:
+(1)Department of Endocrinology, Institute of Endocrinology and Nutrition, 
+Hospital Rio Hortega, Valladolid, Spain. ddlr@pulso.com
+
+Helicobacter pylori (Hp) infection plays a role in gastric emptying (GE) in type 
+1 diabetic patients and may have implications for glycaemic control. The aim of 
+our study was to investigate this relationship. Gastric emptying was studied in 
+13 patients with type 1 diabetes and Hp infection. The Hp infection status was 
+assessed by serology and urease breath test (UBT). In addition upper 
+gastrointestinal endoscopy with gastric mucosal biopsy was performed to look for 
+gastritis. A radionuclide-labeled solid meal was used to study GE before and 
+after eradication therapy (amoxicillin, clarithromycin and omeprazole) for Hp 
+infection. All patients were evaluated for autonomic and peripheral neuropathy 
+and were asked for symptoms of gastrointestinal motor dysfunction. Blood glucose 
+levels were determined before the meal and at 30,60,90 and 120 min after the 
+start of the meal. Home blood glucose self-monitoring and HbA(1c) were performed 
+to document glycaemic control during the study. Three months after treatment, 
+five patients were free of Hp infection and were without gastritis (group I: no 
+Hp infection, no gastritis); eight of the patients continued to have gastritis 
+after treatment (group II) and of these eight patients, six had gastritis 
+without Hp infection and two had gastritis plus persistent Hp infection. These 
+last two patients were re-treated with eradication therapy. Patients with 
+gastritis were re-evaluated 6 months after initial treatment; at which time four 
+were now free of gastritis and were added to group I (n=9) while four continual 
+to have gastritis although without Hp infection (group II, n=4). In group I, GE 
+half-time showed an increase (30.6+/-10.3 min vs. 60.2+/-15.4 min; P<0.05) while 
+no change (28.8+/-9.5 vs. 26.9+/-8.7 min; n.s.) was observed in group II. GE 
+half-time was not altered by autonomic and peripheral neuropathy or blood 
+glucose during solid meal test. HbA(1c) did not change significantly after 
+treatment in either groups but the blood glucose levels were more stable in 
+group I compared to group II. A delay in GE was observed with disappearance of 
+gastritis associated to H. pylori infection after eradication treatment in 
+patients with type 1 diabetes. This change in GE could help to stabilise the 
+blood glucose levels in these patients treated with insulin before each meal.
+
+DOI: 10.1016/s0168-8227(00)00219-9
+PMID: 11182211 [Indexed for MEDLINE]
+
+
+5. BMC Gastroenterol. 2012 May 9;12:46. doi: 10.1186/1471-230X-12-46.
+
+Diabetes, insulin use and Helicobacter pylori eradication: a retrospective 
+cohort study.
+
+Tseng CH(1).
+
+Author information:
+(1)Department of Internal Medicine, National Taiwan University Hospital, No 7 
+Chung-Shan South Road, Taipei, Taiwan. ccktsh@ms6.hinet.net
+
+BACKGROUND: Diabetic patients may have a higher risk of gastric cancer. However, 
+whether they have a higher incidence of Helicobacter pylori (HP) eradication is 
+not known. Furthermore, whether insulin use in patients with type 2 diabetes may 
+be associated with a higher incidence of HP eradication has not been 
+investigated.
+METHODS: This is a retrospective cohort study. The reimbursement databases from 
+1996 to 2005 of 1 million insurants of the National Health Insurance in Taiwan 
+were retrieved. After excluding those aged <25 years, cases of gastric cancer, 
+cases receiving HP eradication before 2005, patients with type 1 diabetes 
+mellitus and those with unknown living region, the reimbursement data of a total 
+of 601,441 insurants were analyzed. Diabetes status and insulin use in patients 
+with type 2 diabetes before 2005 were the main exposures of interest and the 
+first event of HP eradication in 2005 was the main outcome evaluated. HP 
+eradication was defined as a combination use of proton pump inhibitor or H2 
+receptor blockers, plus clarithromycin or metronidazole, plus amoxicillin or 
+tetracycline, with or without bismuth, in the same prescription for 7-14 days. 
+The association between type 2 diabetes/insulin use and HP eradication was 
+evaluated by logistic regression, considering the confounding effect of diabetes 
+duration, comorbidities, medications and panendoscopic examination.
+RESULTS: In 2005, there were 10,051 incident cases receiving HP eradication. HP 
+eradication was significantly increased with age, male sex, diabetes status, 
+insulin use, use of calcium channel blocker, panendoscopic examination, 
+hypertension, dyslipidemia, chronic obstructive pulmonary disease, stroke, 
+nephropathy, ischemic heart disease and peripheral arterial disease. Significant 
+differences were also seen for occupation and living region. Medications 
+including statin, fibrate, angiotensin-converting enzyme inhibitor/angiotensin 
+receptor blocker and oral anti-diabetic agents were not associated with HP 
+eradication. The adjusted odds ratios for diabetes, insulin use and use of 
+calcium channel blocker was 1.133 (1.074, 1.195), 1.414 (1.228, 1.629) and 1.147 
+(1.074, 1.225), respectively.
+CONCLUSIONS: Type 2 diabetes and insulin use in the diabetic patients are 
+significantly associated with a higher incidence of HP eradication. 
+Additionally, use of calcium channel blocker also shows a significant 
+association with HP eradication.
+
+DOI: 10.1186/1471-230X-12-46
+PMCID: PMC3419616
+PMID: 22571603 [Indexed for MEDLINE]
+
+
+6. Cureus. 2016 Feb 24;8(2):e512. doi: 10.7759/cureus.512.
+
+Immune Thrombocytopenic Purpura and Gastritis by H. pylori Associated With Type 
+1 Diabetes Mellitus.
+
+Culquichicón-Sánchez C(1), Correa R(2), Flores-Guevara I(1), Espinoza Morales 
+F(3), Mejia CR(4).
+
+Author information:
+(1)Facultad de Ciencias de la Salud, Universidad Nacional de Piura, Piura, Perú
+(2)NICHD, National Institute of Health.
+(3)Servicio de Diabetes, Instituto Cardiovascular Lezica.
+(4)Escuela de Medicina Humana, Universidad Continental, Huancayo, Peru.
+
+We present the 15th case reported worldwide and 3rd case reported in Latin 
+America of immune thrombocytopenic purpura associated with Type 1 diabetes 
+mellitus in Scopus, MEDLINE, and SciELO. An 11-year-old male patient of mixed 
+ethnicity with immune thrombocytopenic purpura, Type 1 diabetes mellitus, and 
+gastritis due to H. pylori presented to the emergency room with petechiae, 
+ecchymosis, and gingival and conjunctival bleeding that had been worsening for 
+the past three months. The patient had a body mass index of 18.85 kg/m(2) (P75). 
+A biochemical analysis showed 1×10(9) platelets/L, increased prothrombin time, 
+increased partial thromboplastin time, and an HbA1C of 7.84% on admission. He 
+was prescribed a single dose of intravenous methylprednisolone 750 mg in 100 mL 
+of NaCl and daily oral 50 mg prednisolone, with intravenous 250 mg tranexamic 
+acid every eight hours. The patient's glycemic control was continued with the 
+administration of insulin glargine (30 units every 24 hours) and prandial 
+insulin glulisine (five to eight units per meal). Before admission, the patient 
+was on a prescribed treatment of sitagliptin 50 mg and metformin 850 mg, but 
+this was suspended in the emergency room. For the eradication of H. pylori he 
+was prescribed amoxicillin 500 mg every eight hours, oral clarithromycin 335 mg 
+every 12 hours, and IV omeprazole 40 mg. After 15 days, he showed disease 
+resolution and he was discharged to his home with orders to follow-up with 
+pediatrics, hematology, and endocrinology services. The first-line treatment for 
+immune thrombocytopenic purpura patients with active bleeding and a platelet 
+count < 30,000 platelets/μl is the administration of corticosteroids and 
+inmunoglobulin.
+
+DOI: 10.7759/cureus.512
+PMCID: PMC4807915
+PMID: 27026836
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+7. Acta Diabetol. 2014;51(3):435-40. doi: 10.1007/s00592-013-0533-3. Epub 2013
+Dec  19.
+
+Photodynamic topical antimicrobial therapy for infected foot ulcers in patients 
+with diabetes: a randomized, double-blind, placebo-controlled study--the 
+D.A.N.T.E (Diabetic ulcer Antimicrobial New Topical treatment Evaluation) study.
+
+Mannucci E(1), Genovese S, Monami M, Navalesi G, Dotta F, Anichini R, Romagnoli 
+F, Gensini G.
+
+Author information:
+(1)Azienda Ospedaliera Universitaria Careggi, Florence, Italy, 
+edoardo.mannucci@unifi.it.
+
+This study was designed to assess the antimicrobial effect and tolerability of a 
+single dose of a photo-activated gel containing RLP068 in the treatment for 
+infected foot ulcers in subjects with diabetes. A randomized, double-blind, 
+parallel series, placebo-controlled phase IIa trial was performed with three 
+concentrations of RLP068 (0.10, 0.30, and 0.50 %), measuring total and pathogen 
+microbial load on Day 1 (before and 1 h after topical gel application and 
+photoactivation with 689 nm red light), on Days 3, 8, and 15, as add-on to 
+systemic treatment with amoxicillin and clavulanic acid. Blood samples were also 
+drawn 1, 2, and 48 h after administration for the assessment of systemic drug 
+absorption. The trial was performed on 62 patients aged ≥18 years, with type 1 
+or type 2 diabetes and infected foot ulcer, with an area of 2-15 cm(2) and a 
+maximum diameter ≤4.6 cm. A dose-dependent reduction in total microbial load was 
+observed (-1.92 ± 1.21, -2.94 ± 1.60, and -3.00 ± 1.82 LogCFU/ml for 0.10, 0.30, 
+and 0.50 % RPL068 vs. -1.00 ± 1.02 LogCFU/ml with placebo) immediately after 
+illumination, with a progressive fading of the effect during follow-up. No 
+safety issues emerged from the analysis of adverse events. Systemic absorption 
+of RLP068 was negligible. Photodynamic antimicrobial treatment with RLP068 of 
+infected diabetic foot ulcers is well tolerated and produces a significant 
+reduction in germ load. Further clinical trials are needed to verify the 
+efficacy of this approach as add-on to systemic antibiotic treatment.
+
+DOI: 10.1007/s00592-013-0533-3
+PMID: 24352342 [Indexed for MEDLINE]
+
+
+8. Clin Nutr. 1999 Aug;18(4):227-31. doi: 10.1016/s0261-5614(99)80074-0.
+
+Improvement in lipid and haemostasis patterns after Helicobacter pylori 
+infection eradication in type 1 diabetic patients.
+
+de Luis DA(1), Garcia Avello A, Lasuncion MA, Aller R, Martin de Argila C, 
+Boixeda de Miquel D, de la Calle H.
+
+Author information:
+(1)Department of Endocrinology, Hospital Ramon y Cajal, Universidad de Alcala de 
+Henares, Madrid, 28034, Spain.
+
+Helicobacter pylori has been implicated in the cardiovascular risk of diabetic 
+patients. The aim of our study was to investigate whether the Helicobacter 
+pylori infection plays a role in the lipid and haemostasis patterns of type 1 
+diabetic patients. Twenty nine patients with type 1 diabetes mellitus and H. 
+pylori infection were enrolled (Chlamydia pneumoniae negative). The H. pylori 
+infection status was assessed by serology and urease breath test. In all 
+patients levels of total cholesterol, triglyceride, HDL cholesterol, LDL 
+cholesterol, lipoprotein (a) (Lpa) C reactive protein (CRP), fibrinogen, 
+thrombin/antithrombin III complex (TAT), plasminogen activator inhibitor type 
+1(PAI-1), tissue plasminogen activator (t-PA) and von Willebrand antigen were 
+measured. All patients were evaluated before and after H. pylori eradicating 
+treatment with amoxicillin, clarithromycin and omeprazole. Twenty two patients 
+were eradicated and seven remained infected. In H. pylori eradicated patients, 
+HDL cholesterol increased (59.7+/-18.9 mg/dl vs 65.2+/-15. 9 mg/dl, P << 0.05), 
+after treatment. After H. pylori eradication, the levels of CRP and TAT 
+decreased (48+/-0.7 ng/l vs 3.3+/-0.4 ng/l;P << 0.05), (27.7+/-44.7 microg/ml vs 
+2.1+/-1.4 microg/ml, P << 0.05), respectively. The decrease in TAT was higher in 
+the group of H. pylori (+) patients with higher levels of TAT (TAT >> 20 ng/ml, 
+92.8+/-41.6 ng/ml vs 1.9+/-2.0 ng/ml, P << 0.005; TAT 4Eth 20 ng/ml; 10.1+/-5.2 
+ng/ml vs 2.2+/-0.6 ng/ml, P << 0.05). These changes did not occur in patients 
+without H. pylori eradication. Eradication of H. pylori infection in type 1 
+diabetic patients modifies some parameters of lipid and haemostasis patterns, 
+(increase of HDL-cholesterol, reduction of Lpa and decrease of CRP and TAT) and 
+so contributes to improvement of cardiovascular risk factors in these patients.
+
+Copyright 1999 Harcourt Publishers Ltd.
+
+DOI: 10.1016/s0261-5614(99)80074-0
+PMID: 10578022 [Indexed for MEDLINE]
+
+
+9. Medicina (B Aires). 2019;79(3):167-173.
+
+[Infections in diabetic foot. Choice of empirical antibiotic regimen].
+
+[Article in Spanish; Abstract available in Spanish from the publisher]
+
+Carro GV(1), Carlucci E(2), Priore G(3), Gette F(4), Llanos MLA(5), Dicatarina 
+Losada MV(2), Noli ML(2), Amato PS(6).
+
+Author information:
+(1)Servicio de Clínica Médica, Hospital Nacional Profesor Alejandro Posadas, El 
+Palomar, Buenos Aires, Argentina. E-mail: gabivcarro@yahoo.com.ar.
+(2)Servicio de Clínica Médica, Hospital Nacional Profesor Alejandro Posadas, El 
+Palomar, Buenos Aires, Argentina.
+(3)Sección Microbiología, Hospital Nacional Profesor Alejandro Posadas, El 
+Palomar, Buenos Aires, Argentina.
+(4)Cirugía Vascular, Hospital Nacional Profesor Alejandro Posadas, El Palomar, 
+Buenos Aires, Argentina.
+(5)Servicio de Fisiatría, Hospital Nacional Profesor Alejandro Posadas, El 
+Palomar, Buenos Aires, Argentina.
+(6)Servicio de Traumatología, Unidad de Pie Diabético, Hospital Nacional 
+Profesor Alejandro Posadas, El Palomar, Buenos Aires, Argentina.
+
+Diabetic foot infections are related to severe complications and constitute the 
+main reason for diabetes-related hospitalization and lower limb amputations. A 
+diabetic foot infection requires prompt actions to avoid progression of the 
+infected wound; a soft tissue sample has to be taken for microbiological culture 
+and empiric antibiotic therapy must be started immediately. Empiric antibiotic 
+schemes should be chosen based on the severity of the infection and the local 
+prevalence of microbial causal agents. Therefore, it is important to monitor 
+these indicators. The aim of this study was to determine which microorganisms 
+were more prevalent in cultures of diabetic foot infections during 2018 and what 
+antibiotic combination was better to cover local microbiology, compared with 
+data available from 2015 for a similar cohort. A total of 68 positive cultures 
+were obtained of 72 soft tissue specimens analyzed. The most frequent 
+microorganisms were Gram negative (47.1%), and resulted significantly more 
+frequent than in 2015 (24.6%) p = 0.01. These Gram negative germs also resulted 
+more sensitive to ciprofloxacin than in 2015 (62.5% vs. 25.0%) p = 0.03. 
+Amoxicillin-clavulanate plus ciprofloxacin was the optimal combination therapy 
+in 2018, while in 2015 it was amoxicillin-clavulanate plus trimethoprim 
+sulfamethoxazole. In agreement with these results, we recommend 
+amoxicillin-clavulanate plus ciprofloxacin as the empiric antibiotic regimen of 
+choice for soft tissue infections in diabetic foot. We consider surveillance of 
+local microbiology to be an important tool in the management of diabetic foot 
+infections.
+
+Publisher: Las infecciones del pie diabético se asocian a complicaciones graves 
+y constituyen la principal causa de hospitalización relacionada con diabetes y 
+amputación de miembros inferiores. Para evitar su progresión, se requiere una 
+conducta inicial rápida y adecuada que incluye toma de muestras para cultivos e 
+inicio inmediato de tratamiento antibiótico empírico, según las características 
+de las lesiones y la prevalencia local de microorganismos. Por ello, es 
+necesario conocer y vigilar la microbiología local y la resistencia a los 
+antimicrobianos. El objetivo de este trabajo fue describir la frecuencia de 
+gérmenes en infecciones de pie diabético en pacientes ambulatorios asistidos en 
+nuestro hospital en 2018 e identificar el esquema antibiótico con mayor 
+cobertura, en comparación con los resultados de un estudio similar realizado en 
+2015. Fueron analizadas 72 muestras tomadas mediante punción por piel sana de 
+partes blandas. Entre los 68 gérmenes aislados, los Gram negativos fueron los 
+más frecuentes (47.1%), lo que representa un aumento significativo en relación a 
+la frecuencia observada en 2015 (24.6%) p = 0.01 y un aumento de la sensibilidad 
+a ciprofloxacina de 25% a 62.5% (p=0.03). El esquema con mayor cobertura fue 
+amoxicilina-clavulánico con ciprofloxacina (77.9%) mientras que en 2015 fue 
+amoxicilina-clavulánico con trimetoprima sulfametoxazol. La vigilancia de la 
+microbiología local es fundamental para la elección del antibiótico empírico en 
+las infecciones de pie diabético. En nuestro hospital, cuando la infección es de 
+partes blandas, se recomienda la combinación amoxicilina-clavulánico más 
+ciprofloxacina como esquema antibiótico empírico según los hallazgos de este 
+estudio.
+
+PMID: 31284250 [Indexed for MEDLINE]
+
+
+10. Case Rep Infect Dis. 2021 Jun 10;2021:9932170. doi: 10.1155/2021/9932170. 
+eCollection 2021.
+
+Capnocytophaga canimorsus Bloodstream Infection Associated with an Urticarial 
+Exanthem.
+
+Goetzinger JC(1), LaGrow AL(2), Shibib DR(3)(4), Thind SK(5)(6).
+
+Author information:
+(1)Department of Internal Medicine, Section of Rheumatology, Immunology, and 
+Allergy, University of Oklahoma Health Sciences Center, 1100 N. Lindsay, 
+Oklahoma City, OK 73104, USA.
+(2)Department of Internal Medicine, University of Oklahoma Health Sciences 
+Center, 1100 N. Lindsay, Oklahoma City, OK 73104, USA.
+(3)Department of Pathology and Laboratory Medicine, Oklahoma City VA Health Care 
+System, 921 NE 13th Street, Oklahoma City, OK 73104, USA.
+(4)Department of Pathology and Laboratory Medicine, University of Oklahoma 
+Health Sciences Center, 940 Stanton L. Young Blvd, Oklahoma City, OK 73104, USA.
+(5)Section of Infectious Diseases, Medical Service, Oklahoma City VA Health Care 
+System, 921 NE 13th Street, Oklahoma City, OK 73104, USA.
+(6)Department of Internal Medicine, Section of Infectious Diseases, University 
+of Oklahoma Health Sciences Center, 1100 N. Lindsay, Oklahoma City, OK 73104, 
+USA.
+
+Background. Capnocytophaga canimorsus is a fastidious, slow-growing, 
+Gram-negative rod that is a commensal bacterium in normal gingival flora of 
+canine and feline species. Infection with the organism may cause disease ranging 
+from flu-like symptoms to disseminated intravascular coagulation (DIC), 
+fulminant sepsis, meningitis, and endocarditis with an overall fatality rate of 
+6-26%. Risk factors for infection from C. canimorsus include immunosuppression, 
+alcoholism, and asplenia. Case Presentation. We describe an unusual case with a 
+relatively indolent clinical course and an urticarial exanthem in an otherwise 
+young immunocompetent patient with a history of type 1 diabetes. The patient 
+presented to the Emergency Department (ED) with a <1-day history of rhinorrhea, 
+fever, and dyspnea. He met sepsis criteria on initial presentation, but left 
+against medical advice and returned to the ED the following day, with new 
+arthralgias and a diffuse rash, multiple erythematous, tender macules scattered 
+across his trunk and extremities, and tonsillar erythema. He had not taken the 
+doses of the prescribed amoxicillin. Blood cultures two days later signaled 
+positive for growth with the Gram stain showing a Gram-negative rod. Three 
+7-8 cm tender targetoid lesions with central clearing were identified on the 
+patient's back. The patient reported two nonengorged ticks crawling on his body 
+a week prior and sustaining a dog bite to his ear three weeks before 
+presentation. Ultimately, the organism was identified as C. canimorsus through 
+MALDI-TOF mass spectrometry and additional biochemical testing. He was given 
+appropriate antibiotics and improved clinically thereafter. Despite the 
+patient's bacteremia, he never progressed to fulminant sepsis and followed a 
+mild clinical course with several unusual characteristics. C. canimorsus is an 
+uncommon cause of illness in humans, but is an important pathogen to consider 
+when evaluating a patient with a dog bite, known risk factors, and an urticarial 
+exanthem as empiric treatment may prevent severe outcomes.
+
+Copyright © 2021 John C. Goetzinger et al.
+
+DOI: 10.1155/2021/9932170
+PMCID: PMC8213481
+PMID: 34221523
+
+Conflict of interest statement: The authors declare no conflicts of interest 
+regarding the publication of this paper.
+
+
+11. Diabetes Care. 2008 Jul;31(7):1380-5. doi: 10.2337/dc07-2188. Epub 2008 Mar
+24.
+
+Differences in the pattern of antibiotic prescription profile and recurrence 
+rate for possible urinary tract infections in women with and without diabetes.
+
+Schneeberger C(1), Stolk RP, Devries JH, Schneeberger PM, Herings RM, Geerlings 
+SE.
+
+Author information:
+(1)Department of Epidemiology, University Medical Center Groningen, Amsterdam, 
+the Netherlands.
+
+OBJECTIVE: Women with diabetes have a high incidence and complication rate of 
+urinary tract infections (UTIs). Our aims were to compare current treatment 
+strategies with respect to recurrence rates in women with diabetes with those 
+without diabetes.
+RESEARCH DESIGN AND METHODS: We used a Dutch registration database containing 
+pharmacy dispensing data. A total of 10,366 women with diabetes (17.5% 
+premenopausal) (aged < or =55 years) and 200,258 women without diabetes (68% 
+premenopausal) who received a first course of trimethoprim, nitrofurantoin, 
+fosfomycin, or norfloxacin between January 1999 and January 2006 were included. 
+We compared short (< or or =5 days) with long (>5 days) prescriptions and 
+norfloxacin with trimethoprim, nitrofurantoin, and fosfomycin. A recurrence was 
+defined as a second prescription for one of the above-mentioned agents or a 
+first with amoxicillin (clavulanic acid), fluoroquinolones, or 
+trimethoprim/sulfamethoxazole between 6 and 30 days after inclusion.
+RESULTS: Premenopausal women with diabetes more often received a long (26.5 vs. 
+19.2%; P < 0.001) treatment with norfloxacin (10.7 vs. 6.2%; P < 0.001) but 
+still had a higher recurrence rate (16.1 vs. 12.2%; P = 0.003) compared with 
+those without diabetes. Similarly, postmenopausal women with diabetes more often 
+received a longer (32.8 vs. 28.8%; P < 0.001) treatment with norfloxacin (15.2 
+vs. 12.7%; P < 0.001) but had a higher recurrence rate (19.1 vs. 16.4%; P < 
+0.001) compared with those without diabetes.
+CONCLUSIONS: Despite the fact that patients with diabetes more often received 
+longer and more potent initial treatment than patients without diabetes, pre- 
+and postmenopausal women with diabetes more often had recurrences of their UTIs.
+
+DOI: 10.2337/dc07-2188
+PMCID: PMC2453660
+PMID: 18362200 [Indexed for MEDLINE]
+
+
+12. J Oral Maxillofac Surg. 2014 Mar;72(3):537-41. doi:
+10.1016/j.joms.2013.08.006.
+
+Acute primary actinomycosis involving the hard palate of a diabetic patient.
+
+de Andrade AL(1), Novaes MM(2), Germano AR(3), Luz KG(4), de Almeida Freitas 
+R(5), Galvão HC(5).
+
+Author information:
+(1)PhD Student, Oral Pathology Postgraduate Program, Department of Dentistry, 
+Federal University of Rio Grande do Norte, Natal, RN, Brazil. Electronic 
+address: ana_luiza_dla@hotmail.com.
+(2)Resident, Division of Oral and Maxillofacial Surgery, Department of 
+Dentistry, Federal University of Rio Grande do Norte, Natal, RN, Brazil.
+(3)Professor, Division of Oral and Maxillofacial Surgery, Department of 
+Dentistry, Federal University of Rio Grande do Norte, Natal, RN, Brazil.
+(4)Professor, Division of Infectology, Giselda Trigueiro Hospital, Federal 
+University of Rio Grande do Norte, Natal, RN, Brazil.
+(5)Professor, Oral Pathology Postgraduate Program, Department of Dentistry, 
+Federal University of Rio Grande do Norte, Natal, RN, Brazil.
+
+Actinomycosis is a relatively rare infection caused by saprophytic bacteria of 
+the oral cavity and gastrointestinal tract that can become pathogenic. The 
+chronic hyperglycemia of diabetes mellitus induces events that promote 
+structural changes in various tissues and are associated with problems in wound 
+healing. This infection remains largely unknown to most clinicians because of 
+its different presentations, and palatal involvement is extremely rare. This 
+report describes the case of a 46-year-old woman who was diagnosed with 
+actinomycosis involving the hard palate. The main clinical, histopathologic, and 
+therapeutic characteristics and differential diagnosis of actinomycosis are 
+reviewed. To date, 3 cases of actinomycosis involving the hard palate have been 
+reported.
+
+Copyright © 2014 American Association of Oral and Maxillofacial Surgeons. 
+Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.joms.2013.08.006
+PMID: 24528563 [Indexed for MEDLINE]
+
+
+13. An Med Interna. 2006 Mar;23(3):124-6. doi: 10.4321/s0212-71992006000300006.
+
+[Pneumonia by Corynebacterium pseudodiphteriticum: an infection to consider].
+
+[Article in Spanish]
+
+Carranza González R(1), Tena Gómez D, Prieto Gómez E, Barberá Farré JR, 
+Fernández Cenjor J.
+
+Author information:
+(1)Servicio de Medicina Interna, Complejo Hospitalario La Mancha, Alcázar de San 
+Juan, Ciudad Real. rcarranza@sescam.jccm.es
+
+Corynebacterium pseudodiphteriticum has been considered a very infrequent 
+respiratory pathogen. We report three cases of pneumonia due to C. 
+pseudodiphteriticum, describing their clinical and microbiological features. 
+There were two patients with pre-existing chronic respiratory disease, one of 
+their with steroidal therapy, and other associated with endotracheal intubation. 
+The diagnostic was made by Gram stain and quantitative cultures from respiratory 
+tract specimens. All patients were cured after treatment with 
+amoxicillin-clavulanate, ceftriaxone and vancomycin respectively. C. 
+pseudodiphteriticum must be consider as a possible causal agent of pneumonia in 
+patients with underlying respiratory disease or endotracheal intubation. 
+Antimicrobial susceptibility testing of C. pseudodiphteriticum may be useful for 
+correct treatment of infected patients, but beta-lactam antibiotics are an 
+appropriate therapeutic option against this bacteria.
+
+DOI: 10.4321/s0212-71992006000300006
+PMID: 16737433 [Indexed for MEDLINE]
+
+
+14. Scand J Gastroenterol. 2000 Mar;35(3):260-3. doi: 10.1080/003655200750024119.
+
+Efficacy of different Helicobacter pylori eradication regimens in patients 
+affected by insulin-dependent diabetes mellitus.
+
+Gasbarrini A(1), Ojetti V, Pitocco D, Armuzzi A, Silveri NG, Pola P, Ghirlanda 
+G, Gasbarrini G.
+
+Author information:
+(1)Dept. of Medical Pathology, Catholic University of Rome, Italy.
+
+BACKGROUND: Patients with insulin-dependent diabetes mellitus (IDDM) are often 
+affected by chronic infections; antibiotic absorption, however, may be 
+influenced by the disease. H. pylori eradication appears to be reduced in IDDM 
+patients. The aim of the study was to evaluate the efficacy of the most common 
+H. pylori eradication regimens in a population of IDDM-infected patients.
+METHODS: One hundred and seventy-two IDDM patients were evaluated. H. pylori 
+infection was assessed through the 13C-urea breath test. Infected patients were 
+randomly assigned to three different standard 7-day eradication regimens: 1) 
+amoxicillin, clarithromycin, pantoprazole; 2) tinidazole, clarithromycin, 
+ranitidine bismuth citrate; or 3) tinidazole, clarithromycin, pantoprazole. 
+Patients in whom eradication was not successful in the first cycle were 
+subsequently submitted to a 7-day therapy with tinidazole, tetracycline, 
+bismuth, and pantoprazole.
+RESULTS: Thirty-seven per cent of IDDM patients were infected. None of the 
+triple therapies used provided an eradication higher than 62%. Conversely, the 
+quadruple regimen was successful in 88% of the patients. Ten per cent of the 
+subjects undergoing the triple therapies showed minor side effects, without 
+significant differences among groups, whereas side effects occurred in 25% of 
+the patients treated with the quadruple therapy (P < 0.05).
+CONCLUSIONS: IDDM patients show a low H. pylori eradication rate with a standard 
+triple therapy regardless of the regimen utilized, the dosage and/or the 
+duration of the therapy used appearing not to be sufficient to eradicate the 
+infection efficiently. The use of a quadruple regimen leads to the cure of a 
+large percentage of the infected patients in whom the eradication was 
+unsuccessful in the first therapy, although it is accompanied by a greater 
+incidence of minor side effects.
+
+DOI: 10.1080/003655200750024119
+PMID: 10766318 [Indexed for MEDLINE]
+
+
+15. Southeast Asian J Trop Med Public Health. 2000 Mar;31(1):89-90.
+
+Imipenem therapy for septicemic melioidosis in a child with penicillin and 
+cephalosporin adverse reaction.
+
+Lumbiganon P(1), Panamonta O.
+
+Author information:
+(1)Department of Pediatrics, Faculty of Medicine, Khon Kaen University, 
+Thailand.
+
+The recommended treatment for severe melioidosis is ceftazidime or a combination 
+of ceftazidime and trimethoprim-sulfamethoxazole (TMP/SMX). 
+Amoxicillin-clavulanate has been shown to be an effective alternative therapy. 
+In patient who is allergic to penicillin and cephalosporin, imipenem an 
+alternative drug may be used. We described a 10 year-old boy who was diagnosed 
+as septicemic melioidosis and type 1 diabetes mellitus. He developed fever and 
+rash while being given ceftazidime and TMP/SMX. The fever recurred when 
+amoxicillin-clavulanate was administered orally. He was successfully treated 
+with imipenem.
+
+PMID: 11023072 [Indexed for MEDLINE]
+
+
+16. Ann Fr Anesth Reanim. 2005 May;24(5):556-8. doi:
+10.1016/j.annfar.2005.01.017.  Epub 2005 Apr 15.
+
+[Emphysematous pyelonephritis with favourable outcome after conservative 
+treatment].
+
+[Article in French]
+
+Harandou M(1), Khatouf M, Bouhafa T, Kanjaa N, Leclercq G, Lapostolle F.
+
+Author information:
+(1)Service de réanimation chirurgicale, hôpital Al-Ghassani, Fès, Morocco.
+
+Emphysematous pyelonephritis is a necrotizing renal infection characterized by 
+bacterial gas production in the renal and perirenal area. It is a rare infection 
+diagnosed in diabetic patients in most cases. Emphysematous pyelonephritis is 
+responsible for a high mortality rate. We report the case of a woman, unknown 
+diabetic, who presented with emphysematous pyelonephritis. Early diagnosis 
+performed by CT-scan allowed effective and conservative surgical treatment and 
+final positive outcome.
+
+DOI: 10.1016/j.annfar.2005.01.017
+PMID: 15904737 [Indexed for MEDLINE]
+
+
+17. Cureus. 2026 Jan 3;18(1):e100667. doi: 10.7759/cureus.100667. eCollection
+2026  Jan.
+
+A Mysterious Case of Autoimmune Hepatitis Triggered by Herpes Zoster Virus 
+Versus Drug-Induced Liver Injury.
+
+Alajab S(1), Tariq S(1), Agho O(1)(2), Adeoshun L(1), Diaz Ledesma L(1).
+
+Author information:
+(1)Internal Medicine, Guthrie Lourdes Hospital, Binghamton, USA.
+(2)Internal Medicine, Igbinedion University Medical School, Benin, NGA.
+
+Autoimmune hepatitis triggered by Herpes Zoster infection is a relatively rare 
+condition and a diagnosis of exclusion, as there are other more common causes of 
+autoimmune hepatitis. While evaluating a patient with suspected autoimmune 
+hepatitis, common causes such as viral hepatitis, Epstein-Barr virus, and 
+medications like amoxicillin-clavulanic acid, statins, nitrofurantoin and 
+methyldopa must be ruled out. Furthermore, autoimmune processes like 
+thyroiditis, type 1 diabetes mellitus, rheumatoid arthritis, and ulcerative 
+colitis should be considered. Herpes Zoster virus is known to cause diseases 
+such as post-herpetic neuralgia, meningitis, meningoencephalitis, myelitis, 
+cranial neuropathies, keratitis, uveitis, scleritis, and vision loss. Rarely, it 
+can also trigger an autoimmune process in the body, causing hepatitis. A major 
+dilemma that can be encountered while evaluating a patient with suspected 
+autoimmune hepatitis precipitated by Herpes Zoster infection is drug-induced 
+liver injury, especially if the patient had been managed with a medication known 
+to cause liver injury. Both drug-induced liver injury and Herpes Zoster 
+hepatitis have overlapping clinical, laboratory and histological pictures that 
+can pose a significant diagnostic challenge. We report a case of autoimmune 
+hepatitis in an elderly female precipitated by Herpes Zoster infection. She was 
+observed with findings typical of cholestatic liver disease, and an extensive 
+workup, including imaging and liver biopsy, was done to determine the cause of 
+liver injury. Her clinical presentation, laboratory and Imaging findings favored 
+Herpes Zoster virus as the likely culprit for autoimmune hepatitis.
+
+Copyright © 2026, Alajab et al.
+
+DOI: 10.7759/cureus.100667
+PMCID: PMC12862659
+PMID: 41635325
+
+Conflict of interest statement: Human subjects: Informed consent for treatment 
+and open access publication was obtained or waived by all participants in this 
+study. Conflicts of interest: In compliance with the ICMJE uniform disclosure 
+form, all authors declare the following: Payment/services info: All authors have 
+declared that no financial support was received from any organization for the 
+submitted work. Financial relationships: All authors have declared that they 
+have no financial relationships at present or within the previous three years 
+with any organizations that might have an interest in the submitted work. Other 
+relationships: All authors have declared that there are no other relationships 
+or activities that could appear to have influenced the submitted work.
+
+
+18. Minerva Med. 2001 Jun;92(3):137-44.
+
+[Role of Helicobacter pylori infection in insulin-dependent diabetes mellitus].
+
+[Article in Italian]
+
+Ojetti V(1), Pitocco D, Ghirlanda G, Gasbarrini G, Gasbarrini A.
+
+Author information:
+(1)Policlinico Gemelli, Rome, Italy.
+
+BACKGROUND: Patients with insulin-dependent diabetes mellitus (IDDM) are often 
+affected by chronic infections. H. pylori is one of the most common infection 
+worldwide. Aim of the paper was to evaluate the prevalence of H. pylori 
+infection, the efficacy of the most common H. pylori eradication therapies and 
+the incidence of H. pylori reinfection after 12 months follow-up in IDDM and in 
+a control group of dyspeptic patients matched for sex and age.
+METHODS: 116 IDDM patients and 50 dyspeptic controls were evaluated for H. 
+pylori infection through 13C-urea breath test (UBT). 64 IDDM infected patients 
+and 50 dyspeptic infected controls were randomly assigned to 3 different 7-day 
+eradication regimens: 1) amoxicillin, clarithromycin, pantoprazole; 2) 
+tinidazole, clarithromycin, ranitidine bismuth citrate; 3) tinidazole, 
+clarithromycin, pantoprazole. Patients not eradicated by the first cycle were 
+subsequently submitted to a 7-day quadruple therapy with tinidazole, 
+tetracycline, bismuth and pantoprazole. Gastrointestinal symptoms and side 
+effects were evaluated. Thirty-four IDDM patients and 40 dyspeptic patients 
+previously treated for H. pylori infection and successfully eradicated 
+(confirmed both by UBT and histology) were re-evaluated after 12 months.
+RESULTS: 37% of IDDM patients were infected. Mean age of IDDM infected patients 
+was higher than negative (40+/-12 vs 32+/-10 yrs). None of the triple therapies 
+used allowed an eradication higher than 62%. Conversely, the quadruple regimen 
+eradicated 88% of patients. Minor side effects were observed in 10% of patients 
+submitted to the triple therapies and in 25% of patients treated with the 
+quadruple therapy (p<0.05). H. pylori re-infection was significantly higher in 
+IDDM patients compared to controls: (38% vs 5% respectively, p<0.001). Mean age 
+of IDDM re-infected patients was higher than negative (40+/-12 vs 32+/-10). 
+Among IDDM patients daily insulin requirement and glicate haemoglobin were 
+significantly higher in re-infected compared to uninfected patients (44+/-9 vs 
+35+/-8 U/I and 7,2+/-1 vs 6,8+/-0,8).
+CONCLUSIONS: Prevalence of H. pylori infection in IDDM patients was similar to 
+controls. IDDM patients show a low H. pylori eradication rate with a standard 
+triple therapy regardless of the regimen utilized. The use of a quadruple 
+regimen leads to the cure of a large percentage of the infected patients not 
+eradicated by the first therapy, although it is accompanied by a greater 
+incidence of minor side effects. A significantly higher incidence of H. pylori 
+re-infection was observed in IDDM patients when compared to not IDDM controls. 
+The data suggest that vaccine development seems to be the only effective long 
+run treatment for this subset of patients.
+
+PMID: 11404721 [Indexed for MEDLINE]

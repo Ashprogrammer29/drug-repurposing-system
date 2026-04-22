@@ -1,0 +1,32 @@
+Trial: NCT01320982
+Title: Minocycline, Acetylsalicylic Acid or Pramipexole vs Placebo in Patients With Schizophrenia or Schizoaffective Disorder
+Phase: PHASE3
+Status: UNKNOWN
+Summary: The objective of the study is to evaluate the efficacy of Pramipexole, Minocycline and Aspirin compared to placebo, as add-on to anti-psychotics in the treatment of patients with schizophrenia.
+---
+Trial: NCT07129824
+Title: Relationship Between Diet and Gastritis
+Phase: NA
+Status: NOT_YET_RECRUITING
+Summary: Chronic gastritis (CG) is a prevalent and persistent inflammatory condition that affects the gastric mucosa, carrying a significant global burden. Although CG may remain asymptomatic in some cases, many patients experience gastrointestinal (GI) symptoms such as epigastric pain, bloating, nausea, vomiting, and appetite loss.
+
+Diet plays a crucial role in both the development and progression of CG. 
+---
+Trial: NCT01182727
+Title: Salsalate for Insulin Resistance in Schizophrenia
+Phase: NA
+Status: COMPLETED
+Summary: Being obese is a common problem for people with schizophrenia. People with schizophrenia are more likely to be overweight compared to the general population. Being overweight is a major risk factor for developing type II diabetes. Approximately 15% of people with schizophrenia have type II diabetes. People with type II diabetes have problems with their body's insulin. Insulin is a hormone produced
+---
+Trial: NCT02451670
+Title: Reducing Cardiovascular Risk in Adults With Serious Mental Illness
+Phase: NA
+Status: COMPLETED
+Summary: This purpose of this study is to adapt, implement and test the ability of a sophisticated point-of-care electronic health record-based clinical decision support that identifies and prioritizes all available evidence-based treatment options to reduce cardiovascular risk in patients with serious mental illness.
+---
+Trial: NCT02685748
+Title: Aspirin in Young Psychotic Patients
+Phase: PHASE2
+Status: COMPLETED
+Summary: In this double blind randomized clinical trial the investigators are going to exam influence of adjuvant Aspirin therapy on soft neurological signs (Heidelberg scale), positive and negative symptoms (PANSS), cytokine profile and inflammatory factors, as well as on cognition (MoCA) in young psychotic patients.
+---

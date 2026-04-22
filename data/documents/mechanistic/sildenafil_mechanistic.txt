@@ -1,0 +1,7 @@
+Mechanistic pathway data for sildenafil.
+Primary target pathway: phosphodiesterase PDE5.
+Drug class biological mechanism relevant to disease modulation.
+Protein interaction pathways associated with sildenafil therapeutic effects.
+Molecular target engagement data for sildenafil.
+Pathway analysis: phosphodiesterase PDE5 signaling cascade.
+Biological plausibility of sildenafil in neurological and metabolic disease contexts.

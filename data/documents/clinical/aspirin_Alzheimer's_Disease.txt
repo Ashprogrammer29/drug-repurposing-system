@@ -1,0 +1,72 @@
+Trial: NCT01038583
+Title: Aspirin in Reducing Events in the Elderly
+Phase: NA
+Status: UNKNOWN
+Summary: ASPREE-XT is a post-treatment, longitudinal observational follow-up study of ASPREE participants \[ASPREE Investigator Group, 2013; www.aspree.org; McNeil et al 2017\]. Although the ASPREE trial medication was ceased, the study activity was not stopped and ASPREE participants are continuing with scheduled visits and phone calls. An observational follow-up phase (ASPREE-XT), began in January, 2018.
+---
+Trial: NCT04219774
+Title: NeuroCognition After Carotid Recanalization
+Phase: PHASE2
+Status: COMPLETED
+Summary: Complete occlusion of the Internal carotid artery (ICA) by atherosclerotic disease (COICA) causes approximately 15%-25% of ischemic strokes in the carotid artery distribution. Patients treated with medical therapy have a 7%-10% risk of recurrent stroke per year for any stroke and a 5%-8% risk per year for ipsilateral ischemic stroke during the first 2 years after ICA occlusion. Internal carotid ar
+---
+Trial: NCT00135226
+Title: ASCEND: A Study of Cardiovascular Events iN Diabetes
+Phase: PHASE4
+Status: ACTIVE_NOT_RECRUITING
+Summary: The purpose of this study is to determine whether 100mg daily aspirin versus placebo and/or supplementation with 1 gram daily omega-3 fatty acids or placebo prevents "serious vascular events" (i.e. non-fatal heart attack, non-fatal stroke or transient ischaemic attack, or death from vascular causes) in patients with diabetes who are not known to have occlusive arterial disease and to assess the ef
+---
+Trial: NCT02823938
+Title: DRUG EXPOSURE AND RISK OF DEMENTIA
+Phase: NA
+Status: UNKNOWN
+Summary: In France, a person consumes an average of 48 boxes of medicines per year (ANSM 2012). Among these substances, some, not prescribed in an indication related to cognitive function, however, will influence thereon.
+
+Several drug candidates with potential preventive effects have already been explored with little success (statins, antihypertensives, NSAIDs, aspirin, steroid hormones). Other studies ha
+---
+Trial: NCT05894954
+Title: Precision Medicine Approach for Early Dementia & Mild Cognitive Impairment
+Phase: PHASE3
+Status: COMPLETED
+Summary: The goal of this clinical trial is to compare a precision medicine approach to the standard-of-care for people with mild cognitive impairment or early-stage dementia. Precision medicine approach starts with the completion of many tests and then the study doctor uses the test results to carefully prepare a treatment plan that is best for the individual person to help treat many of the underlying ca
+---
+Trial: NCT03484143
+Title: Neuro RX Gamma - Pivotal Phase
+Phase: NA
+Status: SUSPENDED
+Summary: The active Neuro RX Gamma device uses non-invasive near-infrared energy delivered to the brain with the intention to improve cognitive functioning and quality of life in patients with moderate to severe Alzheimer's Disease. Treatment will occur at home-based treatment sessions with the device.
+---
+Trial: NCT01968798
+Title: ASPREE Cancer Endpoints Study
+Phase: PHASE4
+Status: UNKNOWN
+Summary: The ASPREE Cancer Endpoint Study (ACES), an ancillary study of the ASPirin in the Prevention of Events in the Elderly (ASPREE) Study, will allow for the examination of the effect of daily low-dose aspirin (100 mg) compared to placebo, on specific DNA biomarkers and selected specific incident and recurrent cancer and metastases. The establishment of this ACES biobank will allow for the exploration 
+---
+Trial: NCT00587496
+Title: 30-Day Trial of Oral Valtrex or Valtrex Plus Aspirin on Shedding of HSV DNA in Tears and Saliva of Volunteers
+Phase: PHASE1
+Status: UNKNOWN
+Summary: The purpose of this study is to determine whether oral Valtrex alone or in combination with aspirin will reduce the shedding of herpes simplex virus DNA in the tears and saliva from volunteers with no evidence of ocular herpes infection. The secretion of virus into the tears and saliva might make people more susceptible to virus infection in the future if their immune system becomes deficient. The
+---
+Trial: NCT07012629
+Title: A EUROpean Randomized Study on Blood-thinners and Cholesterol-lowering Treatments to Prevent Future Vascular Events in People With Covert Brain Infarcts (CBI)
+Phase: PHASE3
+Status: RECRUITING
+Summary: Magnetic resonance imaging (MRI) is commonly used in healthcare, and sometimes it shows small areas of brain damage called Covert Brain Infarcts (CBIs). These are usually found by chance when people have scans for things like headaches or dizziness. Although CBIs don't cause symptoms at the time, they are linked to a higher risk of future stroke and death.
+
+There is currently no standard treatment
+---
+Trial: NCT07224347
+Title: Aspirin in Reducing Events in the Elderly-Extension (ASPREE-XT)
+Phase: NA
+Status: ACTIVE_NOT_RECRUITING
+Summary: ASPREE-XT is a post-treatment, longitudinal observational follow-up study of ASPREE participants. Although the ASPREE trial medication was ceased, the study activity was not stopped and ASPREE participants are continuing with scheduled visits and phone calls. An observational follow-up phase (ASPREE-XT), began in January, 2018. This will enable the monitoring of possible delayed effects of aspirin
+---
+Trial: NCT00947531
+Title: A Clinical Trial to Evaluate the Safety and Efficacy of 20 ml Cerebrolysin in Patients With Vascular Dementia
+Phase: PHASE4
+Status: COMPLETED
+Summary: This clinical trial was performed to assess the clinical efficacy and safety of two 4 week treatment courses of daily intravenous administration of Cerebrolysin (20mL \[milliliter\] IV \[intravenous\] per day). The study was performed as prospective, randomised, double-blind, placebo-controlled, parallel group, multicentre study with 2 study groups.
+
+Group 1: 20 mL Cerebrolysin and 100 mg (milligr
+---

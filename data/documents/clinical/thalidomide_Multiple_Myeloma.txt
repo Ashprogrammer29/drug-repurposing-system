@@ -1,0 +1,140 @@
+Trial: NCT06457464
+Title: Clinical Outcomes and Prognostic Factors in Multiple Myeloma Patients
+Phase: NA
+Status: NOT_YET_RECRUITING
+Summary: 1. Description of the demographic, clinical, and laboratory characteristics of patients with MM admitted to the hematology unit of Assuit University Hospitals.
+2. Determination of treatment outcomes and prognostic factors associated with survival rates.
+---
+Trial: NCT00008242
+Title: Thalidomide, Doxorubicin, and Dexamethasone in Treating Patients With Untreated Stage II or Stage III Multiple Myeloma
+Phase: PHASE2
+Status: COMPLETED
+Summary: RATIONALE: Thalidomide may stop the growth of multiple myeloma by stopping blood flow to the cancer cells. Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Combining thalidomide with chemotherapy may kill more cancer cells.
+
+PURPOSE: Phase II trial to study the effectiveness of thalidomide, doxorubicin, and dexamethasone in treating pati
+---
+Trial: NCT00320476
+Title: VTD Followed By MPT Maintenance As a First Line Treatment For The Patients With MM Who Are Non-Transplant Candidates
+Phase: PHASE2
+Status: COMPLETED
+Summary: Multiple Myeloma is a incurable disease. Recently developed targeted therapy gave new hope for the patients with multiple myeloma. Velcade in combination with other agents are currently in trials for the newly diagnosed patient, we designed sequential treatment with VTD and MPT for the patients who are not transplant candidates. This would be expected to result in maximal tumor control, and thus, 
+---
+Trial: NCT00349115
+Title: TCD Followed by autoSCT for Newly Diagnosed MM Patients
+Phase: PHASE2
+Status: UNKNOWN
+Summary: Multiple Myeloma is a incurable disease. Thalidomide in combination with other agents are currently in trials for the newly diagnosed patients, we designed treatment of TCD, followed by high dose chemotherapy with autologous stem cell transplantation and TD maintenance therapy for the patients with newly diagnosed multiple myeloma.
+---
+Trial: NCT01268774
+Title: Preventive Treatment of VETD in Patients With Multiple Myeloma Receiving Chemotherapy With Thalidomide or Lenalinomide.
+Phase: NA
+Status: COMPLETED
+Summary: Patients with multiple myeloma have seen their survival rate strongly improved with the use of new anti angiogenic agents. Among them, the new chemotherapy with thalidomide or lenalinomide are frequently successfully suggested in therapeutic protocol such as MPT however they can strongly increase the risk of venous thrombo embolic disease (DVT and PTE) up to 20%. In these conditions, a prevention 
+---
+Trial: NCT02963610
+Title: Phase I/II Study of Lenalidomide Plus Pembrolizumab in Patients With Solid Tumors With Expansion in Non-small Cell Lung Cancer
+Phase: PHASE1
+Status: TERMINATED
+Summary: For the phase I component of the trial a classic 3 + 3 dose escalation design will be utilized, with a fixed dose of pembrolizumab and an escalating dose of the lenalidomide. The patient population will all have histologically confirmed advanced solid tumor malignancy. The primary endpoint for the phase I component of this protocol will be determining the maximum tolerated dose (MTD) of lenalidomi
+---
+Trial: NCT00538824
+Title: Phase II Study of Dexamethasone, Thalidomide and Lenalidomide for Subjects With Relapsed or Refractory Multiple Myeloma
+Phase: PHASE2
+Status: TERMINATED
+Summary: Study Objectives
+
+1. To evaluate the efficacy of the combination of dexamethasone (Decadron®), thalidomide (Thalomid®), and lenalidomide (Revlimid®) as therapy for patients with relapsed or refractory multiple myeloma (MM) who have failed prior treatment with both lenalidomide and thalidomide when used as monotherapies.
+2. To evaluate the safety of the combination of lenalidomide, dexamethasone, a
+---
+Trial: NCT00432458
+Title: Zoledronate With or Without Thalidomide in Treating Patients With Early Stage Multiple Myeloma
+Phase: PHASE3
+Status: COMPLETED
+Summary: RATIONALE: Zoledronate may prevent bone loss and stop the growth of cancer cells in bone. Thalidomide may stop the growth of cancer cells by blocking blood flow to the cancer. It is not yet know whether giving zoledronate together with thalidomide is more effective than zoledronate alone in treating multiple myeloma.
+
+PURPOSE: This randomized phase III trial is studying zoledronate and thalidomide
+---
+Trial: NCT03440411
+Title: Pom-dex Versus Pom-Cyclo-dex in MM Patients With Biochemical or Clinical Relapse, During Lena Maintenance Treatment
+Phase: PHASE3
+Status: TERMINATED
+Summary: The combination lenalidomide plus low-dose dexamethasone (Rd) is an active treatment for Multiple Myeloma (MM) patients, both at diagnosis and at relapse.
+
+Pomalidomide, is an immunomodulatory molecule (IMID), derivative of thalidomide, developed to improve the efficacy and reduce the toxicity of the parent molecule. Pomalidomide and dexamethasone (pom-dex) proved to be an effective and safe treat
+---
+Trial: NCT00113919
+Title: UARK 2003-25: A Study of Intravenous (IV) Busulfan (Busulfex®) in Multiple Myeloma Patients
+Phase: PHASE1
+Status: TERMINATED
+Summary: The purpose of this study is to find out if patients with high risk disease because of age or kidney status can be treated more safely with a drug called Busulfex® followed by autologous transplant compared to treatment with the standard drug called melphalan, which has been shown to be quite difficult to tolerate in patients with poor kidney function and patients over the age of 65 when given in 
+---
+Trial: NCT03344328
+Title: Prevalence, Intensity and Consequences of Bortezomib-induced Neuropathic Disorders.
+Phase: NA
+Status: COMPLETED
+Summary: Cancer-induced peripheral neuropathies (CIPN) remain a real problem in oncology (Balayssac et al., 2011). These CIPN are induced by certain classes of anticancer drugs such as taxanes (paclitaxel and docetaxel), platinum salts (cisplatin and oxaliplatin), alkaloids of Madagascar periwinkle (vincristine), bortezomib, thalidomide and eribulin (Balayssac et al., 2011; Vahdat et al., 2013). These CIPN
+---
+Trial: NCT00577096
+Title: Effects of Exercise in Combination With Epoetin Alfa
+Phase: NA
+Status: COMPLETED
+Summary: The purpose of the study was to determine the effect of Epoetin alfa therapy (short term versus long term) with and without a home-based individualized exercise program that incorporated aerobic and strength resistance training for patients being treated with high-dose chemotherapy and autologous peripheral bloodstem cell transplantation (PBSC T) for multiple myeloma. The endpoints for the study i
+---
+Trial: NCT00869232
+Title: UARK 2008-02 A Trial for High-risk Myeloma Evaluating Accelerating and Sustaining Complete Remission
+Phase: PHASE2
+Status: ACTIVE_NOT_RECRUITING
+Summary: There have been four previous Total Therapy (TT1 through IIIB) studies for multiple myeloma at the MIRT from 1989 to present. Results have shown that participants treated on these studies had better outcomes (meaning they have lived longer and had better responses to treatment) when compared to individuals treated with standard chemotherapy.
+
+Past studies conducted at the MIRT and at other institu
+---
+Trial: NCT00083538
+Title: Study of Tumor Antigen-Pulsed Autologous Dendritic Cell Vaccination Administrated Subcutaneously or Intranodally
+Phase: PHASE2
+Status: COMPLETED
+Summary: The purpose of this study is to determine if vaccination with autologous idiotype- or tumor lysate-pulsed dendritic cells induces the generation of anti-idiotypic and anti-tumor immunologic responses.
+---
+Trial: NCT00111748
+Title: UARK 2005-01 Study of Velcade, Thalidomide, and Dexamethasone (VTD) With or Without Adriamycin® in Relapsed/Refractory Patients
+Phase: PHASE3
+Status: COMPLETED
+Summary: The main goal of this study is to evaluate the effectiveness of the combination of these drugs, and whether they can be given safely together.
+---
+Trial: NCT00734877
+Title: UARK 2013-13, Total Therapy 4B - Formerly 2008-01 - A Phase III Trial for Low Risk Myeloma
+Phase: PHASE3
+Status: ACTIVE_NOT_RECRUITING
+Summary: Toward improving the therapeutic index of standard TT3 (S-TT3), the investigators will employ a randomized Phase III trial design to determine whether S-TT3 treatment-related toxicities can be reduced by 50% in TT3-Lite (L-TT3).
+
+Note: Randomization has been discontinued and accrual is closed to the L-TT3 arm. This trial is currently enrolling as a single-arm trial for patients to receive S-TT3.
+---
+Trial: NCT02559154
+Title: Modified Bortezomib-based Combination Therapy for Multiple Myeloma
+Phase: PHASE4
+Status: UNKNOWN
+Summary: To investigate the efficacy of a modified bortezomib based combination therapy for patients with multiple myeloma.
+---
+Trial: NCT00573391
+Title: Study of Multiple Myeloma Patients Relapsing or Progressing After Autologous Transplantation on Total Therapy 2
+Phase: PHASE3
+Status: TERMINATED
+Summary: This study is being done to find out if the combination of VelcadeTM with melphalan and dexamethasone (VMD) will be as effective, or even more effective as it is in combination with thalidomide and dexamethasone (VTD).
+---
+Trial: NCT02467010
+Title: Relapse Myeloma; Cyclofosfamide; Bortezomib; Maintenance
+Phase: PHASE2
+Status: COMPLETED
+Summary: Bortezomib and cyclophosphamide in combination with dexamethasone has already demonstrated high response rates in refractory multiple myeloma. Low dose continuous cyclophosphamide, also called metronomic scheduling, minimize toxic side effects and eliminate the obligatory rest periods. Combining cyclophosphamide with bortezomib might target distinct aspects of a myeloma functionality.
+
+The objecti
+---
+Trial: NCT01554852
+Title: Use of Thalidomide, Lenalidomide, Carfilzomib, Bortezomib and Vorinostat in the Initial Treatment of Newly Diagnosed Multiple Myeloma Patients
+Phase: PHASE3
+Status: UNKNOWN
+Summary: The purpose of this study is to compare a standard chemotherapy regimen of cyclophosphamide, dexamethasone plus thalidomide with a newer regimen of cyclophosphamide, dexamethasone plus lenalidomide with or without carfilzomib.
+
+Patients who do not have the best response to their initial treatment may then also be given a combination of cyclophosphamide, dexamethasone plus bortezomib.
+
+Patients who
+---

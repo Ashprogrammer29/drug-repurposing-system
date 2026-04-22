@@ -1,0 +1,124 @@
+1. J Clin Psychiatry. 1987 Apr;48(4):161-3.
+
+Ibuprofen can increase serum lithium level in lithium-treated patients.
+
+Ragheb M.
+
+The interaction between lithium and ibuprofen was studied in nine male patients 
+admitted to the geropsychiatric ward of a veterans administration medical 
+center. The patients, diagnosed as having bipolar affective disorder or 
+schizoaffective disorder, who had been kept on a steady-state lithium level, 
+received lithium for 3 days, then lithium and ibuprofen (1800 mg/day) for 6 
+days, and then lithium for 5 days. Ibuprofen increased the serum lithium level 
+and decreased the lithium clearance with marked interindividual variations. 
+These findings indicate that lithium dosage may need to be reduced in some 
+patients following initiation of ibuprofen therapy. There was no significant 
+correlation between changes in lithium serum level and creatinine clearance. The 
+possibility that a tubular renal prostaglandin system may affect lithium 
+excretion needs further investigation.
+
+PMID: 3558329 [Indexed for MEDLINE]
+
+
+2. J Parkinsons Dis. 2021;11(3):919-935. doi: 10.3233/JPD-202521.
+
+Non-Genetic Risk Factors for Parkinson's Disease: An Overview of 46 Systematic 
+Reviews.
+
+Chen Y(1), Sun X(1), Lin Y(1), Zhang Z(1), Gao Y(1), Wu IXY(1)(2).
+
+Author information:
+(1)Xiangya School of Public Health, Central South University, Changsha, China.
+(2)Hunan Provincial Key Laboratory of Clinical Epidemiology, Changsha, China.
+
+BACKGROUND: Numerous systematic reviews (SRs) and meta-analyses on non-genetic 
+risk factors for Parkinson's disease (PD) development have been published with 
+inconsistent conclusions.
+OBJECTIVE: This overview of SRs aimed to summarize evidence on non-genetic 
+factors for the development of PD from the published SRs, and explore the 
+reasons behind the conflicting results.
+METHODS: Three international databases were searched for SRs with meta-analyses 
+summarized evidence on non-genetic factors for PD development. The Assessing the 
+Methodological Quality of Systematic Reviews 2 tool was used to appraise the 
+methodological quality of included SRs. Pooled effect estimations were extracted 
+from each meta-analysis.
+RESULTS: Forty-six SRs covered six categories, and more than 80 factors were 
+included in this overview. Thirty-nine SRs (84.7%) were judged to be of 
+critically low methodological quality. Evidence from prospective studies showed 
+that physical activity, smoking, coffee, caffeine, tea, fat intake, ibuprofen 
+use, calcium channel blocker use, statin use, thiazolidinediones, and high serum 
+urate levels significantly reduced the risk of PD, while dairy intake, diabetes, 
+hormone replacement therapy, depression, mood disorder, bipolar disorder, and 
+aspirin use significantly increased the risk of PD. Differences in study designs 
+(e.g., cohort studies, case-control studies) accounted for the conflicting 
+results among included SRs.
+CONCLUSION: Modifiable lifestyle factors such as physical activity and tea and 
+coffee drinking may reduce the risk of PD, which may offer PD prevention 
+strategies and hypotheses for future research. However, the designs of primary 
+studies on PD risk factors and related SRs need to be improved and harmonized.
+
+DOI: 10.3233/JPD-202521
+PMCID: PMC8461677
+PMID: 33814465 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflict of interest to 
+report.
+
+
+3. Med Hypotheses. 2001 Apr;56(4):413-5. doi: 10.1054/mehy.2000.1147.
+
+Obsessive-compulsive disorder: a neuronal membrane phospholipid hypothesis and 
+concomitant therapeutic strategy.
+
+Oken RJ(1).
+
+Author information:
+(1)robertoken@nac.net
+
+Obsessive-compulsive disorder (OCD) is briefly characterized and several of the 
+hypothesized neuroanatomical and neurochemical substrates of this etiologically 
+heterogeneous syndrome are indicated as well as similarities among OCD, 
+schizophrenia and bipolar disorder. A neuronal membrane phospholipid hypothesis 
+is proposed for OCD analogous to those developed for schizophrenia by Horrobin 
+et al. and for bipolar disorder by Stoll et al. Essential fatty acid (EFA) 
+dietary supplementation has shown some efficacy in treating schizophrenia and 
+bipolar disorder patients and should also be considered for OCD. Supporting 
+this, a case report is presented of a subject with OCD who developed comorbid 
+paresthesia, for whose latter condition a regimen of ibuprofen was instituted. 
+Thirteen weeks thereafter subject's OCD symptomatology had declined by 40% (YBOC 
+scale) from baseline. Inasmuch as ibuprofen and numerous other non-steroidal 
+anti-inflammatory drugs (NSAIDS) block brain neuronal prostaglandin synthase 
+(several also inhibiting phospholipases A(2)and C), thereby reducing catabolism 
+of neuronal membrane arachidonic acid, the ibuprofen apparently increased the 
+integrity of subject's neuronal membranes, as would likely also be the case with 
+EFA dietary supplementation. This OCD NSAID-EFA therapy concept should be 
+further tested by seeking other OCD subjects, especially from arthritis and 
+rheumatism practices (where NSAIDS are routinely employed) and medical record 
+data banks, as OCD has an estimated worldwide population lifetime prevalence of 
+1% to 3% and at least a subset of OCD patients might possibly benefit.
+
+Copyright 2001 Harcourt Publishers Ltd.
+
+DOI: 10.1054/mehy.2000.1147
+PMID: 11339839 [Indexed for MEDLINE]
+
+
+4. J Clin Psychiatry. 1980 Nov;41(11):397-8.
+
+Interaction of indomethacin and ibuprofen with lithium in manic patients under a 
+steady-state lithium level.
+
+Ragheb M, Ban TA, Buchanan D, Frolich JC.
+
+The clinical effects of prostaglandin synthesis inhibitors were studied in 
+lithium treated manic patients. While indomethacin increased plasma lithium 
+concentration, the effect of ibuprofen was inconsistent. Adverse reactions 
+included tremors unrelated to changes in plasma lithium levels; nausea and 
+drowsiness in 1 ibuprofen treated patient possibly related to the slight 
+increase in plasma lithium, and a syndrome consisting of running nose, malaise 
+and generalized body aches in 1 indomethacin treated patient. Our findings are 
+in support of an important interaction between prostaglandin synthesis 
+inhibitors and especially indomethacin and lithium, which may result in an 
+increase in adverse reactions.
+
+PMID: 7440513 [Indexed for MEDLINE]

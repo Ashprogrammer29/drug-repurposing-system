@@ -1,0 +1,235 @@
+Reaction: Nephrogenic systemic fibrosis | Outcome: 5
+Reaction: Cardiac failure | Outcome: 5
+Reaction: Myelodysplastic syndrome | Outcome: 5
+Reaction: Arthritis | Outcome: 6
+Reaction: Joint swelling | Outcome: 6
+Reaction: Blood count abnormal | Outcome: 6
+Reaction: Asthenia | Outcome: 3
+Reaction: Malaise | Outcome: 3
+Reaction: Upper respiratory tract infection | Outcome: 1
+Reaction: Thrombocytopenia | Outcome: 1
+Reaction: Anaemia | Outcome: 1
+Reaction: Influenza like illness | Outcome: 1
+Reaction: Pyrexia | Outcome: 1
+Reaction: Atrial flutter | Outcome: 3
+Reaction: Atrioventricular block second degree | Outcome: 3
+Reaction: Superficial spreading melanoma stage unspecified | Outcome: 1
+Reaction: Nephrogenic systemic fibrosis | Outcome: 3
+Reaction: Listeriosis | Outcome: 5
+Reaction: Loss of consciousness | Outcome: 6
+Reaction: Drug reaction with eosinophilia and systemic symptoms | Outcome: 1
+Reaction: Atrial fibrillation | Outcome: 6
+Reaction: Rib fracture | Outcome: 6
+Reaction: Neuropathy peripheral | Outcome: 6
+Reaction: Shoulder deformity | Outcome: 6
+Reaction: Intervertebral disc protrusion | Outcome: 6
+Reaction: Chest pain | Outcome: 6
+Reaction: Metastases to bone | Outcome: 6
+Reaction: Osteomyelitis | Outcome: 6
+Reaction: Nausea | Outcome: 6
+Reaction: Hepatosplenomegaly | Outcome: 6
+Reaction: Diverticulitis | Outcome: 6
+Reaction: Hypothyroidism | Outcome: 6
+Reaction: Peritonitis | Outcome: 6
+Reaction: Mitral valve incompetence | Outcome: 6
+Reaction: Upper respiratory tract infection | Outcome: 6
+Reaction: Cardiac failure congestive | Outcome: 6
+Reaction: Renal atrophy | Outcome: 6
+Reaction: Haemorrhage intracranial | Outcome: 6
+Reaction: Shock | Outcome: 6
+Reaction: Paraesthesia | Outcome: 6
+Reaction: Vertebral osteophyte | Outcome: 6
+Reaction: Kyphosis | Outcome: 6
+Reaction: Ventricular hypokinesia | Outcome: 6
+Reaction: Syncope | Outcome: 6
+Reaction: Lung infiltration | Outcome: 6
+Reaction: Spinal compression fracture | Outcome: 6
+Reaction: Toothache | Outcome: 6
+Reaction: Limb injury | Outcome: 6
+Reaction: Osteitis | Outcome: 6
+Reaction: Thrombocytopenia | Outcome: 6
+Reaction: Back pain | Outcome: 6
+Reaction: Osteopenia | Outcome: 6
+Reaction: Tooth impacted | Outcome: 6
+Reaction: Dizziness | Outcome: 6
+Reaction: Tricuspid valve incompetence | Outcome: 6
+Reaction: Pulmonary valve incompetence | Outcome: 6
+Reaction: Oral infection | Outcome: 6
+Reaction: Myositis | Outcome: 6
+Reaction: Interstitial lung disease | Outcome: 6
+Reaction: Pulmonary congestion | Outcome: 6
+Reaction: Lung consolidation | Outcome: 6
+Reaction: Limb discomfort | Outcome: 6
+Reaction: Trigger finger | Outcome: 6
+Reaction: Device occlusion | Outcome: 6
+Reaction: Generalised oedema | Outcome: 6
+Reaction: Fistula | Outcome: 6
+Reaction: Ecchymosis | Outcome: 6
+Reaction: Hepatic failure | Outcome: 6
+Reaction: Exposed bone in jaw | Outcome: 6
+Reaction: Bone loss | Outcome: 6
+Reaction: Bradycardia | Outcome: 6
+Reaction: Infection | Outcome: 6
+Reaction: Anaemia | Outcome: 6
+Reaction: Hyperparathyroidism | Outcome: 6
+Reaction: Device related sepsis | Outcome: 6
+Reaction: General physical health deterioration | Outcome: 6
+Reaction: Herpes zoster | Outcome: 6
+Reaction: Carpal tunnel syndrome | Outcome: 6
+Reaction: Hyperkalaemia | Outcome: 6
+Reaction: Plasma cell myeloma recurrent | Outcome: 6
+Reaction: Oesophagitis | Outcome: 6
+Reaction: Myopathy | Outcome: 6
+Reaction: Electrocardiogram QRS complex prolonged | Outcome: 6
+Reaction: Atypical femur fracture | Outcome: 6
+Reaction: Osteonecrosis | Outcome: 6
+Reaction: Intervertebral disc degeneration | Outcome: 6
+Reaction: Ligament disorder | Outcome: 6
+Reaction: Swelling | Outcome: 6
+Reaction: Sinusitis | Outcome: 6
+Reaction: Costochondritis | Outcome: 6
+Reaction: Mental status changes | Outcome: 6
+Reaction: Musculoskeletal pain | Outcome: 6
+Reaction: Upper airway resistance syndrome | Outcome: 6
+Reaction: Atrial flutter | Outcome: 6
+Reaction: Bone lesion | Outcome: 6
+Reaction: Immunosuppression | Outcome: 6
+Reaction: Post herpetic neuralgia | Outcome: 6
+Reaction: Skin lesion | Outcome: 6
+Reaction: Physical disability | Outcome: 6
+Reaction: Oedema peripheral | Outcome: 6
+Reaction: Lumbosacral plexus lesion | Outcome: 6
+Reaction: Radiation neuropathy | Outcome: 6
+Reaction: Cardiomyopathy | Outcome: 6
+Reaction: Calcinosis | Outcome: 6
+Reaction: Joint effusion | Outcome: 6
+Reaction: Joint range of motion decreased | Outcome: 6
+Reaction: Lacunar infarction | Outcome: 6
+Reaction: Cardiomegaly | Outcome: 6
+Reaction: Hypotension | Outcome: 6
+Reaction: Lumbar vertebral fracture | Outcome: 6
+Reaction: Body fat disorder | Outcome: 6
+Reaction: Deformity thorax | Outcome: 6
+Reaction: Sinus tachycardia | Outcome: 6
+Reaction: Pancytopenia | Outcome: 6
+Reaction: Pain | Outcome: 6
+Reaction: Emotional distress | Outcome: 6
+Reaction: Hypertension | Outcome: 6
+Reaction: Gingivitis | Outcome: 6
+Reaction: Radiation injury | Outcome: 6
+Reaction: Hypertensive heart disease | Outcome: 6
+Reaction: Gastrooesophageal reflux disease | Outcome: 6
+Reaction: Hypertrophy | Outcome: 6
+Reaction: Tendon disorder | Outcome: 6
+Reaction: Thoracic vertebral fracture | Outcome: 6
+Reaction: Aneurysm | Outcome: 6
+Reaction: Arteriosclerosis | Outcome: 6
+Reaction: Hypoglycaemia | Outcome: 6
+Reaction: Osteolysis | Outcome: 6
+Reaction: Synovitis | Outcome: 6
+Reaction: Arteriosclerosis coronary artery | Outcome: 6
+Reaction: Arthritis | Outcome: 6
+Reaction: Febrile neutropenia | Outcome: 6
+Reaction: Spinal fracture | Outcome: 6
+Reaction: Osteonecrosis of jaw | Outcome: 6
+Reaction: Injury | Outcome: 6
+Reaction: Anxiety | Outcome: 6
+Reaction: Renal failure acute | Outcome: 6
+Reaction: Hypercalcaemia | Outcome: 6
+Reaction: Dysuria | Outcome: 6
+Reaction: Acidosis | Outcome: 6
+Reaction: Pelvic fracture | Outcome: 6
+Reaction: Hyperphosphataemia | Outcome: 6
+Reaction: Osteoporosis | Outcome: 6
+Reaction: Intercostal neuralgia | Outcome: 6
+Reaction: Myofascial pain syndrome | Outcome: 6
+Reaction: Spinal osteoarthritis | Outcome: 6
+Reaction: Hydronephrosis | Outcome: 6
+Reaction: Bone marrow failure | Outcome: 6
+Reaction: Hiatus hernia | Outcome: 6
+Reaction: Ventricular extrasystoles | Outcome: 6
+Reaction: Left ventricular hypertrophy | Outcome: 6
+Reaction: Right ventricular dysfunction | Outcome: 6
+Reaction: Erectile dysfunction | Outcome: 6
+Reaction: Renal cyst | Outcome: 6
+Reaction: Haematochezia | Outcome: 6
+Reaction: Ascites | Outcome: 6
+Reaction: Intervertebral disc space narrowing | Outcome: 6
+Reaction: Arthropathy | Outcome: 6
+Reaction: Arrhythmia supraventricular | Outcome: 6
+Reaction: Dilatation ventricular | Outcome: 6
+Reaction: Micturition urgency | Outcome: 6
+Reaction: Periodontitis | Outcome: 6
+Reaction: Restless legs syndrome | Outcome: 6
+Reaction: Hyperthyroidism | Outcome: 6
+Reaction: Enthesopathy | Outcome: 6
+Reaction: Asthenia | Outcome: 6
+Reaction: Scar | Outcome: 6
+Reaction: Renal failure chronic | Outcome: 6
+Reaction: Osteoarthritis | Outcome: 6
+Reaction: Impaired healing | Outcome: 6
+Reaction: Muscular weakness | Outcome: 6
+Reaction: Gingival abscess | Outcome: 6
+Reaction: Pyrexia | Outcome: 6
+Reaction: Pericarditis | Outcome: 6
+Reaction: Gastritis erosive | Outcome: 6
+Reaction: Ventricular hypertrophy | Outcome: 6
+Reaction: Left atrial dilatation | Outcome: 6
+Reaction: Right atrial dilatation | Outcome: 6
+Reaction: Pathological fracture | Outcome: 6
+Reaction: Optic ischaemic neuropathy | Outcome: 6
+Reaction: Hip fracture | Outcome: 6
+Reaction: Ejection fraction decreased | Outcome: 6
+Reaction: Chronic obstructive pulmonary disease | Outcome: 6
+Reaction: Bursitis | Outcome: 6
+Reaction: Aortic disorder | Outcome: 6
+Reaction: Sleep apnoea syndrome | Outcome: 6
+Reaction: Urticaria | Outcome: 6
+Reaction: Aortic valve incompetence | Outcome: 6
+Reaction: Coronary artery disease | Outcome: 6
+Reaction: Respiratory distress | Outcome: 6
+Reaction: Atrioventricular block | Outcome: 6
+Reaction: Gallbladder disorder | Outcome: 6
+Reaction: Scrotal disorder | Outcome: 6
+Reaction: Proteinuria | Outcome: 6
+Reaction: Loose tooth | Outcome: 6
+Reaction: Cor pulmonale chronic | Outcome: 6
+Reaction: Peripheral venous disease | Outcome: 6
+Reaction: Retinal artery occlusion | Outcome: 6
+Reaction: Bundle branch block right | Outcome: 6
+Reaction: Intervertebral disc compression | Outcome: 6
+Reaction: Headache | Outcome: 6
+Reaction: Nephrolithiasis | Outcome: 6
+Reaction: Dental caries | Outcome: 6
+Reaction: Pneumonia | Outcome: 6
+Reaction: Dyspnoea | Outcome: 6
+Reaction: Metastases to liver | Outcome: 6
+Reaction: Disseminated intravascular coagulation | Outcome: 6
+Reaction: Pneumonitis | Outcome: 6
+Reaction: Myocardial infarction | Outcome: 6
+Reaction: Pulmonary hypertension | Outcome: 6
+Reaction: Fall | Outcome: 6
+Reaction: Pleural effusion | Outcome: 6
+Reaction: Purulent discharge | Outcome: 6
+Reaction: Subdural haematoma | Outcome: 6
+Reaction: Rotator cuff syndrome | Outcome: 6
+Reaction: Hepatic lesion | Outcome: 6
+Reaction: Congenital cystic kidney disease | Outcome: 6
+Reaction: Wound | Outcome: 6
+Reaction: Nephrosclerosis | Outcome: 6
+Reaction: Palpitations | Outcome: 6
+Reaction: Cellulitis | Outcome: 1
+Reaction: Nocardiosis | Outcome: 1
+Reaction: Small intestinal obstruction | Outcome: 1
+Reaction: Strongyloidiasis | Outcome: 1
+Reaction: Follicular thyroid cancer | Outcome: 1
+Reaction: Plasma cell myeloma | Outcome: 1
+Reaction: Chillblains | Outcome: 1
+Reaction: Tongue neoplasm malignant stage unspecified | Outcome: 3
+Reaction: Plasma cell myeloma | Outcome: 4
+Reaction: Lower respiratory tract infection | Outcome: 1
+Reaction: Cellulitis | Outcome: 3
+Reaction: Death | Outcome: 5
+Reaction: Haemoglobin decreased | Outcome: 6
+Reaction: Osteonecrosis of jaw | Outcome: 1
+Reaction: Disease progression | Outcome: 6

@@ -1,0 +1,1293 @@
+1. Am J Ther. 2019 Jul/Aug;26(4):e520-e526. doi: 10.1097/MJT.0000000000000766.
+
+Sildenafil for Pulmonary Arterial Hypertension.
+
+Bhogal S(1), Khraisha O(1), Al Madani M(1), Treece J(1), Baumrucker SJ(2), Paul 
+TK(1).
+
+Author information:
+(1)Department of Medicine, Division of Cardiology, East Tennessee State 
+University, Johnson City, TN.
+(2)Department of Hospice and Palliative Medicine Wellmont Health System, 
+Kingsport, TN.
+
+Pulmonary hypertension is a life-threatening illness with debilitating physical 
+and emotional consequences. The progression of this devastating disease is 
+characterized by a continuous increase in pulmonary vascular resistance, which 
+results in elevated pulmonary artery pressure and leads to right heart failure. 
+Treatment is focused on targeting the underlying complex etiology via the 
+endothelin, prostacyclin, and nitric oxide (NO) pathways. Emergence of new 
+treatments over the past 2 decades has led to improvement in the functional 
+status and time to clinical worsening. Even with recent advances, outcomes 
+remain suboptimal. Phosphodiesterase-5 (PDE-5) inhibitors, such as sildenafil, 
+were approved for treatment of pulmonary arterial hypertension (PAH) by the Food 
+and Drug Administration (FDA) in 2005, which holds promise in improving quality 
+of life and therefore making this class of medications effective palliative 
+therapy agents. In this review, we summarize the emergence of sildenafil as a 
+treatment for PAH and its role as palliative therapy.
+
+DOI: 10.1097/MJT.0000000000000766
+PMID: 30946047 [Indexed for MEDLINE]
+
+
+2. Fundam Clin Pharmacol. 2021 Apr;35(2):235-259. doi: 10.1111/fcp.12633. Epub
+2020  Dec 2.
+
+Sildenafil beyond erectile dysfunction and pulmonary arterial hypertension: 
+Thinking about new indications.
+
+Ala M(1)(2), Mohammad Jafari R(1), Dehpour AR(1)(2).
+
+Author information:
+(1)Experimental Medicine Research Center, Tehran University of Medical Sciences, 
+Tehran, 13145-784, Iran.
+(2)Department of Pharmacology, School of Medicine, Tehran University of Medical 
+Sciences, Tehran, 13145-784, Iran.
+
+Sildenafil, approved two decades ago, is the inhibitor of phosphodiesterase 5 
+(PDE5). First of all, it was designated for angina pectoris, but soon it showed 
+a wonderful efficacy in erectile dysfunction (ED) and then pulmonary arterial 
+hypertension (PAH). Due to the distribution of phosphodiesterase (PDE) in almost 
+all organs, maybe it effects other diseases. Hence, a great number of 
+investigations began to understand the role of PDEi in different organs. 
+Preliminary research on sildenafil in cell culture and animal models has yielded 
+promising results. Soon, a greater number of animal researches and clinical 
+trials joined them. The results disclosed sildenafil can have beneficial effects 
+in each organ such as heart, liver, kidney, brain, and intestines. Furthermore, 
+it has significantly improved the prognosis of organ ischemia in various animal 
+models. Clinical trials in several diseases, such as recurrent spontaneous 
+miscarriage, fatty liver disease, bronchopulmonary dysplasia (BPD), heart 
+failure, and premature ejaculation (PE) brought promising results. Although some 
+clinical trials are available on the effects of sildenafil on various diseases, 
+further studies on humans are needed to consolidate the ultimate effects of 
+sildenafil. The aim of this review was to describe the effects of sildenafil on 
+each organ and explain its mechanisms of action. Further, other PDE inhibitors 
+such as tadalafil and vardenafil have been briefly discussed in parts of this 
+review.
+
+© 2020 Société Française de Pharmacologie et de Thérapeutique.
+
+DOI: 10.1111/fcp.12633
+PMID: 33226665 [Indexed for MEDLINE]
+
+
+3. Ann Palliat Med. 2022 Jan;11(1):339-351. doi: 10.21037/apm-21-3979.
+
+Sildenafil for adult Asian patients with pulmonary arterial hypertension: a 
+systematic review and meta-analysis.
+
+Shi Q(1), Wang Z(2), Yang N(2), Ma Y(3), Chen Y(4), Wei H(5), Yao H(6).
+
+Author information:
+(1)Evidence-based Medicine Center, School of Basic Medical Sciences, Lanzhou 
+University, Lanzhou, China; Lanzhou University Institute of Health Data Science, 
+Lanzhou, China.
+(2)Evidence-based Medicine Center, School of Basic Medical Sciences, Lanzhou 
+University, Lanzhou, China.
+(3)School of Chinese Medicine, Hong Kong Baptist University, Hong Kong, China.
+(4)Evidence-based Medicine Center, School of Basic Medical Sciences, Lanzhou 
+University, Lanzhou, China; Lanzhou University Institute of Health Data Science, 
+Lanzhou, China; WHO Collaborating Center for Guideline Implementation and 
+Knowledge Translation, Lanzhou, China; Lanzhou University GRADE Center, Lanzhou, 
+China.
+(5)Key Lab of Preclinical Study for New Drugs of Gansu Province, School of Basic 
+Medical Sciences, Lanzhou University, Lanzhou, China.
+(6)Department of Cardiology, Guangdong Provincial People's Hospital, Guangzhou, 
+China.
+
+BACKGROUND: The prognosis of patients with untreated pulmonary arterial 
+hypertension (PAH) has historically been poor. Previous studies have recommended 
+that sildenafil was beneficial, but the dose varies greatly. In this study, we 
+aimed to evaluate the safety and effectiveness of sildenafil [dose: 20 mg/three 
+times a day (TID)] for adult Asian PAH patients.
+METHODS: Electronic databases (MEDLINE, Embase, Web of Science, the Cochrane 
+Library, CBM, CNKI, and Wanfang Data) were searched from their inception to 
+January 2022. We recruited all randomized controlled trials and non-randomized 
+studies of interventions that compared sildenafil (20 mg/TID) versus placebo or 
+symptomatic treatment for adult Asian PAH patients.
+RESULTS: A total of 10 studies involving 480 participants were included. 
+Compared to symptomatic treatment, sildenafil-treated patients were more likely 
+to walk 57.68 meters further in six-minute walk distance [mean difference (MD) 
+=57.68 m, 95% confidence interval (CI): 41.55 to 73.81], achieve an improvement 
+in systemic arterial oxygen saturation (MD =2.48%, 95% CI: 1.26 to 3.71), and 
+increase the score of the Borg scale for dyspnea (MD =-0.99 points, 95% CI: 
+-1.45 to -0.53). The total number of patients with World Health Organization 
+class III and IV also exhibited a downtrend. Compared to the placebo, sildenafil 
+was associated with a reduction in the mean pulmonary artery pressure (MD =-4.13 
+mmHg, 95% CI: -6.52 to -1.74) and the level of brain natriuretic peptide (MD 
+=-86.16 pg/mL, 95% CI: -103.39 to -68.93). The most common adverse events were 
+headache, flushing, dyspepsia, and diarrhea, which were relatively mild.
+DISCUSSION: Sildenafil at a dose of 20 mg/TID is well tolerated in adult Asian 
+PAH patients, and is associated with statistically significant improvements in 
+exercise capacity, cardio-pulmonary function, and haemodynamic indices. The 
+long-term prognosis still needs to be evaluated and confirmed by further trials.
+
+DOI: 10.21037/apm-21-3979
+PMID: 35144425 [Indexed for MEDLINE]
+
+
+4. J Am Coll Cardiol. 2010 May 4;55(18):1915-22. doi: 10.1016/j.jacc.2010.01.027.
+
+Addition of inhaled treprostinil to oral therapy for pulmonary arterial 
+hypertension: a randomized controlled clinical trial.
+
+McLaughlin VV(1), Benza RL, Rubin LJ, Channick RN, Voswinckel R, Tapson VF, 
+Robbins IM, Olschewski H, Rubenfire M, Seeger W.
+
+Author information:
+(1)University of Michigan Health System, CVC Cardiovascular Medicine, Ann Arbor, 
+Michigan 48109-5853, USA. vmclaugh@umich.edu
+
+Comment in
+    Nat Rev Cardiol. 2010 Jul;7(7):359. doi: 10.1038/nrcardio.2010.79.
+
+OBJECTIVES: This study assessed the efficacy and safety of inhaled treprostinil 
+in pulmonary arterial hypertension (PAH) patients receiving therapy with either 
+bosentan or sildenafil.
+BACKGROUND: There is no cure for PAH, despite effective treatments, and outcomes 
+remain suboptimal. The addition of inhaled treprostinil, a long-acting 
+prostacyclin analog, might be a safe and effective treatment addition to other 
+PAH-specific oral therapies.
+METHODS: Two hundred thirty-five PAH patients with New York Heart Association 
+(NYHA) functional class III (98%) or IV symptoms and a 6-min walk distance 
+(6MWD) of 200 to 450 m while treated with bosentan (70%) or sildenafil were 
+randomized to inhaled treprostinil (up to 54 mug) or inhaled placebo 4 times 
+daily. The primary end point was peak 6MWD at 12 weeks. Secondary end points 
+included time to clinical worsening, Borg Dyspnea Score, NYHA functional class, 
+12-week trough 6MWD, 6-week peak 6MWD, quality of life, and PAH signs and 
+symptoms. The biomarker N-terminal pro-brain natriuretic peptide (NT-proBNP) was 
+assessed.
+RESULTS: Twenty-three patients withdrew from the study prematurely (13 
+treprostinil, 10 placebo). The Hodges-Lehmann between-treatment median 
+difference in change from baseline in peak 6MWD was 19 m at week 6 (p = 0.0001) 
+and 20 m at week 12 (p = 0.0004). Hodges-Lehmann between-treatment median 
+difference in change from baseline in trough 6MWD at week 12 was 14 m (p = 
+0.0066). Quality of life measures and NT-proBNP improved on active therapy. 
+There were no improvements in other secondary end points, including time to 
+clinical worsening, Borg Dyspnea Score, NYHA functional class, and PAH signs and 
+symptoms. Inhaled treprostinil was safe and well-tolerated.
+CONCLUSIONS: This trial demonstrates that, among PAH patients who remain 
+symptomatic on bosentan or sildenafil, inhaled treprostinil improves exercise 
+capacity and quality of life and is safe and well-tolerated. (TRIUMPH I: Double 
+Blind Placebo Controlled Clinical Investigation Into the Efficacy and 
+Tolerability of Inhaled Treprostinil Sodium in Patients With Severe Pulmonary 
+Arterial Hypertension; NCT00147199).
+
+Copyright 2010 American College of Cardiology Foundation. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jacc.2010.01.027
+PMID: 20430262 [Indexed for MEDLINE]
+
+
+5. Adv Sci (Weinh). 2024 Oct;11(40):e2407712. doi: 10.1002/advs.202407712. Epub 
+2024 Aug 29.
+
+miR-30d Attenuates Pulmonary Arterial Hypertension via Targeting MTDH and PDE5A 
+and Modulates the Beneficial Effect of Sildenafil.
+
+Liang X(1)(2)(3), Zhou J(1)(2)(3), Wang H(1)(2)(3), Zhang Z(1)(2)(3), Yin 
+M(1)(2)(3), Zhu Y(1)(2)(3), Li L(1)(2)(3), Chen C(1)(2)(3), Wei M(1)(2)(3), Hu 
+M(1)(2)(3), Zhao C(4), Yao J(5)(6), Li G(7), Dinh-Xuan AT(8), Xiao J(1)(2)(3), 
+Bei Y(1)(2)(3).
+
+Author information:
+(1)Institute of Geriatrics (Shanghai University), Affiliated Nantong Hospital of 
+Shanghai University (The Sixth People's Hospital of Nantong) and School of Life 
+Science, Shanghai University, Nantong, 226011, China.
+(2)Joint International Research Laboratory of Biomaterials and Biotechnology in 
+Organ Repair (Ministry of Education), Shanghai University, Shanghai, 200444, 
+China.
+(3)Cardiac Regeneration and Ageing Lab, Institute of Cardiovascular Sciences, 
+Shanghai Engineering Research Center of Organ Repair, School of Medicine, 
+Shanghai University, Shanghai, 200444, China.
+(4)Department of Cardiology, Shanghai Tongji Hospital, Tongji University School 
+of Medicine, Shanghai, 200065, China.
+(5)Department of Cardiology, Tenth People's Hospital, School of Medicine, Tongji 
+University, Shanghai, 200090, China.
+(6)Department of Cardiology, Shigatse People's Hospital, Tibet, 857000, China.
+(7)Cardiovascular Division of the Massachusetts General Hospital and Harvard 
+Medical School, Boston, MA, 02114, USA.
+(8)Lung Function & Respiratory Physiology Units, Department of Respiratory 
+Physiology and Sleep Medicine, Cochin & George Pompidou Hospitals, Assistance 
+Publique-Hôpitaux de Paris (APHP) Centre, University Paris Cité, Paris, 75014, 
+France.
+
+Pulmonary arterial hypertension (PAH) is associated with aberrant pulmonary 
+vascular smooth muscle cell (PASMC) function and vascular remodeling. MiR-30d 
+plays an important role in the pathogenesis of several cardiovascular disorders. 
+However, the function of miR-30d in PAH progression remained unknown. Our study 
+shows that circulating miR-30d level is significantly reduced in the plasma from 
+PAH patients. In miR-30d transgenic (TG) rats, overexpressing miR-30d attenuates 
+monocrotaline (MCT)-induced pulmonary hypertension (PH) and pulmonary vascular 
+remodeling. Increasing miR-30d also inhibits platelet-derived growth factor-bb 
+(PDGF-bb)-induced proliferation and migration of human PASMC. Metadherin (MTDH) 
+and phosphodiesterase 5A (PDE5A) are identified as direct target genes of 
+miR-30d. Meanwhile, nuclear respiratory factor 1 (NRF1) acts as a positive 
+upstream regulator of miR-30d. Using miR-30d knockout (KO) rats treated with 
+sildenafil, a PDE5A inhibitor that is used in clinical PAH therapies, it is 
+further found that suppressing miR-30d partially attenuates the beneficial 
+effect of sildenafil against MCT-induced PH and vascular remodeling. The present 
+study shows a protective effect of miR-30d against PAH and pulmonary vascular 
+remodeling through targeting MTDH and PDE5A and reveals that miR-30d modulates 
+the beneficial effect of sildenafil in treating PAH. MiR-30d should be a 
+prospective target to treat PAH and pulmonary vascular remodeling.
+
+© 2024 The Author(s). Advanced Science published by Wiley‐VCH GmbH.
+
+DOI: 10.1002/advs.202407712
+PMCID: PMC11516105
+PMID: 39206778 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+6. Expert Opin Pharmacother. 2006 Sep;7(13):1801-10. doi: 
+10.1517/14656566.7.13.1801.
+
+Sildenafil for pulmonary arterial hypertension: when blue turns into white.
+
+Antoniu SA(1).
+
+Author information:
+(1)Clinic of Pulmonary Disease, Gr.T.Popa Iasi, 30 Dr I Cihac Str, 700115, Iasi, 
+Romania. sabinaantoniu@excite.com
+
+Pulmonary arterial hypertension is a life-threatening, rare disease 
+characterised by vasoconstriction and vascular remodelling of pulmonary artery 
+vessels. Pulmonary arterial hypertension can occur without an obvious cause or 
+can be secondary. Until several years ago, therapeutic approaches were 
+represented mainly by 'conventional therapy' (anticoagulants, calcium channel 
+blockers, diuretics and digoxin, and oxygen therapy). But recently 'specific 
+therapies' (i.e., therapies targeting specific pathogenic pathways) have become 
+available; these are therapies represented by prostacyclin and its derivatives, 
+endothelin receptor antagonists or phosphodiesterase-5 inhibitors. Sildenafil 
+citrate is a phosphodiesterase-5 inhibitor and is the second oral 
+pharmacological agent recently approved for the treatment of pulmonary arterial 
+hypertension. Sildenafil has demonstrated short- and long-term clinical efficacy 
+in the treatment of various forms of pulmonary arterial hypertension, either 
+alone or in combination with other agents, but its safety profile needs further 
+assessment.
+
+DOI: 10.1517/14656566.7.13.1801
+PMID: 16925506 [Indexed for MEDLINE]
+
+
+7. Drugs. 2008;68(3):383-97. doi: 10.2165/00003495-200868030-00009.
+
+Sildenafil: a review of its use in pulmonary arterial hypertension.
+
+Croom KF(1), Curran MP.
+
+Author information:
+(1)Wolters Kluwer Health, Adis, Auckland, New Zealand.
+
+Sildenafil citrate (Revatio), an inhibitor of phosphodiesterase type 5 (PDE5), 
+is approved for use in the US, Europe and other countries for the treatment of 
+pulmonary arterial hypertension (PAH). Oral sildenafil 20 mg three times daily 
+added to conventional background therapy was significantly more effective than 
+placebo at increasing exercise capacity in patients with idiopathic PAH or PAH 
+associated with connective tissue diseases or repaired congenital 
+systemic-to-pulmonary shunts. Sildenafil was also associated with improvements 
+in WHO functional class and haemodynamic parameters, and was generally well 
+tolerated. Sildenafil provides benefits in terms of exercise capacity when added 
+to epoprostenol; however, these findings come from a trial that did not use the 
+approved dosage of sildenafil. In conclusion, sildenafil is an effective oral 
+treatment option for patients with PAH.
+
+DOI: 10.2165/00003495-200868030-00009
+PMID: 18257613 [Indexed for MEDLINE]
+
+
+8. Pediatr Pulmonol. 2021 Jul;56(7):2250-2258. doi: 10.1002/ppul.25427. Epub 2021
+ May 3.
+
+Systematic review and cost-effectiveness of bosentan and sildenafil as 
+therapeutic drugs for pediatric pulmonary arterial hypertension.
+
+Chen T(1), Chen J(2)(3), Chen C(1), Zheng H(1), Chen Y(4), Liu M(5), Zheng B(5).
+
+Author information:
+(1)School of Pharmacy, Fujian Medical University, Fuzhou, China.
+(2)Department of Pharmaceutical and Health Economics, School of Pharmacy, 
+University of Southern California, Los Angeles, California, USA.
+(3)Leonard D. Schaeffer Center for Health Policy and Economics, University of 
+Southern California, Los Angeles, California, USA.
+(4)Department of Pediatrics, Fujian Medical University Union Hospital, Fuzhou, 
+China.
+(5)Department of Pharmacy, Fujian Medical University Union Hospital, Fuzhou, 
+China.
+
+BACKGROUND: Pulmonary arterial hypertension (PAH) is a rare disease in children, 
+with significant mortality. Because of the limited research on pediatric PAH, 
+first, systematic review of related drugs is conducted, and then economic 
+evaluation of PAH drug treatment programs is conducted, which to provide a 
+reference for the choice of more cost-effective treatment options.
+METHODS: The search includes electronic databases such as Pubmed, ScienceDirect, 
+and Embase. Through inclusion and exclusion criteria, screen high-quality 
+randomized controlled trials. We used TreeAge Pro 2011 software to construct the 
+markov model, that to simulate the total medical cost and quality-adjusted life 
+years (QALYs), and to calculate the incremental cost-effectiveness ratio. 
+Sensitivity analysis of transfer probability, utility, and cost was carried out.
+RESULTS: Incorporate two studies that meet the criteria, one compared the 
+therapeutic effects of bosentan and placebo on pediatric PAH, the other compared 
+therapeutic effects of sildenafil and placebo on pediatric PAH, both articles 
+were of good quality. Compared with the sildenafil group (3.38QALYs and 
+$161,120.14), the QALY of the bosentan treatment group (3.33QALYs and 
+$257,411.29) was reduced by 0.05, and the cost increased by $96,291.15. The 
+estimated improvement to quality of life and reduced costs result in an estimate 
+of economic dominance for sildenafil over bosentan. This dominant result 
+persisted probabilistic analyses.
+CONCLUSIONS: Based on this model, a more cost-effective treatment drug for PAH 
+in children is sildenafil.
+
+© 2021 Wiley Periodicals LLC.
+
+DOI: 10.1002/ppul.25427
+PMID: 33856119 [Indexed for MEDLINE]
+
+
+9. Cardiol Young. 2020 Dec;30(12):1882-1889. doi: 10.1017/S104795112000311X. Epub
+ 2020 Oct 20.
+
+Safety and effect of sildenafil on treating paediatric pulmonary arterial 
+hypertension: a meta-analysis on the randomised controlled trials.
+
+Zhang Q(1), Xu B(1), Lv J(1), Wang Z(1), Du J(1).
+
+Author information:
+(1)Department of Paediatrics, Peking University First Hospital, Beijing100034, 
+China.
+
+BACKGROUND: Efficacy of sildenafil in treating paediatric pulmonary arterial 
+hypertension is controversial. This systematic review aimed to explore the 
+safety and effect of sildenafil on treating paediatric pulmonary arterial 
+hypertension (PAH) through meta-analysis.
+METHODS AND RESULTS: In this study, the electronic databases, including the 
+Cochran Library database, EMBASE, and MEDLINE were systemically retrieved to 
+identify the related randomised controlled trials (RCTs). Two reviewers had 
+independently completed study selection, data collection, and assessment of the 
+bias risk. Amongst 938 articles researched according to our retrieval strategy, 
+15 papers that involved 673 cases had been screened. Relative to control group, 
+the sildenafil group had markedly reduced mortality (RR = 0.25, 95% CI: 
+0.12-0.51; p < 0.0001), but difference within the mortality was not 
+statistically significant between high- and low-dose sildenafil groups (p = 
+0.152). Nonetheless, difference of the mean pulmonary arterial pressure between 
+sildenafil as well as control group was of no statistical significance. 
+Differences in the length of hospital stay and the incidences of pulmonary 
+hypertensive crisis between children with PAH and controls were of no 
+statistical significance. However, the summary estimate favoured that sildenafil 
+reduced the duration of mechanical ventilation time, as well as the length of 
+ICU stay and inotropic support.
+CONCLUSIONS: Sildenafil therapy reduces the mortality of PAH patients, but its 
+effects on the haemodynamic outcomes and other clinical outcomes are still 
+unclear.
+
+DOI: 10.1017/S104795112000311X
+PMID: 33077013 [Indexed for MEDLINE]
+
+
+10. J Postgrad Med. 2015 Jul-Sep;61(3):181-92. doi: 10.4103/0022-3859.159421.
+
+Sildenafil in pediatric pulmonary arterial hypertension.
+
+Dhariwal AK(1), Bavdekar SB.
+
+Author information:
+(1)Department of Pediatrics, Topiwala National Medical College and BYL Nair 
+Charitable Hospital, Mumbai, Maharashtra, India.
+
+Pulmonary arterial hypertension (PAH) is a life-threatening disease of varied 
+etiologies. Although PAH has no curative treatment, a greater understanding of 
+pathophysiology, technological advances resulting in early diagnosis, and the 
+availability of several newer drugs have improved the outlook for patients with 
+PAH. Sildenafil is one of the therapeutic agents used extensively in the 
+treatment of PAH in children, as an off-label drug. In 2012, the United States 
+Food and Drug Administration (USFDA) issued a warning regarding the of use 
+high-dose sildenafil in children with PAH. This has led to a peculiar situation 
+where there is a paucity of approved therapies for the management of PAH in 
+children and the use of the most extensively used drug being discouraged by the 
+regulator. This article provides a review of the use of sildenafil in the 
+treatment of PAH in children.
+
+DOI: 10.4103/0022-3859.159421
+PMCID: PMC4943407
+PMID: 26119438 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest: None declared.
+
+
+11. BMC Pulm Med. 2022 Apr 12;22(1):142. doi: 10.1186/s12890-022-01939-7.
+
+Dapagliflozin, sildenafil and their combination in monocrotaline-induced 
+pulmonary arterial hypertension.
+
+Tang Y(#)(1), Tan S(#)(2), Li M(2), Tang Y(2), Xu X(3), Zhang Q(1), Fu Q(1), 
+Tang M(1), He J(1), Zhang Y(1), Zheng Z(1), Peng J(4), Zhu T(5), Xie W(6).
+
+Author information:
+(1)Department of Cardiology, Hunan Provincial People's Hospital, The First 
+Affiliated Hospital of Hunan Normal University, Clinical Medicine Research 
+Center of Heart Failure of Hunan Province, Hunan Normal University, Changsha, 
+410005, China.
+(2)Hunan Provincial People's Hospital, The First Affiliated Hospital of Hunan 
+Normal University, Changsha, 410005, China.
+(3)Department of Gastroenterology, Hunan Provincial People's Hospital, The First 
+Affiliated Hospital of Hunan Normal University, Hunan Normal University, 
+Changsha, 410005, China.
+(4)Department of Cardiology, Hunan Provincial People's Hospital, The First 
+Affiliated Hospital of Hunan Normal University, Clinical Medicine Research 
+Center of Heart Failure of Hunan Province, Hunan Normal University, Changsha, 
+410005, China. 2925772400@qq.com.
+(5)Department of Cardiovascular Medicine, The Second Xiangya Hospital, Central 
+South University, Changsha, 410011, China. zhuxi.teng@163.com.
+(6)Department of Pathology, The Seventh Affiliated Hospital of Sun Yat-Sen 
+University, Shenzhen, 518017, China. xiewlin@mail.sysu.edu.cn.
+(#)Contributed equally
+
+BACKGROUND: Dapagliflozin, a selective inhibitor of sodium-glucose cotransporter 
+2 (SGLT2), can reduce cardiovascular events and mortality in patients with heart 
+failure. A number of mechanisms have been proposed to explain the beneficial 
+effects of SGLT2 inhibitors. The purpose of this study was to determine whether 
+dapagliflozin can improve pulmonary vascular remodelling and the efficacy of 
+dapagliflozin as an add-on therapy to sildenafil in rats with pulmonary arterial 
+hypertension (PAH).
+METHODS: A monocrotaline (MCT)-induced PAH rat model was used in our study. 
+MCT-injected rats were randomly divided into four groups and treated for 3 weeks 
+with daily per os treatment with vehicle, dapagliflozin (1 mg/kg/day), 
+sildenafil (25 mg/kg/day), or a combination of dapagliflozin (1 mg/kg/day) and 
+sildenafil (25 mg/kg/day). Haemodynamic measurements, histological analysis, 
+enzyme-linked immunosorbent assay and western blotting analysis were employed to 
+detect the changes in PAH rats after treatments.
+RESULTS: Dapagliflozin significantly attenuated MCT-induced increases in right 
+ventricular systolic pressure (RVSP) and right ventricular hypertrophy (RVH) in 
+PAH rats. Dapagliflozin effectively decreased the thickening of pulmonary artery 
+media and decreased the muscularization of pulmonary arterioles in PAH rats. 
+Moreover, dapagliflozin attenuated nucleotide-binding domain-like receptor 
+protein 3 (NLRP3) inflammasome activation in lung tissues and the levels of 
+interleukin-1β (IL-1β) and interleukin-18 (IL-18) in plasma. However, 
+dapagliflozin as an add-on therapy to sildenafil in rats with PAH did not show a 
+more pronounced beneficial effect on right ventricular systolic pressure and 
+pulmonary vascular remodelling in MCT rats than sildenafil alone.
+CONCLUSIONS: Dapagliflozin reduces right ventricular systolic pressure and 
+pulmonary vascular remodelling in a rat model of PAH. However, combination 
+therapy with dapagliflozin and sildenafil was not more effective than 
+monotherapy with sildenafil in PAH rats.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s12890-022-01939-7
+PMCID: PMC9006601
+PMID: 35413880 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+12. Braz J Anesthesiol. 2023 Jul-Aug;73(4):446-454. doi: 
+10.1016/j.bjane.2021.05.016. Epub 2021 Jun 9.
+
+Sildenafil in endotoxin-induced pulmonary hypertension: an experimental study.
+
+Kemper DAG(1), Otsuki DA(1), Maia DBRR(1), Mossoco CO(2), Marcasso RRA(3), Cunha 
+LCCM(4), Auler JOVC Jr(5), Fantoni DT(6).
+
+Author information:
+(1)Universidade de S.·o Paulo, Faculdade de Medicina, Hospital das Cl.ínicas, 
+LIM08 - Laborat..rio de Anestesiologia, S.·o Paulo, SP, Brazil.
+(2)Universidade de S.·o Paulo, Faculdade de Medicina Veterin..ria e Zootecnia, 
+Departamento de Patologia, S.·o Paulo, SP, Brazil.
+(3)Universidade Norte do Paran.., Faculdade de Medicina Veterin..ria, Arapongas, 
+PR, Brazil.
+(4)Universidade de S.·o Paulo, Faculdade de Medicina, Hospital das Cl.ínicas, 
+Departamento de Anestesiologia, S.·o Paulo, SP, Brazil.
+(5)Universidade de S.·o Paulo, Faculdade de Medicina, Hospital das Cl.ínicas, 
+LIM08 - Laborat..rio de Anestesiologia, S.·o Paulo, SP, Brazil. Electronic 
+address: auler.junior@hc.fm.usp.br.
+(6)Universidade de S.·o Paulo, Faculdade de Medicina Veterin..ria e Zootecnia, 
+Departamento de Cirurgia, S.·o Paulo, SP, Brazil.
+
+BACKGROUND: Sepsis and septic shock still represent great challenges in critical 
+care medicine. Sildenafil has been largely used in the treatment of pulmonary 
+arterial hypertension, but its effects in sepsis are unknown. The aim of this 
+study was to investigate the hypothesis that sildenafil can attenuate 
+endotoxin-induced pulmonary hypertension in a porcine model of endotoxemia.
+METHODS: Twenty pigs were randomly assigned to Control group (n.ß=.ß10), which 
+received saline solution; or to Sildenafil group (n.ß=.ß10), which received 
+sildenafil orally (100.ßmg). After 30.ßminutes, both groups were submitted to 
+endotoxemia with intravenous bacterial lipopolysaccharide endotoxin (LPS) 
+infusion (4.ß..g.kg-1.h-1) for 180.ßminutes. We evaluated hemodynamic and 
+oxygenation functions, and also lung histology and plasma cytokine (TNF.., 
+IL-1.., IL6, and IL10) and troponin I response.
+RESULTS: Significant hemodynamic alterations were observed after 30.ßminutes of 
+LPS continuous infusion, mainly in pulmonary arterial pressure (from Baseline 
+19.ß...ß2.ßmmHg to LPS30 52.ß...ß4.ßmmHg, p.ß<.ß0.05). There was also a 
+significant decrease in PaO2/FiO2 (from Baseline 411.ß...ß29 to LPS180 
+334.ß...ß49, p.ß<.ß0.05). Pulmonary arterial pressure was significantly lower in 
+the Sildenafil group (35.ß...ß4.ßmmHg at LPS30, p.ß<.ß0.05). The Sildenafil 
+group also presented lower values of systemic arterial pressure. Sildenafil 
+maintained oxygenation with higher PaO2/FiO2 and lower oxygen extraction rate 
+than Control group but had no effect on intrapulmonary shunt. All cytokines and 
+troponin increased after LPS infusion in both groups similarly.
+CONCLUSION: Sildenafil attenuated endotoxin-induced pulmonary hypertension 
+preserving the correct heart function without improving lung lesions or 
+inflammation.
+
+Copyright © 2021. Published by Elsevier España, S.L.U.
+
+DOI: 10.1016/j.bjane.2021.05.016
+PMCID: PMC10362450
+PMID: 34118261 [Indexed for MEDLINE]
+
+
+13. Ann Pharmacother. 2005 May;39(5):869-84. doi: 10.1345/aph.1E426. Epub 2005
+Apr  12.
+
+Sildenafil for pulmonary hypertension.
+
+Lee AJ(1), Chiao TB, Tsang MP.
+
+Author information:
+(1)Thomas J Long School of Pharmacy, University of the Pacific, Veterans Affairs 
+Medical Center, San Francisco, CA, USA. audrey.lee@med.va.gov
+
+OBJECTIVE: To evaluate the efficacy of sildenafil for treatment of pulmonary 
+hypertension.
+DATA SOURCES: Literature retrieval was accessed through MEDLINE (1977-March 
+2005), Cochrane Library, and International Pharmaceutical Abstracts (1977-March 
+2005) using the terms sildenafil and pulmonary hypertension. In addition, 
+reference citations from publications identified were reviewed.
+STUDY SELECTION AND DATA EXTRACTION: All articles in English identified from the 
+data sources were evaluated. Studies including >5 patients with primarily adult 
+populations were included in the review.
+DATA SYNTHESIS: The treatment of pulmonary hypertension is challenging. 
+Sildenafil has recently been studied as monotherapy and in combination with 
+other vasodilators in the management of pulmonary hypertension. Eight 
+hemodynamic studies and 12 clinical trials were reviewed (1 retrospective, 3 
+double-blind, 8 open-label). Sildenafil reduced pulmonary arterial hypertension 
+and pulmonary vascular resistance/peripheral vascular resistance index and 
+tended to increase cardiac output/cardiac index compared with baseline. 
+Sildenafil was comparable to nitric oxide and at least as effective as iloprost 
+or epoprostenol in terms of its pulmonary vasoreactivity. Combination therapy 
+with iloprost, nitric oxide, or epoprostenol resulted in enhanced and prolonged 
+pulmonary vascular effects. Clinical trials suggest that sildenafil improves 
+exercise tolerance and New York Heart Association functional class, but large, 
+randomized controlled trials are needed to confirm these findings. Overall, 
+sildenafil was well tolerated.
+CONCLUSIONS: Overall, sildenafil is a promising and well-tolerated agent for 
+management of pulmonary hypertension. Further well-designed trials are warranted 
+to establish its place in the treatment of pulmonary hypertension.
+
+DOI: 10.1345/aph.1E426
+PMID: 15827074 [Indexed for MEDLINE]
+
+
+14. Bol Med Hosp Infant Mex. 2020;77(4):202-206. doi: 10.24875/BMHIM.20000041.
+
+Use of sildenafil for pulmonary hypertension in neonates.
+
+[Article in English]
+
+Márquez-González H(1), Ríos DI(2), Jean Tron MG(1), Barajas-Nava LA(3).
+
+Author information:
+(1)Servicio de Investigación Clínica, Hospital Infantil de México Federico 
+Gómez, Ciudad de México, México.
+(2)Departamento de Neonatología, Hospital Infantil de México Federico Gómez, 
+Ciudad de México, México.
+(3)Unidad de Investigación de Medicina Basada en Evidencias, Centro Asociado 
+Cochrane. Hospital Infantil de México Federico Gómez, Ciudad de México, México.
+
+Pulmonary arterial hypertension is a multifactorial nosological entity that 
+increases neonatal mortality as a result of heart failure. Pulmonary 
+vasodilators are the cornerstone of treatment, of which sildenafil is the most 
+commonly used drug. Therefore, the results of a recently updated Cochrane 
+systematic review are summarized, in which the efficacy and safety of sildenafil 
+for the treatment of pulmonary hypertension in neonates was evaluated.
+
+Publisher: La hipertensión arterial pulmonar es una enfermedad multifactorial 
+que incrementa la mortalidad en el neonato como consecuencia de falla cardiaca. 
+Los vasodilatadores pulmonares son la piedra angular del tratamiento, de los 
+cuales el ­sildenafil es el fármaco más empleado. A continuación, se resumen los 
+resultados de una revisión sistemática Cochrane en la que se evaluaron la 
+eficacia y la seguridad del sildenafil para el tratamiento de la hipertensión 
+arterial pulmonar en neonatos.
+
+Copyright: © 2020 Permanyer.
+
+DOI: 10.24875/BMHIM.20000041
+PMID: 32713951 [Indexed for MEDLINE]
+
+
+15. Pediatr Pulmonol. 2023 May;58(5):1562-1568. doi: 10.1002/ppul.26361. Epub
+2023  Feb 27.
+
+Ambrisentan for in pediatric pulmonary arterial hypertension: A cost-utility 
+analysis.
+
+Buendía JA(1), Patiño DG(1), Lindarte EF(1).
+
+Author information:
+(1)Research Group in Pharmacology and Toxicology"INFARTO", Department of 
+Pharmacology and Toxicology, University of Antioquia, Medellin, Colombia.
+
+INTRODUCTION: Despite the growing evidence of efficacy, little is known 
+regarding the efficiency of ambrisentan to decrease cost and improve the 
+functional classes of pediatric patients with pulmonary arterial hypertension. 
+This study aims to determine the cost-utility of ambrisentan regarding 
+sildenafil to treat pediatric patients with pulmonary arterial hypertension in 
+Colombia.
+METHODS: A decision tree model was used to estimate the cost and 
+quality-adjusted life-years (QALYs) of ambrisentan, or sildenafil in pediatric 
+patients with pulmonary arterial hypertension. Multiple sensitivity analyses 
+were conducted to evaluate the robustness of the model. Cost-effectiveness was 
+evaluated at a willingness-to-pay (WTP) value of US$5180.
+RESULTS: The base-case analysis showed that compared with sildenafil, 
+ambrisentan was associated with higher costs and higher QALYs. The expected 
+annual cost per patient with ambrisentan was US$16,105 and with sildenafil was 
+US$1431. The QALYs per person estimated with ambrisentan was 0.40 and for 
+sildenafil was 0.39. The estimated improvement in quality of life and reduced 
+costs results in an estimate of economic dominance for sildenafil over 
+ambrisentan.
+CONCLUSION: Our economic evaluation shows that ambrisentan is not cost-effective 
+regarding sildenafil to treat pediatric patients with pulmonary arterial 
+hypertension in Colombia. Our study provides evidence that should be used by 
+decision-makers to improve clinical practice guidelines.
+
+© 2023 Wiley Periodicals LLC.
+
+DOI: 10.1002/ppul.26361
+PMID: 36797849 [Indexed for MEDLINE]
+
+
+16. Circulation. 2024 Jun 18;149(25):1949-1959. doi: 
+10.1161/CIRCULATIONAHA.123.068107. Epub 2024 May 16.
+
+Randomized, Multicenter Study to Assess the Effects of Different Doses of 
+Sildenafil on Mortality in Adults With Pulmonary Arterial Hypertension.
+
+Hoeper MM(1)(2), Ewert R(3), Jansa P(4), Sirenko Y(5), Skride A(6), Balagtas 
+C(7), Hackley S(8), Vogt S(9), Abreu P(7), Haughie S(8), Hassan T(10), Oudiz 
+RJ(11).
+
+Author information:
+(1)Department of Respiratory Medicine and Infectious Diseases, Hannover Medical 
+School, Germany (M.M.H.).
+(2)German Center for Lung Research, Biomedical Research in End-Stage and 
+Obstructive Lung Disease Hanover (BREATH), Germany (M.M.H.).
+(3)Department of Respiratory Medicine, Universitätsmedizin Greifswald, Germany 
+(R.E.).
+(4)Department of Cardiovascular Medicine, General University Hospital, Prague, 
+Czech Republic (P.J.).
+(5)NSC MD Strazhesko Institute of Cardiology, Clinical and Regenerative Medicine 
+of the National AMS of Ukraine, Kyiv (Y.S.).
+(6)Rare Disease Unit, Riga Stradiņš University, Latvia (A.S.).
+(7)Pfizer Inc, New York, NY (C.B., P.A.).
+(8)Viatris/Mylan Pharma UK Ltd, Kent (S. Hackley, S. Haughie).
+(9)MEDA Pharma GmbH & Co KG (A Viatris Company), Hessen, Germany (S.V.).
+(10)Viatris Inc, Canonsburg, PA (T.H.).
+(11)Liu Center for Pulmonary Hypertension, Lundquist Institute at 
+Harbor-University of California, Los Angeles Medical Center, Torrance (R.J.O.).
+
+BACKGROUND: Sildenafil, approved for pulmonary arterial hypertension (PAH), has 
+a recommended adult dose of 20 mg TID, with a previously approved 5-mg TID dose 
+by the US Food and Drug Administration. Safety concerns arose because of common 
+off-label use of higher doses, particularly after pediatric data linked higher 
+doses to increased mortality. To assess this, the Food and Drug Administration 
+mandated a study evaluating the effects of various sildenafil doses on mortality 
+in adults with PAH.
+METHODS: This randomized, double-blind study compared sildenafil at doses of 5, 
+20, or 80 mg TID in adults with PAH. The primary objective was noninferiority of 
+80 mg of sildenafil versus 5 mg for all-cause mortality. Secondary end points 
+included time to clinical worsening and change in 6-minute walk distance at 6 
+months. Interim analyses were planned at 50% and 75% of the anticipated 
+mortality events. Safety and tolerability were assessed in the 
+intention-to-treat population.
+RESULTS: The study was halted after the first interim analysis, demonstrating 
+noninferiority for 80 mg of sildenafil versus 5 mg. Of 385 patients enrolled 
+across all dose groups, 78 died. The primary analysis showed a hazard ratio of 
+0.51 (99.7% CI, 0.22-1.21; P<0.001 for noninferiority) for overall survival 
+comparing 80 mg of sildenafil with 5 mg. Time to clinical worsening favored 80 
+mg of sildenafil compared with 5 mg (hazard ratio, 0.44 [99.7% CI, 0.22-0.89]; 
+P<0.001). Sildenafil at 80 mg improved 6-minute walk distance from baseline at 6 
+months compared with 5 mg (least square mean change, 18.9 m [95% CI, 
+2.99-34.86]; P=0.0201). No significant differences were found between 80 mg of 
+sildenafil and 20 mg in mortality, clinical worsening, and 6-minute walk 
+distance. Adverse event-related drug discontinuations were numerically higher 
+with 80 mg of sildenafil.
+CONCLUSIONS: Sildenafil at 80 mg was noninferior to sildenafil at 5 mg when 
+examining all-cause mortality in adults with PAH. Secondary efficacy end points 
+favored 80 mg of sildenafil over 5 mg. On the basis of these findings, the Food 
+and Drug Administration recently revoked the approval of 5 mg of sildenafil for 
+adults with PAH, reinforced 20 mg TID as the recommended dose, and now allows 
+dose titration up to 80 mg TID, if needed.
+REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: 
+NCT02060487.
+
+DOI: 10.1161/CIRCULATIONAHA.123.068107
+PMID: 38752352 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosures M.M.H. is a paid consultant and 
+speaker of pharmaceutical companies including Actelion, Acceleron, AOP Health, 
+Bayer, Ferrer, Gossamer, Janssen, Keros, and MSD. R.E. is a paid consultant for 
+advisory boards and scientific lectures from Janssen, Boehringer Ingelheim, AOP, 
+United Therapeutic, Novartis, AstraZeneca, and OMT. P.J. is a paid consultant 
+and speaker for numerous pharmaceutical companies and has received financial 
+grant for Janssen Pharmaceutical Companies of Johnson & Johnson, AOP Orphan, 
+Bayer Healthcare, MSD, and Arena Pharmaceuticals Inc. Y.S. is an employee of NSC 
+MD Strazhesko Institute of Cardiology, Clinical and Regenerative Medicine of the 
+National AMS of Ukraine. A.S. is a paid consultant of pharmaceutical companies 
+including Gossamer Bio, AOP Orphan, and Medison Pharma, and is paid as a speaker 
+for KRKA, Altavant Sciences. C.B. is currently employee of Pfizer and hold 
+stocks in Pfizer and Viatris. S. Hackley is a former employee of Pfizer and 
+current employee of Viatris and hold stocks in Viatris. S.V. is an employee of 
+MEDA Pharma GmbH & Co KG (A Viatris Company). P.A. hold shares of Pfizer. S. 
+Haughie hold stocks in Viatris. T.H. is currently employee of Viatris and hold 
+stocks of Viatris. R.J.O. is a principal investigator in studies and attends ad 
+hoc advisory boards sponsored by Aerovate, Gossamer Bio, Janssen, Keros, Merck, 
+and United Therapeutics. He is a paid speaker for Janssen and United 
+Therapeutics.
+
+
+17. Drug Des Devel Ther. 2010 May 25;4:61-70. doi: 10.2147/dddt.s6208.
+
+Update on the clinical utility of sildenafil in the treatment of pulmonary 
+arterial hypertension.
+
+Ramani GV(1), Park MH.
+
+Author information:
+(1)University of Maryland, Baltimore, MD, USA. gramani@medicine.umaryland.edu
+
+Sildenafil is an orally administered phosphodiesterase type 5 inhibitor that is 
+approved for the treatment of pulmonary arterial hypertension (PAH). The 
+hemodynamic effects of sildenafil are mitigated primarily via potentiating the 
+effects of endogenous nitric oxide, leading to smooth muscle cell relaxation and 
+reductions in pulmonary arterial pressures and pulmonary vascular resistance. 
+When added to standard background therapy in patients with idiopathic or 
+associated PAH from congenital heart disease, anorexigen use, or connective 
+tissue disease, sildenafil treatment results in improved exercise capacity as 
+measured by 6 minute walk distance, improved hemodynamics, and favorable changes 
+in quality of life. Sildenafil use is contraindicated with concomitant nitrate 
+administration, and caution should be exercised when used in combination with 
+antihypertensive agents due to risks of precipitating hypotension. Side effects 
+are generally mild, and include flushing, headaches, and epistaxis. The 
+combination of sildenafil with intravenous epoprostenol is safe and well 
+tolerated, and further improves exercise capacity. Sildenafil is approved only 
+for treatment of PAH, and although emerging data suggest a potential role in 
+treating other types of pulmonary hypertension, larger trials are required to 
+confirm these findings.
+
+DOI: 10.2147/dddt.s6208
+PMCID: PMC2880338
+PMID: 20531962 [Indexed for MEDLINE]
+
+
+18. Semin Perinatol. 2014 Aug;38(5):289-94. doi: 10.1053/j.semperi.2014.04.018.
+Epub  2014 May 27.
+
+Pulmonary arterial hypertension in pregnancy.
+
+Običan SG(1), Cleary KL(2).
+
+Author information:
+(1)Division of Maternal-Fetal Medicine, Department of Obstetrics and Gynecology, 
+Columbia University College of Physicians and Surgeons, 622 W 168th St, PH 
+16-66, New York, NY 10032. Electronic address: sgo2105@columbia.edu.
+(2)Division of Maternal-Fetal Medicine, Department of Obstetrics and Gynecology, 
+Columbia University College of Physicians and Surgeons, 622 W 168th St, PH 
+16-66, New York, NY 10032.
+
+Pulmonary hypertension is a medical condition characterized by elevated 
+pulmonary arterial pressure and secondary right heart failure. Pulmonary 
+arterial hypertension is a subset of pulmonary hypertension, which is 
+characterized by an underlying disorder of the pulmonary arterial vasculature. 
+Pulmonary hypertension can also occur secondarily to structural cardiac disease, 
+autoimmune disorders, and toxic exposures. Although pregnancies affected by 
+pulmonary hypertension and pulmonary arterial hypertension are rare, the 
+pathophysiology exacerbated by pregnancy confers both high maternal and fetal 
+mortality and morbidity. In light of new treatment modalities and the use of a 
+multidisciplinary approach to care, maternal outcomes may be improving.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.semperi.2014.04.018
+PMID: 25037519 [Indexed for MEDLINE]
+
+
+19. Respir Med. 2014 Mar;108(3):531-7. doi: 10.1016/j.rmed.2014.01.003. Epub 2014
+ Jan 15.
+
+Efficacy and safety of sildenafil treatment in pulmonary arterial hypertension: 
+a systematic review.
+
+Wang RC(1), Jiang FM(1), Zheng QL(1), Li CT(1), Peng XY(1), He CY(1), Luo J(1), 
+Liang ZA(2).
+
+Author information:
+(1)Department of Respiratory Medicine, West China Medical School and West China 
+Hospital, Sichuan University, No. 3, Guo Xie Xiang, Chengdu, Sichuan 610000, 
+China.
+(2)Department of Respiratory Medicine, West China Medical School and West China 
+Hospital, Sichuan University, No. 3, Guo Xie Xiang, Chengdu, Sichuan 610000, 
+China. Electronic address: liangzongan@hotmail.com.
+
+BACKGROUND: To evaluate the safety and efficacy of using sildenafil for ≥ 12 
+weeks to treat pulmonary arterial hypertension (PAH).
+METHODS: Randomized controlled trials (RCTs) of sildenafil therapy in patients 
+with PAH published through May 2013 were identified by searching PubMed, the 
+Cochrane Library, Embase, relevant websites, and reference lists of relevant 
+studies. Two reviewers independently assessed the quality of the trials and 
+extracted information.
+RESULTS: Meta-analysis was carried out with subsets of 4 trials involving 545 
+patients. Sildenafil therapy significantly reduced clinical worsening of PAH 
+compared to placebo (RR 0.39, 95% CI 0.21-0.69) and improved the 6-min walk 
+distance (MD 31.3 m, 95% CI 18.01-44.67), WHO functional class, hemodynamic 
+variables and health-related quality of life (HRQoL). Sildenafil did not, 
+however, improve all-cause mortality (RR 0.29, 95% CI 0.02-4.94) or Borg dyspnea 
+score relative to placebo, nor did it significantly affect the incidence of 
+serious adverse events. In fact, sildenafil was associated with higher total 
+incidence of adverse events, but these additional events were mild to moderate 
+in severity and were tolerable.
+CONCLUSIONS: Sildenafil therapy lasting ≥ 12 weeks improves multiple clinical 
+and hemodynamic outcomes in patients with PAH, but it appears to have no effect 
+on mortality or serious adverse events. The long-term efficacy and safety of 
+sildenafil therapy in PAH requires further study based on large and 
+well-designed RCTs.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.rmed.2014.01.003
+PMID: 24462476 [Indexed for MEDLINE]
+
+
+20. Int J Mol Sci. 2023 Dec 19;25(1):36. doi: 10.3390/ijms25010036.
+
+Modulating NO-GC Pathway in Pulmonary Arterial Hypertension.
+
+D'Agostino A(1), Lanzafame LG(2)(3), Buono L(1), Crisci G(3), D'Assante R(3), 
+Leone I(1), De Vito L(3), Bossone E(4), Cittadini A(3)(5), Marra AM(3)(5).
+
+Author information:
+(1)IRCCS SYNLAB SDN, Via Emanuele Gianturco 113, 80143 Naples, Italy.
+(2)Department of Clinical and Experimental Medicine, Internal Medicine, 
+Garibaldi Hospital, University of Catania, Via Palermo 636, 95122 Catania, 
+Italy.
+(3)Department of Translational Medical Sciences, "Federico II" University of 
+Naples, Via Pansini 5, 80131 Naples, Italy.
+(4)Department of Public Health, "Federico II" University of Naples, Via Pansini 
+5, 80131 Naples, Italy.
+(5)Gender Interdipartimental Institute of Research (GENESIS), "Federico II" 
+University of Naples, Via Pansini 5, 80131 Naples, Italy.
+
+The pathogenesis of complex diseases such as pulmonary arterial hypertension 
+(PAH) is entirely rooted in changes in the expression of some vasoactive 
+factors. These play a significant role in the onset and progression of the 
+disease. Indeed, PAH has been associated with pathophysiologic alterations in 
+vascular function. These are often dictated by increased oxidative stress and 
+impaired modulation of the nitric oxide (NO) pathway. NO reduces the 
+uncontrolled proliferation of vascular smooth muscle cells that leads to 
+occlusion of vessels and an increase in pulmonary vascular resistances, which is 
+the mainstay of PAH development. To date, two classes of NO-pathway modulating 
+drugs are approved for the treatment of PAH: the phosphodiesterase-5 inhibitors 
+(PD5i), sildenafil and tadalafil, and the soluble guanylate cyclase activator 
+(sGC), riociguat. Both drugs provide considerable improvement in exercise 
+capacity and pulmonary hemodynamics. PD5i are the recommended drugs for 
+first-line PAH treatment, whereas sGCs are also the only drug approved for the 
+treatment of resistant or inoperable chronic thromboembolic pulmonary 
+hypertension. In this review, we will focus on the current information regarding 
+the nitric oxide pathway and its modulation in PAH.
+
+DOI: 10.3390/ijms25010036
+PMCID: PMC10779316
+PMID: 38203205 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+21. Am J Respir Crit Care Med. 2004 Jan 1;169(1):6-7. doi: 10.1164/rccm.2310007.
+
+Sildenafil for pulmonary arterial hypertension: still waiting for evidence.
+
+Humbert M, Simonneau G.
+
+Comment in
+    Am J Respir Crit Care Med. 2004 Jun 1;169(11):1256; author reply 1256-7. 
+doi: 10.1164/ajrccm.169.11.958.
+
+Comment on
+    Am J Respir Crit Care Med. 2004 Jan 1;169(1):39-45. doi: 
+10.1164/rccm.200302-282OC.
+
+DOI: 10.1164/rccm.2310007
+PMID: 14695103 [Indexed for MEDLINE]
+
+
+22. J Pediatr. 2019 Feb;205:29-34.e1. doi: 10.1016/j.jpeds.2018.09.067. Epub 2018
+ Nov 2.
+
+Sildenafil Use in Children with Pulmonary Hypertension.
+
+Cohen JL(1), Nees SN(1), Valencia GA(1), Rosenzweig EB(1), Krishnan US(2).
+
+Author information:
+(1)Division of Pediatric Cardiology, Department of Pediatrics, Columbia 
+University Vagelos College of Physicians and Surgeons, New York Presbyterian 
+Hospital, New York, NY.
+(2)Division of Pediatric Cardiology, Department of Pediatrics, Columbia 
+University Vagelos College of Physicians and Surgeons, New York Presbyterian 
+Hospital, New York, NY. Electronic address: usk1@cumc.columbia.edu.
+
+Comment in
+    J Pediatr. 2019 Oct;213:250. doi: 10.1016/j.jpeds.2019.06.019.
+    J Pediatr. 2019 Oct;213:251. doi: 10.1016/j.jpeds.2019.06.020.
+
+OBJECTIVE: To assess the demographics, treatment algorithm, and outcomes in a 
+large cohort of children treated with sildenafil.
+STUDY DESIGN: A retrospective cohort study of children with pulmonary 
+hypertension (PH) treated with sildenafil at a single institution between 2004 
+and 2015. Baseline and follow-up data collected by chart review.
+RESULTS: There were 269 children included in this study: 47 with idiopathic 
+pulmonary arterial hypertension, 53 with congenital heart disease, 135 with 
+bronchopulmonary dysplasia, 24 with congenital diaphragmatic hernia, and 7 with 
+other causes. Sildenafil was initial monotherapy in 84.8% and add-on therapy in 
+15.2%. Median follow-up time was 3.1 years (2  weeks-12.4 years). On follow-up, 
+99 (37%) remained on sildenafil or transitioned to tadalafil, 93 (35%) stopped 
+sildenafil for improvement in PH, 54 (20%) died, and 20 (7%) were lost to 
+follow-up. PH was most likely to improve in those with bronchopulmonary 
+dysplasia, allowing for the discontinuation of sildenafil in 45%. Eighteen 
+deaths were related to PH and 36 from other systemic causes. Two patients 
+stopped sildenafil owing to airway spasm with desaturation. Overall survival was 
+significantly lower in World Health Organization group 3 PH (bronchopulmonary 
+dysplasia and congenital diaphragmatic hernia) vs group 1 (idiopathic pulmonary 
+arterial hypertension and congenital heart disease), P = .02.
+CONCLUSIONS: In this retrospective experience in children with mainly World 
+Health Organization groups 1 and 3 PH, low-dose sildenafil was well-tolerated, 
+safe, and had an acceptable side effect profile. Although patients with group 3 
+PH have high mortality, survivors have a high likelihood of PH improving.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.jpeds.2018.09.067
+PMCID: PMC6389358
+PMID: 30396684 [Indexed for MEDLINE]
+
+
+23. Annu Rev Pharmacol Toxicol. 2023 Jan 20;63:585-615. doi: 
+10.1146/annurev-pharmtox-040122-034745. Epub 2022 Oct 7.
+
+Beyond Erectile Dysfunction: cGMP-Specific Phosphodiesterase 5 Inhibitors for 
+Other Clinical Disorders.
+
+Samidurai A(1), Xi L(1), Das A(1), Kukreja RC(1).
+
+Author information:
+(1)Division of Cardiology, Pauley Heart Center, Virginia Commonwealth 
+University, Richmond, Virginia, USA; email: rakesh.kukreja@vcuhealth.org.
+
+Cyclic guanosine monophosphate (cGMP), an important intracellular second 
+messenger, mediates cellular functional responses in all vital organs. 
+Phosphodiesterase 5 (PDE5) is one of the 11 members of the cyclic nucleotide 
+phosphodiesterase (PDE) family that specifically targets cGMP generated by 
+nitric oxide-driven activation of the soluble guanylyl cyclase. PDE5 inhibitors, 
+including sildenafil and tadalafil, are widely used for the treatment of 
+erectile dysfunction, pulmonary arterial hypertension, and certain urological 
+disorders. Preclinical studies have shown promising effects of PDE5 inhibitors 
+in the treatment of myocardial infarction, cardiac hypertrophy, heart failure, 
+cancer and anticancer-drug-associated cardiotoxicity, diabetes, Duchenne 
+muscular dystrophy, Alzheimer's disease, and other aging-related conditions. 
+Many clinical trials with PDE5 inhibitors have focused on the potential 
+cardiovascular, anticancer, and neurological benefits. In this review, we 
+provide an overview of the current state of knowledge on PDE5 inhibitors and 
+their potential therapeutic indications for various clinical disorders beyond 
+erectile dysfunction.
+
+DOI: 10.1146/annurev-pharmtox-040122-034745
+PMID: 36206989 [Indexed for MEDLINE]
+
+
+24. Cardiol Young. 2023 Nov;33(11):2297-2311. doi: 10.1017/S1047951123000124.
+Epub  2023 Feb 1.
+
+Pulmonary vasodilator therapies in pulmonary arterial hypertension associated 
+with CHD: a systematic review and network meta-analysis.
+
+Yasuhara J(1), Watanabe K(2), Watanabe A(3), Shirasu T(4), Matsuzaki Y(5), 
+Watanabe H(6), Takagi H(7), Sumitomo N(8), Kuno T(9).
+
+Author information:
+(1)Center for Cardiovascular Research, The Abigail Wexner Research and The Heart 
+Center, Nationwide Children's Hospital, Columbus, OH, USA.
+(2)Division of Pediatric Cardiology, Ann & Robert H. Lurie Children's Hospital 
+of Chicago, Northwestern University Feinberg School of Medicine, Chicago, IL, 
+USA.
+(3)Division of Hospital Medicine, University of Tsukuba Hospital, Tsukuba, 
+Ibaraki, Japan.
+(4)Department of Surgery and Division of Vascular and Endovascular Surgery, 
+School of Medicine, University of Virginia, Charlottesville, VA, USA.
+(5)Division of Cardiac Surgery, McGill University, Montréal, Québec, Canada.
+(6)Department of Regenerative Medicine and Cell Biology, Medical University of 
+South Carolina, Charleston, SC, USA.
+(7)Division of Cardiovascular Surgery, Shizuoka Medical Center, Shizuoka, Japan.
+(8)Department of Pediatric Cardiology, Saitama Medical University International 
+Medical Center, Saitama, Japan.
+(9)Division of Cardiology, Montefiore Medical Center, Albert Einstein College of 
+Medicine, New York, NY, USA.
+
+The optimal treatment strategy using pulmonary vasodilators in pulmonary 
+arterial hypertension associated with CHD (PAH-CHD) remains controversial. We 
+aimed to compare the efficacy and safety of pulmonary vasodilators in PAH-CHD. 
+PubMed and EMBASE databases were searched through May 2022 and a network 
+meta-analysis was conducted. The primary outcomes were mean difference of 
+changes in 6-minute walk distance, NYHA functional class, and N-terminal 
+pro-brain natriuretic peptide. The secondary outcomes included pulmonary 
+vascular resistance, mean pulmonary arterial pressure, and resting oxygen 
+saturation. We identified 14 studies, yielding 807 patients with PAH-CHD. 
+Bosentan and sildenafil were associated with a significant increase in 6-minute 
+walk distance from baseline compared with placebo (MD 48.92 m, 95% CI 0.32 to 
+97.55 and MD 59.70 m, 95% CI 0.88 to 118.53, respectively). Bosentan, 
+sildenafil, and combination of bosentan and sildenafil were associated with 
+significant improvement in NYHA functional class compared with placebo (MD 
+-0.33, 95% CI -0.51 to -0.14, MD -0.58, 95% CI -0.75 to -0.22 and MD -0.62, 95% 
+CI -0.92 to -0.31, respectively). Bosentan and sildenafil were also associated 
+with significant improvements in secondary outcomes. These findings were largely 
+confirmed in the subgroup analysis. Various adverse events were reported; 
+however, serious adverse event rates were relatively low (4.8-8.7%), including 
+right heart failure, acute kidney injury, respiratory failure, hypotension, and 
+discontinuation of pulmonary vasodilators. In conclusion, bosentan and 
+sildenafil were the most effective in improving prognostic risk factor such as 
+6-minute walk distance and NYHA class. Overall, pulmonary vasodilators were well 
+tolerated in PAH-CHD.
+
+DOI: 10.1017/S1047951123000124
+PMID: 36721907 [Indexed for MEDLINE]
+
+
+25. Rev Mal Respir. 2006 Dec;23(6):629-41. doi: 10.1016/s0761-8425(06)72078-2.
+
+[Porto-pulmonary hypertension].
+
+[Article in French]
+
+Chabot F(1), Gomez E, Boyer L, Kheir A, Le Pavec J, Sitbon O, Herve P.
+
+Author information:
+(1)Service des Maladies Respiratoires et Réanimation Respiratoire, CHU Nancy, 
+Université Henri Poincaré, Nancy, France. f.chabot@chu-nancy.fr
+
+INTRODUCTION: Porto-pulmonary hypertension (PoPH) is the association of 
+pulmonary artery hypertension and portal hypertension. The diagnosis of PoPH is 
+based on pulmonary haemodynamic criteria, obtained via right heart 
+catheterisation, including an increase in mean pulmonary arterial pressure (> 25 
+mmHg) and in pulmonary vascular resistance (> 240 dyn.s.cm-5).
+STATE OF THE ART: The exact pathophysiological mechanisms of PoPH are unknown. 
+However, since PoPH has been reported in patients with non-hepatic portal 
+hypertension, the factor that determines the development must be portal 
+hypertension rather than liver disease per se. Moreover, no simple relationship 
+has been identified between the degree of hepatic impairment and the severity of 
+PoPH. The clinical presentation is non-specific with haemodynamic failure 
+occurring at the end stage. As a consequence, screening by annual transthoracic 
+echocardiography is highly recommended in potential liver transplant candidates. 
+Therapy with prostacyclin analogues may partially relieve pulmonary arterial 
+hypertension (PAH). Liver transplantation has an uncertain effect in PoPH and 
+because PoPH is associated with a high perioperative mortality, moderate to 
+severe PoPH remains a contraindication for liver transplantation.
+PERSPECTIVES AND CONCLUSIONS: Recent advances in the management of PoPH have 
+improved the prognosis. The safety and efficacy of oral endothelin receptor 
+antagonists and oral phosphodiesterase inhibitors is currently under evaluation. 
+A therapeutic approach utilising combinations of drugs should provide better 
+long-term results.
+
+DOI: 10.1016/s0761-8425(06)72078-2
+PMID: 17202968 [Indexed for MEDLINE]
+
+
+26. Viruses. 2023 May 11;15(5):1157. doi: 10.3390/v15051157.
+
+Efficacy of Sildenafil in Patients with Severe COVID-19 and Pulmonary Arterial 
+Hypertension.
+
+Oliynyk OV(1)(2), Rorat M(3), Strepetova OV(1)(4)(5), Dubrov SO(1), Guryanov 
+VG(6), Oliynyk YV(5), Kulivets OS(5), Ślifirczyk A(7), Barg W(8).
+
+Author information:
+(1)Department of Anaesthesiology and Intensive Care, Bogomolets National Medical 
+University, 01601 Kyiv, Ukraine.
+(2)Department of Emergency Medicine, Rzeszow University, 35-310 Rzeszow, Poland.
+(3)Department of Forensic Medicine, Wroclaw Medical University, 50-367 Wroclaw, 
+Poland.
+(4)Commercial Hospital "Manufaktura", 08173 Kyiv, Ukraine.
+(5)Commercial Hospital "Raiering", 02121 Kyiv, Ukraine.
+(6)Department of Medical Statistics, Bogomolets National Medical University, 
+01601 Kyiv, Ukraine.
+(7)Nursing Department, Siedlce University of Natural Sciences and Humanities, 
+08-110 Siedlce, Poland.
+(8)Department of Human Physiology, Rzeszow University, 35-310 Rzeszow, Poland.
+
+Pulmonary arterial hypertension (PAH) is common in severe coronavirus disease 
+2019 (COVID-19) and worsens the prognosis. Sildenafil, a phosphodiesterase-5 
+inhibitor, is approved for PAH treatment but little is known about its efficacy 
+in cases of severe COVID-19 with PAH. This study aimed to investigate the 
+clinical efficacy of sildenafil in patients with severe COVID-19 and PAH. 
+Intensive care unit (ICU) patients were randomly assigned to receive sildenafil 
+or a placebo, with 75 participants in each group. Sildenafil was administered 
+orally at 0.25 mg/kg t.i.d. for one week in a placebo-controlled, double-blind 
+manner as an add-on therapy alongside the patient's routine treatment. The 
+primary endpoint was one-week mortality, and the secondary endpoints were the 
+one-week intubation rate and duration of ICU stay. The mortality rate was 4% vs. 
+13.3% (p = 0.078), the intubation rate was 8% and 18.7% (p = 0.09), and the 
+length of ICU stay was 15 vs. 19 days (p < 0.001) for the sildenafil and placebo 
+groups, respectively. If adjusted for PAH, sildenafil treatment significantly 
+reduced mortality and intubation risks: OR = 0.21 (95% CI: 0.05-0.89) and OR = 
+0.26 (95% CI: 0.08-0.86), respectively. Sildenafil demonstrated some clinical 
+efficacy in patients with severe COVID-19 and PAH and should be considered as an 
+add-on therapy in these patients.
+
+DOI: 10.3390/v15051157
+PMCID: PMC10223625
+PMID: 37243243 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+27. Expert Rev Cardiovasc Ther. 2014 Oct;12(10):1157-84. doi: 
+10.1586/14779072.2014.958077. Epub 2014 Sep 16.
+
+Sildenafil for the treatment of pulmonary hypertension in children.
+
+Beghetti M(1), Wacker Bou Puigdefabregas J, Merali S.
+
+Author information:
+(1)Paediatric Cardiology Unit, Department of Pediatrics, Children's Hospital, 
+University of Geneva, 6 rue Willy-Donze, CH-1211, Geneva 14, Switzerland.
+
+Pulmonary hypertension, including pulmonary arterial hypertension (PAH), is a 
+serious disease in children, but few clinical studies have been conducted to 
+evaluate treatment regimens in this population. Currently, treatment of children 
+with PAH is mostly based on clinical studies conducted in adults and a few 
+dedicated pediatric studies. Sildenafil, a phosphodiesterase type 5 inhibitor, 
+has an established efficacy and safety profile for the treatment of adults with 
+PAH. In May 2011, sildenafil received approval for the treatment of pediatric 
+patients aged 1-17 years in the EU; however, pediatric use is not approved in 
+the USA. This systematic literature review summarizes the clinical data 
+available on the use of sildenafil to treat children with PAH and pulmonary 
+hypertension.
+
+DOI: 10.1586/14779072.2014.958077
+PMID: 25223406 [Indexed for MEDLINE]
+
+
+28. Value Health Reg Issues. 2023 Jul;36:44-50. doi: 10.1016/j.vhri.2023.02.001. 
+Epub 2023 Apr 5.
+
+Phosphodiesterase 5 Inhibitor for Pediatric Pulmonary Arterial Hypertension: A 
+Cost-Utility Analysis.
+
+Buendía JA(1), Lindarte EF(2), Guerrero Patiño D(2).
+
+Author information:
+(1)Research group in Pharmacology and Toxicology "INFARTO," Department of 
+Pharmacology and Toxicology, University of Antioquia, Medellin, Colombia. 
+Electronic address: jefferson.buendia@gmail.com.
+(2)Research group in Pharmacology and Toxicology "INFARTO," Department of 
+Pharmacology and Toxicology, University of Antioquia, Medellin, Colombia.
+
+OBJECTIVES: Despite the growing evidence of efficacy, scarce information exists 
+regarding the cost of tadalafil to improve the functional classes of pediatric 
+patients with pulmonary arterial hypertension. This study aims to determine the 
+cost-utility of tadalafil compared sildenafil to treat pediatric patients with 
+pulmonary arterial hypertension in Colombia.
+METHODS: A Markov model was developed to compare expected costs, outcomes, and 
+quality-adjusted life-years of sildenafil and tadalafil in pediatric patients 
+with pulmonary arterial hypertension. The model was analyzed probabilistically, 
+and a value of information analysis was conducted to inform the value of 
+conducting further research to reduce current uncertainties in the evidence 
+base. Cost-effectiveness was evaluated at a willingness-to-pay value of US 
+$5180.
+RESULTS: The mean incremental cost of tadalafil versus sildenafil is US $15 270. 
+The 95% credible interval for the incremental cost ranges from US $28 033.65 to 
+US $5940.86. The mean incremental benefit of tadalafil versus sildenafil is 1.00 
+quality-adjusted life-years (QALY). The 95% credible interval for the 
+incremental benefit ranges from 1.88 to 0.31 QALY. The expected incremental cost 
+per QALY is estimated at US $15 286. There is a probability less than 1% that 
+tadalafil is more cost-effective than sildenafil at a threshold of US $5180 per 
+QALY. Form the value of information analysis, the theoretical upper bound on the 
+value of further research was US $9.298 for Colombia.
+CONCLUSION: Our economic evaluation shows that tadalafil is not cost-effective 
+regarding sildenafil to treat pediatric patients with pulmonary arterial 
+hypertension in Colombia. Our study provides evidence that should be used by 
+decision-makers to improve clinical practice guidelines.
+
+Copyright © 2023 International Society for Health Economics and Outcomes 
+Research. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.vhri.2023.02.001
+PMID: 37028260 [Indexed for MEDLINE]
+
+
+29. World J Pediatr. 2017 Dec;13(6):588-592. doi: 10.1007/s12519-017-0043-4. Epub
+ 2017 Aug 8.
+
+Pharmacokinetics of sildenafil in children with pulmonary arterial hypertension.
+
+Olguín HJ(1)(2), Martínez HO(3), Pérez CF(4), Mendiola BR(4), Espinosa LR(4), 
+Pacheco JLC(4), Pérez JF(4)(5), Magaña IM(6).
+
+Author information:
+(1)Laboratory of Pharmacology, National Institute of Pediatrics, Avenida Imán N° 
+1, 3rd piso Colonia Cuicuilco, CP 04530, Mexico City, Mexico. 
+juarezol@yahoo.com.
+(2)Department of Pharmacology, Faculty of Medicine, National Autonomous 
+University of Mexico, Mexico City, Mexico. juarezol@yahoo.com.
+(3)Service of Cardiology, National Institute of Pediatrics, Mexico City, Mexico.
+(4)Laboratory of Pharmacology, National Institute of Pediatrics, Avenida Imán N° 
+1, 3rd piso Colonia Cuicuilco, CP 04530, Mexico City, Mexico.
+(5)Department of Pharmacology, Faculty of Medicine, National Autonomous 
+University of Mexico, Mexico City, Mexico.
+(6)Subdirection of Teaching and Educational Programming, National Institute of 
+Pediatrics, Mexico City, Mexico.
+
+BACKGROUND: Recently, sildenafil was introduced to treat pulmonary arterial 
+hypertension (PAH); however, there are currently few studies on the 
+pharmacokinetics of sildenalfil in children. Therefore, we aimed to carry out a 
+pharmacokinetic study of sildenafil in children with PAH using a single dose.
+METHODS: Twelve children diagnosed with PAH, consisting of with ten males and 
+two females, were recruited for the study after obtaining written consent from 
+their parents or guardians. Blood samples were obtained predose and at 0.25, 
+0.5, 1, 2, 4, 8 and 12 hours after the oral administration of 1 mg/kg of 
+sildenafil using an extemporal pediatric formulation developed in our 
+laboratory. The samples were analyzed using a previously validated high 
+performance liquid chromatography method.
+RESULTS: A pharmacokinetic analysis using the WinNonlin 3.1 program that 
+considered the Akaike information criterion (AIC) for selecting a more 
+adjustable model was performed. The following pharmacokinetic parameters were 
+obtained: maximal concentration (Cmax): 366±179 ng/mL, time to maximal 
+concentration: 0.92±0.30 hours, elimination half-life (t1/2): 2.41±1.18 hours, 
+total clearance (CLtot/F): 5.85±2.81 L/hour, volume of distribution (Vd/F): 
+20.13±14.5 L, absorption rate constants (Ka): 0.343 hour-1, elimination rate 
+(Ke): 0.35 hour-1, area under curve from zero to infinity: 2061±618 ng/mL/hour. 
+The data of all patients adjusted to the model of one compartment were 
+corroborated using AIC.
+CONCLUSIONS: The parameters Ka, Ke and t1/2 were found to be similar to those 
+reported in adults; however, the values of Cmax and Vd/F were significantly 
+higher. Based on these findings, we propose that treatment regimen of sildenafil 
+be adjusted in children with PAH.
+
+DOI: 10.1007/s12519-017-0043-4
+PMID: 28791664 [Indexed for MEDLINE]
+
+
+30. J Cardiothorac Vasc Anesth. 2006 Oct;20(5):722-35. doi: 
+10.1053/j.jvca.2005.12.011. Epub 2006 Apr 5.
+
+Treatment of pulmonary arterial hypertension with sildenafil: from 
+pathophysiology to clinical evidence.
+
+Raja SG(1), Danton MD, MacArthur KJ, Pollock JC.
+
+Author information:
+(1)Department of Cardiac Surgery, Royal Hospital for Sick Children, Glasgow, 
+United Kingdom. drrajashahzad@hotmail.com <drrajashahzad@hotmail.com>
+
+DOI: 10.1053/j.jvca.2005.12.011
+PMID: 17023298 [Indexed for MEDLINE]

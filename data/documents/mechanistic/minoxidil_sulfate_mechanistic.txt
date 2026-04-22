@@ -1,0 +1,7 @@
+Mechanistic pathway data for minoxidil sulfate.
+Primary target pathway: potassium channel ATP.
+Drug class biological mechanism relevant to disease modulation.
+Protein interaction pathways associated with minoxidil sulfate therapeutic effects.
+Molecular target engagement data for minoxidil sulfate.
+Pathway analysis: potassium channel ATP signaling cascade.
+Biological plausibility of minoxidil sulfate in neurological and metabolic disease contexts.

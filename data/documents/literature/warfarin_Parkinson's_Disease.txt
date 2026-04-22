@@ -1,0 +1,768 @@
+1. Brain Behav. 2023 Nov;13(11):e3225. doi: 10.1002/brb3.3225. Epub 2023 Aug 31.
+
+Association between 23 drugs and Parkinson's disease: A two-sample Mendelian 
+randomization study.
+
+Xie Z(1), Zhou H(2), Qiu Z(3), Fan Z(3), Yang W(4), Zhang J(5), Wang Y(5), Ye 
+Y(5).
+
+Author information:
+(1)Department of Clinical Medicine, The Second Clinical College of Guangzhou 
+Medical University, Guangzhou, Guangdong, China.
+(2)Department of Clinical Medicine, The First Clinical College of Guangzhou 
+Medical University, Guangzhou, Guangdong, China.
+(3)Department of Clinical Medicine, The Third Clinical College of Guangzhou 
+Medical University, Guangzhou, Guangdong, China.
+(4)Department of Nursing, The Nursing College of Guangzhou Medical University, 
+Guangzhou, Guangdong, China.
+(5)Department of Neurosurgery, The Second Affiliated Hospital of Guangzhou 
+Medical University, Guangzhou, Guangdong, China.
+
+BACKGROUND: Parkinson's disease (PD) is a common degenerative nervous system 
+disease. At present, there are certain limitations in various treatment options 
+aimed at preventing or delaying the progression of PD. Therefore, the 
+exploration of new drugs for PD is beneficial. Mendelian randomization (MR) 
+analysis can be used to explore the association between drugs and diseases. In 
+this study, MR analysis was adopted to investigate the causal relationship 
+between 23 drugs and PD. These drugs have been approved for the treatment of 
+different diseases, such as salicylic acid and derivatives (collectively called 
+salicylates, e.g., aspirin, used for fever and pain relief), antithrombotic 
+agents (e.g., warfarin, aspirin, used for preventing thrombotic events).
+METHODS: The GWAS data for the 23 drugs were obtained from the UK Biobank (UKB) 
+project, while the GWAS data for PD were sourced from FinnGen. Single-Nucleotide 
+Polymorphisms (SNPs) were selected as instrumental variables (IVs). We first 
+performed a series of quality control steps (including MR-PRESSO) to select the 
+appropriate SNPs. Two-sample MR analysis was performed using five different 
+methods, including inverse variance weighting (IVW) with random-effects model, 
+weighted median, MR-Egger, simple model, and weighted model. At the same time, 
+sensitivity analysis was carried out using the MR-Egger and Cochran's Q test to 
+ensure the authenticity and reliability of the results.
+RESULTS: In MR-PRESSO, salicylates and antithrombotic agents showed 
+statistically significant associations with PD, respectively. In the main MR 
+analysis (IVW), there was a negative causal relationship between salicylates and 
+PD (OR = 0.73, 95% CI = 0.54-0.98, p = .039). Similarly, there was a negative 
+causal relationship between antithrombotic agents and PD (OR = 0.70, 
+95%CI = 0.52-0.96, p = .027). No statistically significant association was found 
+between the remaining 21 drugs and PD.
+CONCLUSION: This MR study demonstrated that salicylates and antithrombotic 
+agents can reduce the risk of PD, thus providing a novel avenue for future drug 
+exploration in PD.
+
+© 2023 The Authors. Brain and Behavior published by Wiley Periodicals LLC.
+
+DOI: 10.1002/brb3.3225
+PMCID: PMC10636399
+PMID: 37654024 [Indexed for MEDLINE]
+
+Conflict of interest statement: We have no competing interests.
+
+
+2. NPJ Parkinsons Dis. 2025 Jan 3;11(1):5. doi: 10.1038/s41531-024-00861-5.
+
+Establishing a robust triangulation framework to explore the relationship 
+between hearing loss and Parkinson's disease.
+
+Zhang H(1), Chen K(1), Gao T(1), Yan Y(1), Liu Y(1), Liu Y(1), Zhu K(1), Qi 
+J(1), Zheng C(1)(2), Wang T(3), Zeng P(4)(5).
+
+Author information:
+(1)Department of Biostatistics, School of Public Health, Xuzhou Medical 
+University, 221004, Xuzhou, Jiangsu, China.
+(2)Jiangsu Engineering Research Center of Biological Data Mining and Healthcare 
+Transformation, Xuzhou Medical University, 221004, Xuzhou, Jiangsu, China.
+(3)Department of Biostatistics, School of Public Health, Xuzhou Medical 
+University, 221004, Xuzhou, Jiangsu, China. wangtgw@163.com.
+(4)Department of Biostatistics, School of Public Health, Xuzhou Medical 
+University, 221004, Xuzhou, Jiangsu, China. zpstat@xzhmu.edu.cn.
+(5)Jiangsu Engineering Research Center of Biological Data Mining and Healthcare 
+Transformation, Xuzhou Medical University, 221004, Xuzhou, Jiangsu, China. 
+zpstat@xzhmu.edu.cn.
+
+The relationship between hearing loss (HL) and Parkinson's disease (PD) remains 
+unclear. Using individual-level and summary-level data from the UK Biobank and 
+the largest genome-wide association studies, we examined this link through 
+observational, Mendelian randomization and genetic pleiotropy analyses. Among 
+158,229 participants, PD risk rose with HL severity especially in elder and 
+males, and hearing aids significantly reduced PD risk in males. Although our 
+results did not support a causal association, genetic correlation analysis 
+suggested a localized genetic overlap (17q21.31). We identified 1545 SNPs and 63 
+genes with pleiotropic effects on HL and PD, including 79 novel SNPs across 6 
+loci, with 3 showing strong co-localization. These loci were enriched in key 
+tissues like brain, heart, liver and pancreas, linked to the dihydrolipoyl 
+dehydrogenase complex pathway, and targeted by drugs such as Warfarin and 
+Phenprocoumon. Overall, this study reveals the risk association, genetic basis, 
+and pleiotropic loci connecting HL and PD.
+
+© 2025. The Author(s).
+
+DOI: 10.1038/s41531-024-00861-5
+PMCID: PMC11698951
+PMID: 39753591
+
+Conflict of interest statement: Competing interests: The authors declare that 
+the research was conducted in the absence of any commercial or financial 
+relationships that could be construed as a potential conflict of interest.
+
+
+3. Cardiology. 2024;149(2):127-136. doi: 10.1159/000535691. Epub 2023 Dec 10.
+
+Prevalence of Cardiovascular Drugs and Oral Anticoagulant Use among Persons with 
+and without Parkinson's Disease.
+
+Babar BA(1)(2), Kettunen R(3), Tiihonen M(1)(2), Hartikainen S(1)(2), Tolppanen 
+AM(1)(2).
+
+Author information:
+(1)School of Pharmacy, University of Eastern Finland, Kuopio, Finland.
+(2)Kuopio Research Center of Geriatric Care, University of Eastern Finland, 
+Kuopio, Finland.
+(3)School of Medicine, University of Eastern Finland, Kuopio, Finland.
+
+INTRODUCTION: Cardio- and cerebrovascular diseases are common among persons with 
+Parkinson's disease (PD), but it is unknown how the prevalence of cardiovascular 
+drug and oral anticoagulant use changes in relation to PD diagnosis.
+METHODS: We investigated the prevalence of cardiovascular drug and oral 
+anticoagulant use among persons with and without PD among 17,541 persons who 
+received incident PD diagnosis in 2001-2015 in Finland and their 116,829 matched 
+comparison persons. Prevalence was calculated in 6-month time windows from 5 
+years before to 5 years after PD diagnosis (index date) and compared to a 
+matched cohort without PD using generalized estimating equations.
+RESULTS: Persons with PD had higher prevalence of any cardiovascular drugs 
+(unadjusted OR = 1.15; 95% CI: 1.11-1.18) and oral anticoagulants (unadjusted OR 
+= 1.16; 95% CI: 1.11-1.22) before index date than those without PD. After index 
+date, persons with PD had lower prevalence of cardiovascular drugs (0.94; 95% 
+CI: 0.91-0.96), and no difference was observed for oral anticoagulants. 
+Prevalence of any cardiovascular drugs on the index date was 66 and 61% for 
+persons with and without PD, respectively. β-blockers were the most common 
+cardiovascular drugs in both cohorts. Warfarin was the most common oral 
+anticoagulant, but the use of direct oral anticoagulants increased during the 
+last years of follow-up.
+CONCLUSION: Orthostatic hypotension and weight loss likely explain the decreased 
+cardiovascular drug use after PD diagnosis. Results with oral anticoagulants may 
+reflect clinical assessment of benefits being larger than risks, despite the 
+risks associated with their use in persons with PD.
+
+© 2023 The Author(s). Published by S. Karger AG, Basel.
+
+DOI: 10.1159/000535691
+PMCID: PMC10994629
+PMID: 38071963 [Indexed for MEDLINE]
+
+Conflict of interest statement: B.B., R.K., and M.T. have no competing interests 
+to declare. S.H. has received lecture fees from Astellas Pharma. A.-M.T. reports 
+a research grant from Amgen, paid through the institution she is employed by, 
+outside the submitted work.
+
+
+4. Cells. 2019 Mar 23;8(3):280. doi: 10.3390/cells8030280.
+
+2,4 Dinitrophenol as Medicine.
+
+Geisler JG(1).
+
+Author information:
+(1)Mitochon Pharmaceuticals, Inc., 970 Cross Lane, Blue Bell, PA 19422, USA. 
+jgeisler@mitochonpharma.com.
+
+In the sanctity of pure drug discovery, objective reasoning can become clouded 
+when pursuing ideas that appear unorthodox, but are spot on physiologically. To 
+put this into historical perspective, it was an unorthodox idea in the 1950's to 
+suggest that warfarin, a rat poison, could be repositioned into a breakthrough 
+drug in humans to protect against strokes as a blood thinner. Yet it was 
+approved in 1954 as Coumadin® and has been prescribed to billions of patients as 
+a standard of care. Similarly, no one can forget the horrific effects of 
+thalidomide, prescribed or available without a prescription, as both a sleeping 
+pill and "morning sickness" anti-nausea medication targeting pregnant women in 
+the 1950's. The "thalidomide babies" became the case-in-point for the need of 
+strict guidelines by the U.S. Food &amp; Drug Administration (FDA) or full 
+multi-species teratogenicity testing before drug approval. More recently it was 
+found that thalidomide is useful in graft versus host disease, leprosy and 
+resistant tuberculosis treatment, and as an anti-angiogenesis agent as a 
+breakthrough drug for multiple myeloma (except for pregnant female patients). 
+Decades of diabetes drug discovery research has historically focused on every 
+possible angle, except, the energy-out side of the equation, namely, raising 
+mitochondrial energy expenditure with chemical uncouplers. The idea of "social 
+responsibility" allowed energy-in agents to be explored and the portfolio is 
+robust with medicines of insulin sensitizers, insulin analogues, secretagogues, 
+SGLT2 inhibitors, etc., but not energy-out medicines. The primary reason? It 
+appeared unorthodox, to return to exploring a drug platform used in the 1930s in 
+over 100,000 obese patients used for weight loss. This is over 80-years ago and 
+prior to Dr Peter Mitchell explaining the mechanism of how mitochondrial 
+uncouplers, like 2,4-dinitrophenol (DNP) even worked by three decades later in 
+1961. Although there is a clear application for metabolic disease, it was not 
+until recently that this platform was explored for its merit at very low, 
+weight-neutral doses, for treating insidious human illnesses and completely 
+unrelated to weight reduction. It is known that mitochondrial uncouplers 
+specifically target the entire organelle's physiology non-genomically. It has 
+been known for years that many neuromuscular and neurodegenerative diseases are 
+associated with overt production of reactive oxygen species (ROSs), a rise in 
+isoprostanes (biomarker of mitochondrial ROSs in urine or blood) and poor 
+calcium (Ca2+) handing. It has also been known that mitochondrial uncouplers 
+lower ROS production and Ca2+ overload. There is evidence that elevation of 
+isoprostanes precedes disease onset, in Alzheimer's Disease (AD). It is also 
+curious, why so many neurodegenerative diseases of known and unknown etiology 
+start at mid-life or later, such as Multiple Sclerosis (MS), Huntington Disease 
+(HD), AD, Parkinson Disease, and Amyotrophic Lateral Sclerosis (ALS). Is there a 
+relationship to a buildup of mutations that are sequestered over time due to 
+ROSs exceeding the rate of repair? If ROS production were managed, could disease 
+onset due to aging be delayed or prevented? Is it possible that most, if not all 
+neurodegenerative diseases are manifested through mitochondrial dysfunction? 
+Although DNP, a historic mitochondrial uncoupler, was used in the 1930s at high 
+doses for obesity in well over 100,000 humans, and so far, it has never been an 
+FDA-approved drug. This review will focus on the application of using DNP, but 
+now, repositioned as a potential disease-modifying drug for a legion of 
+insidious diseases at much lower and paradoxically, weight neutral doses. DNP 
+will be addressed as a treatment for "metabesity", an emerging term related to 
+the global comorbidities associated with the over-nutritional phenotype; 
+obesity, diabetes, nonalcoholic steatohepatitis (NASH), metabolic syndrome, 
+cardiovascular disease, but including neurodegenerative disorders and 
+accelerated aging. Some unexpected drug findings will be discussed, such as 
+DNP's induction of neurotrophic growth factors involved in neuronal heath, 
+learning and cognition. For the first time in 80's years, the FDA has granted 
+(to Mitochon Pharmaceutical, Inc., Blue Bell, PA, USA) an open Investigational 
+New Drug (IND) approval to begin rigorous clinical testing of DNP for safety and 
+tolerability, including for the first ever, pharmacokinetic profiling in humans. 
+Successful completion of Phase I clinical trial will open the door to explore 
+the merits of DNP as a possible treatment of people with many truly unmet 
+medical needs, including those suffering from HD, MS, PD, AD, ALS, Duchenne 
+Muscular Dystrophy (DMD), and Traumatic Brain Injury (TBI).
+
+DOI: 10.3390/cells8030280
+PMCID: PMC6468406
+PMID: 30909602 [Indexed for MEDLINE]
+
+Conflict of interest statement: John G. Geisler is a founder and shareholder of 
+Mitochon Pharmaceuticals, Inc. MP201 (DNP prodrug) has pending U.S. patent 
+applications (15/451,938 and 62/693,142), as well as DNP/MP101 (15/002,531 and 
+15/357,412). The FDA has awarded Mitochon Pharmaceuticals Orphan Designation for 
+DNP/MP101 for Huntington’s Disease.
+
+
+5. IUBMB Life. 2010 May;62(5):371-6. doi: 10.1002/iub.317.
+
+Binding of anti-Parkinson's disease drugs to human serum albumin is 
+allosterically modulated.
+
+Fanali G(1), Rampoldi V, di Masi A, Bolli A, Lopiano L, Ascenzi P, Fasano M.
+
+Author information:
+(1)Department of Structural and Functional Biology, Center of Neuroscience, 
+University of Insubria, Busto Arsizio (VA), Italy.
+
+Binding of drugs to plasma proteins is an important determinant for their 
+efficacy because it modulates drug availability to the intended target. 
+Co-administered drugs may bind to the same protein site or to different 
+functionally linked clefts following competitive and allosteric mechanisms. 
+Here, we report a thermodynamic and computational characterization of the 
+binding mode of apomorphine and benserazide, two therapeutic agents 
+co-administered in the treatment of Parkinson's disease, to human serum albumin 
+(HSA). Apomorphine binds to HSA with a simple equilibrium (K(d) = 3.1 x 10(-6) 
+M). Conversely, benserazide binds to HSA with two independent equilibria (K(d1)< 
+or = 10(-6) M and K(d2) = 5.0 x 10(-5) M). Values of K(d) and K(d2) increase to 
+1.5 x 10(-5) M and 5.0 x 10(-4) M, respectively, in the presence of heme. 
+Accordingly, the K(d) value for heme binding to HSA increases from 5.0 x 10(-7) 
+M to 4.8 x 10(-6) M and 9.2 x 10(-7) M, in the presence of saturating amounts of 
+apomorphine and benserazide, respectively. The K(d1) value for benserazide 
+binding to HSA is not affected by heme binding, whereas apomorphine and 
+benserazide inhibit warfarin binding to HSA, and vice versa. Therefore, 
+apomorphine and the second benserazide molecule bind to the warfarin site, 
+allosterically linked to the heme site. Simulated docking of apomorphine and 
+benserazide into the warfarin site provides favorable values of intermolecular 
+energy (-23.0 kJ mol(-1) and -15.2 kJ mol(-1), respectively). Considering the 
+apomorphine, benserazide, and HSA-heme plasma levels and the possible 
+co-administration of warfarin, these results appear relevant in the management 
+of patients affected by Parkinson's disease.
+
+DOI: 10.1002/iub.317
+PMID: 20225277 [Indexed for MEDLINE]
+
+
+6. Ann Pharmacother. 2001 Oct;35(10):1202-4. doi: 10.1345/aph.10364.
+
+Warfarin and ropinirole interaction.
+
+Bair JD(1), Oppelt TF.
+
+Author information:
+(1)Palmetto Memorial Hospital, Columbia, SC, USA.
+
+OBJECTIVE: To report a case of increased international normalized ratio (INR) in 
+a geriatric patient receiving warfarin and ropinirole.
+CASE SUMMARY: A 63-year-old African-American man with a history of Parkinson 
+disease, Alzheimer disease, and status post-cardio-vascular accident was 
+evaluated for symptoms of progressing stiffness and rigidity. Ropinirole was 
+added to his current therapy for Parkinson disease, with a corresponding 
+decrease in the dose of levodopa/carbidopa to allow levodopa sparing. On 
+laboratory evaluation, he was noted to have an increased INR nine days after 
+these adjustments; the INR had previously been stable. No other significant 
+medication, social, or diet changes were noted. Warfarin was withheld for four 
+days and restarted at approximately 75% of the previous weekly dose. The patient 
+had no obvious signs of bleeding. Furthermore, the warfarin dose was again 
+increased after discontinuation of ropinirole due to common gastrointestinal 
+adverse effects.
+DISCUSSION: Warfarin is an oral anticoagulant whose narrow therapeutic index and 
+potential for drug interaction is well documented. It is always possible that a 
+change in blood coagulability can occur without an obvious contributable cause; 
+however, an acute change in a previously stable INR with the addition of other 
+medications always raises questions as to the possible mechanism of adverse 
+reaction. No previously documented interaction of this precise nature has been 
+identified.
+CONCLUSIONS: Ropinirole may elevate the anticoagulant effects of warfarin. 
+Patients receiving warfarin should be considered for more frequent INR 
+monitoring when ropinirole is added, adjusted, or discontinued from their 
+medical regimen.
+
+DOI: 10.1345/aph.10364
+PMID: 11675845 [Indexed for MEDLINE]
+
+
+7. Mov Disord. 2002 Sep;17(5):992-7. doi: 10.1002/mds.10219.
+
+Anticardiolipin antibody in vascular parkinsonism.
+
+Huang Z(1), Jacewicz M, Pfeiffer RF.
+
+Author information:
+(1)Department of Neurology, University of Tennessee Health Science Center, 
+Memphis, Tennessee 38163, USA.
+
+Vascular parkinsonism (VP) is characterized by predominantly lower body 
+involvement with gait impairment and postural instability, often without tremor, 
+and by relative levodopa unresponsiveness. Neuroimaging studies demonstrate 
+multiple infarcts or ischemic changes in periventricular white matter. 
+Anticardiolipin antibodies (ACLA) are associated with hypercoagulable states and 
+increased stroke risk. Review of our Movement Disorders Clinic records 
+identified 44 individuals with a diagnosis of VP. ACLA have been obtained in 22 
+of these patients (mean age, 78.3 years; mean Mini-Mental Status Exam score, 
+25.8). Gait disturbance was the initial clinical feature in 82% of the patients, 
+and levodopa responsiveness was present in 18% of those treated. In 9 of the 22 
+(40.9%), ACLA immunoglobulin G was positive. No significant differences in 
+clinical features or risk factors (hypertension, diabetes, coronary artery 
+disease, and clinical stroke) were evident between ACLA+ and ACLA- groups. Since 
+the presence of ACLA in individuals with stroke is usually treated by full-scale 
+anticoagulation with warfarin, our findings raise the question whether such 
+treatment should also be used in persons with VP who are ACLA positive.
+
+Copyright 2002 Movement Disorder Society
+
+DOI: 10.1002/mds.10219
+PMID: 12360548 [Indexed for MEDLINE]
+
+
+8. BMC Geriatr. 2022 Jul 30;22(1):628. doi: 10.1186/s12877-022-03327-6.
+
+Neglected vitamin K deficiency causing coagulation dysfunction in an older 
+patient with pneumonia: a case report.
+
+Wu Q(1), Wang L(1), Zhao R(2).
+
+Author information:
+(1)Clinical Laboratory of Ningbo Medical Centre Lihuili Hospital, Ningbo 
+University, 1111 Jiangnan Street, Ningbo, Zhejiang Province, China.
+(2)Clinical Laboratory of Ningbo Medical Centre Lihuili Hospital, Ningbo 
+University, 1111 Jiangnan Street, Ningbo, Zhejiang Province, China. 
+ogg910123@126.com.
+
+BACKGROUND: The development of coagulation disorders can be dangerous and fatal 
+in the older people, especially those with multiple medical conditions. Vitamin 
+K-dependent coagulation disorders are easily overlooked when anticoagulant drugs 
+are not used and the patient shows no signs of bleeding.
+CASE PRESENTATION: We report a case of a 71-year-old male suffering from 
+pulmonary infection with severe coagulation disorder without bleeding symptoms. 
+He also had a history of Parkinson's disease, Alzheimer's disease and cardiac 
+insufficiency. Coagulation tests were normal at the time of admission, 
+prothrombin time (PT) is 13.9 (normal, 9.5-13.1) seconds and the activated 
+partial thromboplastin time (APTT) is 30.2 (normal, 25.1-36.5) seconds. But it 
+turned severely abnormal after 20 days (PT: 136.1 s, APTT: 54.8 s). However, no 
+anticoagulants such as warfarin was used and no bleeding symptoms were observed. 
+Subsequent mixing studies with normal plasma showed a decrease in prothrombin 
+times. Vitamin K deficiency was thought to be the cause of coagulation disorders 
+considering long-term antibiotic therapy, especially cephalosporins, inadequate 
+diet and abnormal liver function. After supplementation with 20 mg of vitamin K, 
+coagulation dysfunction was rescued the next day and serious consequences were 
+effectively prevented.
+CONCLUSIONS: Overall, timely vitamin K supplementation with antimicrobials that 
+affect vitamin K metabolism requires clinician attention, especially in older 
+patients who are multimorbid, frail or nutritionally compromised, and are 
+admitted to hospital because of an infection that needs antimicrobial therapy 
+are at risk of clotting disorders due to abnormal vitamin K metabolism secondary 
+to altered gut flora, which can exacerbate existing nutritional deficiencies.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s12877-022-03327-6
+PMCID: PMC9338575
+PMID: 35907829 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+9. Pacing Clin Electrophysiol. 1997 Oct;20(10 Pt 2):2684-91. doi: 
+10.1111/j.1540-8159.1997.tb06117.x.
+
+Risk of complications of atrial fibrillation.
+
+Capucci A(1), Villani GQ, Aschieri D.
+
+Author information:
+(1)Division of Cardiology, Ospedale Civile, Piacenza, Italy.
+
+Atrial fibrillation is associated with three major risk of complications: 
+thromboembolism, hemodynamic compromise, and arrhythmogenesis. In patients with 
+chronic atrial fibrillation the incidence of embolization is about 5% per year. 
+The risk of embolism and in particular of stroke can be reduced by warfarin 
+anticoagulation. Aspirin is generally less effective than warfarin, although it 
+is probably more effective than placebo. The hemodynamic complications which may 
+occur during atrial fibrillation are mainly due to the loss of effective atrial 
+contraction, the irregular ventricular rhythm, and the possible excessively 
+rapid ventricular rate. Sudden death is a recognized manifestation of 
+Wolff-Parkinson-White syndrome and is considered to be precipitated by atrial 
+fibrillation in the majority of patients. Torsades de pointes is perhaps the 
+most widely recognized proarrhythmia associated with treatment of atrial 
+fibrillation, especially with 1A antiarrhythmic drugs and sotalol. The chronic 
+treatment with type 1C drugs in 3.5%-5% of patients may induce atrial flutter 
+with 1:1 conduction with significant hemodynamic compromise.
+
+DOI: 10.1111/j.1540-8159.1997.tb06117.x
+PMID: 9358515 [Indexed for MEDLINE]
+
+
+10. J Laryngol Otol. 2016 May;130(S2):S13-S22. doi: 10.1017/S0022215116000372.
+
+Pre-treatment clinical assessment in head and neck cancer: United Kingdom 
+National Multidisciplinary Guidelines.
+
+Robson A(1), Sturman J(2), Williamson P(3), Conboy P(4), Penney S(5), Wood H(6).
+
+Author information:
+(1)North Cumbria University Hospitals NHS Trust,Cumberland 
+infirmary,Carlisle,UK.
+(2)Department of Anaesthesia,Cumberland Infirmary,Carlisle,UK.
+(3)Department of ENT Surgery,St George's Hospital NHS Trust,London,UK.
+(4)Department of Otolaryngology-Head and Neck Surgery,University Hospitals of 
+Leicester,Leicester Royal Infirmary,Leicester,UK.
+(5)Department of Otolaryngology-Head and Neck Surgery,Manchester Royal 
+Infirmary,Manchester,UK.
+(6)Department of Anaesthesia,Freeman Hospital,Newcastle upon Tyne NHS Foundation 
+Trust,Newcastle upon Tyne,UK.
+
+This is the official guideline endorsed by the specialty associations involved 
+in the care of head and neck cancer patients in the UK. This paper provides 
+recommendations on the pre-treatment clinical assessment of patients presenting 
+with head and neck cancer. Recommendations • Comorbidity data should be 
+collected as it is important in the analysis of survival, quality of life and 
+functional outcomes after treatment as well as for comparing results of 
+different treatment regimens and different centres. (R) • Patients with 
+hypertension of over 180/110 or associated target organ damage, should have 
+antihypertensive medication started pre-operatively as per British Hypertension 
+Society guidelines. (R) • Rapidly correcting pre-operative hypertension with 
+beta blockade appears to cause higher mortality due to stroke and hypotension 
+and should not be used. (R) • Patients with poorly controlled or unstable 
+ischaemic heart disease should be referred for cardiology assessment 
+pre-operatively. (G) • Patients within one year of drug eluting stents should be 
+discussed with the cardiologist who was responsible for their percutaneous 
+coronary intervention pre-operatively with regard to cessation of antiplatelet 
+medication due to risk of stent thrombosis. (G) • Patients with multiple recent 
+stents should be managed in a centre with access to interventional cardiology. 
+(G) • Surgery after myocardial infarction should be delayed if possible to 
+reduce mortality risk. (R) • Patients with critical aortic stenosis (AS) should 
+be considered for pre-operative intervention. (G) • Clopidogrel should be 
+discontinued 7 days pre-operatively; warfarin should be discontinued 5 days 
+pre-operatively. (R) • Patients with thromboembolic disease or artificial heart 
+valves require heparin therapy to bridge peri-operative warfarin cessation, this 
+should start 2 days after last warfarin dose. (R) • Cardiac drugs other than 
+angotensin-converting enzyme inhibitors and angiotensin II antagonists should be 
+continued including on the day of surgery. (R) • Angotensin-converting enzyme 
+inhibitors and angiotensin II antagonists should be withheld on the day of 
+surgery unless they are for the treatment of heart failure. (R) • Post-operative 
+care in a critical care area should be considered for patients with heart 
+failure or significant diastolic dysfunction. (R) • Patients with respiratory 
+disease should have their peri-operative respiratory failure risk assessed and 
+critical care booked accordingly. (G) • Patients with severe lung disease should 
+be assessed for right heart disease pre-operatively. (G) • Patients with 
+pulmonary hypertension and right heart failure will be at extraordinarily high 
+risk and should have the need for surgery re-evaluated. (G) • Perioperative 
+glucose readings should be kept within 4-12 mmol/l. (R) • Patients with a high 
+HbA1C facing urgent surgery should have their diabetes management assessed by a 
+diabetes specialist. (G) • Insulin-dependent diabetic patients must not omit 
+insulin for more than one missed meal and will therefore require an insulin 
+replacement regime. (R) • Patients taking more than 5 mg of prednisolone daily 
+should have steroid replacement in the peri-operative period. (R) • Consider 
+proton pump therapy for patients taking steroids in the peri-operative phase if 
+they fit higher risk criteria. (R) • Surgery within three months of stroke 
+carries high risk of further stroke and should be delayed if possible. (R) • 
+Patients with rheumatoid arthritis should have flexion/extension views assessed 
+by a senior radiologist pre-operatively. (R) • Patients at risk of 
+post-operative cognitive dysfunction and delirium should be highlighted at 
+pre-operative assessment. (G) • Patients with Parkinson's disease (PD) must have 
+enteral access so drugs can be given intra-operatively. Liaison with a 
+specialist in PD is essential. (R) • Intravenous iron should be considered for 
+anaemia in the urgent head and neck cancer patient. (G) • Preoperative blood 
+transfusion should be avoided where possible. (R) • Where pre-operative 
+transfusion is essential it should be completed 24-48 hours pre-operatively. (R) 
+• An accurate alcohol intake assessment should be completed for all patients. 
+(G) • Patients considered to have a high level of alcohol dependency should be 
+considered for active in-patient withdrawal at least 48 hours pre-operatively in 
+liaison with relevant specialists. (R) • Parenteral B vitamins should be given 
+routinely on admission to alcohol-dependent patients. (R) • Smoking cessation, 
+commenced preferably six weeks before surgery, decreases the incidence of 
+post-operative complications. (R) • Antibiotics are necessary for 
+clean-contaminated head and neck surgery, but unnecessary for clean surgery. (R) 
+• Antibiotics should be administered up to 60 minutes before skin incision, as 
+close to the time of incision as possible. (R) • Antibiotic regimes longer than 
+24 hours have no additional benefit in clean-contaminated head and neck surgery. 
+(R) • Repeat intra-operative antibiotic dosing should be considered for longer 
+surgeries or where there is major blood loss. (R) • Local antibiotic policies 
+should be developed and adhered to due to local resistance patterns. (G) • 
+Individual assessment for venous thromboembolism (VTE) risk and bleeding risk 
+should occur on admission and be reassessed throughout the patients' stay. (G) • 
+Mechanical prophylaxis for VTE is recommended for all patients with one or more 
+risk factors for VTE. (R) • Patients with additional risk factors of VTE and low 
+bleeding risk should have low molecular weight heparin at prophylactic dose or 
+unfractionated heparin if they have severe renal impairment. (R).
+
+DOI: 10.1017/S0022215116000372
+PMCID: PMC4873895
+PMID: 27841110 [Indexed for MEDLINE]
+
+
+11. Br J Clin Pharmacol. 2002 May;53(5):485-91. doi: 
+10.1046/j.1365-2125.2002.01587.x.
+
+Effect of the catechol-O-methyltransferase inhibitor entacapone on the 
+steady-state pharmacokinetics and pharmacodynamics of warfarin.
+
+Dingemanse J(1), Meyerhoff C, Schadrack J.
+
+Author information:
+(1)Jacor Research, Bottmingen, Switzerland. dingemanse@datacomm.ch
+
+AIMS: To investigate the influence of a multiple-dose regimen with the 
+catechol-O-methyltransferase inhibitor entacapone on the pharmacokinetics and 
+pharmacodynamics of warfarin.
+METHODS: In a randomized, double-blind, two-way cross-over study, 12 healthy 
+subjects (gender ratio 1 : 1) received treatment for 1 week with either 
+entacapone 200 mg four times daily or placebo during individually optimized 
+treatment with warfarin (INR 1.4-1.8). The effect of entacapone on the 
+steady-state pharmacokinetics of both R- and S-warfarin was determined and, in 
+addition, INR values were measured. The key pharmacokinetic variables were 
+AUCss, Cmax and tmax.
+RESULTS: Entacapone increased the exposure to R-warfarin by 18% (90% CI: 111, 
+126%), and caused a 13% (6, 19%) increase in INR values. No effect was seen on 
+the pharmacokinetics of the pharmacologically more potent S-enantiomer. Safety 
+and tolerability variables did not show any difference between the treatment 
+phases.
+CONCLUSIONS: In healthy subjects, entacapone displays a slight pharmacokinetic 
+interaction with R-warfarin but, based on the lack of a clinically relevant 
+pharmacodynamic interaction, it appears that it can also be used safely in 
+Parkinson's disease patients who are receiving warfarin.
+
+DOI: 10.1046/j.1365-2125.2002.01587.x
+PMCID: PMC1874359
+PMID: 11994054 [Indexed for MEDLINE]
+
+
+12. Nucl Med Biol. 2002 Nov;29(8):791-4. doi: 10.1016/s0969-8051(02)00335-9.
+
+In vivo evaluation of 
+[11C]-3-[2-[(3-methoxyphenylamino)carbonyl]ethenyl]-4,6-dichloroindole-2-carboxylic 
+acid ([11C]3MPICA) as a PET radiotracer for the glycine site of the NMDA ion 
+channel.
+
+Waterhouse RN(1), Sultana A, Laruelle M.
+
+Author information:
+(1)Department of Psychiatry, Columbia University College of Physicians and 
+Surgeons and the New York State Psychiatric Institute, New York, NY 10032, USA. 
+rnw7@columbia.edu
+
+Alterations in normal NMDA receptor composition, densities and function have 
+been implicated in the pathophysiology of certain neurological and 
+neuropsychiatric disorders such as Parkinson's Disease, Huntington's Chorea, 
+schizophrenia, alcoholism and stroke. In our first effort to provide PET ligands 
+for the NMDA/glycine site, we reported the synthesis of a novel high affinity 
+glycine site ligand, 
+3-[2-[(3-methoxyphenylamino)carbonyl]ethenyl]-4,6-dichloroindole-2-carboxylic 
+acid ((3MPICA), Ki = 4.8 +/- 0.9 nM) and the corresponding carbon-11 labeled PET 
+ligand, [11C]3MPICA. We report here the in vivo evaluation of [11C]3MPICA in 
+rats. Biodistribution analysis revealed that [11C]3MPICA exhibited low degree of 
+brain penetration and high blood concentration. The average uptake at two 
+minutes was highest in the cerebellum (0.19 +/- 0.04 %ID/g) and thalamus (0.18 
++/- 0.05 %ID/g) and lower in the hippocampus (0.13 +/- 0.03) and frontal cortex 
+(0.11 +/- 0.04 %ID/g). The radioactivity cleared quickly from all brain regions 
+examined. Administration of unlabeled 3MPICA (1 mg/kg, i.v.) revealed at 60 
+minutes a small general reduction in regional brain radioactivity concentrations 
+in treated animals versus controls, however, the blood radioactivity 
+concentration was also lowered, confounding the assessment of the degree of 
+saturable binding. Warfarin co-administration (100 mg/kg, i.v.) significantly 
+lowered blood activity at 5 minutes post-injection (-27%, P < 0.01) but failed 
+to significantly increase the brain uptake of the radiotracer. In view of these 
+results, and especially considering the low brain penetration of this tracer, 
+[11C]3MPICA does not appear to be a promising PET radiotracer for in vivo use.
+
+DOI: 10.1016/s0969-8051(02)00335-9
+PMID: 12453587 [Indexed for MEDLINE]
+
+
+13. Presse Med. 2015 Nov;44(11):1203-4. doi: 10.1016/j.lpm.2015.09.007.
+
+Severe dizziness following rivaroxaban introduction in a parkinsonian patient: 
+Drug-drug interaction?
+
+Lefaucheur R(1), Le Goff F(2), Gaillon G(3), Triquenot-Bagan A(2), Maltête D(4).
+
+Author information:
+(1)Rouen University Hospital and University of Rouen, Department of Neurology, 
+76031 Rouen cedex, France. Electronic address: romain.lefaucheur@chu-rouen.fr.
+(2)Rouen University Hospital and University of Rouen, Department of Neurology, 
+76031 Rouen cedex, France.
+(3)Rouen University Hospital and University of Rouen, Department of 
+Pharmacology, Rouen, France.
+(4)Rouen University Hospital and University of Rouen, Department of Neurology, 
+76031 Rouen cedex, France; Inserm U1079, Rouen Faculty of Medicine, Rouen, 
+France.
+
+DOI: 10.1016/j.lpm.2015.09.007
+PMID: 26433836 [Indexed for MEDLINE]
+
+
+14. Drugs Aging. 2012 Apr 1;29(4):319-27. doi: 10.2165/11599150-000000000-00000.
+
+Quality measures for medication continuity in long-term care facilities, using a 
+structured panel process.
+
+Bell CM(1), Brener SS, Comrie R, Anderson GM, Bronskill SE.
+
+Author information:
+(1)St Michaels Hospital, Keenan Research Centre in the Li Ka Shing Knowledge 
+Institute, Toronto, ON, Canada.
+
+BACKGROUND: Patient transitions, such as transfers between acute and long-term 
+care (LTC), aposare times when the likelihood of communication failure between 
+healthcare providers is increased. Employing appropriate health quality 
+indicators helps support improvement efforts. To date, few quality indicators 
+that evaluate the continuity of medication use between acute and LTC facilities 
+have been described.
+OBJECTIVE: The aim of the study was to develop quality indicators signalling the 
+potential discontinuation of previously prescribed medications for chronic 
+diseases when residents return to LTC following an acute-care hospitalization.
+METHODS: A literature review for the selection of potential indicators was 
+conducted, followed by a three-step process: (i) initial screening round that 
+rated the indicators; (ii) a 1-day in-person consensus meeting in which the 
+panel refined the parameters regarding the proposed quality indicators; and 
+(iii) a final anonymous survey that assessed consensus among panel members. The 
+study setting was a survey and consensus meeting with national representation, 
+held in Toronto, ON, Canada. A ten-member expert panel with broad geographical 
+and clinical representation participated and was made up of registered nurses, 
+physicians, pharmacists, policy makers and academic researchers. A 75% agreement 
+threshold was required for consensus, as measured on a 9-point Likert-type 
+scale. The panel evaluated quality indicators for effectiveness, relevance and 
+feasibility, using currently available healthcare administrative data.
+RESULTS: The panel reached consensus on four quality indicators to assess the 
+unintentional discontinuation of medications prescribed to LTC residents for 
+chronic diseases upon return to LTC after an acute-care admission. The selected 
+indicators were (i) HMG-CoA reductase inhibitors (statins) for all indications; 
+(ii) anticoagulants (e.g. warfarin) for the indication of atrial fibrillation; 
+(iii) proton-pump inhibitors for the indication of post-gastrointestinal 
+haemorrhage; and (iv) thyroxine for all indications. The panel identified three 
+additional treatment groups for future consideration as quality indicators: 
+anti-Parkinson's disease, anti-diabetes and antidepressant medications.
+CONCLUSION: A novel set of quality indicators has been developed to evaluate 
+medication continuity between acute and LTC facilities. The adoption and 
+implementation of these indicators in clinical practice can help inform quality 
+improvement efforts at various local and regional levels.
+
+DOI: 10.2165/11599150-000000000-00000
+PMID: 22462630 [Indexed for MEDLINE]
+
+
+15. Case Rep Neurol Med. 2013;2013:691840. doi: 10.1155/2013/691840. Epub 2013
+Jan  13.
+
+Recurrent, delayed hemorrhage associated with edoxaban after deep brain 
+stimulation lead placement.
+
+Sivakumar W(1), Garber ST, Schrock LE, House PA.
+
+Author information:
+(1)Department of Neurosurgery, Clinical Neurosciences Center, The University of 
+Utah, Salt Lake City, Utah, UT 84132, USA.
+
+Factor-Xa inhibitors like edoxaban have been shown to have comparable or 
+superior rates of stroke and systemic embolization prevention to warfarin while 
+exhibiting lower clinically significant bleeding rates. The authors report a 
+case of a man who presented with delayed, recurrent intracranial hemorrhage 
+months after successful deep brain stimulator placement for Parkinson disease 
+while on edoxaban for atrial fibrillation. Further reports on the use of novel 
+anticoagulants after intracranial surgery are acutely needed to help assess the 
+true relative risk they pose.
+
+DOI: 10.1155/2013/691840
+PMCID: PMC3556834
+PMID: 23365773
+
+
+16. Drug News Perspect. 2004 Jul-Aug;17(6):417-23.
+
+New developments in the treatment of neurological diseases.
+
+Schuster L(1).
+
+Author information:
+(1)larryschuster@aol.com
+
+More than 8,000 researchers, clinicians and exhibitors from around the world 
+gathered in San Francisco for the American Academy of Neurology 56th Annual 
+Meeting, April 24 to May 1, 2004. Of the 1,300 studies at the conference, 
+researchers presented more than 200 abstracts each on multiple sclerosis, stroke 
+and dementia, 145 on epilepsy, 159 on Parkinson's disease, 132 on pain and about 
+50 each on tremor and dystonia. The use of brain imaging technology also figured 
+strongly in the program, with 300 abstracts that mentioned magnetic resonance 
+imaging and 50 that included positron emission tomography. Highlights included 
+promising Parkinson's disease studies involving gene therapy and treatments 
+using glial-cell-derived neurotrophic factor, but also new evidence of cardiac 
+valve regurgitation associated with pergolide. Other highlights included studies 
+on neural repair, new guidelines for the treatment of epilepsy and important 
+studies comparing the thrombin inhibitor ximelagatran to warfarin for the 
+prevention of stroke.
+
+(c) 2004 Prous Science. All rights reserved.
+
+PMID: 15334192 [Indexed for MEDLINE]
+
+
+17. N Z Med J. 2001 Feb 9;114(1125):30-2.
+
+Non-invasive methods for measuring data quality in general practice.
+
+Gribben B(1), Coster G, Pringle M, Simon J.
+
+Author information:
+(1)Department of General Practice and Primary Health Care, University of 
+Auckland. b.gribben@auckland.ac.nz
+
+AIM: To develop non-invasive methods of measuring the quality of data recorded 
+in general practice.
+METHODS: Laboratory and pharmaceutical claims data from fourteen practices (44 
+doctors) from the FirstHealth network of general practices were examined to 
+determine the extent to which valid minimum bounds on expected rates of 
+diagnosis coding could be established. These were compared with recorded rates 
+in patient notes to measure completeness of diagnosis recording. Data 
+completeness was measured for demographic data and a marker for the accuracy of 
+gender coding was developed from diagnosis data.
+RESULTS: Minimum rates of diagnosis could be established for asthma, diabetes 
+(NIDDM and IDDM), ischaemic heart disease, hypothyroidism, bipolar affective 
+disorder and Parkinson's disease. Minimum bounds for the number of patients 
+requiring monitoring of warfarin and digoxin levels were also established. These 
+expected minimum rates were combined with measures of completeness of age, 
+gender, ethnicity and smoking data, and a gender coding accuracy measure, to 
+produce a set of fourteen data quality indicators. Pass/fail thresholds on each 
+indicator were set and each of the fourteen practices was scored on the number 
+of passes they achieved. The scores ranged from three to nine out of fourteen 
+passses.
+CONCLUSIONS: Non-invasive data quality measures may be useful in providing 
+feedback to general practitioners as part of a data quality improvement cycle. 
+The sensitivity of this method will decline as data quality improves.
+
+PMID: 11277472 [Indexed for MEDLINE]

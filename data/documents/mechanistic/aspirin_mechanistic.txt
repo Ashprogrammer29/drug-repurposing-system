@@ -1,0 +1,7 @@
+Mechanistic pathway data for aspirin.
+Primary target pathway: cyclooxygenase prostaglandin.
+Drug class biological mechanism relevant to disease modulation.
+Protein interaction pathways associated with aspirin therapeutic effects.
+Molecular target engagement data for aspirin.
+Pathway analysis: cyclooxygenase prostaglandin signaling cascade.
+Biological plausibility of aspirin in neurological and metabolic disease contexts.

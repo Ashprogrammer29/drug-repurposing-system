@@ -1,0 +1,56 @@
+Reaction: Subdural haematoma | Outcome: 4
+Reaction: Drug ineffective | Outcome: 6
+Reaction: Pulmonary arterial hypertension | Outcome: 6
+Reaction: Haemorrhage | Outcome: 6
+Reaction: Otorrhoea | Outcome: 6
+Reaction: International normalised ratio fluctuation | Outcome: 1
+Reaction: Splenomegaly | Outcome: 6
+Reaction: Dyspnoea | Outcome: 6
+Reaction: Insomnia | Outcome: 6
+Reaction: Grand mal convulsion | Outcome: 1
+Reaction: Postictal state | Outcome: 1
+Reaction: Drug ineffective | Outcome: 6
+Reaction: Haematuria | Outcome: 6
+Reaction: Haemorrhage | Outcome: 1
+Reaction: Contusion | Outcome: 6
+Reaction: Toxicity to various agents | Outcome: 6
+Reaction: Drug interaction | Outcome: 6
+Reaction: Haematuria | Outcome: 6
+Reaction: Epistaxis | Outcome: 6
+Reaction: Abdominal pain | Outcome: 6
+Reaction: Gastrooesophageal reflux disease | Outcome: 6
+Reaction: Concomitant disease aggravated | Outcome: 6
+Reaction: Lower gastrointestinal haemorrhage | Outcome: 6
+Reaction: Pelvic discomfort | Outcome: 6
+Reaction: Accidental exposure to product | Outcome: 6
+Reaction: Drug dispensing error | Outcome: 6
+Reaction: International normalised ratio increased | Outcome: 1
+Reaction: Death | Outcome: 5
+Reaction: Blood alkaline phosphatase increased | Outcome: 3
+Reaction: Heart rate increased | Outcome: 1
+Reaction: Palpitations | Outcome: 1
+Reaction: Chest pain | Outcome: 6
+Reaction: Urinary retention | Outcome: 1
+Reaction: Acquired phimosis | Outcome: 6
+Reaction: Deep vein thrombosis | Outcome: 6
+Reaction: Haemorrhage | Outcome: 1
+Reaction: Gingival bleeding | Outcome: 6
+Reaction: Drug interaction | Outcome: 6
+Reaction: Drug ineffective | Outcome: 6
+Reaction: Fall | Outcome: 2
+Reaction: Anaemia | Outcome: 1
+Reaction: International normalised ratio decreased | Outcome: 1
+Reaction: Rectal haemorrhage | Outcome: 1
+Reaction: Cardiac failure congestive | Outcome: 1
+Reaction: Herpes simplex | Outcome: 1
+Reaction: Hepatitis acute | Outcome: 3
+Reaction: Renal failure | Outcome: 6
+Reaction: Septic shock | Outcome: 5
+Reaction: Blood creatine phosphokinase increased | Outcome: 6
+Reaction: Dizziness | Outcome: 
+Reaction: Blood pressure decreased | Outcome: 
+Reaction: Asthenia | Outcome: 
+Reaction: Pollakiuria | Outcome: 
+Reaction: Chills | Outcome: 
+Reaction: Tremor | Outcome: 
+Reaction: Hypoaesthesia | Outcome: 

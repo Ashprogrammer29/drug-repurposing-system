@@ -1,0 +1,126 @@
+Trial: NCT06798662
+Title: Multimodal Nerve Block and Pulse Radiofrequency for Acute Herpes Zoster Pain
+Phase: NA
+Status: NOT_YET_RECRUITING
+Summary: The primary objective of this clinical trial is to evaluate the efficacy of liposomal bupivacaine and ropivacaine in the treatment of pain associated with herpes zoster (shingles). This trial will also assess the safety profiles of both liposomal bupivacaine and ropivacaine.
+
+The study aims to address the following key questions:
+
+Does nerve blockade with liposomal bupivacaine or ropivacaine reduc
+---
+Trial: NCT03635905
+Title: Gabapentin for Pain Management During Dilation and Evacuation
+Phase: PHASE4
+Status: COMPLETED
+Summary: Justification. Pain control is still an issue for women undergoing second trimester abortion procedures. The investigators propose a randomized controlled double-blinded trial evaluating the use of adjunct gabapentin versus placebo in addition to moderate sedation during D\&E. The investigators hypothesize that 600 mg oral gabapentin administered pre-operatively at the time of cervical preparation
+---
+Trial: NCT00636636
+Title: Safety and Efficacy of Gabapentin in Postherpetic Neuralgia
+Phase: PHASE3
+Status: COMPLETED
+Summary: Gabapentin and pregabalin are treatments for some types of neuropathic pain, including postherpetic neuralgia (PHN). However, these treatments usually need to be taken 3 times a day for effective pain control. The purpose of this study is to determine whether a new gabapentin tablet, which only needs to be taken once a day, is safe and effective for the treatment of postherpetic neuralgia.
+---
+Trial: NCT00143442
+Title: Study of [S,S]-Reboxetine in Patients With Postherpetic Neuralgia, Who Are Gabapentin Treatment Failures
+Phase: PHASE2
+Status: COMPLETED
+Summary: The purpose of this study is to determine the effectiveness of \[S,S\]-Reboxetine in the treatment of chronic pain following a shingles infection in patients who are Gabapentin treatment failures.
+---
+Trial: NCT07307170
+Title: The Analgesic Efficacy and Safety of Mirogabalin in Patients With Herpes Zoster
+Phase: NA
+Status: RECRUITING
+Summary: Herpes zoster (HZ) is characterized by a painful dermatomal rash and significantly affects quality of life, with acute pain increasing the risk of postherpetic neuralgia. Although early antiviral therapy limits viral replication, its analgesic effect is insufficient, and many patients experience inadequate relief despite stepwise use of non-opioids and opioids. Gabapentinoids such as gabapentin an
+---
+Trial: NCT00617461
+Title: A Clinical Study in Subjects With Neuropathic Pain From PHN Who Have Had an Inadequate Response to Gabapentin Treatment
+Phase: PHASE2
+Status: COMPLETED
+Summary: The purpose of this study is evaluate the difference between two doses of gabapentin enacarbil (XP13512/GSK1838262), hereafter referred to as GEn, on pain associated with post-herpetic neuralgia.
+---
+Trial: NCT00619476
+Title: A Study In Patients With Neuropathic Pain From Post-Herpetic Neuralgia (PHN)
+Phase: PHASE2
+Status: COMPLETED
+Summary: The purpose of this study is to determine whether gabapentin enacarbil (XP13512/GSK1838262), hereafter referred to as GEn is effective in the treatment of neuropathic pain associated with post-herpetic neuralgia (PHN).
+---
+Trial: NCT00904202
+Title: A Study Of Lidocaine Patch 5% Alone, Gabapentin Alone, And Lidocaine Patch 5% And Gabapentin In Combination For The Relief Of Pain In Patients With Diverse Peripheral Neuropathic Pain Conditions
+Phase: PHASE4
+Status: COMPLETED
+Summary: Patients with postherpetic neuralgia (PHN), diabetic neuropathy (DN), complex regional pain syndrome (CRPS), carpal tunnel syndrome, HIV neuropathy, idiopathic sensory neuropathy, or other peripheral neuropathy participated in a Phase IV clinical trial to assess the comparative efficacy and safety of Lidoderm monotherapy versus gabapentin monotherapy in treating a diverse group of peripheral neuro
+---
+Trial: NCT00674687
+Title: A Study Of The Efficacy Of Gabapentin In Neuropathic Pain Patients As Measured By Quantitative Sensory Testing
+Phase: NA
+Status: COMPLETED
+Summary: The purpose of this study is to assess the reproducibility and the effect of gabapentin on quantitative sensory testing assessments in neuropathic pain subjects.
+---
+Trial: NCT07349680
+Title: Ultrasound-Guided Thoracic Paravertebral Block With Steroid and Local Anesthetic for Acute Herpes Zoster: Effects on Pain Control and Prevention of Postherpetic Neuralgia
+Phase: PHASE3
+Status: COMPLETED
+Summary: Background: Acute herpes zoster causes severe neuropathic pain and may progress to postherpetic neuralgia (PHN). This study aims to evaluate ultrasound-guided thoracic paravertebral block with local anesthetic and steroid in reducing acute pain and PHN incidence.
+
+Methods: This prospective randomized study included 100 patients diagnosed with acute thoracic herpes zoster (rash ≤14 days, NRS ≥4). P
+---
+Trial: NCT07000409
+Title: The Effectiveness of Ultra-Sound Guided Erector Spinae Block With Betamethasone for Management of Truncal Chronic Post Herpetic Neuralgia.
+Phase: NA
+Status: RECRUITING
+Summary: To investigate the effectiveness of ultra-Sound guided Erector spinae block (ESB) with Betamethasone as an adjuvant to standard medical protocol in the management of truncal chronic post herpetic neuralgia.
+---
+Trial: NCT06959147
+Title: High-Voltage Long-Duration Pulsed Radiofrequency Combined With Liposomal Bupivacaine Subcutaneous Block for Herpes Zoster-Associated Neuralgia
+Phase: PHASE4
+Status: RECRUITING
+Summary: Research Objectives Background and Significance: Zoster-associated neuralgia (ZAN) refers to neuropathic pain experienced by herpes zoster (HZ) patients before, during, and after rash resolution, characterized by paroxysmal, lightning-like, or knife-like sensations. Postherpetic neuralgia (PHN), a common type of chronic pain, is often accompanied by physical-psychological impairments, social dysfu
+---
+Trial: NCT03421613
+Title: 3VM1001 Cream for the Treatment of Pain Associated With Post Herpetic Neuralgia (PHN)
+Phase: EARLY_PHASE1
+Status: COMPLETED
+Summary: Post-herpetic neuralgia (PHN) is pain following acute herpes zoster; defined as pain lasting longer than 3 months. Current first line management consists of tricyclic anti-depressants and anti-convulsants such as gabapentin and pregabalin. There is an unmet medical need for treatments got topical therapies that demonstrate efficacy without serious side effects.
+---
+Trial: NCT06613802
+Title: Prevalence of Gabapentinoids and Opioids in Geriatric Falls Patients
+Phase: NA
+Status: COMPLETED
+Summary: This study investigates the prescription patterns of gabapentinoids (gabapentin and pregabalin) in a geriatric fall clinic in Aalborg, Denmark, between 2013 and 2023. Gabapentinoids, often prescribed for neuropathic pain, have seen increased off-label usage, particularly as alternatives to opioids. Despite the lack of robust evidence supporting their efficacy in many neuropathic and non-neuropathi
+---
+Trial: NCT04594226
+Title: Electroacupuncture Therapy for Treating Postherpetic Neuralgia
+Phase: NA
+Status: COMPLETED
+Summary: Postherpetic neuralgia (PHN) has a high incidence rate and severely impact on quality of life and health care costs, interfering with physical, emotional and social functioning of affected patients. Current therapeutic options for PHN mainly include analgetic and local anaesthesia for selective nerve blockade. Nevertheless, the efficacy of analgetic is always limited by inevitable side effects, in
+---
+Trial: NCT00295776
+Title: Lamictal in the Treatment of Post-Herpetic Neuralgia
+Phase: PHASE2
+Status: TERMINATED
+Summary: To assess the efficacy of Lamictal for the treatment of pain and reduction of allodynia in patients with post herpetic neuralgia.
+---
+Trial: NCT02840240
+Title: Effect of Gabapentin Enacarbil on Opioid Consumption and Pain Scores
+Phase: NA
+Status: COMPLETED
+Summary: Opioids are effective analgesics, but cause side effects including sedation, respiratory depression, low blood pressure, nausea, and constipation. Gabapentin enacarbil, which is a FDA approved drug for post herpetic neuralgia (nerve pain related to shingles) and restless leg syndrome, may decrease your need for narcotics and thus decrease the risk of side effects. The investigator hopes this study
+---
+Trial: NCT07307976
+Title: The Analgesic Efficacy and Safety of Crisugabalin in Patients With Herpes Zoster
+Phase: NA
+Status: RECRUITING
+Summary: Herpes zoster (HZ) is characterized by a painful dermatomal rash and significantly affects quality of life, with acute pain increasing the risk of postherpetic neuralgia. Although early antiviral therapy limits viral replication, its analgesic effect is insufficient, and many patients experience inadequate relief despite stepwise use of non-opioids and opioids. Gabapentinoids such as gabapentin an
+---
+Trial: NCT04133142
+Title: Regional Anesthesia to Relief Zoster Pain
+Phase: NA
+Status: WITHDRAWN
+Summary: Pain in Herpes is a serious issue for patients. at the acute phase it is a moderate to severe pain . 30% patients will develop a post herpetic neuralgia this percentage up to 70 % after 60 years old. this post herpetic neuralgia will affect their life. Publication showed the efficiency of regional anesthesia on pain at the acute phase and a recent meta-analysis showed the role of efficient pain re
+---
+Trial: NCT03269344
+Title: Gabapentin for the Reduction of Radiation Therapy Induced Pain During the Treatment of Oropharyngeal Cancer
+Phase: PHASE3
+Status: COMPLETED
+Summary: Strategies to minimize and mitigate external beam radiation therapy related mucositis and pain during the treatment of head and neck cancer remain limited. The investigators hypothesize that gabapentin could be used to delay or reduce treatment-related pain, reliance on opioid medication, and improve the quality of life for these patients.
+---

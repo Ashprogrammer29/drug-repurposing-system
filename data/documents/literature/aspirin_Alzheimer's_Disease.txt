@@ -1,0 +1,1839 @@
+1. J Alzheimers Dis. 2023;92(3):989-1000. doi: 10.3233/JAD-220787.
+
+Aspirin Use and Risk of Alzheimer's Disease: A 2-Sample Mendelian Randomization 
+Study.
+
+Ding P(1), Gorenflo MP(1)(2), Zhu X(3), Xu R(1).
+
+Author information:
+(1)Center for Artificial Intelligence in Drug Discovery, School of Medicine, 
+Case Western Reserve University, Cleveland, OH, USA.
+(2)Cleveland Clinic Lerner College of Medicine, Case Western Reserve University, 
+Cleveland, OH, USA.
+(3)Department of Population and Quantitative Health Sciences, School of 
+Medicine, Case Western Reserve University, Cleveland, OH, USA.
+
+BACKGROUND: Observational studies have shown inconsistent findings of the 
+relationships between aspirin use and the risk of Alzheimer's disease (AD).
+OBJECTIVE: Since residual confounding and reverse causality were challenging 
+issues inherent in observational studies, we conducted a 2-sample Mendelian 
+randomization analysis (MR) to investigate whether aspirin use was causally 
+associated with the risk of AD.
+METHODS: We conducted 2-sample MR analyses utilizing summary genetic association 
+statistics to estimate the potential causal relationship between aspirin use and 
+AD. Single-nucleotide variants associated with aspirin use in a genome-wide 
+association study (GWAS) of UK Biobank were considered as genetic proxies for 
+aspirin use. The GWAS summary-level data of AD were derived from a meta-analysis 
+of GWAS data from the International Genomics of Alzheimer's Project (IGAP) stage 
+I.
+RESULTS: Univariable MR analysis based on these two large GWAS data sources 
+showed that genetically proxied aspirin use was associated with a decreased risk 
+of AD (Odds Ratio (OR): 0.87; 95%CI: 0.77-0.99). In multivariate MR analyses, 
+the causal estimates remained significant after adjusting for chronic pain, 
+inflammation, heart failure (OR = 0.88, 95%CI = 0.78-0.98), or stroke 
+(OR = 0.87, 95%CI = 0.77-0.99), but was attenuated when adjusting for coronary 
+heart disease, blood pressure, and blood lipids.
+CONCLUSION: Findings from this MR analysis suggest a genetic protective effect 
+of aspirin use on AD, possibly influenced by coronary heart disease, blood 
+pressure, and lipid levels.
+
+DOI: 10.3233/JAD-220787
+PMCID: PMC11220559
+PMID: 36846997 [Indexed for MEDLINE]
+
+
+2. Stroke. 2010 Nov;41(11):2690-2. doi: 10.1161/STROKEAHA.109.576975. Epub 2010
+Oct  7.
+
+Aspirin in Alzheimer's disease: increased risk of intracerebral hemorrhage: 
+cause for concern?
+
+Thoonsen H(1), Richard E, Bentham P, Gray R, van Geloven N, De Haan RJ, Van Gool 
+WA, Nederkoorn PJ.
+
+Author information:
+(1)Department of Neurology, Academic Medical Center, University of Amsterdam, 
+Amsterdam, The Netherlands.
+
+Comment in
+    Evid Based Nurs. 2011 Jul;14(3):74. doi: 10.1136/ebn1151.
+
+BACKGROUND AND PURPOSE: In a randomized controlled trial in Alzheimer's disease 
+(AD), we found a higher number of intracerebral hemorrhages (ICHs) in patients 
+randomized to aspirin treatment. Here, we evaluate the literature on the risk of 
+ICH as a complication in patients with AD treated with aspirin.
+METHODS: Systematic review and comparison of the occurrence of events over time 
+between the aspirin and control group in each trial using Cox regression 
+analysis. Estimated hazard ratios (HRs) were combined in a pooled HR.
+RESULTS: Two randomized controlled trials on aspirin for AD were found. In the 
+Evaluation of Vascular Care in Alzheimer's Disease (EVA) trial (conducted in our 
+center), 4.6% of patients in the group receiving a multicomponent treatment that 
+included aspirin had an ICH (3/65; 95% confidence interval [CI], 1.0 to 12.9) 
+versus 0% in the control group (0/58; 95% CI, 0 to 6.2). In the Aspirin in 
+Alzheimer's Disease (AD2000) trial, these proportions were, respectively, 2.6% 
+(4/156; 95% CI, 0.7 to 6.4) and 0% (0/154; 95% CI, 0 to 2.4). The pooled 
+proportion of ICHs in the aspirin group is 3.2% (7/221; 95% CI, 1.3 to 6.4) 
+versus 0% in the control group (0/212; 95% CI, 0 to 1.7). The pooled HR for an 
+ICH in AD patients using aspirin is 7.63 (95% CI, 0.72 to 81.00; P=0.09).
+CONCLUSIONS: Although the number of cases in both trials is small, our findings 
+suggest that aspirin use in AD might pose an increased risk of ICH, whereas it 
+has no effect on cognition. If there is an unequivocal cardiovascular indication 
+for aspirin, it should not be withheld in AD patients.
+
+DOI: 10.1161/STROKEAHA.109.576975
+PMID: 20930165 [Indexed for MEDLINE]
+
+
+3. Mol Psychiatry. 2022 Aug;27(8):3396-3409. doi: 10.1038/s41380-022-01600-z.
+Epub  2022 May 11.
+
+High-fat diet-induced diabetes couples to Alzheimer's disease through 
+inflammation-activated C/EBPβ/AEP pathway.
+
+Liu P(1)(2), Wang ZH(1)(3), Kang SS(1), Liu X(1), Xia Y(1), Chan CB(4), Ye 
+K(5)(6).
+
+Author information:
+(1)Department of Pathology and Laboratory Medicine, Emory University School of 
+Medicine, Atlanta, GA, 30322, USA.
+(2)Neuroscience Program, Laney Graduate School, Emory University School of 
+Medicine, Atlanta, GA, 30322, USA.
+(3)Department of Neurology, Renmin Hospital, Wuhan University School of 
+Medicine, Wuhan, Hubei Province, China.
+(4)School of Biological Sciences, The University of Hong Kong, 6N01 Kadoorie 
+Biological Sciences Building, Pokfulam Road, Hong Kong, China.
+(5)Department of Pathology and Laboratory Medicine, Emory University School of 
+Medicine, Atlanta, GA, 30322, USA. kq.ye@siat.ac.cn.
+(6)Faculty of Life and Health Sciences, Shenzhen Institutes of Advanced 
+Technology, Chinese Academy of Sciences, Shenzhen, 518055, Guangdong, China. 
+kq.ye@siat.ac.cn.
+
+Diabetes is a risk factor for Alzheimer's disease (AD), which is also called 
+type 3 diabetes with insulin reduction and insulin resistance in AD patient 
+brains. However, the molecular mechanism coupling diabetes to AD onset remains 
+incompletely understood. Here we show that inflammation, associated with obesity 
+and diabetes elicited by high-fat diet (HFD), activates neuronal C/EBPβ/AEP 
+signaling that drives AD pathologies and cognitive disorders. HFD stimulates 
+diabetes and insulin resistance in neuronal Thy1-C/EBPβ transgenic (Tg) mice, 
+accompanied with prominent mouse Aβ accumulation and hyperphosphorylated Tau 
+aggregation in the brain, triggering cognitive deficits. These effects are 
+profoundly diminished when AEP is deleted from C/EBPβ Tg mice. Chronic treatment 
+with inflammatory lipopolysaccharide (LPS) facilitates AD pathologies and 
+cognitive disorders in C/EBPβ Tg but not in wild-type mice, and these 
+deleterious effects were substantially alleviated in C/EBPβ Tg/AEP -/- mice. 
+Remarkably, the anti-inflammatory drug aspirin strongly attenuates HFD-induced 
+diabetes and AD pathologies in neuronal C/EBPβ Tg mice. Therefore, our findings 
+demonstrate that inflammation-activated neuronal C/EBPβ/AEP signaling couples 
+diabetes to AD.
+
+© 2022. The Author(s), under exclusive licence to Springer Nature Limited.
+
+DOI: 10.1038/s41380-022-01600-z
+PMCID: PMC10032575
+PMID: 35546632 [Indexed for MEDLINE]
+
+Conflict of interest statement: COMPETING INTERESTS The authors declare no 
+competing interests.
+
+
+4. Eur J Pharmacol. 2020 Jan 5;866:172762. doi: 10.1016/j.ejphar.2019.172762.
+Epub  2019 Oct 26.
+
+Aspirin and its pleiotropic application.
+
+Hybiak J(1), Broniarek I(2), Kiryczyński G(3), Los LD(4), Rosik J(3), Machaj 
+F(3), Sławiński H(5), Jankowska K(3), Urasińska E(3).
+
+Author information:
+(1)Department of Pathology, Pomeranian Medical University, Szczecin, Poland. 
+Electronic address: jhybiak@pum.edu.pl.
+(2)Department of Gene Expression, Institute of Molecular Biology and 
+Biotechnology, Adam Mickiewicz University Poznan, Poland.
+(3)Department of Pathology, Pomeranian Medical University, Szczecin, Poland.
+(4)Faculty of Science, University of Manitoba, Winnipeg, Canada.
+(5)Wellcome Centre for Human Genetics, University of Oxford, United Kingdom.
+
+Aspirin (acetylsalicylic acid), the oldest synthetic drug, was originally used 
+as an anti-inflammatory medication. Being an irreversible inhibitor of COX 
+(prostaglandin-endoperoxide synthase) enzymes that produce precursors for 
+prostaglandins and thromboxanes, it has gradually found several other 
+applications. Sometimes these applications are unrelated to its original purpose 
+for example its use as an anticoagulant. Applications such as these have opened 
+opportunities for new treatments. In this case, it has been tested in patients 
+with cardiovascular disease to reduce the risk of myocardial infarct. Its 
+function as an anticoagulant has also been explored in the prophylaxis and 
+treatment of pre-eclampsia, where due to its anti-inflammatory properties, 
+aspirin intake may be used to reduce the risk of colorectal cancer. It is 
+important to always consider both the risks and benefits of aspirin's 
+application. This is especially important for proposed use in the prevention and 
+treatment of neurologic ailments like Alzheimer's disease, or in the prophylaxis 
+of myocardial infarct. In such cases, the decision if aspirin should be applied, 
+and at what dose may be guided by specific molecular markers. In this revived 
+paper, the pleiotropic application of aspirin is summarized.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ejphar.2019.172762
+PMID: 31669590 [Indexed for MEDLINE]
+
+
+5. JAMA Neurol. 2024 Feb 1;81(2):134-142. doi: 10.1001/jamaneurol.2023.4929.
+
+Risk Factors for Young-Onset Dementia in the UK Biobank.
+
+Hendriks S(1), Ranson JM(2), Peetoom K(1), Lourida I(2), Tai XY(3)(4), de Vugt 
+M(1), Llewellyn DJ(2)(5), Köhler S(1).
+
+Author information:
+(1)Department of Psychiatry and Neuropsychology, School for Mental Health and 
+Neuroscience, Alzheimer Center Limburg, Maastricht University, Maastricht, the 
+Netherlands.
+(2)University of Exeter Medical School, Exeter, United Kingdom.
+(3)Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford, 
+United Kingdom.
+(4)Division of Clinical Neurology, John Radcliffe Hospital, Oxford University 
+Hospitals Trust, Oxford, United Kingdom.
+(5)Alan Turing Institute, London, United Kingdom.
+
+IMPORTANCE: There is limited information on modifiable risk factors for 
+young-onset dementia (YOD).
+OBJECTIVE: To examine factors that are associated with the incidence of YOD.
+DESIGN, SETTING, AND PARTICIPANTS: This prospective cohort study used data from 
+the UK Biobank, with baseline assessment between 2006 and 2010 and follow-up 
+until March 31, 2021, for England and Scotland, and February 28, 2018, for 
+Wales. Participants younger than 65 years and without a dementia diagnosis at 
+baseline assessment were included in this study. Participants who were 65 years 
+and older and those with dementia at baseline were excluded. Data were analyzed 
+from May 2022 to April 2023.
+EXPOSURES: A total of 39 potential risk factors were identified from systematic 
+reviews of late-onset dementia and YOD risk factors and grouped into domains of 
+sociodemographic factors (education, socioeconomic status, and sex), genetic 
+factors (apolipoprotein E), lifestyle factors (physical activity, alcohol use, 
+alcohol use disorder, smoking, diet, cognitive activity, social isolation, and 
+marriage), environmental factors (nitrogen oxide, particulate matter, pesticide, 
+and diesel), blood marker factors (vitamin D, C-reactive protein, estimated 
+glomerular filtration rate function, and albumin), cardiometabolic factors 
+(stroke, hypertension, diabetes, hypoglycemia, heart disease, atrial 
+fibrillation, and aspirin use), psychiatric factors (depression, anxiety, 
+benzodiazepine use, delirium, and sleep problems), and other factors (traumatic 
+brain injury, rheumatoid arthritis, thyroid dysfunction, hearing impairment, and 
+handgrip strength).
+MAIN OUTCOME AND MEASURES: Multivariable Cox proportional hazards regression was 
+used to study the association between the risk factors and incidence of YOD. 
+Factors were tested stepwise first within domains and then across domains.
+RESULTS: Of 356 052 included participants, 197 036 (55.3%) were women, and the 
+mean (SD) age at baseline was 54.6 (7.0) years. During 2 891 409 person-years of 
+follow-up, 485 incident YOD cases (251 of 485 men [51.8%]) were observed, 
+yielding an incidence rate of 16.8 per 100 000 person-years (95% CI, 15.4-18.3). 
+In the final model, 15 factors were significantly associated with a higher YOD 
+risk, namely lower formal education, lower socioeconomic status, carrying 2 
+apolipoprotein ε4 allele, no alcohol use, alcohol use disorder, social 
+isolation, vitamin D deficiency, high C-reactive protein levels, lower handgrip 
+strength, hearing impairment, orthostatic hypotension, stroke, diabetes, heart 
+disease, and depression.
+CONCLUSIONS AND RELEVANCE: In this study, several factors, mostly modifiable, 
+were associated with a higher risk of YOD. These modifiable risk factors should 
+be incorporated in future dementia prevention initiatives and raise new 
+therapeutic possibilities for YOD.
+
+DOI: 10.1001/jamaneurol.2023.4929
+PMCID: PMC10751655
+PMID: 38147328 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Drs Ranson and 
+Llewellyn reported grants from Alzheimer’s Research UK and the Alan Turing 
+Institute/Engineering and Physical Sciences Research Council. Dr de Vugt 
+reported grants from Alzheimer Nederland and Gieskes Strijbis Fonds during the 
+conduct of the study. Dr Llewellyn reported funding from the Medical Research 
+Council, National Institute for Health Research Applied Research Collaboration 
+South West Peninsula, National Health and Medical Research Council, and National 
+Institute on Aging. No other disclosures were reported.
+
+
+6. Inflamm Res. 1998 Oct;47 Suppl 2:S78-87. doi: 10.1007/s000110050284.
+
+Anti-inflammatory drugs and their mechanism of action.
+
+Vane JR(1), Botting RM.
+
+Author information:
+(1)The William Harvey Research Institute, St. Bartholomew's and the Royal London 
+School of Medicine and Dentistry, Queen Mary and Westfield College, UK.
+
+Nonsteroidal anti-inflammatory drugs (NSAIDs) produce their therapeutic 
+activities through inhibition of cyclooxygenase (COX), the enzyme that makes 
+prostaglandins (PGs). They share, to a greater or lesser degree, the same side 
+effects, including gastric and renal toxicity. Recent research has shown that 
+there are at least two COX isoenzymes. COX-1 is constitutive and makes PGs that 
+protect the stomach and kidney from damage. COX-2 is induced by inflammatory 
+stimuli, such as cytokines, and produces PGs that contribute to the pain and 
+swelling of inflammation. Thus, selective COX-2 inhibitors should be 
+anti-inflammatory without side effects on the kidney and stomach. Of course, 
+selective COX-2 inhibitors may have other side effects and perhaps other 
+therapeutic potential. For instance, COX-2 (and not COX-1) is thought to be 
+involved in ovulation and in labor. In addition, the well-known protective 
+action of aspirin on colon cancer may be through an action on COX-2, which is 
+expressed in this disease. Moreover, NSAIDs delay the progress of Alzheimer's 
+disease. Thus, selective COX-2 inhibitors may demonstrate new important 
+therapeutic benefits as anticancer agents, as well as in preventing premature 
+labor and perhaps even retarding the progression of Alzheimer's disease.
+
+DOI: 10.1007/s000110050284
+PMID: 9831328 [Indexed for MEDLINE]
+
+
+7. Cochrane Database Syst Rev. 2012 Feb 15;2012(2):CD006378. doi: 
+10.1002/14651858.CD006378.pub2.
+
+Aspirin, steroidal and non-steroidal anti-inflammatory drugs for the treatment 
+of Alzheimer's disease.
+
+Jaturapatporn D(1), Isaac MG, McCleery J, Tabet N.
+
+Author information:
+(1)Department of Family Medicine, Ramathibodi Hospital, Mahidol University, 
+Bangkok and Baycrest Centre for Geriatric Care,University of Toronto, Toronto, 
+Canada. drdarinj@yahoo.com.
+
+Update of
+    doi: 10.1002/14651858.CD006378.
+
+BACKGROUND: Alzheimer's disease (AD) is the most common form of dementia. The 
+incidence of AD rises exponentially with age and its prevalence will increase 
+significantly worldwide in the next few decades. Inflammatory processes have 
+been suspected in the pathogenesis of the disease.
+OBJECTIVES: To review the efficacy and side effects of aspirin, steroidal and 
+non-steroidal anti-inflammatory drugs (NSAIDs) in the treatment of AD, compared 
+to placebo.
+SEARCH METHODS: We searched ALOIS: the Cochrane Dementia and Cognitive 
+Improvement Group's Specialized Register on 12 April 2011 using the terms: 
+aspirin OR "cyclooxygenase 2 inhibitor" OR aceclofenac OR acemetacin OR 
+betamethasone OR celecoxib OR cortisone OR deflazacort OR dexamethasone OR 
+dexibruprofen OR dexketoprofen OR diclofenac sodium OR diflunisal OR diflusinal 
+OR etodolac OR etoricoxib OR fenbufen OR fenoprofen OR flurbiprofen OR 
+hydrocortisone OR ibuprofen OR indometacin OR indomethacin OR ketoprofen OR 
+lumiracoxib OR mefenamic OR meloxicam OR methylprednisolone OR nabumetone OR 
+naproxen OR nimesulide OR "anti-inflammatory" OR prednisone OR piroxicam OR 
+sulindac OR tenoxicam OR tiaprofenic acid OR triamcinolone OR NSAIDS OR NSAID. 
+ALOIS contains records of clinical trials identified from monthly searches of a 
+number of major healthcare databases (including MEDLINE, EMBASE, PsycINFO, 
+CINAHL, LILACS), numerous trial registries (including national, international 
+and pharmacuetical registries) and grey literature sources.
+SELECTION CRITERIA: All randomised controlled trials assessing the efficacy of 
+aspirin, steroidal and non-steroidal anti-inflammatory drugs in AD.
+DATA COLLECTION AND ANALYSIS: One author assessed risk of bias of each study and 
+extracted data. A second author verified data selection.
+MAIN RESULTS: Our search identified 604 potentially relevant studies. Of these, 
+14 studies (15 interventions) were RCTs and met our inclusion criteria. The 
+numbers of participants were 352, 138 and 1745 for aspirin, steroid and NSAIDs 
+groups, respectively. One selected study comprised two separate interventions. 
+Interventions assessed in these studies were grouped into four categories: 
+aspirin (three interventions), steroids (one intervention), traditional NSAIDs 
+(six interventions), and selective cyclooxygenase-2 (COX-2) inhibitors (five 
+interventions). All studies were evaluated for internal validity using a risk of 
+bias assessment tool. The risk of bias was low for five studies, high for seven 
+studies, and unclear for two studies.There was no significant improvement in 
+cognitive decline for aspirin, steroid, traditional NSAIDs and selective COX-2 
+inhibitors. Compared to controls, patients receiving aspirin experienced more 
+bleeding while patients receiving steroid experienced more hyperglycaemia, 
+abnormal lab results and face edema. Patients receiving NSAIDs experienced 
+nausea, vomiting, elevated creatinine, elevated LFT and hypertension. A trend 
+towards higher death rates was observed among patients treated with NSAIDS 
+compared with placebo and this was somewhat higher for selective COX-2 
+inhibitors than for traditional NSAIDs.
+AUTHORS' CONCLUSIONS: Based on the studies carried out so far, the efficacy of 
+aspirin, steroid and NSAIDs (traditional NSAIDs and COX-2 inhibitors) is not 
+proven. Therefore, these drugs cannot be recommended for the treatment of AD.
+
+DOI: 10.1002/14651858.CD006378.pub2
+PMCID: PMC11337172
+PMID: 22336816 [Indexed for MEDLINE]
+
+Conflict of interest statement: All authors declare no conflict of interest in 
+this research project.
+
+
+8. N Engl J Med. 2018 Oct 18;379(16):1509-1518. doi: 10.1056/NEJMoa1805819. Epub 
+2018 Sep 16.
+
+Effect of Aspirin on Cardiovascular Events and Bleeding in the Healthy Elderly.
+
+McNeil JJ(1), Wolfe R(1), Woods RL(1), Tonkin AM(1), Donnan GA(1), Nelson MR(1), 
+Reid CM(1), Lockery JE(1), Kirpach B(1), Storey E(1), Shah RC(1), Williamson 
+JD(1), Margolis KL(1), Ernst ME(1), Abhayaratna WP(1), Stocks N(1), Fitzgerald 
+SM(1), Orchard SG(1), Trevaks RE(1), Beilin LJ(1), Johnston CI(1), Ryan J(1), 
+Radziszewska B(1), Jelinek M(1), Malik M(1), Eaton CB(1), Brauer D(1), Cloud 
+G(1), Wood EM(1), Mahady SE(1), Satterfield S(1), Grimm R(1), Murray AM(1); 
+ASPREE Investigator Group.
+
+Collaborators: Chan A, Demons J, Espinoza S, Goetz M, Liew D, Meyskens F, 
+Zalcberg J, Ives D, Berk M, Bernstein W, Brauer D, Burns C, Chong T, Cloud G, 
+Eaton C, Fitzgerald P, Haydon A, Jelinek M, Macrae F, Mahady S, Malik M, McLean 
+C, Rodriguez L, Satterfield S, Tie J, van Londen G, Ward S, Wood E, Mohr J, 
+Anderson G, Connolly S, Friedman L, Manson J, Sano M, Morrison S, Ohman EM, 
+Hadley E, Hannah J, Romashkan S, Ford L, Richmond E, Umar A, Lockett T, Lewis B, 
+Obisesan T, Gilbertson D, Collyer T, Rigby J, Pruksawongsin K, Hay N, Jachno K, 
+Smith C, Ekram ARMS, Gardam M, Luong H, Montgomery T, Plate M, Rojas L, Tominaga 
+A, Wadeson K, Hopkins S, Nichols T, Johnson A, Prozinski M, Robinson-O’Brien R, 
+Tessum N, Aloia J, Anton S, Burns J, Burton G, Ferris D, Honasoge M, Hsia D, 
+Katzman S, Kottam A, Nesbitt S, Ochoa A, Pemu P, Peterson K, Powell J, Pressman 
+G, Robinson W III, Satterfield S, Thorburn C, Volpi E, Wiggins J, Wilson P, 
+Womack C, Abdullah M, Abdul-Ridha S, Aboud E, Abraham A, Abraham J, Abraham K, 
+Abrahams M, Adad S, Adams C, Africa N, Afroze S, Agarwal D, Agbarakwe C, Ah Sang 
+W, Ahern T, Ahmad Y, Ahmad Z, Ahmed L, Ajam A, Akhter R, Akram Z, Alagarswami K, 
+Alam M, Alavi E, Aldridge L, Alethan A, Alexander K, Alexander L, Alexopoulos M, 
+Ali B, Ali M, Allan J, Allen C, Allen G, Allen S, Allin P, Al-Musawy R, Alpren 
+C, Al-Tawil I, Alwyn T, Amor P, Anam T, Anderson G, Anderson L, Anderson N, 
+Anderson P, Anderson R, Anderson-Dalheim H, Andrada E, Andre S, Andrews L, 
+Andric A, Andric M, Ang J, Ansari A, Arakji AM, Arambeploa Y, Ark R, Arnaudon 
+FP, Arndt PM, Aroney T, Arthurson J, Arunachalam T, Asim N, Aslam I, Assad S, 
+Astley N, Athari M, Atkins C, Atkins M, Aufgang M, Aung K, Aurora G, Auteri S, 
+Avergun A, Awwad A, Azad C, Azra S, Babovic A, Baig M, Baker J, Baker S, Baker 
+T, Bakhilova N, Baldam A, Baldassa A, Baldi C, Balkwill C, Balogun O, Ban A, 
+Banerjee P, Banning M, Bansal S, Barkas R, Barker A, Barker D, Barnes A, Barnes 
+N, Barnetson W, Barratt I, Barrett DA, Barrett M, Barrett M, Barrett P, Barrett 
+T, Barson P, Barstad C, Barton W, Bartram M, Bartusek P, Basser S, Bassett S, 
+Batchelor L, Batt D, Batty A, Baum S, Baxter M, Beaton G, Beaumont J, Beavis D, 
+Beckett V, Beech M, Beilby J, Bekal S, Bell A, Bendtsen L, Benedict D, Benjamin 
+T, Bennett P, Bennie G, Bennie S, Bennison S, Benson A, Benson R, Benson S, 
+Bergin J, Bergin S, Berryman G, Berryman J, Bertram H, Bertuch G, Bettenay G, 
+Bettiol L, Bills R, Birch J, Bird R, Bird R, Birks R, Blake R, Blakney A, 
+Blashki M, Bleach G, Bloch B, Bodenstein M, Boga V, Bollen C, Boltin P, Boon B, 
+Booth G, Borg A, Bornstein D, Bottcher C, Bourke J, Bourke M, Boutcher S, Bowden 
+J, Bowen J, Bowring B, Boyce C, Boyd J, Brack R, Bradshaw A, Brady P, 
+Braithwaite J, Braude G, Brayshaw N, Breen M, Bresnahan R, Briddon P, Bridge A, 
+Briggs SJ, Brimage RF, Britten-Jones W, Brkic M, Broadby M, Bromberger D, 
+Brommeyer A, Broom I, Brophy T, Brough J, Brougham JP, Broun C, Brown ID, Brown 
+J, Brown MB, Brown MP, Brown R, Brownbill C, Brownbill L, Browne M, Brownstein 
+M, Bruce A, Brunacci F, Brunner C, Bruorton M, Buccheri V, Buchanan D, Buckley 
+J, Bulle B, Bundy K, Burke M, Busch G, Bush CP, Butrev A, Bvirakare J, Bvumbura 
+BF, Bye J, Byrne C, Byrne P, Cain M, Calcutt I, Calder K, Caldwell M, Callan C, 
+Cameron A, Cameron D, Cameron D, Cameron T, Campbell D, Campbell D, Campbell G, 
+Campbell G, Campbell PH, Campbell R, Carroll N, Carroll V, Carson J, Carson R, 
+Carter L, Carter P, Carter R, Carter S, Cartwright P, Cassidy P, Catchpole M, 
+Cato G, Celada R, Chai F, Chalabi A, Chalissery P, Chalmers ML, Chamberlain H, 
+Chamoun R, Chan B, Chan C, Chan CK, Chan FW, Chan K, Chandran S, Chandrananth M, 
+Chandrananth S, Chang C, Chang V, Chang W, Changakoti A, Chantler R, Chao D, 
+Chao S, Charlton P, Chattersee A, Chau G, Chaung Y, Chawtur V, Cheah HH, Cheah 
+S, Cheasley A, Chee H, Chen D, Cheng W, Chesney D, Chew D, Chhabra P, Chia I, 
+Chia P, Chiang A, Chiang S, Chiew I, Chiew L, Chikarsal A, Chin J, Chin M, 
+Chipman JS, Chipperfield C, Chisholm H, Chisholm L, Chiu A, Chiu C, Chiu D, Chiu 
+T, Chizik L, Choksey H, Choo E, Chow A, Chow A, Choy C, Chu S, Chua A, Chuah T, 
+Chung J, Cimpoescu T, Clapton J, Clark B, Clark B, Clark M, Clark R, Clarke A, 
+Clarke D, Clarke S, Cleary G, Clerigo L, Clohesy S, Close S, Cochrane F, Cohen 
+IS, Cohen J, Colahan R, Collins J, Colman W, Colvin R, Conde S, Connell P, 
+Connellan M, Connor W, Connors G, Conos M, Conron D, Conroy J, Conway C, Cooper 
+M, Cooper S, Cope A, Corrigan S, Corrigan S, Coughlan P, Coulter E, Counsel L, 
+Court D, Courtis G, Cousens A, Craig L, Crameri M, Cranswick M, Crawford J, 
+Crawford M, Crawford P, Crawford R, Crick S, Crimmins B, Cristofaro R, Croatto 
+J, Crompton A, Cronin E, Crookes J, Cross B, Cross D, Cross M, Crow P, Crowe JE, 
+Crowe P, Crowley H, Cruickshank J, Cummins R, Cunneen A, Cunningham A, 
+Cunningham N, Cunningham P, Curnow D, Curran J, Curran M, Currie A, Curtis R, 
+Cusack J, Dabash K, Dabestani V, Dadabhay Z, Daglas D, Dagley P, Danesh S, Dang 
+D, Daniels R, Darby JP, Darko N, Darling J, Darlington B, Das J, Das P, Date M, 
+Datta C, Datta S, Davenport C, Davey G, Davey M, Davey P, Davidson CL, Davidson 
+D, Davies M, Davies-Hakeem A, Davis G, Davis K, Davis P, Davis P, Davis S, Dawe 
+N, Dawes R, Dawkins P, Dawson G, Dawson P, Dawson R, Day P, Daya M, Dayasagar D, 
+D’Costa L, De Clifford M, De Gleria S, De Poi C, De Silva M, De Silva P, De 
+Steiger R, De Villiers D, De Wit E, Debnath R, Deery R, De Lanerolle D, Del Rio 
+F, Delaney S, Delitzsch SS, Demaio F, Demian M, Demirtzoglou J, Denton T, 
+Derrick L, Deshmukh K, Dessauer J, Devavittiya C, Devereux D, Dewan D, Dewhurst 
+H, Dhar A, Dhillon D, Di Carlo M, Di Dio A, Di Marco A, Dickman J, Dillon L, 
+Dinh QT, Dissanayake D, Dissanayake M, Dissanayake T, Divakaran K, Dixit U, 
+Dixon H, Dixon N, Djakic E, Dobson C, Dodd L, Dodds P, Dodic A, Dodic M, Doley 
+A, Dolguina S, Dolling C, Donaghy F, Donald H, Donelan E, Donohue M, Dooland J, 
+Dooley H, Doslo S, Douglas A, Dover P, Downe G, Drake P, Dry D, Duane P, Dubash 
+A, Dubetz D, Duff P, Duke R, Dumitrescu C, Dunbar A, Dunbar S, Dunn S, Duong NH, 
+Dutta N, Dutton M, Duval A, Dyson-Berry J, Eade P, Eaton D, Ebert K, Edib K, 
+Edillo E, Edmonds J, Edwards F, Edwards PA, Edwards S, Eftekharuddin M, Egan A, 
+Egan P, Ehrenreich S, Ehsan E, Elberg L, Elisha B, Elisha R, Elkhoury H, 
+Ellerton K, Elliot-Smith A, Elmore R, Elshenawy I, Elsherif S, Elsouki M, Elton 
+P, Emmerson M, Emmett SI, English J, Enten P, Entwistle J, Epa W, Erhardt A, 
+Etta J, Evans M, Everitt T, Ewing J, Fahkok B, Faigen M, Fair A, Fairbrother C, 
+Fanning J, Fantasia M, Farag E, Fardell K, Farrant J, Farrell P, Farrow J, 
+Fassett M, Faull PA, Ferguson P, Fernando S, Fernando S, Ferruccio A, Fidge JH, 
+Field P, Figurireo L, Fisher H, Fisher J, Fitzgerald E, Fitzgerald M, Fitzgerald 
+R, Fitzpatrick H, Fitzpatrick J, Fitzpatrick P, Fitzpatrick T, Flaherty P, 
+Flanagan D, Flanagan T, Flew S, Fonseka PP, Foo J, Foo S, Foo Y, Foong E, Ford 
+D, Foster D, Fourlanos V, Fowler I, Fox D, Fox F, Fox M, Fox P, Fox-Smith D, 
+Francis J, Francis R, Frank O, Franks A, Fredericks A, Freeman E, French L, Frew 
+B, Friebel D, Friebel T, Frost S, Fryer D, Fuller J, Fung W, Fung WP, Furphy S, 
+Gabutina C, Gaggin S, Galbraith S, Gale M, Gall J, Gallichio V, Gangell AW, 
+Garde MA, Gardner SS, Gardner T, Garland J, Garra G, Garrow S, Garvey J, Gauden 
+M, Gault A, Gaur D, Gavralas A, George N, George S, Georgy M, Gerendasi R, 
+Geschke H, Giannakakis J, Gidley G, Gilani M, Giles P, Gill K, Gill P, Gill R, 
+Gillis C, Gilmore A, Gilovitz M, Gingold R, Glaspole D, Glowinski L, Glue AL, 
+Godakumbura P, Godavarthy R, Goel A, Goeltom C, Goldberg E, Goldberg J, Golets 
+M, Gong V, Goode J, Goodman C, Goodwin RJ, Gopathy S, Gordon M, Gough S, 
+Govender M, Gow K, Gowrie B, Goy P, Grabowski C, Graddon J, Granek A, Gray JM, 
+Gray M, Gray T, Grbac E, Greacen J, Greculescu E, Green J, Greenwood E, Griffin 
+E, Griffith V, Griffiths A, Griffiths G, Griffiths J, Griffiths K, Grigorian AR, 
+Grinzi P, Grogan H, Grokop G, Grossman L, Grove A, Gruzauskas A, Gu M, Guest S, 
+Guindi N, Guo H, Gurney R, Guy J, Guymer J, Gwynn R, Gyorki J, Habibi S, Hachem 
+C, Hackett A, Hackett J, Haddad J, Haddad M, Hadley E, Hagger R, Haider Z, Hain 
+R, Hajicosta T, Hales P, Hall J, Hall P, Hall R, Hall R, Hall S, Halliburton K, 
+Halliday A, Halliday B, Halliday J, Hamblen K, Hamel J, Hamer I, Hamilton J, 
+Hamilton RF, Hammond T, Hanbury R, Hancock A, Hand R, Hanna A, Hanna M, Hanna S, 
+Hanson G, Hanson PD, Haque E, Haran C, Haran T, Hare WJ, Harewood A, Haripersad 
+S, Harman A, Harmer D, Harms P, Harnden C, Harrington M, Harris A, Harris M, 
+Harrison M, Harrison S, Hart E, Hartley D, Hartley P, Hartnett M, Harvey C, 
+Haslam K, Hassani I, Hassett RB, Hastings W, Hattingh A, Hawke I, Hawkins C, 
+Hayes V, Heale J, Healy G, Hebblewhite A, Hechtman A, Hedgland A, Heffernan C, 
+Heikkinen MN, Heinrich C, Henderson J, Henry F, Herath S, Herbert A, Herbst D, 
+Hermiz S, Herrman J, Hesse M, Hetherington J, Hetzel R, Hewett R, Hides R, 
+Higgins CD, Hildred S, Hill A, Hilton C, Hince R, Hines C, Hinton C, Hipolito A, 
+Ho CK, Ho L, Hoar J, Hocking L, Hodge A, Hodgkins A, Hodgson J, Hogbin J, Hok S, 
+Holder B, Holland D, Holland M, Hollins B, Homewood M, Hong Zhou A, Honig J, 
+Honigman S, Hookham D, Hooper W, Hope L, Horman J, Horng T, Hornstein I, Horriat 
+M, Horvat J, Hossain M, Hough P, Howe J, Howson W, Hubczenko I, Hubel M, Hughes 
+J, Hughes P, Hunter D, Huq S, Hussain A, Hutchins I, Hutchinson A, Hyam P, Hyare 
+K, Iakovidis B, Ibragimov M, Idris M, Ierace C, Ikladios A, Imgraben P, Ingham 
+C, Ip A, Ip Y, Iqbal A, Iqbal M, Irvine G, Irwin V, Iser D, Islam N, Islam S, 
+Isles JK, Ismail A, Ivanoff G, Iwe N, Jackett RB, Jackson M, Jackson N, Jackson 
+P, Jackson T, Jacoup M, Jaensch E, Jain P, Jain S, Jaiswal N, Jaksic A, 
+Jakubowicz I, Jamel B, James J, Jameson D, Jansz C, Jarman E, Jassi I, 
+Jayasinghe S, Jayatilake J, Jayaweera V, Jeanes R, Jeanneret CI, Jedynak S, 
+Jeffries L, Jegadeesh K, Jenkins P, Jennings C, Jenny C, Jiang YY, Jigau C, 
+Jinadasa C, Joel S, John R, Johns P, Johnson C, Johnson J, Johnson M, Johnson N, 
+Johnson W, Johnston B, Johnston K, Johnston M, Johnston R, Johnston T, Jones G, 
+Jones I, Jones L, Jones M, Jones S, Jones T, Jones T, Joshi M, Joshi N, Joshi N, 
+Joske F, Joubert C, Jovanovic B, Joyce R, Judd AM, Judd J, Kaaden JP, Kabat L, 
+Kabourakis F, Kaippilly A, Kajani H, Kamale A, Kaminsky L, Kanapathipillai U, 
+Kanashuk L, Kao R, Kapadia P, Kapadia V, Karmouche R, Kaur KJ, Kavanagh T, Kay 
+A, Kay B, Kaye S, Keane K, Keating B, Keecha E, Keecha J, Keenan P, Keillar P, 
+Kemp G, Kemp P, Kennedy M, Kennedy U, Kennett S, Kesarapu S, Khan F, Khan I, 
+Khan M, Khong CK, Khoo F, Khoo J, Khoo S, Khoshghalb A, Kiefer J, Kiley M, Kilov 
+G, Kimpton N, King SC, Kingston R, Kinsella P, Kipouridis A, Kirwan A, Kisselev 
+S, Kitchen J, Kloot S, Knaggs J, Knight E, Knobel J, Knowles D, Knowles P, 
+Kogosowski S, Kok J, Kok J, Kollios D, Konopnicki H, Koravos A, Korol P, Kosky 
+AR, Kote Somashekarappa M, Kottegoda-Vithana E, Kotur S, Kozminsky M, Kraner G, 
+Kraus DH, Krell I, Kruytbosch C, Kuay V, Kucminska A, Kulatunga P, Kulinski M, 
+Kumar J, Kumar R, Kumar S, Kumarage D, Kumaraswamy S, Kunze M, Kurien S, 
+Kuruvilla P, Kwong R, Kyaw Z, Kyriacopoulos J, Lackner PJ, Lahanis C, Lajoie D, 
+Lajoie K, Lakshmanan A, Lal A, Lalor E, Lam D, Lambooij C, Lancaster M, Landa L, 
+Landers J, Lane R, Langston K, Lapin S, Lath P, Lau-Gooey T, Lawlor-Smith L, Le 
+Couteur S, Le P, Le Riche M, Le V, Le W, Leber D, Ledner A, Lee B, Lee C, Lee D, 
+Lee FB, Lee J, Lee J, Lee JY, Lee J, Lees K, Lees R, Lees W, Leffler P, Lenton 
+J, Leong R, Leow L, Leow P, Leow Y, Leslie N, Lester SE, Lewi L, Lewis P, Lewis 
+R, Li A, Li J, Liang J, Liang X, Libhaber H, Lichtblau B, Lickiss T, Liedvogel 
+M, Liew K, Light L, Lightfoot W, Lim C, Lim D, Lim H, Lim HS, Lim J, Lim SG, 
+Limaye S, Limbu Y, Lindenmayer J, Lindstedt P, Lines A, Ling J, Ling R, Linton 
+J, Linton S, Linton T, Liow C, Liow YC, Lip L, Lipson D, Liu S, Liu Y, Liubinas 
+R, Liveriadis T, Lizner S, Lloyd M, Lo B, Lo C, Lock P, Lockhart M, Logan M, 
+Loke KP, Long M, Long M, Longworth W, Loo KH, Lopez-Hernandez S, Lord RJ, Louw 
+J, Louw TT, Low B, Low F, Lowe M, Lowther D, Loxley P, Lu P, Lu S, Lucarelli A, 
+Lui G, Lui K, Lui R, Luke C, Lukic N, Lupton J, Luscombe T, Luttrell CL, Lyall 
+A, Lynch J, Lynn K, Lyon D, Lyon E, Lyons S, Macaulay G, Macaulay K, MacIndoe A, 
+MacIsaac P, Maciver R, Mackay B, Mackay J, Mackinnon D, Mackle R, Macphail J, 
+Madawala N, Madden J, Madeley C, Madhanpall N, Magarey J, Magill M, Mah S, 
+Mahadeva SP, Mahendran S, Maher J, Maher M, Mahmood A, Mahmood A, Maier K, 
+Majchrzak W, Majeed J, Makar A, Makohon R, Malcher P, Malcolm HE, Malcolm M, 
+Mallett S, Mallik A, Manderson J, Mane S, Mangan G, Manifold M, Manoliadis M, 
+Manovel B, Mansour A, Manton D, Marano F, Marchant D, Mariajoseph G, Marinos A, 
+Marinucci D, Marrows M, Marsh D, Martin C, Martin G, Martin R, Marton F, 
+Martynova L, Mason N, Masood U, Massaud M, Massy-Westropp P, Masters B, Mather 
+J, Mathews RA, Mathieson G, Mauro M, Mauviel PA, Maxfield N, Mayhead C, 
+Mazengiya S, Mazhar A, Mbachilin G, McAllan A, McCallum H, McCann N, McCarthy A, 
+McCleary A, McClelland R, McConville DS, McCorkell J, McCormack G, McCormick H, 
+McCowan M, McCutcheon J, McDonald AG, McDonald AS, McDonald IR, McDonald J, 
+McDonald N, McDonald S, McEniery A, McEntee K, McGee R, McGinity P, McGowan N, 
+McGowan R, McGrath L, McGuire P, McGuire P, McHardy C, McHenry K, McIllree R, 
+McKay M, McKellar C, McKelvie M, McKenzie SI, McKeown J, McKeown M, McKernan S, 
+McKinnon A, McLaren G, McLeod I, McMahon A, McMaster I, McNab NR, McNaughton EL, 
+McNiff M, McPherson C, Meaney J, Medlicott M, Medres R, Megally R, Mehta K, 
+Mellios O, Melvani R, Mencel J, Mendick S, Mendis L, Menzies J, Mercado M, 
+Mesiha S, Meyer PL, Meyer R, Miceli A, Michaelson T, Michail A, Michelmore K, 
+Miezis V, Milan S, Milky S, Miller K, Milner J, Milone R, Milton C, Milward N, 
+Mirhom R, Mirranay S, Mishricky H, Misso R, Mitchell A, Mitchell D, Mitchell L, 
+Mobilia G, Moffitt M, Mohr V, Moller G, Moller G, Molloy P, Molloy T, Molyneux 
+P, Monaghan C, Monash D, Moncrieff S, Monzon M, Mooney T, Moore E, Moran J, 
+Morgan G, Morgan M, Morgan N, Morris N, Morris S, Morrison H, Morrow S, Morton 
+R, Moschou C, Moulding S, Moule V, Mouzakis V, Mudunna D, Mudzi S, Mulkearns P, 
+Mullen D, Mulvey G, Mungi D, Munro L, Muraledaran S, Murphy B, Murphy G, Murray 
+A, Murray B, Murray E, Murray H, Murray S, Murtagh C, Nadarajah M, Naiker S, 
+Naing W, Nandha R, Nankervis J, Naoum A, Nash C, Nashed M, Nasreen N, Nath-Chand 
+U, Neagle M, Nelson C, Nelson MR, Nesbitt P, Neuberger M, Newman S, Newton S, Ng 
+D, Ng H, Ng S, Nguyen D, Nguyen HQ, Nguyen HT, Nguyen T, Nguyen-Ngoc M, Nice P, 
+Nicholls P, Nicholson D, Nicola N, Nicolettou N, Nicolson I, Nield S, Nikolic V, 
+Nikolovska-Buzevski N, Nilsson A, Nimmo A, Nisselle P, Nitchingham S, Niven A, 
+Nnopu E, Noonan L, Norton C, Norton G, Notini G, Nwaegerue ED, Nylander P, 
+O’Brien C, O’Connor A, O’Connor DA, O’Donovan B, O’Driscoll E, Oechsle G, Offor 
+J, Ogilvie B, O’Halloran J, O’Hanlon P, Okolie K, Olaniyi I, O’Leary B, O’Leary 
+K, Olesen J, Oliver P, Olomola O, Olszewski C, Olukolu G, Omarjee A, Omidiora 
+AA, Omifolaji S, O’Neill A, O’Neill CO, Ong BP, Ong M, Ooruthiran M, Oppermann 
+BL, Orbach E, Orgonas R, Orsillo M, Ostberg M, O’Sullivan C, O’Sullivan J, 
+O’Sullivan PJ, O’Toole C, O’Toole M, Otuonye D, Owen T, Padilla C, Page A, 
+Pahuja P, Palmer A, Pan J, Panozzo D, Pantillano E, Papagelis A, Papas E, Pape 
+A, Paransothy P, Parghi N, Parker A, Parker J, Parker S, Parkes H, Parletta E, 
+Parry B, Pasha M, Patel G, Patel M, Pathirana A, Patterson R, Pattichis I, 
+Pattison J, Pava C, Peachey D, Pearce E, Pearce R, Pearse B, Pearson R, Pech M, 
+Peduru-Arachchige A, Pellegrini P, Pellizzari G, Pereira V, Perera B, Perera L, 
+Perlesz A, Perraton R, Perry H, Perry S, Perry W, Pervaiz Z, Peters L, Pham H, 
+Phan C, Phan T, Phare A, Philip J, Philips J, Phillips A, Philpot J, Phiri R, 
+Pickavance M, Piekarski D, Pienkos J, Piez W, Pilgrim C, Pillai BK, Pinder R, 
+Pinkstone J, Pinson J, Pither A, Plenderleith J, Pliatsios B, Plunkett M, 
+Pokharel C, Poland D, Polgar V, Polmear D, Poologanathan G, Pope I, Popp L, 
+Portelli A, Potter T, Powell K, Powell K, Powell V, Power R, Powles A, Poynton 
+N, Pranavan S, Prasad R, Praszkier S, Preiss J, Pretorius P, Price C, Price I, 
+Price K, Price M, Priest C, Pring M, Profitt C, Protassow A, Psaradellis IJA, 
+Psycharis J, Pucilowski D, Pun K, Qamar F, Quach S, Radcliff E, Radcliffe B, 
+Radcliffe J, Radford J, Ragg P, Rahel E, Rahim T, Rahman F, Rahmanamlashi N, 
+Rajasooriar S, Rajendra I, Rajini E, Raman A, Ramsay A, Ramsey J, Rana U, Rankin 
+M, Rao UV, Rapley M, Rasaratnam S, Rashid A, Ratnaike L, Rattan J, Ratten K, 
+Rattraywood C, Rayner E, Rea J, Rea PC, Reddy S, Reddy S, Reed R, Reeves C, 
+Reichl T, Reid J, Reid K, Remyn P, Renfrey S, Renouf E, Renshaw P, Retchford A, 
+Reynolds F, Reza R, Rezk L, Rhee J, Rhodes F, Rice A, Richards J, Richards R, 
+Richardson A, Richardson GT, Richardson R, Richardson T, Ridgers D, Ridgers MJ, 
+Rieger W, Rienits H, Rigoni M, Riley J, Rillstone D, Rimmer DE, Ringelblum D, 
+Riseley J, Roberts A, Roberts I, Roberts J, Roberts M, Roberts S, Robinson J, 
+Robinson R, Robson A, Roche V, Rodda C, Rodway P, Roebuck R, Rogers D, Rogers S, 
+Roman F, Romas D, Ronan C, Rope S, Rose A, Rose DF, Rose G, Rose K, Rosen N, 
+Rosenblatt J, Ross K, Ross M, Ross T, Roth J, Rothfield J, Roubos N, Roufael AD, 
+Rounsevell J, Rouse W, Roushdy B, Rowe R, Rowland G, Roy A, Royston A, Rubin J, 
+Russell G, Ryan F, Ryan N, Ryan S, Sabet A, Sabetypeyman F, Sachdev A, Saddik A, 
+Sadhai R, Saeed S, Sahhar C, Saka M, Salauddin M, Salter E, Salter M, Samaddar 
+A, Samarakkody A, Samararatna M, Samarsekera C, Samuel-John D, Sandars M, 
+Sanders J, Sanderson L, Sandhu N, Sandrasegaram S, Sangsari A, Saprid J, Sarkis 
+K, Sasse C, Satter F, Satyadharma K, Saul J, Scaife R, Schaap M, Scheelings FT, 
+Schinckel H, Schlesinger P, Schlicht S, Schmidt M, Schneeweiss A, Schroeder E, 
+Scully S, Searle R, Sebastian T, Seeto R, Segal G, Segal L, Seidel B, Selga A, 
+Senanayake I, Seneviratne M, Seneviratne T, Senini D, Senior J, Seow L, Sepetavc 
+D, Serafim A, Serban R, Sexton P, Shahat M, Shamoun Y, Shanmugarajah K, Shannon 
+G, Sharif A, Shariff A, Sharma A, Sharma D, Sharma M, Sharma P, Sharma R, Sharma 
+S, Sharma U, Sharp V, Sheen-Apostol J, Sheikh Mohamed M, Sher J, Sherley M, Shi 
+B, Shimmin MB, Shing D, Shires SE, Shmerling A, Shortis P, Shroot AD, Shute J, 
+Sia M, Siapantas S, Sidhwarni R, Siemienowicz J, Siew HC, Sigalov E, Silver D, 
+Simes L, Simonson F, Simpson R, Simpson T, Simpson W, Singh B, Singh D, Singh H, 
+Singh M, Singh R, Siow CL, Sitlington R, Sivapalan C, Skeat J, Skehan M, 
+Skeklios L, Skinner T, Sklovsky CJ, Slabbert J, Slaney GM, Slattery C, Sleaby E, 
+Sleiman C, Slesenger J, Slimming T, Sloan C, Sloane R, Slonim D, Slot P, Smagas 
+T, Smart M, Smibert L, Smiley J, Smith D, Smith G, Smith J, Smith P, Smith R, 
+Smith S, Smith S, Smith V, Smylie D, Sneyd S, Snow S, Sobol G, Soccio M, Solanki 
+V, Soloczynskiyj A, Solomon D, Somerville M, Song J, Soo D, Soo L, Soo T, Soo 
+TM, Sood R, Sooknandan S, Soon M, Sosnin M, Spanos N, Spargo JS, Speirs B, 
+Spencer H, Spencer J, Spottiswood M, Spring M, Squires L, Stabelos G, Stagg M, 
+Stanley L, Stark A, Steel A, Steer N, Steiner H, Stephanson A, Stephens G, 
+Stephenson A, Sterling BR, Stevens B, Stevens P, Stevenson J, Stewart C, Stewart 
+R, Sticklen E, Stiebel P, Stillger JM, Stinerman I, Stobie M, Stobie T, 
+Stojkovski S, Stone A, Stowe S, Stoyanova V, Strasser K, Strong J, Struk H, 
+Stuart A, Su J, Sujecki M, Suka R, Sullivan T, Sululola A, Sumathipala A, 
+Suntesic L, Sutherland D, Sutherland I, Sutherland R, Sutton J, Swart R, Sweet 
+M, Sweet R, Syed Z, Sykes J, Sylivris A, Symon B, Szabo R, Sze J, Szenczy C, 
+Sze-Tho R, Szymanski I, Szymanski R, Tadrous M, Taft D, Taine M, Talic D, Tan E, 
+Tan E, Tan G, Tan HM, Tanovic A, Tasiopoulos A, Tate K, Tattersall I, Taverna C, 
+Taylor J, Taylor R, Taylor S, Teo K, Teoh C, Teperman B, Tereszkiewicz W, 
+Thanenthiran R, Thangarajah C, Thangavel B, Thann Z, The S, Theophilos M, Theris 
+N, Thiru K, Thiru M, Thomas G, Thomas P, Thompson D, Thompson L, Thompson W, 
+Thomson B, Thorne A, Thornley J, Thorpe V, Thottakurichi R, Thurairajah A, 
+Thurairajah S, Thyagarajan T, Tiet Q, Tillekeratne K, Tine S, Tinning R, Tinston 
+C, To E, Tolentino C, Tom H, Tomar D, Tomic M, Tomyn L, Toohill G, Tooth M, 
+Tormey S, Toua P, Trainor S, Tran C, Tran E, Tran LD, Tran TQ, Trethowan K, 
+Trevena R, Trigg P, Trivett B, Try R, Tsigopoulos A, Tucker D, Tunaley S, 
+Turnbull H, Turnbull S, Turner J, Twycross W, Tynan D, Tyndall P, Tyshing W, 
+Uchendu F, Uhlenbruch B, Uluca U, Unkenstein D, Urie JP, Vaiopoulos T, Van 
+Ammers E, Van Der Merwe D, Van Der Spek A, Van Der Vlist R, Van Opstal E, 
+Vanderzeil G, Vanderzeil T, Vanker L, Vanmali H, Varghese A, Varney W, Vasquez 
+I, Vasudevan S, Veal M, Venables S, Venkatram G, Verghese P, Verma H, Verma R, 
+Verso M, Victor A, Vijayakumar V, Vijayanand P, Viljoen E, Vincent F, Vinci A, 
+Vinci G, Viney P, Visvalingam C, Von Caemmerer A, Vonschmidt JK, Vorich R, Vrij 
+R, Vyas S, Wai T, Waid S, Wakefield B, Walder D, Waldron CM, Waldron M, Wales S, 
+Walker B, Walker G, Walker R, Walker W, Wall R, Wallace J, Wallace K, Wallis I, 
+Wang S, Wang X, Wang Z, Ward C, Ward R, Ward S, Wardlaw P, Wark A, Warr A, 
+Warren M, Waters L, Watson A, Watson S, Watt G, Watt J, Watterson J, Waugh R, 
+Wazid M, Wearne E, Webb I, Webber C, Webber E, Webber S, Webster DL, Webster J, 
+Webster P, Webster P, Weerasinghe S, Weerasoorya M, Weinrich J, Welberry L, 
+Weller A, Wells S, Welsh D, Weng M, Wenig M, Wettesinghe I, Wexler P, White A, 
+White G, White R, Whitehouse J, Whitehouse L, Whitehouse R, Whitfield K, 
+Whitfield S, Whitney W, Wiehle G, Wight R, Wild I, Wilding S, Wildman G, 
+Williams A, Williams G, Williams J, Williams M, Williams PD, Williams S, 
+Williams W, Willis M, Wilson A, Win N, Wiseman J, Wishart W, Wivell F, Wong C, 
+Wong CS, Wong D, Wong JK, Wong J, Wong JM, Wong P, Wong PT, Wong Y, Wood P, 
+Woods R, Woodward P, Wooff D, Woolf S, Worboys P, Worboys PC, Wrennall R, Wright 
+A, Wright A, Wright L, Wright R, Wright R, Wrobel K, Wu D, Wu E, Wu L, Xiao M, 
+Yacoub M, Yang A, Yang J, Yang R, Yates D, Yazbek P, Yeaman C, Yeo M, Yeung Shi 
+Chung D, Yiap D, Yilmaz S, Yogaranandan D, Young D, Young R, Young S, Yousef M, 
+Yousif K, Youssef D, Yu Z, Yuille R, Zagorksi M, Zail S, Zain M, Zallmann A, 
+Zeng L, Zhao S, Zhao W, Zheng M, Zhou D, Ziccone M, Zimmerman J, Zwijnenburg A.
+
+Author information:
+(1)From the Department of Epidemiology and Preventive Medicine, Monash 
+University (J.J.M., R.W., R.L.W., A.M.T., M.R.N., C.M.R., J.E.L., E.S., S.M.F., 
+S.G.O., R.E.T., C.I.J., J.R., E.M.W., S.E.M.), Baker Heart and Diabetes 
+Institute (C.I.J.), the Department of Cardiology, St. Vincent's Hospital (M.J.), 
+and the Department of Clinical Neurosciences, Central Clinical School, Monash 
+University and Alfred Hospital (G.C.), Melbourne, and Florey Institute of 
+Neuroscience and Mental Health, University of Melbourne, Parkville (G.A.D.), 
+VIC, Menzies Institute for Medical Research, University of Tasmania, Hobart 
+(M.R.N.), the School of Public Health, Curtin University (C.M.R.), and the 
+School of Medicine, Royal Perth Hospital, University of Western Australia 
+(L.J.B.), Perth, the College of Medicine, Biology and Environment, Australian 
+National University, Canberra, ACT (W.P.A.), and the Discipline of General 
+Practice, University of Adelaide, Adelaide, SA (N.S.) - all in Australia; the 
+Berman Center for Outcomes and Clinical Research, Hennepin Healthcare Research 
+Institute, Hennepin Healthcare (B.K., R.G., A.M.M.), HealthPartners Institute 
+(K.L.M.), and the Division of Geriatrics, Department of Medicine, Hennepin 
+Healthcare and the University of Minnesota (A.M.M.), Minneapolis, and the School 
+of Nursing, Minnesota State University, Mankato (D.B.) - all in Minnesota; the 
+Department of Family Medicine and Rush Alzheimer's Disease Center, Rush 
+University Medical Center, Chicago (R.C.S.); Sticht Center on Aging and 
+Alzheimer's Prevention, Section on Gerontology and Geriatric Medicine, 
+Department of Internal Medicine, Wake Forest School of Medicine, Winston-Salem, 
+NC (J.D.W.); the Department of Pharmacy Practice and Science, College of 
+Pharmacy and Department of Family Medicine, Carver College of Medicine, 
+University of Iowa, Iowa City (M.E.E.); the Division of Geriatrics and Clinical 
+Gerontology, National Institute on Aging, Bethesda, MD (B.R.); the Department of 
+Cardiovascular Medicine, Vascular Medicine Section, Cleveland Clinic, Cleveland 
+(M.M.); the Center for Primary Care and Prevention, Brown University, 
+Providence, RI (C.B.E.); and the University of Tennessee Health Science Center, 
+Memphis (S.S.).
+
+Comment in
+    Gastroenterology. 2019 Feb;156(3):534-538. doi: 
+10.1053/j.gastro.2018.11.063.
+    Internist (Berl). 2019 Feb;60(2):209-216. doi: 10.1007/s00108-018-0541-z.
+    MMW Fortschr Med. 2019 Feb;161(2):35. doi: 10.1007/s15006-019-0127-2.
+    N Engl J Med. 2019 May 2;380(18):1775. doi: 10.1056/NEJMc1901774.
+    N Engl J Med. 2019 May 2;380(18):1775. doi: 10.1056/NEJMc1901774.
+    N Engl J Med. 2019 May 2;380(18):1775-1776. doi: 10.1056/NEJMc1901774.
+    Evid Based Nurs. 2019 Oct;22(4):115. doi: 10.1136/ebnurs-2018-103041.
+    J Fam Pract. 2020 Apr;69(3):E16-E18.
+
+BACKGROUND: Aspirin is a well-established therapy for the secondary prevention 
+of cardiovascular events. However, its role in the primary prevention of 
+cardiovascular disease is unclear, especially in older persons, who have an 
+increased risk.
+METHODS: From 2010 through 2014, we enrolled community-dwelling men and women in 
+Australia and the United States who were 70 years of age or older (or ≥65 years 
+of age among blacks and Hispanics in the United States) and did not have 
+cardiovascular disease, dementia, or disability. Participants were randomly 
+assigned to receive 100 mg of enteric-coated aspirin or placebo. The primary end 
+point was a composite of death, dementia, or persistent physical disability; 
+results for this end point are reported in another article in the Journal. 
+Secondary end points included major hemorrhage and cardiovascular disease 
+(defined as fatal coronary heart disease, nonfatal myocardial infarction, fatal 
+or nonfatal stroke, or hospitalization for heart failure).
+RESULTS: Of the 19,114 persons who were enrolled in the trial, 9525 were 
+assigned to receive aspirin and 9589 to receive placebo. After a median of 4.7 
+years of follow-up, the rate of cardiovascular disease was 10.7 events per 1000 
+person-years in the aspirin group and 11.3 events per 1000 person-years in the 
+placebo group (hazard ratio, 0.95; 95% confidence interval [CI], 0.83 to 1.08). 
+The rate of major hemorrhage was 8.6 events per 1000 person-years and 6.2 events 
+per 1000 person-years, respectively (hazard ratio, 1.38; 95% CI, 1.18 to 1.62; 
+P<0.001).
+CONCLUSIONS: The use of low-dose aspirin as a primary prevention strategy in 
+older adults resulted in a significantly higher risk of major hemorrhage and did 
+not result in a significantly lower risk of cardiovascular disease than placebo. 
+(Funded by the National Institute on Aging and others; ASPREE ClinicalTrials.gov 
+number, NCT01038583 .).
+
+DOI: 10.1056/NEJMoa1805819
+PMCID: PMC6289056
+PMID: 30221597 [Indexed for MEDLINE]
+
+
+9. Indian J Med Res. 2014 Jan;139(1):1-3.
+
+Alzheimer's disease prevention & acetyl salicylic acid: a believable story.
+
+Pomponi M(1), Pomponi MF.
+
+Author information:
+(1)Institute of Psychiatry & Clinical Psychology, Department of Geriatrics, 
+Neuroscience & Orthopaedics, Roma, Italy.
+
+PMCID: PMC3994724
+PMID: 24604034 [Indexed for MEDLINE]
+
+
+10. medRxiv [Preprint]. 2025 Apr 8:2025.04.07.25325038. doi: 
+10.1101/2025.04.07.25325038.
+
+Multi-omics analysis reveals aspirin is associated with reduced risk of 
+Alzheimer's disease.
+
+Grabowska ME, Vaidya AU, Zhong X, Guardo C, Dickson AL, Babanejad M, Yan C, Xin 
+Y, Mundo S, Peterson JF, Feng Q, Eaton J, Wen Z, Li B, Wei WQ.
+
+The urgent need for safe and effective therapies for Alzheimer's disease (AD) 
+has spurred a growing interest in repurposing existing drugs to treat or prevent 
+AD. In this study, we combined multi-omics and clinical data to investigate 
+possible repurposing opportunities for AD. We performed transcriptome-wide 
+association studies (TWAS) to construct gene expression signatures of AD from 
+publicly available GWAS summary statistics, using both transcriptome prediction 
+models for 49 tissues from the Genotype-Tissue Expression (GTEx) project and 
+microglia-specific models trained on eQTL data from the Microglia Genomic Atlas 
+(MiGA). We then identified compounds capable of reversing the AD-associated 
+changes in gene expression observed in these signatures by querying the 
+Connectivity Map (CMap) drug perturbation database. Out of >2,000 small-molecule 
+compounds in CMap, aspirin emerged as the most promising AD repurposing 
+candidate. To investigate the longitudinal effects of aspirin use on AD, we 
+collected drug exposure and AD coded diagnoses from three independent sources of 
+real-world data: electronic health records (EHRs) from Vanderbilt University 
+Medical Center (VUMC) and the National Institutes of Health All of Us Research 
+Program, along with national healthcare claims from the MarketScan Research 
+Databases. In meta-analysis of EHR data from VUMC and All of Us , we found that 
+aspirin use before age 65 was associated with decreased risk of incident AD 
+(hazard ratio=0.76, 95% confidence interval [CI]: 0.64-0.89, P =0.001). 
+Consistent with the findings utilizing EHR data, analysis of claims data from 
+MarketScan revealed significantly lower odds of aspirin exposure among AD cases 
+compared to matched controls (odds ratio=0.32, 95% CI: 0.28-0.38, P <0.001). Our 
+results demonstrate the value of integrating genetic and clinical data for drug 
+repurposing studies and highlight aspirin as a promising repurposing candidate 
+for AD, warranting further investigation in clinical trials.
+
+DOI: 10.1101/2025.04.07.25325038
+PMCID: PMC12036415
+PMID: 40297415
+
+
+11. J Alzheimers Dis. 2018;61(2):785-791. doi: 10.3233/JAD-170665.
+
+Alzheimer's Disease Progression: Factors Influencing Cognitive Decline.
+
+Ferrari C(1), Lombardi G(2), Polito C(3), Lucidi G(2), Bagnoli S(2), Piaceri 
+I(2), Nacmias B(2), Berti V(3), Rizzuto D(4), Fratiglioni L(4)(5), Sorbi 
+S(1)(2).
+
+Author information:
+(1)IRCCS Don Gnocchi, Florence, Italy.
+(2)Department of Neuroscience, Psychology, Drug Research and Child Health 
+(NEUROFARBA), University of Florence, Florence, Italy.
+(3)Department of Biomedical, Experimental and Clinical Sciences "Mario Serio", 
+Nuclear Medicine Unit, University of Florence, Italy.
+(4)Aging Research Center, Department of Neurobiology, Care Sciences and Society, 
+Karolinska Institutet and Stockholm University, Stockholm, Sweden.
+(5)Stockholm Gerontology Research Centrum, Stockholm, Sweden.
+
+BACKGROUND: Alzheimer's disease (AD) patients present high variability in the 
+rate of cognitive decline. Despite the wide knowledge on factors influencing 
+dementia risk, little is known on what accounts for AD progression. Previous 
+studies on this topic have mainly analyzed each factor separately without taking 
+into account the interaction between genetic and non-genetic factors.
+OBJECTIVE: The aim of the present study is to evaluate the role of demographic, 
+clinical, therapeutic, and genetic factors and their interaction on cognitive 
+decline among newly diagnosed AD patients.
+METHODS: We retrospectively selected 160 AD patients diagnosed at the Neurology 
+Unit of Careggi University Hospital of Florence. We evaluated the occurrence of 
+rapid cognitive changes defined as the worsening of more than four points at the 
+Mini-Mental State Examination after 2-year follow up period.
+RESULTS: Among the 160 AD patients, 50% presented rapid disease progression. 
+Extrapyramidal signs at disease onset were predictors of worse outcome (OR 2.2), 
+especially among Apolipoprotein E (APOE) ɛ4 allele carriers, while the presence 
+of family history for dementia decreased the risk of rapid progression by about 
+50%. Higher educated ɛ4-carriers showed a slower AD progression. We identified 
+the chronic use of aspirin as potential secondary preventative strategy for the 
+non ɛ4-carriers.
+CONCLUSION: At dementia onset, some clinical and demographic data can be 
+predictors of future progression. The outcomes of the present study support the 
+already hypothesized interaction between genetic and non-genetic factors during 
+disease course and suggest genetic-based approaches.
+
+DOI: 10.3233/JAD-170665
+PMID: 29226870 [Indexed for MEDLINE]
+
+
+12. J Alzheimers Dis. 2023;91(2):697-704. doi: 10.3233/JAD-220901.
+
+Association of Aspirin Use with Reduced Risk of Developing Alzheimer's Disease 
+in Elderly Ischemic Stroke Patients: A Retrospective Cohort Study.
+
+Gorenflo MP(1), Davis PB(2), Kendall EK(1), Olaker VR(1), Kaelber DC(3), Xu 
+R(1).
+
+Author information:
+(1)Center for Artificial Intelligence in Drug Discovery, Case Western Reserve 
+University School of Medicine, Cleveland, OH, USA.
+(2)Center for Community Health Integration, Case Western Reserve University 
+School of Medicine, Cleveland, OH, USA.
+(3)The Center for Clinical Informatics Research and Education, The MetroHealth 
+System, Cleveland, OH, USA.
+
+BACKGROUND: Currently there are no effective therapies to prevent or halt the 
+development of Alzheimer's disease (AD). Multiple risk factors are involved in 
+AD, including ischemic stroke (IS). Aspirin is often prescribed following IS to 
+prevent blood clot formation. Observational studies have shown inconsistent 
+findings with respect to the relationship between aspirin use and the risk of 
+AD.
+OBJECTIVE: To investigate the relationship between aspirin therapy after IS and 
+the new diagnosis of AD in elderly patients.
+METHODS: This retrospective cohort study leveraged a large database that 
+contains over 90 million electronic health records to compare the hazard rates 
+of AD after IS in elderly patients prescribed aspirin versus those not 
+prescribed aspirin after propensity-score matching for relevant confounders.
+RESULTS: At 1, 3, and 5 years after first IS, elderly patients prescribed 
+aspirin were less likely to develop AD than those not prescribed aspirin: Hazard 
+Ratio = 0.78 [0.65,0.94], 0.81 [0.70,0.94], and 0.76 [0.70,0.92].
+CONCLUSION: Our findings suggest that aspirin use may prevent AD in patients 
+with IS, a subpopulation at high risk of developing the disease.
+
+DOI: 10.3233/JAD-220901
+PMCID: PMC11388024
+PMID: 36502331 [Indexed for MEDLINE]
+
+
+13. Ageing Res Rev. 2011 Jan;10(1):124-31. doi: 10.1016/j.arr.2010.09.003. Epub
+2010  Oct 8.
+
+Why docosahexaenoic acid and aspirin supplementation could be useful in women as 
+a primary prevention therapy against Alzheimer's disease?
+
+Pomponi MF(1), Gambassi G, Pomponi M, Di Gioia A, Masullo C.
+
+Author information:
+(1)Istituto di Biochimica e Biochimica clinica, Università Cattolica del S. 
+Cuore (UCSC), Largo F. Vito, 1, 00168 Rome, Italy. m.pomponi@rm.unicatt.it
+
+The assumption that disease specific risk factors are similar or the same in men 
+and women may lead to incorrect primary prevention strategies. This study 
+focused on the evaluation of gender-specific Alzheimer's disease (AD) risk 
+factors. In AD, female gender appears to be an important risk factor associated 
+with the aberrant production of beta amyloid (βA) peptides. Although decreased 
+levels in plasma DHA concentration are associated with cognitive decline in 
+healthy elderly and Alzheimer's patients, pre-treatment with DHA significantly 
+reduced the survival of cortical neurons incubated with beta amyloid (βA). 
+Hence, in the presence of an increasing amount of βA, paradoxically women - who 
+have higher plasma levels of DHA - are more likely to develop AD. Aspirin (ASA) 
+converts cyclooxygenase (COX)-2 into a form that generates new neuroprotective 
+docosanoids from DHA; therefore, ASA might positively resolve the paradoxical 
+effect of the concomitant presence of DHA and βA.
+
+Copyright © 2010 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.arr.2010.09.003
+PMID: 20920611 [Indexed for MEDLINE]
+
+
+14. Alzheimers Dement. 2026 Jan;22(1):e71007. doi: 10.1002/alz.71007.
+
+The association of Alzheimer's disease and related dementias blood-based 
+biomarkers with depressive symptoms.
+
+Bacci JR(1), Ryan J(2), Murray AM(3)(4), Wu Z(2), Woods RL(2), Berk M(5), Mielke 
+MM(1).
+
+Author information:
+(1)Department of Epidemiology and Prevention, Wake Forest University School of 
+Medicine, Winston-Salem, North Carolina, USA.
+(2)School of Public Health and Preventive Medicine, Monash University, 
+Melbourne, Victoria, Australia.
+(3)Division of Geriatric and Palliative Medicine, Department of Medicine, 
+Hennepin Healthcare, Minneapolis, Minnesota, USA.
+(4)Berman Center for Outcomes and Clinical Research, Hennepin Healthcare 
+Research Institute, Minneapolis, Minnesota, USA.
+(5)The Institute for Mental and Physical Health and Clinical Translation 
+(IMPACT), School of Medicine, Deakin University, Geelong, Victoria, Australia.
+
+INTRODUCTION: Depressive symptoms are common in older adults and have been 
+associated with the risk of Alzheimer's disease/Alzheimer's disease and related 
+dementias (AD/ADRD), but the mechanisms and biomarkers underlying this 
+association remain unclear.
+METHODS: We included baseline data from 11,947 non-demented adults aged ≥ 70 
+years at enrollment in the Aspirin in Reducing Events in the Elderly (ASPREE) 
+clinical trial. Linear regressions were used to examine cross-sectional 
+associations between AD/ADRD blood-based biomarkers (BBMs) and baseline 
+depressive symptoms. Interactions between sex or apolipoprotein E (APOE) ε4 
+carrier status and BBMs were examined.
+RESULTS: Higher glial fibrillary acidic protein (GFAP) was associated with 
+higher depressive symptoms. We did not observe an association between amyloid 
+beta 42/40 ratio, phosphorylated tau181, or neurofilament light chain with 
+depressive symptoms; interactions between sex or APOE ε4 with depressive 
+symptoms were not significant.
+DISCUSSION: In this large, community-based cohort of older adults, plasma GFAP 
+was associated with greater depressive symptoms.
+HIGHLIGHTS: Plasma glial fibrillary acidic protein was associated with 
+depressive symptoms. Neuroinflammation may underlie depressive symptoms in this 
+group. Future research is needed to examine sex differences in this association.
+
+© 2025 The Author(s). Alzheimer's & Dementia published by Wiley Periodicals LLC 
+on behalf of Alzheimer's Association.
+
+DOI: 10.1002/alz.71007
+PMCID: PMC12756043
+PMID: 41476029 [Indexed for MEDLINE]
+
+Conflict of interest statement: Dr. Mielke has served on scientific advisory 
+boards and/or has consulted for Acadia, Althira, Biogen, Eisai, Lilly, Merck, 
+Neurogen Biomarking, Novo Nordisk, and Roche; received speaking honorariums from 
+Novo Nordisk, PeerView Institute, and Roche; and receives grant support from the 
+National Institutes of Health, Department of Defense, Alzheimer's Association, 
+and Davos Alzheimer's Collaborative. Dr. Anne M. Murray receives grant support 
+from the National Institutes of Health. Dr. Joanne Ryan serves as a non‐paid 
+co‐chair for Dementia Australia Research Foundation scientific panel; received 
+honoraria from the Victorian Coronial Council–Department of Justice and 
+Community Service; and receives grant support from the National Institutes of 
+Health, the National Health and Medical Research Council, the Medical Research 
+Future Fund and the Australian Research Council. M. Berk reports grant funding 
+from the Wellcome Trust, Medical Research Future Fund, Victorian Government 
+Department of Jobs, Precincts and Regions, Janssen Lundbeckfonden Copenhagen, 
+St. Biopharma, Milken Baszucki Brain Research Fund, Stanley Medical Research 
+Institute, Danmarks Frie Forskningsfond Psykiatrisk Center Kovenhavn, 
+Patient‐Centered Outcomes Research Institute (PCORI), Australian Eating 
+Disorders Research and Translation Centre AEDRTC, USA Department of Defense 
+Office of the Congressionally Directed Medical Research Programs (CDMRP), Equity 
+Trustees Limited and Advisory boards including Janssen, Otsuka, St Biopharma, 
+Actinogen, and Servier, all unrelated to this work. All other authors declare no 
+conflicts of interest. Author disclosures are available in the supporting 
+information.None of the authors has any conflicts of interest. Author 
+disclosures are available in the supporting information.
+
+
+15. J Am Coll Cardiol. 2021 Jun 29;77(25):3145-3156. doi: 
+10.1016/j.jacc.2021.04.075.
+
+Effect of Statin Therapy on Cognitive Decline and Incident Dementia in Older 
+Adults.
+
+Zhou Z(1), Ryan J(2), Ernst ME(3), Zoungas S(2), Tonkin AM(2), Woods RL(2), 
+McNeil JJ(2), Reid CM(4), Curtis AJ(2), Wolfe R(2), Wrigglesworth J(2), Shah 
+RC(5), Storey E(2), Murray A(6), Orchard SG(2), Nelson MR(7); ASPREE 
+Investigator Group.
+
+Author information:
+(1)Menzies Institute for Medical Research, University of Tasmania, Hobart, 
+Australia. Electronic address: zhen.zhou@utas.edu.au.
+(2)School of Public Health and Preventive Medicine, Monash University, 
+Melbourne, Australia.
+(3)Department of Pharmacy Practice and Science, College of Pharmacy, University 
+of Iowa, Iowa City, Iowa, USA; Department of Family Medicine, Carver College of 
+Medicine, University of Iowa, Iowa City, Iowa, USA.
+(4)School of Public Health, Curtin University, Perth, Australia.
+(5)Department of Family Medicine and Rush Alzheimer's Disease Center, Rush 
+University Medical Center, Chicago, Illinois, USA.
+(6)Department of Pharmacy Practice and Science, College of Pharmacy, University 
+of Iowa, Iowa City, Iowa, USA; Berman Center for Outcomes and Clinical Research, 
+Hennepin Healthcare Research Institute, Division of Geriatrics, Department of 
+Medicine Hennepin HealthCare, Minneapolis, Minnesota, USA; University of 
+Minnesota, Minneapolis, Minnesota, USA.
+(7)Menzies Institute for Medical Research, University of Tasmania, Hobart, 
+Australia.
+
+Comment in
+    J Am Coll Cardiol. 2021 Jun 29;77(25):3157-3159. doi: 
+10.1016/j.jacc.2021.04.076.
+    J Am Coll Cardiol. 2021 Oct 5;78(14):e101. doi: 10.1016/j.jacc.2021.07.051.
+    J Am Coll Cardiol. 2021 Oct 5;78(14):e103. doi: 10.1016/j.jacc.2021.07.047.
+
+BACKGROUND: The neurocognitive effect of statins in older adults remain 
+uncertain.
+OBJECTIVES: The aim of this study was to investigate the associations of statin 
+use with cognitive decline and incident dementia among older adults.
+METHODS: This analysis included 18,846 participants ≥65 years of age in a 
+randomized trial of aspirin, who had no prior cardiovascular events, major 
+physical disability, or dementia initially and were followed for 4.7 years. 
+Outcome measures included incident dementia and its subclassifications (probable 
+Alzheimer's disease, mixed presentations); mild cognitive impairment (MCI) and 
+its subclassifications (MCI consistent with Alzheimer's disease, other MCI); and 
+changes in domain-specific cognition, including global cognition, memory, 
+language and executive function, psychomotor speed, and the composite of these 
+domains. Associations of baseline statin use versus nonuse with dementia and MCI 
+outcomes were examined using Cox proportional hazards models and with cognitive 
+change using linear mixed-effects models, adjusting for potential confounders. 
+The impact of statin lipophilicity on these associations was further examined, 
+and effect modifiers were identified.
+RESULTS: Statin use versus nonuse was not associated with dementia, MCI, or 
+their subclassifications or with changes in cognitive function scores over time 
+(p > 0.05 for all). No differences were found in any outcomes between 
+hydrophilic and lipophilic statin users. Baseline neurocognitive ability was an 
+effect modifier for the associations of statins with dementia (p for 
+interaction < 0.001) and memory change (p for interaction = 0.02).
+CONCLUSIONS: In adults ≥65 years of age, statin therapy was not associated with 
+incident dementia, MCI, or declines in individual cognition domains. These 
+findings await confirmation from ongoing randomized trials.
+
+Copyright © 2021 American College of Cardiology Foundation. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jacc.2021.04.075
+PMID: 34167639 [Indexed for MEDLINE]
+
+Conflict of interest statement: Funding Support and Author Disclosures The 
+ASPREE trial was supported by a grant (U01AG029824) from the National Institute 
+on Aging and the National Cancer Institute at the National Institutes of Health, 
+by grants (334047 and 1127060) from the National Health and Medical Research 
+Council of Australia, and by Monash University and the Victorian Cancer Agency. 
+Dr. Tonkin has received research support or honoraria from Merck, Pfizer, and 
+Amgen; has received support from Bayer for materials in the ASPREE trial; and 
+has received National Health and Medical Research Council (NHMRC) grant support 
+for the STAREE trial. Dr. Zoungas has received NHMRC and Australian Heart 
+Foundation research funding as the principal investigator of the STAREE trial; 
+and has received payment to the institution (Monash University) from Eli Lilly 
+Australia, Boehringer-Ingelheim, Merck Sharp & Dohme Australia, AstraZeneca, 
+Novo Nordisk, Sanofi, and Servier for consultancy work outside the submitted 
+work. Dr. Nelson has received honoraria from Sanofi and Amgen; has received 
+support from Bayer for materials in ASPREE; and has received NHMRC grant support 
+for STAREE. Dr. Reid is funded through a NHMRC Principal Research Fellowship. 
+Dr. Shah serves as a noncompensated member of the board of directors of the 
+Alzheimer’s Association, Illinois Chapter; receives research support to his 
+institution, Rush University Medical Center, for his role as a site principal 
+investigator or site subinvestigator for industry-initiated clinical trials and 
+research studies of AD sponsored by Amylyx Pharmaceuticals, Eli Lilly, 
+Genentech, Lundbeck, Merck, Navidea Biopharmaceuticals, Novartis 
+Pharmaceuticals, Roche Holdings, and Takeda Development Center Americas; and is 
+a member of the steering committee of the PREVENTABLE clinical trial. All other 
+authors have reported that they have no relationships relevant to the contents 
+of this paper to disclose.
+
+
+16. Lancet Neurol. 2008 Jan;7(1):41-9. doi: 10.1016/S1474-4422(07)70293-4.
+
+Aspirin in Alzheimer's disease (AD2000): a randomised open-label trial.
+
+AD2000 Collaborative Group; Bentham P, Gray R, Sellwood E, Hills R, Crome P, 
+Raftery J.
+
+Comment in
+    Lancet Neurol. 2008 Jan;7(1):20-1. doi: 10.1016/S1474-4422(07)70296-X.
+
+BACKGROUND: Cardiovascular risk factors and a history of vascular disease can 
+increase the risk of Alzheimer's disease (AD). AD is less common in aspirin 
+users than non-users, and there are plausible biological mechanisms whereby 
+aspirin might slow the progression of either vascular or Alzheimer-type 
+pathology. We assessed the benefits of aspirin in patients with AD.
+METHODS: 310 community-resident patients who had AD and who had no potential 
+indication or definite contraindication for aspirin were randomly assigned to 
+receive open-label aspirin (n=156; one 75-mg enteric-coated tablet per day, to 
+continue indefinitely) or to avoid aspirin (n=154). Primary outcome measures 
+were cognition (assessed with the mini-mental state examination [MMSE]) and 
+functional ability (assessed with the Bristol activities of daily living scale 
+[BADLS]). Secondary outcomes were time to formal domiciliary or institutional 
+care, progress of disability, behavioural symptoms, caregiver wellbeing, and 
+care time. Patients were assessed at 12-week intervals in the first year and 
+once each year thereafter. Analysis of the primary outcome measures was by 
+intention to treat. This study is registered as an International Standard 
+Randomised Controlled Trial, number ISRCTN96337233.
+FINDINGS: Patients had a median age of 75 years; 156 patients had mild AD, 154 
+had moderate AD, and 18 had concomitant vascular dementia. Over the 3 years 
+after randomisation, in patients who took aspirin, mean MMSE score was 0.10 
+points higher (95% CI -0.37 to 0.57; p=0.7) and mean BADLS score was 0.62 points 
+lower (-1.37 to 0.13; p=0.11) than in patients assigned to aspirin avoidance. 
+There were no obvious differences between the groups in any other outcome 
+measurements. 13 (8%) patients on aspirin and two (1%) patients in the control 
+group had bleeds that led to admission to hospital (relative risk=4.4, 95% CI 
+1.5-12.8; p=0.007); three (2%) patients in the aspirin group had fatal cerebral 
+bleeds.
+INTERPRETATION: Although aspirin is commonly used in dementia, in patients with 
+typical AD 2 years of treatment with low-dose aspirin has no worthwhile benefit 
+and increases the risk of serious bleeds.
+
+DOI: 10.1016/S1474-4422(07)70293-4
+PMID: 18068522 [Indexed for MEDLINE]
+
+
+17. Nutrients. 2024 Oct 21;16(20):3567. doi: 10.3390/nu16203567.
+
+Supplementation and Mitigating Cognitive Decline in Older Adults With or Without 
+Mild Cognitive Impairment or Dementia: A Systematic Review.
+
+Fu Q(1), DeJager J(1), Gardner EM(1).
+
+Author information:
+(1)Department of Food Science and Human Nutrition, Michigan State University, 
+East Lansing, MI 48823, USA.
+
+This systematic literature review aims to answer the question of how 
+micronutrients might influence the development and progression of dementia. In 
+the present work, we focused on an overview of an updated review of relevant 
+literature published in the last two decades. This review aims to delineate the 
+relationship between micronutrient supplementation and cognitive decline in 
+older subjects. In carrying out this review, we followed PRISMA, and our 
+literature search was performed on PubMed. This systematic review includes only 
+primary studies that have investigated the efficacy of nutritional interventions 
+for the prevention of dementia and improvement of cognitive function in subjects 
+aged 65 years or older with normal cognition, mild cognitive impairment (MCI), 
+or Alzheimer's disease (AD). A gross heterogeneity of studies forbids the 
+possibility of a direct comparison of the results. A review of the inclusion 
+criteria and restrictions has been conducted to check the validity and 
+reliability of the results. In this review, thirty-three primary studies were 
+included. Results have shown that supplementation with vitamin D, probiotics, 
+and PUFAs would most likely reduce cognitive decline, dementia, or AD compared 
+with vitamins A, B, C, and E, which were seen to be relatively ineffective. Of 
+note, when considering vitamin B supplementation, positive effects were only 
+observed in non-aspirin users having high ω-3 fatty acid (ω-3 FA) plasma levels. 
+In some cases, however, there were genotypic differences in subjects in response 
+to vitamin B supplementation.
+
+DOI: 10.3390/nu16203567
+PMCID: PMC11509913
+PMID: 39458561 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that this research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as potential conflicts of interest.
+
+
+18. Front Aging Neurosci. 2025 Aug 6;17:1603892. doi: 10.3389/fnagi.2025.1603892.
+ eCollection 2025.
+
+Effect of aspirin use on conversion risk from mild cognitive impairment to 
+Alzheimer's disease.
+
+Choi BK(#)(1), Jin Y(#)(2), Lee H(2), Kim SW(3)(4), Park S(5), Hong I(#)(6), 
+Baek MS(#)(3)(4).
+
+Author information:
+(1)Department of Neurology, Gangnam Severance Hospital, Yonsei University 
+College of Medicine, Seoul, Republic of Korea.
+(2)Department of Occupational Therapy, Graduate School, Yonsei University, 
+Wonju, Republic of Korea.
+(3)Department of Neurology, Wonju Severance Christian Hospital, Yonsei 
+University Wonju College of Medicine, Wonju, Republic of Korea.
+(4)Research Institute of Metabolism and Inflammation, Wonju, Republic of Korea.
+(5)Department of Biostatistics and Computing, Yonsei University, Seoul, Republic 
+of Korea.
+(6)Department of Occupational Therapy, College of Software and Digital 
+Healthcare Convergence, Yonsei University, Wonju, Republic of Korea.
+(#)Contributed equally
+
+BACKGROUND: The potential effect of the antiplatelet and anti-inflammatory 
+properties of aspirin on Alzheimer's disease development, especially its role in 
+the progression from mild cognitive impairment to Alzheimer's disease dementia, 
+remains controversial. To evaluate the association between aspirin, use and the 
+risk of conversion to Alzheimer's disease dementia among individuals diagnosed 
+with mild cognitive impairment.
+METHODS: In this retrospective population-based cohort study, we used the Korean 
+National Health Insurance Service database to collect data on patients with mild 
+cognitive impairment enrolled between 2013 and 2016 and followed up until 2021. 
+In total, 508,107 patients initially diagnosed with mild cognitive impairment 
+(192,538 with aspirin prescriptions and 315,569 without aspirin prescriptions) 
+were enrolled. Aspirin use was assessed by extracting information from the 
+Korean National Health Insurance Service database using aspirin prescription 
+codes. The primary outcome was newly diagnosed Alzheimer's disease dementia. 
+Hazard ratios and 95% confidence intervals for Alzheimer's disease were analyzed 
+according to aspirin use using Cox proportional hazards regression analysis. 
+Secondary outcomes included ischemic and hemorrhagic stroke risk associated with 
+aspirin use.
+RESULTS: The data of 508,107 individuals were analyzed (mean [standard 
+deviation] age, 67.6 [10.7] years; 66.8% women and 33.2% men), and 39,318 
+developed Alzheimer's disease (22,572 controls and 16,746 using aspirin). The 
+rate of conversion to Alzheimer's disease was lower in the aspirin user group, 
+and the time to Alzheimer's disease dementia occurrence was longer than in the 
+nonuser group. A decreased Alzheimer's disease dementia risk was found in 
+patients using aspirin in Model 2 (adjusted hazard ratio, 0.939; 95% confidence 
+interval, 0.920-0.959), with more pronounced effects in individuals aged 
+≥65 years (Model 2 adjusted hazard ratio, 0.934; 95% confidence interval, 
+0.914-0.955). For hemorrhagic stroke, the risk increased with aspirin use across 
+all age groups, with the highest risk observed in younger patients (Model 2 
+adjusted hazard ratio, 5.082; 95% confidence interval, 4.838-5.338).
+CONCLUSION: Aspirin use was associated with reduced Alzheimer's disease risk in 
+older patients with mild cognitive impairment. Notably, the bleeding risk 
+associated with aspirin use should be considered, and personalized treatment 
+should be provided.
+
+Copyright © 2025 Choi, Jin, Lee, Kim, Park, Hong and Baek.
+
+DOI: 10.3389/fnagi.2025.1603892
+PMCID: PMC12364806
+PMID: 40842647
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+19. Gerontology. 1997;43(1-2):26-43. doi: 10.1159/000213834.
+
+Cerebromicrovascular pathology in Alzheimer's disease compared to normal aging.
+
+de la Torre JC(1).
+
+Author information:
+(1)Division of Neurosurgery, University of New Mexico School of Medicine, 
+Albuquerque, USA.
+
+A growing amount of data using light and electron microscopy, 
+immunocytochemistry, uptake of brain markers and metabolic studies suggest that 
+the pathogenesis of Alzheimer's disease may be due to impaired vascular delivery 
+of nutrients to the brain. The bulk of this evidence indicates that cerebral 
+capillary transport of glucose, oxygen and other vital nutrients is 
+dysfunctional in Alzheimer brains due to abnormal hemodynamic flow patterns 
+caused by structural deformities of the capillaries. Clinical disorders which 
+can worsen cerebral blood flow, such as head injury, coronary artery disease, 
+cerebrovascular ischemia or the presence of apolipoprotein E4 allele will 
+increase the risk of Alzheimer's dementia. By contrast, activities that increase 
+cerebral blood flow during aging such as complex thinking patterns or the use of 
+drugs to reduce vascular resistance, such as aspirin or NSAIDs, will reduce the 
+risk or improve the status of Alzheimer's disease. The production of neuritic 
+plaques and neurofibrillary tangles may develop from the hypometabolic 
+abnormalities caused by the impaired cerebromicrovasculature in Alzheimer 
+brains. Such metabolic and cerebral blood flow changes are considerably less 
+significant in age-matched control subjects. The major physiological, 
+pathological and cognitive changes reported for Alzheimer's disease appear to 
+have a common denominator which is reflected by the physically distorted 
+cerebromicrovessels and their inability to optimally deliver nutrients to the 
+brain, a condition which ultimately disturbs neurono-glial homeostasis.
+
+DOI: 10.1159/000213834
+PMID: 8996828 [Indexed for MEDLINE]
+
+
+20. Eur Stroke J. 2021 Jun;6(2):CXI-CLXII. doi: 10.1177/23969873211012132. Epub
+2021  May 11.
+
+ESO Guideline on covert cerebral small vessel disease.
+
+Wardlaw JM(1), Debette S(2)(3), Jokinen H(4), De Leeuw FE(5), Pantoni L(6), 
+Chabriat H(7), Staals J(8), Doubal F(1)(9), Rudilosso S(10), Eppinger S(11), 
+Schilling S(2), Ornello R(12), Enzinger C(11), Cordonnier C(13), Taylor-Rowan 
+M(14), Lindgren AG(15).
+
+Author information:
+(1)Centre for Clinical Brain Sciences, UK Dementia Research Institute, 
+University of Edinburgh, Edinburgh, UK.
+(2)Bordeaux Population Health Center, University of Bordeaux, INSERM, UM1219, 
+Team VINTAGE.
+(3)Department of Neurology, Institute for Neurodegenerative Disease, Bordeaux 
+University Hospital, Bordeaux, France.
+(4)HUS Neurocenter, Division of Neuropsychology, Helsinki University Hospital, 
+University of Helsinki and Department of Psychology and Logopedics, Faculty of 
+Medicine, University of Helsinki, Finland.
+(5)Radboud University Medical Center, Department of Neurology; Donders Center 
+for Medical Neuroscience, Nijmegen, The Netherlands.
+(6)Stroke and Dementia Lab, 'Luigi Sacco' Department of Biomedical and Clinical 
+Sciences, University of Milan, Milano, Italy.
+(7)Department of Neurology, Hopital Lariboisiere, APHP, INSERM U 1161, FHU 
+NeuroVasc, University of Paris, Paris, France.
+(8)Department of Neurology, School for Cardiovascular Diseases (CARIM), 
+Maastricht UMC+, AZ Maastricht, the Netherlands.
+(9)Dept of Medicine for the Elderly, University of Edinburgh, Edinburgh, UK.
+(10)Comprehensive Stroke Center, Department of Neuroscience, Hospital Clínic, 
+Barcelona, Spain.
+(11)University Clinic of Neurology, Medical University of Graz, Graz, Austria.
+(12)Department of Applied Clinical Sciences and Biotechnology, University of 
+L'Aquila, L'Aquila, Italy.
+(13)Univ. Lille, INSERM, CHU Lille, U1172, LilNCog - Lille Neuroscience & 
+Cognition, Lille, France.
+(14)Institute of Cardiovascular and Medical Sciences, University of Glasgow, 
+Glasgow, UK.
+(15)Department of Clinical Sciences Lund, Neurology, Lund University; Section of 
+Neurology, Skåne University Hospital, Lund, Sweden.
+
+'Covert' cerebral small vessel disease (ccSVD) is common on neuroimaging in 
+persons without overt neurological manifestations, and increases the risk of 
+future stroke, cognitive impairment, dependency, and death. These European 
+Stroke Organisation (ESO) guidelines provide evidence-based recommendations to 
+assist with clinical decisions about management of ccSVD, specifically white 
+matter hyperintensities and lacunes, to prevent adverse clinical outcomes. The 
+guidelines were developed according to ESO standard operating procedures and 
+Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) 
+methodology. We prioritised the clinical outcomes of stroke, cognitive decline 
+or dementia, dependency, death, mobility and mood disorders, and interventions 
+of blood pressure lowering, antiplatelet drugs, lipid lowering, lifestyle 
+modifications, glucose lowering and conventional treatments for dementia. We 
+systematically reviewed the literature, assessed the evidence, formulated 
+evidence-based recommendations where feasible, and expert consensus statements. 
+We found little direct evidence, mostly of low quality. We recommend patients 
+with ccSVD and hypertension to have their blood pressure well controlled; lower 
+blood pressure targets may reduce ccSVD progression. We do not recommend 
+antiplatelet drugs such as aspirin in ccSVD. We found little evidence on lipid 
+lowering in ccSVD. Smoking cessation is a health priority. We recommend regular 
+exercise which may benefit cognition, and a healthy diet, good sleep habits, 
+avoiding obesity and stress for general health reasons. In ccSVD, we found no 
+evidence for glucose control in the absence of diabetes or for conventional 
+Alzheimer dementia treatments. Randomised controlled trials with clinical 
+endpoints are a priority for ccSVD.
+
+© European Stroke Organisation 2021.
+
+DOI: 10.1177/23969873211012132
+PMCID: PMC8370079
+PMID: 34414301
+
+
+21. Lancet. 2004 Apr 3;363(9415):1139-46. doi: 10.1016/S0140-6736(04)15900-X.
+
+Convergence of atherosclerosis and Alzheimer's disease: inflammation, 
+cholesterol, and misfolded proteins.
+
+Casserly I(1), Topol E.
+
+Author information:
+(1)Department of Cardiovascular Medicine, Cleveland Clinic Foundation, 
+Cleveland, OH 44195, USA.
+
+Comment in
+    Lancet. 2004 Jun 19;363(9426):2091; author reply 2092. doi: 
+10.1016/S0140-6736(04)16471-4.
+    Lancet. 2004 Jun 19;363(9426):2092. doi: 10.1016/S0140-6736(04)16474-X.
+
+Late-onset sporadic Alzheimer's disease is a heterogeneous disorder. In elderly 
+patients, increasing evidence suggests a link between this neurodegenerative 
+disease, and vascular risk factors and atherosclerosis. The nature of this link 
+remains speculative. Some investigators have suggested that the disease arises 
+as a secondary event related to atherosclerosis of extracranial or intracranial 
+vessels. A toxic effect of vascular factors on the microvasculature of 
+susceptible brain regions has also been argued. An alternative explanation is 
+that atherosclerosis and Alzheimer's disease are independent but convergent 
+disease processes. This hypothesis is lent support by observations of shared 
+epidemiology, pathophysiological elements, and response to treatment in both 
+disorders. It provides a potential framework for an improved understanding of 
+the pathogenesis of Alzheimer's disease, especially in elderly patients with 
+vascular risk factors, and offers some promise toward the search for preventive 
+and therapeutic treatments.
+
+DOI: 10.1016/S0140-6736(04)15900-X
+PMID: 15064035 [Indexed for MEDLINE]
+
+
+22. Alzheimers Dement. 2025 Mar;21(3):e70081. doi: 10.1002/alz.70081.
+
+Commonly prescribed multi-medication therapies exert sex-specific effects on 
+Alzheimer's disease pathology and metabolomic profiles in App(NL-G-F) mice: 
+Implications for personalized therapeutics in aging.
+
+Eroli F(1), Johnell K(2), Acararicin Z(1), Tsagkogianni C(1), Zerial S(1), 
+Lancia S(1), Latorre-Leal M(1), Alanko V(1)(3), Hilmer SN(4), Matton A(1)(3), 
+Wastesson JW(2), Cedazo-Minguez A(1), Maioli S(1).
+
+Author information:
+(1)Department of Neurobiology, Care Sciences and Society, Center for Alzheimer 
+Research, Division of Neurogeriatrics, Karolinska Institutet, Solna, Sweden.
+(2)Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, 
+Solna, Sweden.
+(3)Department of Neurobiology, Care Sciences and Society, Center for Alzheimer 
+Research, Division of Clinical Geriatrics, Karolinska Institutet, Solna, Sweden.
+(4)Kolling Institute, Northern Sydney Local Health District and The University 
+of Sydney, St Leonards NSW, Australia.
+
+INTRODUCTION: Polypharmacy is common among older adults and people with 
+dementia. Multi-medication therapy poses risks of harm but also targets 
+comorbidities and risk factors associated with dementia, offering therapeutic 
+potential.
+METHODS: We evaluated the effects of two polypharmacy regimens and monotherapies 
+on male and female AppNL-G-F knock-in mice. We assessed functional, emotional, 
+and cognitive outcomes;amyloid pathology; and serum metabolomics profiles.
+RESULTS: A combination of metoprolol, simvastatin, aspirin, paracetamol, and 
+citalopram improved memory, reduced amyloid burden and neuroinflammation, and 
+modulated AD-associated metabolomic signatures in male mice, with negligible 
+effects in female mice. Substituting two cardiovascular drugs impacted emotional 
+domains but worsened memory, predominantly in female mice. In males, 
+monotherapies could not explain the combination effects, suggesting drug 
+synergy, whereas in female mice, certain monotherapy effects were lost when 
+combined.
+DISCUSSION: This study uncovers the sex-specific effects of polypharmacy in an 
+AD model, identifying mechanisms and biomarkers that can guide gender-specific 
+use of medicines in dementia prevention and management.
+HIGHLIGHTS: Two polypharmacy combinations show sex-specific effects on AD 
+pathology and serum metabolomic profiles. 
+Metoprolol+simvastatin+aspirin+paracetamol+citalopram improves memory and 
+amyloid pathology in male mice. Replacing metoprolol and simvastatin with 
+enalapril and atorvastatin eliminates benefits in male mice and impairs memory 
+in female mice. Selected monotherapies produce sex-specific effects but only 
+partially explain the outcomes of the combinations. Metabolomic pathways in 
+serum indicate possible mechanisms and biomarkers for evaluating the 
+effectiveness and safety of personalized therapies in aging and dementia.
+
+© 2025 The Author(s). Alzheimer's & Dementia published by Wiley Periodicals LLC 
+on behalf of Alzheimer's Association.
+
+DOI: 10.1002/alz.70081
+PMCID: PMC11947741
+PMID: 40145346 [Indexed for MEDLINE]
+
+Conflict of interest statement: All authors declare no conflict of interest. 
+Author disclosures are available in the supporting information.
+
+
+23. Lecanemab Therapy and APOE Genotype.
+
+Kane M(1).
+
+In: Pratt VM(2)(3), Scott SA(4)(5), Pirmohamed M(6)(7)(8), Esquivel B(9)(10), 
+Kattman BL(11), Malheiro AJ(12), editors. Medical Genetics Summaries [Internet]. 
+Bethesda (MD): National Center for Biotechnology Information (US); 2012–.
+2024 Aug 12 [updated 2024 Nov 25].
+
+Author information:
+(1)NCBI
+(2)Adjunct Professor, Clinical Pharmacology, Indiana University School of 
+Medicine, Indianapolis, IN 46202
+(3)Director, Scientific Affairs Pharmacogenetics, Agena Bioscience, San Diego CA 
+92121
+(4)Professor, Department of Pathology Stanford University, Palo Alto, CA 94305
+(5)Director, Stanford Medicine Clinical Genomics Laboratory, Stanford, CA 94305
+(6)David Weatherall Chair of Medicine and UK National Health Service Chair of 
+Pharmacogenetics, University of Liverpool, Liverpool, UK
+(7)Director, MRC Centre for Drug Safety Science and Wolfson Centre for 
+Personalized Medicine, University of Liverpool, Liverpool, UK
+(8)Director, Health Data Research UK North, Liverpool, UK
+(9)CEO, GenXys, Vancouver, BC V6B 1B8, Canada
+(10)VP, Clinical Innovation, ixlayer, San Francisco, CA 94105
+(11)Chief, Medical Genetics and Human Variation, National Center for 
+Biotechnology Information (NCBI), National Library of Medicine, National 
+Institutes of Health, Bethesda, MD 20894
+(12)Project Lead, Medical Genetics and Human Variation, National Center for 
+Biotechnology Information (NCBI), National Library of Medicine, National 
+Institutes of Health, Bethesda, MD 20894
+
+Lecanemab, brand name Leqembi, is a monoclonal antibody that targets amyloid 
+beta (Aβ) aggregates for the treatment of Alzheimer disease (AD) (1). It is 
+approved by the US Food and Drug Administration (FDA) for individuals with mild 
+cognitive impairment (MCI) or mild dementia stage AD with confirmed amyloid 
+pathology (1). Tests to confirm Aβ pathology in the clinical trials included 
+positron emission tomography (PET) or cerebrospinal fluid (CSF) measurement of 
+the Aβ42/Total Tau ratio (2). This disease-modifying medication is based on the 
+amyloid cascade hypothesis, which suggests Aβ aggregates are a key driver in AD 
+pathogenesis and that the removal of Aβ aggregates should slow cognitive 
+decline. Lecanemab is associated with amyloid-related imaging abnormalities 
+(ARIA) due to edema (ARIA-E) or hemorrhage (ARIA-H) from blood vessels in the 
+brain (3, 4). Individuals who have one or 2 copies of the AD risk-associated 
+apolipoprotein E (APOE) ε4 (NM_000041.4:c.388T>C) allele have an increased risk 
+of ARIA-E or -H (1) (Table 1). These individuals require additional monitoring 
+during the first year of treatment (5). The FDA-approved label reports that 
+concomitant antithrombotic medication (aspirin, antiplatelet, or anticoagulant) 
+with lecanemab therapy resulted in intracerebral hemorrhage in 2.5% of 
+individuals during clinical trials (1). The appropriate use recommendations from 
+the Alzheimer’s Disease and Related Disorders Therapeutics Work Group state that 
+individuals requiring anticoagulants should not be treated with lecanemab until 
+additional data regarding this interaction are available (5). Both the 
+FDA-approved label and Alzheimer’s Disease and Related Disorders Therapeutics 
+Work group encourage clinicians to consider participation in a registry for AD 
+treatment to gather additional real-world data on lecanemab therapy (1, 5).
+
+PMID: 39141762
+
+Conflict of interest statement: To prevent a potential conflict of interest, 
+Professor Sir Munir Pirmohammed (MB ChB, PhD, FRCPE, FRCP, FFPM. FRSB, FBPhS, 
+FMedSci) was not involved in the preparation, review, or editing of this chapter 
+of the Medical Genetics Summaries.
+
+
+24. Alzheimers Res Ther. 2025 Jan 8;17(1):15. doi: 10.1186/s13195-024-01669-4.
+
+Post-marketing safety concerns with lecanemab: a pharmacovigilance study based 
+on the FDA Adverse Event Reporting System database.
+
+Xing X(#)(1), Zhang X(#)(1), Wang K(1), Wang Z(1), Feng Y(1), Li X(1), Hua Y(1), 
+Zhang L(2), Dong X(3).
+
+Author information:
+(1)Department of Pharmacy, Xuanwu Hospital of Capital Medical University, No. 
+45, Changchun Street, Xicheng District, Beijing, 100053, People's Republic of 
+China.
+(2)Department of Pharmacy, Xuanwu Hospital of Capital Medical University, No. 
+45, Changchun Street, Xicheng District, Beijing, 100053, People's Republic of 
+China. zhanglan@xwhosp.org.
+(3)Department of Pharmacy, Xuanwu Hospital of Capital Medical University, No. 
+45, Changchun Street, Xicheng District, Beijing, 100053, People's Republic of 
+China. dongxianzhe@xwhosp.org.
+(#)Contributed equally
+
+BACKGROUND: The safety data of lecanemab in the post-marketing period has yet to 
+be fully investigated in the current literature. We aimed to identify and 
+characterise the safety profile of lecanemab in the post-marketing period.
+METHODS: We searched and reviewed the reports submitted to the FDA's Adverse 
+Event Reporting System (FAERS). We used a case/non-case approach to estimate the 
+reporting odds ratio (ROR) and information component (IC) with 95% confidence 
+intervals (CI) for lecanemab-related adverse events (AEs) reported at least four 
+counts. We compared the difference between serious and non-serious reports using 
+non-parametric tests.
+RESULTS: The FAERS recorded 1,986 lecanemab-related AEs affecting 868 patients. 
+Two hundred and three patients experienced serious AEs, including 22 deaths. The 
+most frequently reported AEs were headache (n = 193), chills (n = 100), fatigue 
+(n = 93), and amyloid-related imaging abnormality-oedema/effusion (ARIA-E) 
+(n = 91). Safety signals were detected, such as headache (ROR: 10.4, 95%CI: 
+8.97, 12.07; IC: 3.25, 95%CI: 2.97, 3.40), ARIA-E (ROR: 18,299.69, 95%CI: 
+14,001.27, 23,917.73; IC: 13.37, 95%CI: 6.15, 6.87), and infusion-related 
+reaction (ROR: 35.25, 95CI 27.58, 45.07; IC: 5.09, 95CI 4.15, 4.87). We also 
+identified several new AEs, such as migraine and pancreatic carcinoma. Patients 
+with serious AEs were more likely to be on polypharmacy for Alzheimer's disease 
+and use aspirin, acid-suppressing medications, statins, antidepressants, or 
+benzodiazepines compared to those with non-serious AEs.
+CONCLUSIONS: Lecanemab may have a significant potential for AEs. Our results 
+provide evidence for healthcare professionals and patients to weigh the risks 
+and benefits of lecanemab treatment. Further prospective studies are needed to 
+explore rare and unexpected AEs.
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s13195-024-01669-4
+PMCID: PMC11708074
+PMID: 39780222 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: Ethical approval was not required as the study was conducted using 
+de-identified publicly available data. Consent for publication: Not applicable. 
+Competing interests: The authors declare no competing interests.
+
+
+25. J Neurosci. 2018 Jul 25;38(30):6682-6699. doi:
+10.1523/JNEUROSCI.0054-18.2018.  Epub 2018 Jul 2.
+
+Aspirin Induces Lysosomal Biogenesis and Attenuates Amyloid Plaque Pathology in 
+a Mouse Model of Alzheimer's Disease via PPARα.
+
+Chandra S(1), Jana M(1)(2), Pahan K(3)(2).
+
+Author information:
+(1)Department of Neurological Sciences, Rush University Medical Center, Chicago, 
+Illinois 60612 and.
+(2)Division of Research and Development, Jesse Brown Veterans Affairs Medical 
+Center, Chicago, Illinois 60612.
+(3)Department of Neurological Sciences, Rush University Medical Center, Chicago, 
+Illinois 60612 and Kalipada_Pahan@rush.edu.
+
+Comment in
+    J Neurosci. 2019 Jan 9;39(2):197-198. doi: 10.1523/JNEUROSCI.2283-18.2018.
+
+Lysosomes play a central role in cellular homeostasis by regulating the cellular 
+degradative machinery. Because aberrant lysosomal function has been associated 
+with multiple lysosomal storage and neurodegenerative disorders, enhancement of 
+lysosomal clearance has emerged as an attractive therapeutic strategy. 
+Transcription factor EB (TFEB) is known as a master regulator of lysosomal 
+biogenesis and, here, we reveal that aspirin, one of the most widely used 
+medications in the world, upregulates TFEB and increases lysosomal biogenesis in 
+brain cells. Interestingly, aspirin induced the activation of peroxisome 
+proliferator-activated receptor alpha (PPARα) and stimulated the transcription 
+of Tfeb via PPARα. Finally, oral administration of low-dose aspirin decreased 
+amyloid plaque pathology in both male and female 5X familial Alzheimer's disease 
+(5XFAD) mice in a PPARα-dependent fashion. This study reveals a new function of 
+aspirin in stimulating lysosomal biogenesis via PPARα and suggests that low-dose 
+aspirin may be used in lowering storage materials in Alzheimer's disease and 
+lysosomal storage disorders.SIGNIFICANCE STATEMENT Developing drugs for the 
+reduction of amyloid β containing senile plaques, one of the pathological 
+hallmarks of Alzheimer's disease (AD), is an important area of research. 
+Aspirin, one of the most widely used medications in the world, activates 
+peroxisome proliferator-activated receptor alpha (PPARα) to upregulate 
+transcription factor EB and increase lysosomal biogenesis in brain cells. 
+Accordingly, low-dose aspirin decreases cerebral plaque load in a mouse model of 
+Alzheimer's disease via PPARα. These results reveal a new mode of action of 
+aspirin that may be beneficial for AD and lysosomal storage disorders.
+
+Copyright © 2018 the authors 0270-6474/18/386682-18$15.00/0.
+
+DOI: 10.1523/JNEUROSCI.0054-18.2018
+PMCID: PMC6067079
+PMID: 29967008 [Indexed for MEDLINE]
+
+
+26. Pract Neurol. 2010 Apr;10(2):94-100. doi: 10.1136/jnnp.2010.206086.
+
+Brain microbleeds.
+
+Cordonnier C.
+
+Brain microbleeds are small dot-like lesions appearing as hyposignal on gradient 
+echo T2* MR sequences. They represent microscopic areas of old haemosiderin 
+deposits. They are frequent in the setting of symptomatic cerebrovascular 
+disease and also in older healthy people, suggesting a link with cerebral 
+amyloid angiopathy. Their use as diagnostic or prognostic biomarkers remains 
+uncertain. More recently, they have been highlighted as a potential key factor 
+in the pathogenesis of Alzheimer's disease, connecting the main pathological 
+contributors of amyloid accumulation and cerebrovascular damage. The increasing 
+use of MRI in clinical practice and research has brought brain microbleeds very 
+much to our attention, raising many clinical dilemmas, such as-what do they 
+mean? Should I treat a patient with antithrombotic drugs or thrombolysis? And 
+many others.
+
+DOI: 10.1136/jnnp.2010.206086
+PMID: 20308236 [Indexed for MEDLINE]
+
+
+27. PLoS One. 2021 Jun 16;16(6):e0252969. doi: 10.1371/journal.pone.0252969. 
+eCollection 2021.
+
+Aspirin using was associated with slower cognitive decline in patients with 
+Alzheimer's disease.
+
+Weng J(1), Zhao G(2), Weng L(1), Guan J(3); Alzheimer’s Disease Neuroimaging 
+Initiative.
+
+Author information:
+(1)Department of Pharmacy, The Central Hospital of Lishui City, Lishui, 
+Zhejiang, China.
+(2)Department of Urology, Lishui City People's Hospital, Lishui, Zhejiang, 
+China.
+(3)Department of Pharmacy, Lishui City People's Hospital, Lishui, Zhejiang, 
+China.
+
+We aimed to examine whether the use of aspirin is associated with change in 
+cognitive performance over time, and whether this association is modified by the 
+cognitive stages. This study included a total of 1866 subjects, including 509 
+subjects with normal cognition (NC), 985 subjects with mild cognitive impairment 
+(MCI), and 372 patients with Alzheimer's disease (AD). In each group, we further 
+categorized our subjects into two groups based on their aspirin using 
+conditions: Aspirin users and non-aspirin users. Mini-Mental State Examination 
+(MMSE) was the cognitive outcome. Linear mixed models were conducted to examine 
+the longitudinal relationship between the use of aspirin and cognitive 
+performance in each diagnostic group. In the cross-sectional analysis, there 
+were no significant differences in MMSE scores between non-aspirin users and 
+aspirin users in subjects with NC, subjects with MCI or patients with AD. In the 
+longitudinal analysis, we detected an association of the baseline use of aspirin 
+with cognitive decline (MMSE) over time in patients with AD, but not in the NC 
+group or MCI group. Specifically, in AD patients, the use of aspirin at baseline 
+was associated with slower cognitive decline over time. Our data may support an 
+association between the use of aspirin and slower cognitive decline, while this 
+association may be dependent on the clinical stages.
+
+DOI: 10.1371/journal.pone.0252969
+PMCID: PMC8208559
+PMID: 34133445 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+28. Eur Heart J. 2025 Nov 7;46(42):4410-4422. doi: 10.1093/eurheartj/ehaf514.
+
+Aspirin, cardiovascular events, and major bleeding in older adults: extended 
+follow-up of the ASPREE trial.
+
+Wolfe R(1), Broder JC(1), Zhou Z(1), Murray AM(2)(3), Ryan J(1), Chan AT(4)(5), 
+Nelson MR(1)(6), Woods RL(1), Ernst ME(7)(8), Orchard SG(1), Kirpach B(2), Reid 
+CM(1)(9), Shah RC(10), Stocks N(11), Margolis KL(12), Neumann JT(1)(13)(14), 
+Wilson M(1), Fitzgerald S(1), Mahady SE(1), Wood EM(1), Ket S(1), Eaton CB(15), 
+Hand P(16)(17), Malik M(18), Abhayaratna WP(19), Venkataraman P(1)(20), Chan 
+P(1), Cloud GC(16)(17), Donnan GA(21), Williamson JD(22), Tonkin AM(1).
+
+Author information:
+(1)School of Public Health and Preventive Medicine, Monash University, 553 St 
+Kilda Road, Melbourne 3004, VIC, Australia.
+(2)Berman Centre for Outcomes and Clinical Research, Hennepin Healthcare 
+Research Institute, Minneapolis, MN, USA.
+(3)Division of Geriatrics, Department of Medicine, Hennepin HealthCare, 
+University of Minnesota, Minneapolis, MN, USA.
+(4)Clinical and Translational Epidemiology Unit, Massachusetts General Hospital, 
+Boston, MA, USA.
+(5)Division of Gastroenterology, Massachusetts General Hospital, Boston, MA, 
+USA.
+(6)Menzies Institute for Medical Research, University of Tasmania, Hobart, TAS, 
+Australia.
+(7)Department of Pharmacy Practice and Science, College of Pharmacy, The 
+University of Iowa, Iowa, IA, USA.
+(8)Department of Family Medicine, Carver College of Medicine, The University of 
+Iowa, Iowa, IA, USA.
+(9)School of Population Health, Curtin University, Perth, WA, Australia.
+(10)Department of Family & Preventive Medicine and the Rush Alzheimer's Disease 
+Center, Rush University Medical Center, Chicago, IL, USA.
+(11)Discipline of General Practice, University of Adelaide, Adelaide, SA, 
+Australia.
+(12)HealthPartners Institute, Minneapolis, MN, USA.
+(13)Department of Cardiology, University Heart & Vascular Center, Hamburg, 
+University Medical Center Hamburg-Eppendorf, Hamburg, Germany.
+(14)German Center for Cardiovascular Research (DZHK), Partner Site, 
+Hamburg/Kiel/Lübeck, Hamburg, Germany.
+(15)Center for Primary Care and Prevention, Brown University, Providence, RI, 
+USA.
+(16)Stroke Unit, Department of Neurology, The Alfred Hospital, Melbourne, VIC, 
+Australia.
+(17)Department of Neuroscience, School of Translational Medicine, Monash 
+University, Melbourne, VIC, Australia.
+(18)California Heart & Vascular Clinic, San Diego, CA, USA.
+(19)College of Health and Medicine, The Australian National University, 
+Canberra, Australia.
+(20)Department of Cardiology, St Vincent's Hospital, Melbourne, Australia.
+(21)Melbourne Brain Centre, Royal Melbourne Hospital, University of Melbourne, 
+Parkville, VIC, Australia.
+(22)Sticht Center on Aging and Alzheimer's Prevention, Section on Gerontology 
+and Geriatric Medicine, Department of Internal Medicine, Wake Forest School of 
+Medicine, Winston-Salem, NC, USA.
+
+Comment in
+    doi: 10.1093/eurheartj/ehaf642.
+
+BACKGROUND AND AIMS: Guidelines recommend against routine initiation of low-dose 
+aspirin in older adults for primary prevention of atherosclerotic cardiovascular 
+disease events. This study aimed to estimate long-term and post-trial effects of 
+aspirin on major adverse cardiovascular events (MACE) and major haemorrhage 
+using extended follow-up of participants from the ASPREE trial.
+METHODS: In-trial (2010-17) and post-trial (2017-22) data were analysed. At 
+enrolment, participants were aged ≥70 years (≥65 years for US minorities) 
+without prior cardiovascular events, dementia, or independence-limiting physical 
+disability. Randomization was to daily low-dose aspirin or matching placebo for 
+the 4.7 years of the trial.
+RESULTS: Of the 19 114 participants randomized (9525 aspirin, 9589 placebo), 15 
+668 without in-trial MACE consented to post-trial follow-up. No long-term 
+benefit of randomization to aspirin was observed for MACE for the entire 
+in-trial and post-trial period [hazard ratio (HR) 1.04, 95% confidence interval 
+(CI) .94, 1.15]. However, during the post-trial period (median 4.3 years), there 
+was a higher rate of MACE (HR 1.17, 95% CI 1.01, 1.36) in those randomized to 
+aspirin compared with placebo. Over the entire period, a higher rate of major 
+haemorrhage was observed in the randomized aspirin group compared with placebo 
+(HR 1.24, 95% CI 1.10, 1.39).
+CONCLUSIONS: The present study provides novel evidence concerning long-term MACE 
+and haemorrhage following aspirin use in initially healthy older adults. The 
+finding of no long-term MACE benefit needs to be considered in clinical 
+decision-making if aspirin is being considered for use in this context.
+
+© The Author(s) 2025. Published by Oxford University Press on behalf of the 
+European Society of Cardiology.
+
+DOI: 10.1093/eurheartj/ehaf514
+PMCID: PMC12596486
+PMID: 40796244 [Indexed for MEDLINE]
+
+
+29. Curr Pharm Des. 2013;19(9):1727-38.
+
+Platelets in Alzheimer's disease-associated cellular senescence and 
+inflammation.
+
+Casoli T(1), Balietti M, Giorgetti B, Solazzi M, Scarpino O, Fattoretti P.
+
+Author information:
+(1)Neurobiology of Aging Centre, INRCA Scientific Technological Area, Via 
+Birarelli 8, 60121 Ancona, Italy. t.casoli@inrca.it
+
+Alzheimer's disease (AD) is a complex degenerative disorder of the brain, 
+associated with a progressive cognitive decline. Age is the main risk factor 
+with almost half of the population above 90 years affected by this pathology. AD 
+and brain aging share common molecular changes, so it has been hypothesized that 
+AD could be a form of accelerated brain aging. In this context, 
+senescenceassociated mechanisms could be a valuable target of investigation both 
+to analyze the causes of this disease and to define therapeutic strategies. 
+Senescent phenotypes of glia and neurons, as well as of peripheral cells, have 
+been described in AD. Much evidence indicate that vascular impairment is a 
+fundamental contributor to AD pathology and platelets are generally considered a 
+key element because they represent the link between amyloid-β (Aβ) deposition, 
+peripheral inflammation and endothelial senescence. Both activated and senescent 
+platelets are a source of Aβ, in addition activated platelets secrete many 
+proinflammatory mediators that could contribute to increased peripheral 
+inflammation and endothelial senescence. Treatments aimed to target peripheral 
+endothelial senescence include antioxidants and some substances, such as 
+aspirin, that modulate platelet aggregation and inflammatory response. Heparin 
+has been proposed as a treatment for senile dementia and exhibits 
+anti-inflammatory action as well as inhibitory effects on Aβ assembly. 
+Identifying peripheral targets for AD treatments could also result advantageous 
+as it would be possible to monitor directly their efficacy. Nevertheless more 
+research is needed to clarify all the different aspects and interactions of 
+blood cells, vascular cells and their secretory products.
+
+PMID: 23061730 [Indexed for MEDLINE]
+
+
+30. Neurobiol Aging. 2007 Mar;28(3):336-42. doi: 
+10.1016/j.neurobiolaging.2005.12.011. Epub 2006 Jan 24.
+
+Determinants of platelet activation in Alzheimer's disease.
+
+Ciabattoni G(1), Porreca E, Di Febbo C, Di Iorio A, Paganelli R, Bucciarelli T, 
+Pescara L, Del Re L, Giusti C, Falco A, Sau A, Patrono C, Davì G.
+
+Author information:
+(1)Center of Excellence on Aging, G. d'Annunzio University Foundation, Italy.
+
+OBJECTIVES: To investigate the rate of platelet thromboxane (TX) biosynthesis 
+and its determinants in Alzheimer's disease.
+METHODS AND RESULTS: A cross-sectional comparison of urinary 11-dehydro-TXB(2) 
+and 8-iso-prostaglandin (PG)F(2alpha) (markers of in vivo platelet activation 
+and lipid peroxidation, respectively), plasma Vitamin E, C-reactive protein 
+(CRP), tumor necrosis factor (TNF)-alpha and interleukin (IL)-6, was carried-out 
+in 44 Alzheimer patients and 44 matched controls. To investigate the 
+cyclooxygenase (COX)-isoform involved in TXA(2) biosynthesis, nine Alzheimer 
+patients were treated with low-dose aspirin (100mg/d) or rofecoxib (25mg/d) for 
+4 days. Urinary 11-dehydro-TXB(2) and 8-iso-PGF(2alpha) were significantly 
+higher in Alzheimer patients than in controls (Median: 1983.5 versus 517.5pg/mg 
+creatinine and 938.5 versus 304.0pg/mg creatinine, p<0.0001, respectively), with 
+a significant correlation between the two metabolites (rho=0.75, p<0.0001). An 
+inverse correlation was observed between Vitamin E and both urinary metabolites 
+(8-iso-PGF(2alpha): R(s)=-0.51, p=0.0004; 11-dehydro-TXB(2): R(s)=-0.44, 
+p=0.0026) in Alzheimer patients. No difference was found in CRP, TNF-alpha and 
+IL-6 levels between the two groups. Urinary 11-dehydro-TXB(2) was significantly 
+reduced by aspirin, but not by rofecoxib, consistently with a COX-1-mediated 
+TXA(2) biosynthesis. 8-iso-PGF(2alpha) excretion was not modified by either 
+COX-inhibitor, consistently with its oxygen radical-catalyzed formation.
+CONCLUSIONS: Platelet activation is persistently enhanced in Alzheimer's 
+disease. This is related, at least in part, to increased lipid peroxidation 
+associated with inadequate levels of Vitamin E.
+
+DOI: 10.1016/j.neurobiolaging.2005.12.011
+PMID: 16442186 [Indexed for MEDLINE]

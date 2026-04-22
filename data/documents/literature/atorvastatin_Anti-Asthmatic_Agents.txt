@@ -1,0 +1,1160 @@
+1. Am Fam Physician. 2020 Nov 15;102(10):613-621.
+
+Oral Manifestations of Commonly Prescribed Drugs.
+
+Glick A(1), Sista V(1), Johnson C(1).
+
+Author information:
+(1)University of Texas School of Dentistry at Houston, Houston, TX, USA.
+
+Drugs are being prescribed with more frequency and in higher quantities. A 
+serious adverse drug event from prescribed medications constitutes 2.4% to 16.2% 
+of all hospital admissions. Many of the adverse drug events present intraorally 
+or periorally in isolation or as a clinical symptom of a systemic effect. 
+Clinical recognition and treatment of adverse drug events are important to 
+increase patient adherence, manage drug therapy, or detect early signs of 
+potentially serious outcomes. Oral manifestations of commonly prescribed 
+medications include gingival enlargement, oral hyperpigmentation, oral 
+hypersensitivity reaction, medication-related osteonecrosis, xerostomia, and 
+other oral or perioral conditions. To prevent dose-dependent adverse drug 
+reactions, physicians should prescribe medications judiciously using the lowest 
+effective dose with minimal duration. Alternatively, for oral hypersensitivity 
+reactions that are not dose dependent, quick recognition of clinical symptoms 
+associated with time-dependent drug onset can allow for immediate 
+discontinuation of the medication without discontinuation of other medications. 
+Physicians can manage oral adverse drug events in the office through oral 
+hygiene instructions for gingival enlargement, medication discontinuation for 
+oral pigmentation, and prescription of higher fluoride toothpastes for 
+xerostomia.
+
+PMID: 33179891 [Indexed for MEDLINE]
+
+
+2. Cochrane Database Syst Rev. 2020 Jul 15;7(7):CD013268. doi: 
+10.1002/14651858.CD013268.pub2.
+
+Statins for asthma.
+
+Naing C(1)(2), Ni H(3).
+
+Author information:
+(1)International Medical University, Kuala Lumpur, Malaysia.
+(2)Division of Tropical Health and Medicine, James Cook University, Townsville, 
+Australia.
+(3)Faculty of Medicine, SEGi University, Sibu, Malaysia.
+
+Update of
+    doi: 10.1002/14651858.CD013268.
+
+BACKGROUND: Asthma is a common chronic respiratory disease. People with asthma 
+have inflammation of their airways that causes recurrent episodes of wheezing, 
+breathlessness and chest tightness, with or without a cough. Statins possess 
+multiple therapeutic effects, including lowering lipid levels in the blood. 
+Statins are reported to have a potential role as an adjunct treatment in asthma. 
+However, comprehensive evidence of the benefits and harms of using statins is 
+required to facilitate decision making.
+OBJECTIVES: To assess the benefits and harms of statins as an adjunct therapy 
+for asthma in adults and children.
+SEARCH METHODS: We searched for studies in the Cochrane Airways Trials Register, 
+the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE Ovid SP 
+and Embase Ovid SP, from their inception dates We handsearched the proceedings 
+of major respiratory conferences. We also searched clinical trials registries 
+for completed, ongoing and unpublished studies, and scanned the reference lists 
+of included studies and relevant reviews to identify additional studies. The 
+search is current to 7 February 2020.
+SELECTION CRITERIA: We included randomised controlled trials (RCTs) with a 
+parallel-group design that assessed statins for at least 12 weeks' duration. We 
+considered all participants with a clinical diagnosis of asthma to be eligible, 
+regardless of age, sex, disease severity and previous or current treatment. We 
+planned to include studies reported as full text, those published as abstract 
+only, and unpublished data.
+DATA COLLECTION AND ANALYSIS: Two review authors independently screened and 
+selected the studies, extracted outcome data and intervention characteristics 
+from included studies, and assessed risk of bias according to standard Cochrane 
+methodological procedures. We resolved any disagreement through discussion.
+MAIN RESULTS: We found only one trial involving a total of 60 people living with 
+asthma. The trial compared the effect of atorvastatin with a placebo (dummy 
+treatment containing lactose) in treating people with chronic asthma. The trial 
+did not report data for the primary outcomes or adverse events. There was 
+uncertainty about the relative effect on forced expiratory volume in one second 
+(FEV1) and peak expiratory flow (PEF) in the atorvastatin group compared with 
+the placebo group. The study did not report serious adverse effects for the 
+interventions. The included study had internal discrepancies in its reported 
+data.
+AUTHORS' CONCLUSIONS: The evidence was of very low certainty, so we are unable 
+to draw conclusions about the effectiveness and safety of statins to treat 
+asthma. High-quality RCTs are needed to assess the effect of statins on people 
+with asthma. Well-designed multicentre trials with larger samples and longer 
+duration of treatment are required, which assess outcomes such as adverse 
+events, hospital utilisation and costs, to provide better quality evidence. 
+Future studies that include subgroups of obese people with asthma are also 
+required.
+
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, 
+Ltd.
+
+DOI: 10.1002/14651858.CD013268.pub2
+PMCID: PMC7388183
+PMID: 32668027 [Indexed for MEDLINE]
+
+Conflict of interest statement: Cho Naing: none known. Han Ni: none known.
+
+
+3. Indian J Pharmacol. 2015 Mar-Apr;47(2):219-20. doi: 10.4103/0253-7613.153435.
+
+Acebrophylline-induced angioedema.
+
+Kuriachan S(1), Amberkar MB(1), Mohan MK(2), Shahul HA(2), Kishore MK(1).
+
+Author information:
+(1)Department of Pharmacology, Kasturba Medical College, Manipal University, 
+Manipal, Karnataka, India.
+(2)Department of Pulmonary Medicine, Kasturba Medical College and Hospital, 
+Manipal University, Manipal, Karnataka, India.
+
+A 53-year-old woman visited her physician complaining of acute breathlessness 
+and productive cough. Her medications included budesonide and formoterol for 
+asthma, fixed-dose combination aspirin 150 mg + clopidogrel 75 mg + atorvastatin 
+20 mg for ischemic heart disease. History revealed that she had allergic 
+rhinitis and was hypersensitive to penicillins. The patient was prescribed 
+acebrophylline (ABP). Six hours after ABP therapy she presented with generalized 
+urticarial lesions, swelling of hands, feet, lips and face, suggestive of 
+angioedema. ABP was stopped immediately, and the patient was treated 
+symptomatically. This case was categorized as probable as per standard causality 
+assessment scale.
+
+DOI: 10.4103/0253-7613.153435
+PMCID: PMC4386136
+PMID: 25878387 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest: No.
+
+
+4. Cardiovasc Res. 2012 Jun 1;94(3):428-38. doi: 10.1093/cvr/cvs100. Epub 2012
+Feb  23.
+
+Nitric oxide enhances the anti-inflammatory and anti-atherogenic activity of 
+atorvastatin in a mouse model of accelerated atherosclerosis.
+
+Momi S(1), Monopoli A, Alberti PF, Falcinelli E, Corazzi T, Conti V, Miglietta 
+D, Ongini E, Minuz P, Gresele P.
+
+Author information:
+(1)Department of Internal Medicine, Division of Internal and Cardiovascular 
+Medicine, University of Perugia, Via E. dal Pozzo, 06126 Perugia, Italy.
+
+Comment in
+    Cardiovasc Res. 2012 Jun 1;94(3):395-7. doi: 10.1093/cvr/cvs148.
+
+AIMS: The aim of the present study was to assess whether the addition of a 
+nitric oxide (NO)-donating moiety to atorvastatin enhances anti-inflammatory and 
+anti-atherogenic effects in an animal model of endothelial dysfunction, systemic 
+peroxidation and inflammation, and accelerated atherosclerosis.
+METHODS AND RESULTS: Low-density lipoprotein receptor (LDLR)(-/-) mice kept on a 
+high-fat diet (HFD) for 16 weeks underwent photochemical injury to the femoral 
+artery with the local production of oxygen radicals. HFD markedly enhanced 
+cholesterol, inflammatory biomarkers in plasma and in the femoral arterial wall, 
+and atherosclerotic lesions in the aortic arch; inflammation and atherosclerosis 
+were further increased by photochemically generated oxygen radicals. Treatment 
+with the NO-donating atorvastatin NCX 6560 (11.7 mg/kg) was significantly more 
+effective than atorvastatin (10 mg/kg) in reducing the following parameters: 
+lipid-rich lesions in the aortic arch (surface covered: atorvastatin = 24 ± 5%; 
+NCX 6560 = 14.7 ± 3.9%; P< 0.05); the production of radical oxygen species in 
+the aorta (dichlorofluorescein fluorescence intensity per milligram of protein: 
+atorvastatin = 2419 ± 136.7; NCX 6560 = 1766 ± 161.2; P< 0.05); femoral artery 
+intima/media thickness (atorvastatin = 1.2 ± 0.11; NCX 6560 = 0.3 ± 0.14; P< 
+0.05); circulating interleukin-6 (atorvastatin = 34.3 ± 6.8 pg/mL; NCX 6560 = 
+17.7 ± 14.4 pg/mL; P< 0.05); and matrix metalloproteinase 2 in the arterial wall 
+(atorvastatin = 55.2 ± 1.9 ng/µg of proteins; NCX 6560 = 45.8 ± 2.6 ng/µg of 
+proteins; P < 0.05).
+CONCLUSION: In conditions of severe endothelial dysfunction, systemic 
+peroxidation and inflammation, and accelerated atherosclerosis, atorvastatin, 
+even at high doses, displays suboptimal anti-atherogenic and anti-inflammatory 
+effects, while the addition of a NO-donating property confers enhanced 
+anti-atherogenic and anti-inflammatory effects.
+
+DOI: 10.1093/cvr/cvs100
+PMID: 22362817 [Indexed for MEDLINE]
+
+
+5. Cardiovasc Res. 2012 Jun 1;94(3):395-7. doi: 10.1093/cvr/cvs148. Epub 2012 Apr
+ 12.
+
+Nitric oxide-donating statins: a new concept to boost the lipid-independent 
+effects.
+
+Schirmer SH, Werner CM, Laufs U, Böhm M.
+
+Comment on
+    Cardiovasc Res. 2012 Jun 1;94(3):428-38. doi: 10.1093/cvr/cvs100.
+
+DOI: 10.1093/cvr/cvs148
+PMID: 22499774 [Indexed for MEDLINE]
+
+
+6. Inflamm Res. 2015 Apr;64(3-4):161-9. doi: 10.1007/s00011-014-0794-5. Epub 2015
+ Jan 18.
+
+Anti-inflammatory and chondroprotective effects of atorvastatin in a cartilage 
+explant model of osteoarthritis.
+
+Pathak NN(1), Lingaraju MC, Balaganur V, Kant V, More AS, Kumar D, Kumar D, 
+Tandan SK.
+
+Author information:
+(1)Division of Pharmacology and Toxicology, Indian Veterinary Research 
+Institute, Izatnagar, Bareilly, 243 122, UP, India.
+
+OBJECTIVE: This study aimed to assess the chondroprotective potential of 
+atorvastatin in rat's cartilage explant culture model of osteoarthritis, 
+stimulated by interleukin-1β (IL-1β).
+MATERIALS AND METHODS: The cartilage explants were treated with 20 ng/ml IL-1β 
+alone or with 20 ng/ml IL-1β + various concentration of atorvastatin (1, 3, or 
+10 µM dissolved in DMSO) and incubated at 37 °C for 24 h. Also, control (0.25% 
+DMSO), stimulated (20 ng IL-1β) and treatment (atorvastatin 10 µM) cartilage 
+explants were incubated without and with 1400W (10 µM). After 24 h of 
+incubation, TNF-α, PGE2, MMP-13, TIMP-1, NO, and superoxide anion formation 
+(O2(-)) concomitant with glycosaminoglycans (GAGs) were estimated in the medium.
+RESULTS: Atorvastatin inhibited IL-1β-induced GAGs release, TNF-α, MMP-13, and 
+O2(-) with no effect on TIMP-1 and NO. In addition, the source of NO in normal 
+and atorvastatin-treated cartilage was eNOS, while for IL-1β-stimulated 
+cartilage it was iNOS. The cartilage degradation was associated with the 
+combined effects of increased NO and O2 (-) rather than only NO.
+CONCLUSION: The present study suggests that atorvastatin has the ability to 
+protect cartilage degradation following IL-1β-stimulated cartilage in in vitro 
+OA model and supports additional therapeutic application of atorvastatin in OA.
+
+DOI: 10.1007/s00011-014-0794-5
+PMID: 25596949 [Indexed for MEDLINE]
+
+
+7. Drug Res (Stuttg). 2015 Oct;65(10):540-4. doi: 10.1055/s-0034-1390488. Epub
+2014  Oct 21.
+
+Evaluation of the Anti-inflammatory Activity of Atorvastatin and its Effect on 
+Alveolar Diameter in a Model of Elastase-induced Emphysema in Rats.
+
+Boiati RF(1), Manchini MT(1), Jacobsen O(1), dos Santos Batista JG(1), Silva 
+Júnior JA(1), Nascimento JW(1).
+
+Author information:
+(1)Post graduation Program in Rehabilitation Sciences, Nove de Julho University, 
+Sao Paulo, SP, Brazil.
+
+Statins are cholesterol-lowering agents and some of them, like simvastatin, have 
+anti-inflammatory effects. In this study, we evaluated the effect of 
+atorvastatin on nitric oxide (NO) release, leukocytes levels and alveolar 
+diameter related to the inflammatory process associated with elastase-induced 
+emphysema in rats. 32 rats were divided into 4 groups, n=8: control (C), 
+atorvastatin (A), emphysema (E), and emphysema+atorvastatin (EA). On day 0 
+(zero), groups C and A received intratracheal instillation of saline (0.2 ml), 
+and groups E and EA received elastase (0.2 ml). Groups A and EA received 
+atorvastatin (20 mg/kg) and C and E received vehicle, by gavage, for 25 days. 
+Animals were euthanized, slices of lung stained and the alveolar diameters 
+measured. Data obtained show that the treatment with atorvastatin (EA group) did 
+not reduce the alveolar diameter (35.3 vs. 32.3), NO (2.7 vs. 3.0 μM) or the 
+leukocyte count (111 vs. 136) compared with the E group, indicating that 
+different statins, like simvastatin or atorvastatin, have different behavior in 
+inflammatory processes like in elastase-induced development of emphysema in 
+rats.
+
+© Georg Thieme Verlag KG Stuttgart · New York.
+
+DOI: 10.1055/s-0034-1390488
+PMID: 25333651 [Indexed for MEDLINE]
+
+
+8. J Biomed Sci. 2012 Nov 21;19(1):99. doi: 10.1186/1423-0127-19-99.
+
+SDF-1α upregulation by atorvastatin in rats with acute myocardial infarction via 
+nitric oxide production confers anti-inflammatory and anti-apoptotic effects.
+
+Qiu R(1), Cai A, Dong Y, Zhou Y, Yu D, Huang Y, Zheng D, Rao S, Feng Y, Mai W.
+
+Author information:
+(1)Department of Cardiology, The First Affiliated Hospital of Sun Yat-sen 
+University, 58 Zhongshan Road 2, Guangzhou, 510080, China.
+
+BACKGROUND: The effects of atorvastatin on SDF-1α expression under acute 
+myocardial infarction (AMI) are still unclear. Therefore, our present study is 
+to investigate the roles and mechanisms of atorvastatin treatment on SDF-1α 
+expression in rats with AMI.
+METHODS: Male Sprague-Dawley rats were underwent permanent coronary artery 
+ligation and randomly assigned into four groups as follow: blank control (B), 
+atorvastatin (A), atorvastatin plus L-NAME (A+L-NAME), and atorvastatin plus 
+AMD3100 (A+AMD3100). Rats underwent similar procedure but without ligation were 
+used as group sham operated (S). Atorvastatin (10mg/Kg/d body weight) was 
+administrated by gavage to rats in three atorvastatin treated groups, and L-NAME 
+(40 mg/Kg/d body weight) or AMD3100 (5mg/Kg/d body weight) was given to group 
+A+L-NAME or A+AMD3100, respectively.
+RESULTS: Comparing with group B, NO production, SDF-1α and CXCR4 expression were 
+significantly up-regulated in three atorvastatin treated groups at the seventh 
+day. However, the increments of SDF-1α and CXCR4 expression in group A+L-NAME 
+were reduced when NO production was inhibited by L-NAME. Anti-inflammatory and 
+anti-apoptotic effects of atorvastatin were offset either by decrease of SDF-1α 
+and CXCR4 expression (by L-NAME) or blockage of SDF-1α coupling with CXCR4 (by 
+AMD3100). Expression of STAT3, a cardioprotective factor mediating SDF-1α/CXCR4 
+axis induced cardiac protection, was up-regulated most significantly in group A. 
+The effects of atorvastatin therapy on cardiac function were also abrogated 
+either when SDF-1α and CXCR4 expression was diminished or the coupling of SDF-1α 
+with CXCR4 was blocked.
+CONCLUSION: SDF-1α upregulation by atorvastatin in rats with AMI was, at least 
+partially, via the eNOS/NO dependent pathway, and SDF-1α upregulation and SDF-1α 
+coupling with CXCR4 conferred anti-inflammatory and anti-apoptotic effects under 
+AMI setting which we speculated that ultimately contributed to cardiac function 
+improvement.
+
+DOI: 10.1186/1423-0127-19-99
+PMCID: PMC3533954
+PMID: 23170833 [Indexed for MEDLINE]
+
+
+9. Clin Exp Pharmacol Physiol. 2006 Nov;33(11):1029-34. doi: 
+10.1111/j.1440-1681.2006.04482.x.
+
+Anti-oxidant effects of atorvastatin in dexamethasone-induced hypertension in 
+the rat.
+
+Mondo CK(1), Yang WS, Zhang N, Huang TG.
+
+Author information:
+(1)Institute of Cardiology, 2nd Hospital, Tianjin Medical University, Tianjin, 
+China. charles_mondo@yahoo.com.au
+
+1. Dexamethasone (Dex)-induced hypertension is characterized by endothelial 
+dysfunction associated with nitric oxide (NO) deficiency and increased 
+superoxide (O2-) production. Atorvastatin (Ato) possesses pleiotropic properties 
+that have been reported to improve endothelial function through increased 
+availability of NO and reduced O2- production in various forms of hypertension. 
+In the present study, we investigated whether 50 mg/kg per day, p.o., Ato could 
+prevent endothelial NO synthase (eNOS) downregulation and the increase in O2- in 
+Sprague-Dawley (SD) rats, thereby reducing blood pressure. 2. Male SD rats (n = 
+30) were treated with Ato (50 mg/kg per day in drinking water) or tap water for 
+15 days. Dexamethasone (10 microg/kg per day, s.c.) or saline was started after 
+4 days in Ato-treated and non-treated rats and continued for 11-13 days. 
+Systolic blood pressure (SBP) was measured on alternate days using the tail-cuff 
+method. Endothelial function was assessed by acetylcholine-induced 
+vasorelaxation and phenylephrine-induced vasoconstriction in aortic segments. 
+Vascular eNOS mRNA was assessed by semi-quantitative reverse 
+transcription-polymerase chain reaction. 3. In rats treated with Dex alone, SBP 
+was increased from 109 +/- 2 to 133 +/- 2 mmHg on Days 4 and Day 14, 
+respectively (P < 0.001). In the Ato + Dex group, SBP was increased from 113 +/- 
+2 to 119 +/- 2 mmHg on Days 4 to 14, respectively (P < 0.001), but was 
+significantly lower than SBP in the group treated with Dex alone (P < 0.05). 
+Endothelial-dependent relaxation and eNOS mRNA expression were greater in the 
+Dex + Ato group than in the Dex only group (P < 0.05 and P < 0.0001, 
+respectively). Aortic superoxide production was lower in the Dex + Ato group 
+compared with the group treated with Dex alone (P < 0.0001). 4. Treatment with 
+Ato improved endothelial function, reduced superoxide production and reduced SBP 
+in Dex-treated SD rats.
+
+DOI: 10.1111/j.1440-1681.2006.04482.x
+PMID: 17042910 [Indexed for MEDLINE]
+
+
+10. Am J Physiol Heart Circ Physiol. 2025 Apr 1;328(4):H915-H922. doi: 
+10.1152/ajpheart.00012.2025. Epub 2025 Mar 6.
+
+Salsalate negatively impacts microvascular function in women with endometriosis.
+
+Williams AC(1), Content VG(1), Alexander LM(1)(2).
+
+Author information:
+(1)Noll Laboratory, Department of Kinesiology, The Pennsylvania State 
+University, University Park, Pennsylvania, United States.
+(2)Center for Healthy Aging, The Pennsylvania State University, University Park, 
+Pennsylvania, United States.
+
+Women with endometriosis, an inflammatory disease, are at increased risk of 
+cardiovascular disease and demonstrate impaired microvascular endothelial 
+function, characterized by reduced nitric oxide (NO)-mediated vasodilation. In 
+some clinical cohorts, nuclear factor-kappa B (NFκB) inhibition with salsalate 
+improves endothelial function. We hypothesized that salsalate would improve 
+cutaneous microvascular endothelial function in women with endometriosis. 
+Following placebo or salsalate (3,000 mg·day-1 for 5 days), four intradermal 
+microdialysis probes were placed in 11 women (33 ± 7 yr) with endometriosis. 
+Local heating units (set to 33°C) and laser-Doppler flowmetry (red blood cell 
+flux) probes were placed over the probes. Increasing doses of acetylcholine 
+(ACh; dissolved in lactated Ringer's solution) were perfused, alone (control) or 
+coperfused with: NG-nitro-l-arginine methyl ester (l-NAME), atorvastatin 
+(statin), or l-NAME + statin (combo). Maximal vasodilation was then induced 
+(local heat at 43°C + sodium nitroprusside perfusion). Data were normalized as 
+percentage of maximal cutaneous vascular conductance (CVC%max red blood cell 
+flux/mean arterial pressure). To measure macrovascular endothelial function, 
+flow-mediated dilation (FMD) was additionally performed. During placebo, 
+coperfusion with statin did not impact the CVC%max ACh dose-response (P = 0.93). 
+Oral salsalate attenuated the CVC%max response to ACh perfusion alone (P < 0.01) 
+but did not impact the l-NAME site (P = 0.09). Salsalate significantly augmented 
+the CVC%max response of the statin site (P < 0.01) but did not affect the combo 
+site response (P = 1.00). FMD was not different between treatments (P = 0.79). 
+Salsalate treatment impairs vasodilation in the cutaneous microcirculation in 
+women with endometriosis through non-NO-dependent mechanisms.NEW & NOTEWORTHY 
+Our results show that oral salsalate treatment negatively impacts microvascular 
+function but does not alter macrovascular function. In contrast to the majority 
+of other clinical populations with endothelial dysfunction, salsalate treatment 
+reduces microcirculatory function through non-NO-dependent mechanisms in women 
+with endometriosis.
+
+DOI: 10.1152/ajpheart.00012.2025
+PMCID: PMC12107711
+PMID: 40047802 [Indexed for MEDLINE]
+
+Conflict of interest statement: DISCLOSURES No conflicts of interest, financial 
+or otherwise, are declared by the authors.
+
+
+11. Epilepsy Behav. 2012 Apr;23(4):399-404. doi: 10.1016/j.yebeh.2012.02.001.
+Epub  2012 Mar 8.
+
+Chronic administration of atorvastatin induced anti-convulsant effects in mice: 
+the role of nitric oxide.
+
+Moezi L(1), Shafaroodi H, Hassanipour M, Fakhrzad A, Hassanpour S, Dehpour AR.
+
+Author information:
+(1)Department of Pharmacology, School of Medicine, Shiraz University of Medical 
+Sciences, Shiraz, Iran.
+
+Atorvastatin has neuroprotective effects, and there is some evidence that nitric 
+oxide is involved in atorvastatin effects. In this study, we evaluated whether 
+the nitrergic system is involved in the anticonvulsant effects of chronic 
+atorvastatin administration. Intravenous and intraperitoneal pentylenetetrazol 
+were used to induce seizures in mice. Chronic atorvastatin treatment 
+significantly increased the seizure threshold which is induced by both 
+intravenous and intraperitoneal pentylenetetrazol. Intraperitoneal 
+pentylenetetrazol also decreased the incidence of tonic seizure and death in 
+atorvastatin-treated groups. Chronic co-administration of a non-selective nitric 
+oxide synthase inhibitor, l-NAME, or a selective inducible nitric oxide synthase 
+inhibitor, aminoguanidine, with atorvastatin inhibited atorvastatin-induced 
+anticonvulsant effects in intravenous model of pentylenetetrazol. Acute 
+injection of l-NAME or aminoguanidine inhibited the anticonvulsant effects of 
+atorvastatin in both models of intravenous- and 
+intraperitoneal-pentylenetetrazol-induced seizures. In conclusion, we 
+demonstrated that nitric oxide signaling probably through inducible nitric oxide 
+synthase could be involved in the anticonvulsant effects of atorvastatin.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.yebeh.2012.02.001
+PMID: 22405864 [Indexed for MEDLINE]
+
+
+12. J Cardiovasc Pharmacol. 2019 Aug;74(2):143-151. doi: 
+10.1097/FJC.0000000000000690.
+
+Atorvastatin Attenuates Cold-Induced Hypertension by Preventing Gut Barrier 
+Injury.
+
+Zhang S(1), Zhang Y(1), Ahsan MZ(1), Yuan Y(1), Liu G(1), Han X(1), Zhang J(1), 
+Zhao X(1), Bai B(1), Li Y(1)(2)(3).
+
+Author information:
+(1)Department of Cardiology, The First Affiliated Hospital, Harbin Medical 
+University, Harbin, China.
+(2)Key Laboratory of Cardiac Diseases and Heart Failure, Harbin Medical 
+University, Harbin, China.
+(3)Institute of Metabolic Disease, Heilongjiang Academy of Medical Science, 
+Harbin, China.
+
+Chronic exposure to cold causes arterial hypertension [cold-induce hypertension 
+(CIH)]. Emerging data have indicated that gut barrier dysfunction is involved in 
+the pathogenesis of hypertension. In this study, we explored the effect of gut 
+barrier dysfunction on vascular inflammation induced by cold exposure and the 
+therapeutic effect of atorvastatin in a CIH rat model. The CIH was established 
+by cold exposure for 2 weeks. Two groups of Sprague Dawley rats were exposed to 
+moderate cold (4 ± 1°C), whereas the control group was maintained at room 
+temperature (23 ± 1°C) (10 rats/group). The 2 groups received atorvastatin or 
+vehicle at the beginning of cold exposure, respectively, for 2 weeks. Cold 
+exposure increased mean arterial pressure compared with room temperature group, 
+indicating that animals developed arterial hypertension. Cold exposure induced 
+vascular dysfunction due to decreasing phosphorylated endothelial nitric oxide 
+synthase protein expression in aorta, and these were blunted by atorvastatin. 
+Cold exposure increased the levels of gut-derived inflammatory cytokines, tumor 
+necrosis factor-α, and interleukin-6 production in aorta and resulted in 
+vascular inflammation, whereas atorvastatin prevented these effects. Cold 
+exposure also increased gut permeability, inhibited tight junction protein 
+expression in proximal colon, and resulted in gut barrier dysfunction. 
+Interestingly, atorvastatin eliminated increasing gut permeability, decreasing 
+tight junction protein expression, and gut pathology and reversed gut barrier 
+dysfunction. Atorvastatin attenuated CIH and improved gut barrier function; the 
+beneficial effects might be via inhibiting gut-derived inflammatory cytokines 
+and reversing cold-induced vascular inflammation, suggesting that gut barrier 
+dysfunction may be involved in the pathogenesis of CIH.
+
+DOI: 10.1097/FJC.0000000000000690
+PMID: 31310598 [Indexed for MEDLINE]
+
+
+13. Stroke. 2006 Oct;37(10):2446-8. doi: 10.1161/01.STR.0000239656.59618.d4. Epub
+ 2006 Aug 24.
+
+Statins and cerebral vasomotor reactivity: implications for a new therapy?
+
+Carod-Artal FJ.
+
+Comment on
+    Stroke. 2006 Oct;37(10):2540-5. doi: 10.1161/01.STR.0000239659.99112.fb.
+
+DOI: 10.1161/01.STR.0000239656.59618.d4
+PMID: 16931785 [Indexed for MEDLINE]
+
+
+14. J Cardiovasc Med (Hagerstown). 2015 Jan;16(1):22-8. doi: 
+10.2459/JCM.0000000000000012.
+
+The roles of nitric oxide and hydrogen sulfide in the anti-atherosclerotic 
+effect of atorvastatin.
+
+Liu X(1), Ma D, Zheng S, Zha K, Feng J, Cai Y, Jiang F, Li J, Fan Z.
+
+Author information:
+(1)aDepartment of Cardiology, The Affiliated Hospital of Luzhou Medical College, 
+Luzhou bDepartment of Cardiology, Santai People's Hospital, Santai, Sichuan 
+Province, China.
+
+AIMS: To investigate antiatherosclerosis effect of atorvastatin (ATV) in a rat 
+atherosclerosis model, and to explore roles of nitric oxide and hydrogen sulfide 
+(H2S) in this event.
+METHODS: After being fed a high-fat diet, the rats were treated with ATV, ATV 
+combined with cystathionine-γ-lyase (CSE) inhibitor DL-propargylglycine, and ATV 
+combined with endothelial nitric oxide synthase (eNOS) inhibitor 
+N'-nitro-L-arginine-methyl ester hydrochloride from 9 to 12 weeks, respectively. 
+At the end of the experiment, the animals were sacrificed. Pathologic changes of 
+aortic arch were observed to assay the degree of atherosclerotic lesions. Serum 
+total cholesterol (TC), triglyceride, low-density lipoprotein cholesterol 
+(LDL-C), and high-density lipoprotein cholesterol were determined. Further, 
+nitric oxide, total nitric oxide synthase and eNOS, and H2S and CSE were also 
+measured.
+RESULTS: Compared with the normal control group, serum TC, triglyceride, and 
+LDL-C levels in the model group were significantly elevated (P < 0.05). 
+Pathological result suggested typical atherosclerotic lesions after the high-fat 
+diet. The serum nitric oxide, eNOS, H2S, and CSE significantly decreased 
+(P < 0.05). Quantitative reverse transcription polymerase chain reaction 
+(qRT-PCR) showed that mRNA levels of eNOS and CSE in the aortic arch of the 
+model rats were significantly downregulated (P < 0.05). Actually, ATV 
+significantly ameliorated atherosclerotic lesions. ATV also significantly 
+downregulated increased serum TC and LDL-C, and upregulated decreased serum 
+nitric oxide and eNOS. However, it had no significant effects on serum H2S and 
+CSE (P > 0.05). ATV combined with DL-propargylglycine significantly reduced 
+serum H2S and CSE, and increased serum nitric oxide and eNOS as compared to 
+single ATV treatment (P < 0.05). ATV combined with N'-nitro-L-arginine-methyl 
+ester hydrochloride significantly increased serum TC, LDL-C, H2S, and CSE, and 
+decreased nitric oxide and eNOS as compared to the single ATV (P < 0.05).
+CONCLUSIONS: ATV significantly ameliorates atherosclerotic lesions and enhances 
+the activity of serum nitric oxide system, but not H2S system. The blockage of 
+nitric oxide pathway, but not H2S pathway, significantly weakens 
+antiatherosclerosis of ATV.
+
+DOI: 10.2459/JCM.0000000000000012
+PMID: 24933195 [Indexed for MEDLINE]
+
+
+15. Cardiovasc Drugs Ther. 2006 Feb;20(1):5-8. doi: 10.1007/s10557-006-7298-7.
+
+Synergistic effects of atorvastatin and sildenafil in cardioprotection--role of 
+NO.
+
+Kukreja RC.
+
+Comment on
+    Cardiovasc Drugs Ther. 2006 Feb;20(1):27-36. doi: 10.1007/s10557-005-5203-4.
+
+DOI: 10.1007/s10557-006-7298-7
+PMID: 16534545 [Indexed for MEDLINE]
+
+
+16. Iran J Immunol. 2016 Mar;13(1):16-26.
+
+Interferon β-1a and Atorvastatin in the Treatment of Multiple Sclerosis.
+
+Ghasami K(1), Faraji F, Fazeli M, Ghazavi A, Mosayebi G.
+
+Author information:
+(1)Department of Neurology, School of Medicine, Arak University of Medical 
+Sciences, Arak, Iran.
+
+BACKGROUND: Statins, widely used cholesterol-lowering agents, have also been 
+demonstrated to have anti-inflammatory and immunomdulatory effects.
+OBJECTIVE: To evaluate the effects of atorvastatin in combination with 
+Interferon-β in the treatment of multiple sclerosis (MS) in a randomized 
+controlled clinical trial.
+METHODS: Multiple sclerosis patients were randomized independently, in a double 
+blind design, into one of two treatment groups. Control group (n=45) received 30 
+μg/week interferon β-1a via intra-muscular injection. Atorvastatin-treated group 
+(n=50) received interferon β-1a similar to control group in addition to 
+atorvastatin (40 mg/day) for 18-months. All clinical and immunological variables 
+were measured at the baseline and at the end of the study.
+RESULTS: There was no significant difference between the two groups in the 
+expanded disability status scale scores and the number of gadolinium-enhancing 
+lesions during the 18-month treatment period. After 18 months, the levels of 
+interleukin (IL)-4, IL-10, transforming growth factor-β and serum ferric 
+reducing antioxidant power in the atorvastatin treatment group were 
+significantly higher than the control group. Levels of IL-17, TNF-α and 
+lymphocyte proliferation in the atorvastatin treatment group were significantly 
+lower than the control group.
+CONCLUSION: Although combined atorvastatin and interferon-β do not change the 
+clinical course of MS, atorvastatin might have beneficial effects in MS 
+treatment possibly through inducing anti-inflammatory responses.
+
+PMID: 27026043 [Indexed for MEDLINE]
+
+
+17. Nurse Pract. 2005 Feb;30(2):14-29; quiz 29-31. doi: 
+10.1097/00006205-200502000-00004.
+
+2004 drug approval highlights: FDA update.
+
+Laustsen G(1), Wimmett L.
+
+Author information:
+(1)Regis University, Denver, CO, USA.
+
+DOI: 10.1097/00006205-200502000-00004
+PMID: 15702013 [Indexed for MEDLINE]
+
+
+18. Neurol Res. 2012 Nov;34(9):847-53. doi: 10.1179/1743132812Y.0000000080. Epub 
+2012 Aug 20.
+
+The involvement of nitric oxide in the anti-seizure effect of acute atorvastatin 
+treatment in mice.
+
+Shafaroodi H(1), Moezi L, Fakhrzad A, Hassanipour M, Rezayat M, Dehpour AR.
+
+Author information:
+(1)Pharmaceutical Sciences Branch and Pharmaceutical Sciences Research Center, 
+Islamic Azad University, Tehran, Iran.
+
+OBJECTIVES: In addition to reducing the serum level of cholesterol, statins have 
+various pleiotropic effects such as increasing nitric oxide and reducing 
+oxidative stress, neuroinflammation, and neurotoxicity. Increasing evidence 
+indicates that statins are neuroprotective in several conditions, including 
+stroke, cerebral ischemia and traumatic brain injury. However, only a few 
+studies have investigated whether statins modulate seizure activity.
+METHODS: In the current study, we investigated whether acute treatment with 
+atorvastatin alters the seizures induced by electroshock or pentylenetetrazole 
+in mice. We also evaluated whether nitrergic system is involved in the effects 
+of acute atorvastatin on seizure.
+RESULTS: The results of the present study demonstrate that acute atorvastatin 
+(10 and 20 mg/kg) treatment decreased the incidence of tonic seizure and death 
+in electroshock-induced seizure model. We also showed that acute atorvastatin 
+(10 mg/kg) treatment increased the clonic seizure threshold in 
+pentylenetetrazole-seizure model. Acute L-NAME (5 mg/kg), a non-selective 
+inhibitor of nitric oxide synthase, or aminoguanidine (100 mg/kg), a selective 
+inhibitor of inducible nitric oxide synthase, administration prevented the 
+anti-convulsant effect of atorvastatin in electroshock-induced seizure model. We 
+also demonstrated that acute L-NAME (5 mg/kg) or aminoguanidine (100 mg/kg) 
+administration decreased the enhanced clonic latency of clonic seizure threshold 
+induced by atorvastatin in mice in pentylenetetrazole model.
+DISCUSSION: In conclusion, anti-convulsant effect of atorvastatin was 
+demonstrated in two seizure models of electroshock and intraperitoneal 
+pentylenetetrazole. Nitric oxide release, probably through inducible nitric 
+oxide synthase at least in part is responsible for this effect.
+
+DOI: 10.1179/1743132812Y.0000000080
+PMID: 22909758 [Indexed for MEDLINE]
+
+
+19. Turk J Med Sci. 2015;45(2):345-51. doi: 10.3906/sag-1311-91.
+
+The effects of atorvastatin on antioxidant/antiinflammatory properties of HDLs 
+in hypercholesterolemics.
+
+Akalin Çiftçi G, Ertorun İ, Akalin A, Alataş İÖ, Musmul A.
+
+BACKGROUND/AIM: Hypercholesterolemia is characterized by changes in lipid 
+profile, nitric oxide pathway, and oxidative stress markers, but functions of 
+high-density lipoprotein (HDL) were not well established in hypercholesterolemic 
+subjects treated with atorvastatin. In this study, we aimed to evaluate effects 
+of atorvastatin treatment on functionality of HDL, oxidative stress, and 
+endothelial functions in hypercholesterolemic subjects.
+MATERIALS AND METHODS: Thirty patients (20 females, 10 males) aged from 40 to 60 
+years and diagnosed as hypercholesterolemic were included. Patients were treated 
+with 10 mg/day atorvastatin for 3 months. Markers of endothelial functions, 
+namely asymmetric dimethylarginine (ADMA), homocysteine, and nitric oxide (NO), 
+and markers of oxidative status, namely malondialdehyde (MDA), antioxidant 
+potential (AOP), paraoxonase 1 (PON1), and arylesterase, were measured. Before 
+and after atorvastatin treatment, glucose, lipid parameters, and 
+antioxidant/antiinflammatory HDL levels were also measured.
+RESULTS: ADMA and homocysteine levels were decreased whereas NO levels were 
+increased with atorvastatin therapy. MDA levels were decreased but AOP, PON1, 
+and arylesterase levels and antinflammatory characteristics of HDLs were 
+increased. Furthermore, lipid profiles of the patients improved with 
+atorvastatin therapy.
+CONCLUSION: Hypercholesterolemia is a cause of oxidative stress, endothelial 
+dysfunction, and proinflammatory HDL levels. Atorvastatin is a beneficial 
+pharmacological modulator of impaired antiinflammatory HDL-C levels, endothelial 
+functions, and oxidative status against atherosclerosis indicating pleiotropic 
+effects of statins.
+
+DOI: 10.3906/sag-1311-91
+PMID: 26084126 [Indexed for MEDLINE]
+
+
+20. Ann N Y Acad Sci. 2001 Dec;947:229-45; discussion 245-6. doi: 
+10.1111/j.1749-6632.2001.tb03945.x.
+
+Comparison of endothelial pleiotropic actions of angiotensin converting enzyme 
+inhibitors and statins.
+
+Gryglewski RJ(1), Uracz W, Swies J, Chlopicki S, Marcinkiewicz E, Lomnicka M, 
+Madej J.
+
+Author information:
+(1)Jagiellonian University, Cracow, Poland. mfgrygle@kinga.cyf-kr.edu.pl
+
+Two in vitro and one in vivo assay were performed to study the endothelial 
+pleiotropic actions of "tissue type" angiotensin converting enzyme inhibitors 
+(ACE-Is) such as perindopril and quinapril, their active forms, that is, 
+quinaprilat and peridoprilat, or of statins belonging to natural (lovastatin), 
+semisynthetic (simvastatin), and synthetic enantiomeric (atorvastatin, 
+cerivastatin) classes. Cytoplasmic [Ca2+]i levels in cultured bovine aortic 
+endothelial cells and endothelium-dependent nitric oxide-mediated coronary 
+vasodilatation in the Langendorff preparation of guinea pig heart constituted 
+our in vitro assays. The in vivo assay consisted of study of PGI2-mediated 
+thrombolytic response in arterial blood of rats after intravenous administration 
+of drugs. In this last assay, perindopril and quinapril proved to be, by two 
+orders of magnitude, more potent PGI2-dependent thrombolytics than the most 
+potent statin (atorvastatin). However, in both in vitro assays we found a higher 
+endothelial efficacy of statins as compared to ACE-Is. In particular, those 
+statins that contain the lactone ring in their molecules (lovastatin, 
+simvastatin) were the most potent coronary vasodilators. In summary, the in vivo 
+profile of action of ACE-Is and statins contrasted with their reversed order of 
+potency in vitro. We hypothesize that the endocrine-like function of the 
+pulmonary circulation [28-31] may be responsible for the in vivo 
+bradykinin-triggered, PGI2-mediated thrombolysis by ACE-Is, whereas the 
+pleiotropic action of statins, possibly involving inhibition of prenylation 
+[14-19], is diffused throughout many vascular beds.
+
+DOI: 10.1111/j.1749-6632.2001.tb03945.x
+PMID: 11795271 [Indexed for MEDLINE]
+
+
+21. J Appl Biomed. 2021 Mar;19(1):48-56. doi: 10.32725/jab.2021.006. Epub 2021
+Feb  9.
+
+Atorvastatin prevents the development of diabetic neuropathic nociception by 
+possible involvement of nitrergic system.
+
+Akbarian R(1)(2), Chamanara M(3), Rashidian A(1)(2), Abdollahi A(4), Ejtemaei 
+Mehr S(1)(2), Dehpour AR(1)(2).
+
+Author information:
+(1)Tehran University of Medical Sciences, Experimental Medicine Research Center, 
+Tehran, Iran.
+(2)Tehran University of Medical Sciences, School of Medicine, Department of 
+Pharmacology, Tehran, Iran.
+(3)Aja University of Medical Sciences, Faculty of Medicine, Department of 
+Pharmacology, Tehran, Iran.
+(4)Tehran University of Medical Sciences, Imam Hospital complex, Department of 
+Pathology, Tehran, Iran.
+
+AIMS: Diabetic neuropathy has been identified as a common complication caused by 
+diabetes. However, its pathophysiological mechanisms are not fully understood 
+yet. Statins, also known as HMG-CoA reductase inhibitors, alleviate the 
+production of cholesterol. Despite this cholesterol-reducing effect of statins, 
+several reports have demonstrated their beneficial properties in neuropathic 
+pain. In this study, we used streptozotocin (STZ)-induced diabetic model to 
+investigate the possible role of nitric oxide (NO) in the antineuropathic-like 
+effect of atorvastatin.
+METHODS: Diabetes was induced by a single injection of STZ. Male rats orally 
+received different doses of atorvastatin for 21 days. To access the neuropathy 
+process, the thermal threshold of rats was assessed using hot plate and 
+tail-flick tests. Moreover, sciatic motor nerve conduction velocity (MNCV) 
+studies were performed. To assess the role of nitric oxide, 
+N(G)-nitro-L-arginine methyl ester (L-NAME), aminoguanidine (AG), and 
+7-nitroindazole (7NI) were intraperitoneally administered along with some 
+specific doses of atorvastatin.
+KEY FINDINGS: Atorvastatin significantly reduced the hyperalgesia in diabetic 
+rats. L-NAME pretreatment with atorvastatin showed the antihyperalgesic effect, 
+suggesting the possible involvement of the NO pathway in atorvastatin protective 
+action. Furthermore, co-administration of atorvastatin with AG and 7NI resulted 
+in a significant increase in pain threshold in diabetic rats.
+SIGNIFICANCE: Our results reveal that the atorvastatin protective effect on 
+diabetic neuropathy is mediated at least in a part via the nitric oxide system.
+
+DOI: 10.32725/jab.2021.006
+PMID: 34907715 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors report no conflicts of interest in 
+this work.
+
+
+22. Cells. 2021 Jun 22;10(7):1571. doi: 10.3390/cells10071571.
+
+Exogenous Vitamins K Exert Anti-Inflammatory Effects Dissociated from Their Role 
+as Substrates for Synthesis of Endogenous MK-4 in Murine Macrophages Cell Line.
+
+Kieronska-Rudek A(1)(2), Kij A(1), Kaczara P(1), Tworzydlo A(1), Napiorkowski 
+M(3), Sidoryk K(3), Chlopicki S(1)(2).
+
+Author information:
+(1)Jagiellonian Centre for Experimental Therapeutics (JCET), Jagiellonian 
+University, Bobrzynskiego 14, 30-348 Krakow, Poland.
+(2)Department of Pharmacology, Medical College, Jagiellonian University, 
+Grzegorzecka 16, 31-531 Krakow, Poland.
+(3)Chemistry Department, Pharmaceutical Research Institute, Rydygiera 8, 01-793 
+Warszawa, Poland.
+
+Vitamins K exert a range of activities that extend far beyond coagulation and 
+include anti-inflammatory effects, but the mechanisms involved in 
+anti-inflammatory action remain unclear. In the present study, we showed that 
+various forms of exogenous vitamins-K1, K3, K2 (MK-4, MK-5, MK-6 and 
+MK-7)-regulated a wide scope of inflammatory pathways in murine macrophages in 
+vitro, including NOS-2, COX-2, cytokines and MMPs. Moreover, we demonstrated for 
+the first time that macrophages are able to synthesise endogenous MK-4 on their 
+own. Vitamins with shorter isoprenoid chains-K1, K3 and MK-5-exhibited stronger 
+anti-inflammatory potential than vitamins with longer isoprenoid chains (MK-6 
+and MK-7) and simultaneously were preferably used as a substrate for MK-4 
+endogenous production. Most interesting, atorvastatin pretreatment inhibited 
+endogenous MK-4 production but had no impact on the anti-inflammatory activity 
+of vitamins K. In summary, our results demonstrate that macrophages are able to 
+synthesise endogenous MK-4 using exogenous vitamins K, and statin inhibits this 
+process. However, the anti-inflammatory effect of exogenous vitamins K was 
+independent of endogenous MK-4 synthesis.
+
+DOI: 10.3390/cells10071571
+PMCID: PMC8303864
+PMID: 34206530 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+23. Lipids Health Dis. 2015 May 2;14:41. doi: 10.1186/s12944-015-0041-2.
+
+Atorvastatin protects endothelium by decreasing asymmetric dimethylarginine in 
+dyslipidemia rats.
+
+Zheng D(1), Liang Q(2), Zeng F(3), Mai Z(4), Cai A(5), Qiu R(6), Xu R(7), Li 
+D(8), Mai W(9).
+
+Author information:
+(1)Department of Cardiology, The First Affiliated Hospital of Sun Yat-sen 
+University, 58 Zhongshan Road 2, Guangzhou, 510080, China. zhengyunsen@126.com.
+(2)Department of Emergency Medicine, The First Affiliated Hospital of Guangzhou 
+Medical University, Guangzhou, 510120, China. qingda99@163.com.
+(3)Department of Cardiology, Shenzhen Sun Yat-sen Cardiovascular Hospital, 
+Shenzhen, 518000, China. zengfanfang@sina.com.
+(4)Division of Biomedical Engineering, School of Engineering, Sun Yat-sen 
+University, Guangzhou, 510060, China. maizhch@mail2.sysu.edu.cn.
+(5)Department of Cardiology, The First Affiliated Hospital of Sun Yat-sen 
+University, 58 Zhongshan Road 2, Guangzhou, 510080, China. 
+caianping1983@hotmail.com.
+(6)Department of Cardiology, The First Affiliated Hospital of Sun Yat-sen 
+University, 58 Zhongshan Road 2, Guangzhou, 510080, China. qrf168168@163.com.
+(7)Department of Cardiology, The First Affiliated Hospital of Sun Yat-sen 
+University, 58 Zhongshan Road 2, Guangzhou, 510080, China. xlr168168@163.com.
+(8)Department of Cardiology, The First Affiliated Hospital of Sun Yat-sen 
+University, 58 Zhongshan Road 2, Guangzhou, 510080, China. ldj168168@yeah.net.
+(9)Department of Cardiology, The First Affiliated Hospital of Sun Yat-sen 
+University, 58 Zhongshan Road 2, Guangzhou, 510080, China. wymai@hotmail.com.
+
+BACKGROUND: Asymmetric Dimethylarginine (ADMA) is an inhibitor of endogenous 
+nitric oxide synthase, which is the key synthase for nitric oxide (NO) 
+production. Whether statins could protect endothelium by reducing ADMA 
+concentration is unclear, and whether this effect is associated with the dose of 
+statins usage is also needed further studied.
+METHODS: Dyslipidemia rat model was produced by giving high-fat and 
+high-cholesterol diet for 8 weeks. Thereafter, low-dose (5 mg/kg body 
+weight/day) and high-dose (20 mg/kg body weight/day) atorvastatin were orally 
+prescribed for 4 weeks. Parameters of interest including lipid profiles, 
+inflammatory and oxidative markers, NO production and plasma levels of ADMA and 
+ADMA concentration of myocardium were evaluated. Liver enzymes and creatinine 
+kinase (CK) were also detected for safety concern.
+RESULTS: At baseline, all parameters were comparable between the sham and the 
+dyslipidemia groups. At 8 weeks of dyslipidemia establishment, as compared to 
+the sham group, body weight and lipid profiles were significantly elevated, and 
+plasma levels of C-reactive protein (CRP), malondialdehyde (MDA) and ADMA were 
+concomitantly increased in accompanying with NO reduction in the dyslipidemia 
+groups. With 4 weeks of atorvastatin therapy, as compared to the control group, 
+lipid disorders and NO production were improved, and plasma levels of CRP, MDA 
+and ADMA were significantly decreased in the high-dose atorvastatin group. ADMA 
+concentration of cardiac tissues was also significantly reduced in the high-dose 
+atorvastatin group. Notably, there was a trend to similar effects which did not 
+reach statistical significance in the low-dose atorvastatin group when compared 
+to the control group. Liver enzyme and CK were comparable after 4 weeks of 
+atorvastatin therapy between groups.
+CONCLUSION: In rats with dyslipidemia, atorvastatin therapy could reduce plasma 
+level of ADMA and ADMA concentration in cardiac tissues, and these effects are 
+associated with the dose of atorvastatin therapy.
+
+DOI: 10.1186/s12944-015-0041-2
+PMCID: PMC4428246
+PMID: 25934565 [Indexed for MEDLINE]
+
+
+24. J Int Med Res. 2017 Feb;45(1):82-88. doi: 10.1177/0300060516675681. Epub 2016
+ Dec 7.
+
+Effects of atorvastatin on ADP-, arachidonic acid-, collagen-, and 
+epinephrine-induced platelet aggregation.
+
+Zhao L(1), Liu D(1), Liu B(1), Hu H(1), Cui W(1).
+
+Author information:
+(1)Department of Cardiology, the Second Hospital of Hebei Medical University, 
+Shijiazhuang, Hebei, China.
+
+Objective Atorvastatin reduces the incidence of cardiovascular events. However, 
+the effects of atorvastatin on platelet aggregation are unknown. Methods Blood 
+samples were obtained from 126 healthy volunteers. Prepared isolated platelet 
+suspensions were adjusted with saline to three different concentrations of 
+100 × 109, 300 × 109, and 600 × 109 platelets/L. Platelet samples were incubated 
+with atorvastatin (10-7 mol/L, 10-6 mol/L or 10-5 mol/L), and stimulated with 
+ADP (10 µmol/L), arachidonic acid (0.5 mmol/L), collagen (2 µg/mL), and 
+epinephrine (1 mg/mL). The maximal amplitude of aggregation and the curve slope 
+were measured by electric impedance aggregometry. Results Atorvastatin inhibited 
+platelet aggregation at moderate (300 × 109/L) and high (600 × 109/L) 
+concentrations. However, an inhibitory effect of atorvastatin at low 
+concentrations (100 × 109/L) was not observed. Conclusions The study shows that 
+atorvastatin inhibits platelet aggregation in vitro, and this inhibitory effect 
+is related to platelet concentrations.
+
+DOI: 10.1177/0300060516675681
+PMCID: PMC5536584
+PMID: 27913744 [Indexed for MEDLINE]
+
+
+25. Ann Allergy Asthma Immunol. 2013 Jan;110(1):11-7. doi: 
+10.1016/j.anai.2012.09.002. Epub 2012 Oct 4.
+
+Effect of oral administration with pravastatin and atorvastatin on airway 
+hyperresponsiveness and allergic reactions in asthmatic mice.
+
+Huang CF(1), Peng HJ, Wu CC, Lo WT, Shih YL, Wu TC.
+
+Author information:
+(1)Department of Pediatrics, Tri-Service General Hospital and School of 
+Medicine, National Defense Medical Center, Taipei, Taiwan. h-cf@yahoo.com.tw
+
+Comment in
+    Ann Allergy Asthma Immunol. 2013 Jan;110(1):1. doi: 
+10.1016/j.anai.2012.10.021.
+
+BACKGROUND: Asthma is characterized by airway hyperresponsiveness and 
+remodeling. Pravastatin and atorvastatin are used clinically as 
+cholesterol-lowering agents but also exhibit anti-inflammatory and 
+immunomodulating properties.
+OBJECTIVE: To investigate the therapeutic effect of oral statins on airway 
+hyperresponsiveness and allergic reaction.
+METHODS: BALB/c mice received intraperitoneal sensitization and aerosol 
+inhalation with ovalbumin consequently. One week after ovalbumin aerosol 
+challenge, pravastatin, atorvastatin, or phosphate-buffered saline were given by 
+intragastric gavage daily for 2 weeks. Airway hyperresponsiveness, serum 
+allergen specific antibody levels, cytokine production by splenocytes, and 
+bronchoalveolar lavage fluid were examined.
+RESULTS: Both pravastatin and atorvastatin effectively reduced airway 
+hyperresponsiveness. Pravastatin effectively suppressed both T(H)1- and 
+T(H)2-mediated antibody responses, reducing serum specific IgE, IgG, IgG1, and 
+IgG2a levels. Pravastatin also effectively reduced interleukin (IL) 4, IL-5, and 
+interferon γ production but significantly enhanced IL-10 levels in splenocytes 
+and BALF. Similarly, atorvastatin effectively attenuated production of specific 
+IgE, IgG1, and IgG2a antibodies. It also significantly attenuated IL-4, 
+interferon γ, and increased IL-10 concentration in bronchoalveolar lavage fluid 
+and splenocytes.
+CONCLUSION: Oral administration of pravastatin or atorvastatin not only was able 
+to inhibit T(H)1 inflammatory responses but also had therapeutic effects on 
+airway hyperresponsiveness and T(H)2 allergic responses. These results seem to 
+suggest that these drugs have potential as a nonimmunosuppressive therapy for 
+asthma and allergic diseases.
+
+Copyright © 2013 American College of Allergy, Asthma & Immunology. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.anai.2012.09.002
+PMID: 23244652 [Indexed for MEDLINE]
+
+
+26. Pulm Pharmacol Ther. 2015 Apr;31:1-8. doi: 10.1016/j.pupt.2015.01.001. Epub
+2015  Jan 14.
+
+Atorvastatin in combination with inhaled beclometasone modulates inflammatory 
+sputum mediators in smokers with asthma.
+
+Thomson NC(1), Charron CE(2), Chaudhuri R(3), Spears M(4), Ito K(5), McSharry 
+C(3).
+
+Author information:
+(1)Respiratory Medicine, Institute of Infection, Immunity and Inflammation, 
+University of Glasgow, Gartnavel General Hospital, Glasgow, G12 OYN, Scotland, 
+UK. Electronic address: neil.thomson@glasgow.ac.uk.
+(2)RespiVert Ltd, Imperial BioIncubator, Imperial College, London, UK.
+(3)Respiratory Medicine, Institute of Infection, Immunity and Inflammation, 
+University of Glasgow, Gartnavel General Hospital, Glasgow, G12 OYN, Scotland, 
+UK.
+(4)Respiratory Medicine, Forth Valley Royal Hospital, Larbert, UK.
+(5)Airway Disease Section, Imperial College, London, UK.
+
+BACKGROUND: Statins have pleiotropic immunomodulatory effects that may be 
+beneficial in the treatment of asthma. We previously reported that treatment 
+with atorvastatin improved asthma symptoms in smokers with asthma in the absence 
+of a change in the concentration of a selection of sputum inflammatory 
+mediators.
+OBJECTIVE: To determine the effects of atorvastatin alone and in combination 
+with inhaled corticosteroid on a range of sputum cytokines, chemokines and 
+growth factors implicated in the pathogenesis of asthma, and their association 
+with asthma control questionnaire (ACQ) and/or asthma quality of life 
+questionnaire (AQLQ) scores.
+METHODS: Sputum samples were analysed from a sub-group of 39 smokers with mild 
+to moderate asthma recruited to a randomised controlled trial comparing 
+atorvastatin (40 mg/day) versus placebo for four weeks, followed by inhaled 
+beclometasone (400 μg/day) for a further four weeks. Induced sputum supernatant 
+fluid was analysed (Luminex or biochemical analyses) for concentrations of 35 
+mediators.
+RESULTS: Sputum mediator concentrations were not reduced by inhaled 
+beclometasone alone. Atorvastatin significantly reduced sputum concentrations of 
+CCL7, IL-12p70, sCD40L, FGF-2, CCL4, TGF-α and MMP-8 compared with placebo and, 
+when combined with inhaled beclometasone, reduced sputum concentrations of 
+MMP-8, IL-1β, IL-10, MMP-9, sCD40L, FGF-2, IL-7, G-CSF and CCL7 compared to ICS 
+alone. Improvements in ACQ and/or AQLQ scores with atorvastatin and ICS were 
+associated with decreases in G-CSF, IL-7, CCL2 and CXCL8.
+CONCLUSION: Short-term treatment with atorvastatin alone or in combination with 
+inhaled beclometasone reduces several sputum cytokines, chemokines and growth 
+factors concentrations unresponsive to inhaled corticosteroids alone, in smokers 
+with asthma.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.pupt.2015.01.001
+PMID: 25595138 [Indexed for MEDLINE]
+
+
+27. Arch Physiol Biochem. 2023 Apr;129(2):476-483. doi: 
+10.1080/13813455.2020.1838550. Epub 2020 Nov 6.
+
+The effects of melatonin against atherosclerosis-induced endothelial dysfunction 
+and inflammation in hypercholesterolemic rats.
+
+Sezgin D(1), Aslan G(1), Sahin K(2), Tuzcu M(3), İlhan N(4), Sahna E(1).
+
+Author information:
+(1)Faculty of Medicine, Department of Pharmacology, Firat University, Elazig, 
+Turkey.
+(2)Faculty of Veterinary Medicine, Department of Animal Nutrition and 
+Nutritional Disorders, Firat University, Elazig, Turkey.
+(3)Faculty of Science, Department of Biology, Fırat University, Elazig, Turkey.
+(4)Faculty of Medicine, Department of Biochemistry, Firat University, Elazig, 
+Turkey.
+
+The aim of this study was to investigate the effects of melatonin on the serum 
+asymmetric dimethylarginine (ADMA) levels and the expressions of vaspin, 
+visfatin, dimethylarginine dimethylaminohydrolase (DDAH), and signal transducer 
+and activator of transcription-3 (STAT-3) for evaluation of endothelial function 
+and inflammation in the hypercholesterolemic rats. Rats were divided into 5 
+groups: (1) control, (2) hypercholesterolaemia, (3) melatonin administrated 
+concurrently with cholesterol diet, (4) melatonin administrated only last 
+2 weeks and fed with cholesterol diet, (5) atorvastatin administered only last 
+2 weeks fed with cholesterol diet. Although an increase was observed in the 
+expressions of visfatin and STAT-3 and the serum ADMA levels, the vaspin and 
+DDAH protein expressions were found to decrease with hypercholesterolemic diets. 
+Melatonin was determined to restore all the parameters to the normal levels. In 
+conclusion, melatonin may have protective and therapeutic effects on 
+hypercholesterolaemia by regulating vaspin, STAT-3, DDAH, and ADMA signalling 
+pathways and create similar effects with atorvastatin.
+
+DOI: 10.1080/13813455.2020.1838550
+PMID: 33156709 [Indexed for MEDLINE]
+
+
+28. Basic Clin Pharmacol Toxicol. 2010 May;106(5):357-61. doi: 
+10.1111/j.1742-7843.2010.00551.x. Epub 2010 Mar 4.
+
+A pharmacogenetics-based approach to reduce cardiovascular mortality with the 
+prophylactic use of statins.
+
+Lacchini R(1), Silva PS, Tanus-Santos JE.
+
+Author information:
+(1)Department of Pharmacology, Faculty of Medical Sciences, University of 
+Campinas, Campinas, SP, Brazil.
+
+Nitric oxide (NO) is the main endothelial-derived relaxation factor and plays a 
+major role in cardiovascular homeostasis. This key signalling molecule is 
+synthesised by a family of nitric oxide synthases (NOS), and the endothelial 
+isoform (eNOS) is the most important for nitric oxide formation in the 
+cardiovascular system. Cardiovascular drugs including statins increase eNOS 
+expression and up-regulate NO formation, and this effect may be responsible for 
+protective, pleiotropic effects produced by statins. However, the genetic 
+background may also affect NO formation in the cardiovascular system, and recent 
+studies have shown that genetic polymorphisms in the eNOS gene modify endogenous 
+NO formation and the risk of developing cardiovascular diseases. For example, 
+cases with the CC genotype for the T(-786)C polymorphism in the eNOS gene are at 
+increased cardiovascular risk when compared with those with the TT genotype. 
+Interestingly, pharmacogenetic studies have recently indicated that atorvastatin 
+improves NO formation more clearly in these individuals. However, it is not 
+known whether this polymorphism really increases cardiovascular morbidity and 
+mortality, and whether atorvastatin or other statins attenuate the morbidity and 
+mortality rates in cases with the CC genotype. If proved true, then 
+statins-induced up-regulation of eNOS and increased NO formation could 
+compensate for a genetic 'disadvantage' in cases with the CC genotype. This 
+could be a significant advance in the prevention of cardiovascular events. It is 
+necessary although to validate this hypothesis with clinical trials which will 
+require a long follow-up to assess relevant clinical events and not only 
+surrogate biomarkers.
+
+DOI: 10.1111/j.1742-7843.2010.00551.x
+PMID: 20210789 [Indexed for MEDLINE]
+
+
+29. Orv Hetil. 2006 Oct 15;147(41):1973-6.
+
+[Vascular pleiosynergism--a new concept?].
+
+[Article in Hungarian]
+
+Császár A(1).
+
+Author information:
+(1)Országos Gyógyintézeti Központ, Belgyógyászati Osztály.
+
+The coexistence of cardiovascular risk factors augments exponentially the 
+relative risk value. Similarly, the parallel treatment of these risks proves 
+multiplicative effectiveness. However, members of given drug classes show 
+different capacity due to their variant main and other effects. Nowadays, among 
+favorable "side" effects the pleoitropic form is in the focus of interest. In 
+drugs with antiatherosclerotic outline the lipid lowering statins and the 
+antihypertensive third generation calcium channel blocker amlodipin posses the 
+widest pleiotropic profile. According to the newest molecular biological results 
+both of them are able to enhance endothelial nitrogen-monoxid (NO) synthesis, to 
+inhibit production of reactive oxide radicals and to reduce the migration and 
+proliferation of smooth muscle cells, which mechanisms are independent from 
+their main effects. Statins and amlodipin can increase the activity of eNOS by 
+influencing the caveolin/eNOS complex. The presence of common targets in direct 
+and indirect effects seems to be important in gaining greater efficacy. The 
+valuable indirect therapeutical "cross reaction" can be delineated as 
+pleiosynergism. The recent revisited results of ASCOT-LLA trial support in vitro 
+observations. The difference in primary end points of atorvastatin/amlodipin 
+versus atorvastatin/atenolol regimen against placebo was more than three times 
+(3.3 x) greater in favour to amlodipin combination. The same benefits were seen 
+in secondary end points. Because the capacity of the two schedules lowering 
+blood pressure was very similar, the advantage can be based dominantly on the 
+pleiosynergistic interaction between atorvastatin and amlodipin.
+
+PMID: 17120687 [Indexed for MEDLINE]
+
+
+30. Curr Atheroscler Rep. 2011 Aug;13(4):321-9. doi: 10.1007/s11883-011-0183-2.
+
+Current management of symptomatic intracranial stenosis.
+
+Taylor RA(1), Weigele JB, Kasner SE.
+
+Author information:
+(1)Department of Neurology, University of Minnesota, Minneapolis, USA. 
+rataylor@umn.edu
+
+Intracranial arterial stenosis (IAS) is the cause of about 10% of all ischemic 
+strokes in the United States, but may account for about 40% of strokes in some 
+populations. After a stroke or transient ischemic attack due to IAS, patients 
+face a 12% annual risk of recurrent stroke on medical therapy, with most strokes 
+occurring in the first year. Warfarin is no better than aspirin in preventing 
+recurrent strokes but poses a higher risk of serious bleeding and death. Groups 
+with the highest risk of recurrent stroke are those with high-grade (≥ 70%) 
+stenosis, those with recent symptom onset, those with symptoms precipitated by 
+hemodynamic maneuvers, and women. Endovascular treatment of IAS is a rapidly 
+evolving therapeutic option. Antiplatelet agents are currently recommended as 
+the primary treatment for symptomatic IAS, with endovascular therapy reserved 
+for appropriate high-risk cases refractory to medical therapy.
+
+DOI: 10.1007/s11883-011-0183-2
+PMID: 21597931 [Indexed for MEDLINE]

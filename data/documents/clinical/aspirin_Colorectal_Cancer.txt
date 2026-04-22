@@ -1,0 +1,136 @@
+Trial: NCT05402124
+Title: The Colorectal Cancer Chemoprevention Acceleration and Improvement Platform (CRC-CHAMP) Study
+Phase: PHASE2
+Status: UNKNOWN
+Summary: The overall goal of this study is to develop a platform for both large-scale chemoprevention trials and real-world chemoprevention studies for colorectal cancer (CRC) prevention. The specific objectives of this proof of concept study are to:
+
+1. Evaluate the feasibility of a real-world chemoprevention agent (CPA) intervention (3-months of daily low-dose acetylsalicylic (ASA)) in participants at in
+---
+Trial: NCT03603366
+Title: Study to Evaluate How Patients Regard the Benefits and Risks of Low-dose Aspirin for the Prevention of Heart and Blood Vessels Disease and for the Prevention of Cancer of the Colon and Rectum
+Phase: NA
+Status: COMPLETED
+Summary: Research shows that low-dose Aspirin prevents diseases of heart and blood vessels as well as cancer of the colon and rectum and it is also associated with risk of bleeding. In this study, they want to learn how patients regard the benefits and risks of low-dose Aspirin for the prevention of these diseases. The researchers also want to learn how patients balance these risks and benefits.
+---
+Trial: NCT04379999
+Title: Atorvastatin ± Aspirin in Lynch Syndrome Syndrome
+Phase: EARLY_PHASE1
+Status: COMPLETED
+Summary: The goal of this study is to investigate that a common cholesterol lowering agent (atorvastatin) alone or combining with a nonsteroidal anti-inflammatory drug (aspirin) would reduce the risk of colorectal cancer (CRC) in high-risk individuals with Lynch syndrome.
+---
+Trial: NCT02647099
+Title: Adjuvant Low Dose Aspirin in Colorectal Cancer
+Phase: PHASE3
+Status: ACTIVE_NOT_RECRUITING
+Summary: ALASCCA is a randomized, parallel group, double blind, multicenter, placebo-controlled, biomarker-based study of adjuvant treatment with low dose aspirin in patients with colorectal cancer. Hypothesis is that patients diagnosed with colorectal cancer and somatic mutations in PI3K pathway can significantly improve survival if treated with low dose aspirin.
+---
+Trial: NCT03464305
+Title: ASPIRIN Trial Belgium
+Phase: PHASE3
+Status: ACTIVE_NOT_RECRUITING
+Summary: The purpose of this study is to determine whether acetylsalicylic acid is effective on the recurrence and survival of colon cancer patients.
+---
+Trial: NCT00002527
+Title: Aspirin in Treating Patients With Colorectal Cancer That Has Been Surgically Removed
+Phase: PHASE3
+Status: COMPLETED
+Summary: RATIONALE: Chemoprevention therapy is the use of certain drugs to try to prevent the development or recurrence of cancer. The use of aspirin may be an effective way to prevent the recurrence of polyps in colorectal cancer.
+
+PURPOSE: Randomized phase III trial to study the effectiveness of aspirin in treating patients who have stage I, stage II, or stage III colorectal cancer that has been surgical
+---
+Trial: NCT00983580
+Title: Acetylsalicylic Acid and Eflornithine in Treating Patients at High Risk for Colorectal Cancer
+Phase: PHASE2
+Status: COMPLETED
+Summary: This phase II trial is studying how well giving acetylsalicylic acid together with eflornithine works in treating patients at high risk for colorectal cancer. Chemoprevention is the use of certain drugs to keep cancer from forming. The use of acetylsalicylic acid and eflornithine may prevent colorectal cancer.
+---
+Trial: NCT02804815
+Title: Add-Aspirin: A Trial Assessing the Effects of Aspirin on Disease Recurrence and Survival After Primary Therapy in Common Non Metastatic Solid Tumours
+Phase: PHASE3
+Status: ACTIVE_NOT_RECRUITING
+Summary: Add-Aspirin aims to assess whether regular aspirin use after standard curative therapy can prevent recurrence and improve survival in individuals with non-metastatic common tumours. The question will be assessed in four different tumour types (breast, colorectal, gastro-oesophageal and prostate) by means of parallel cohorts within an overarching trial protocol.
+
+Eligible participants will be rando
+---
+Trial: NCT02607072
+Title: Aspirin for Prevention of Postsurgical Recurrence and Metastasis in Asian Colorectal Cancer Patients: a Multi-center Randomized Trial
+Phase: PHASE3
+Status: UNKNOWN
+Summary: Background: Evidence of high quality has suggested that acetylsalicylic acid (ASA)/aspirin effectively reduces colorectal adenoma incidence and recurrence rate, and several randomized controlled trials (RCTs) strongly indicate its potential to prevent colorectal cancer (CRC) initiation and progression and to decrease cancer-related mortality. However the role of aspirin supplied as an adjuvant age
+---
+Trial: NCT00033319
+Title: Aspirin and/or Folic Acid in Preventing Recurrent Colorectal Polyps
+Phase: NA
+Status: UNKNOWN
+Summary: RATIONALE: Chemoprevention therapy is the use of certain drugs to try to prevent the development or recurrence of cancer. The use of aspirin and/or folic acid may be effective in preventing recurrent polyps in patients who have had polyps removed previously.
+
+PURPOSE: Randomized clinical trial to determine the effectiveness of aspirin and/or folic acid in preventing the recurrence of colorectal po
+---
+Trial: NCT02301286
+Title: A Trial of Aspirin on Recurrence and Survival in Colon Cancer Patients
+Phase: PHASE3
+Status: ACTIVE_NOT_RECRUITING
+Summary: The purpose of this study is to determine whether acetylsalicylic acidis effective on the recurrence and survival of colon cancer patients.
+---
+Trial: NCT02394769
+Title: ASPirin Intervention for the REDuction of Colorectal Cancer Risk
+Phase: NA
+Status: ACTIVE_NOT_RECRUITING
+Summary: This research study is investigating the use of aspirin as a potential chemopreventive agent to reduce risk of colorectal cancer
+---
+Trial: NCT05056896
+Title: ASPIRED-XT: ASPirin Intervention for the REDuction of Colorectal Cancer Risk -EXTension
+Phase: EARLY_PHASE1
+Status: ACTIVE_NOT_RECRUITING
+Summary: This research study is studying a drug intervention as a possible chemoprevention strategy for colorectal cancer.
+
+The name of the study intervention involved in this study is:
+
+* Low Dose Aspirin
+---
+Trial: NCT04081831
+Title: Effectiveness of Low Dose Aspirin in Decreasing the Chance Getting Stomach and Intestine Cancer
+Phase: NA
+Status: COMPLETED
+Summary: In this study, researchers wanted to learn more about the effect of Aspirin taken as low dose (75 - 300 mg) in preventing stomach, colorectal and esophagus cancer. The researchers were interested in the effect by duration of aspirin use and the effect on the time since aspirin intake has been stopped in preventing stomach, colorectal and esophagus cancer. In addition, the study also looked into th
+---
+Trial: NCT03290820
+Title: Aspirin Improve Survival of N2-3 Nasopharyngeal Carcinoma Patients
+Phase: PHASE2
+Status: UNKNOWN
+Summary: Nasopharyngeal carcinoma (NPC) is one of the most common maligancies of China. In the era of intensity-modulated radiotherapy (IMRT), the 5-year overall survival (OS) has now reached 85.0% or more. However, even after chemoradiation, the 5-year distant-metastasis rate of patients with N2-3 NPC is still 36.7%. Aspirin is proven in lab and clinical studies to have the abilities of inhibiting the inf
+---
+Trial: NCT04331535
+Title: The Genomic Medicine at VA Study
+Phase: NA
+Status: UNKNOWN
+Summary: This trial will determine the clinical effectiveness of polygenic risk score testing among patients at high genetic risk for at least one of six diseases (coronary artery disease, atrial fibrillation, type 2 diabetes mellitus, colorectal cancer, breast cancer, or prostate cancer), measured by time-to-diagnosis of prevalent or incident disease over 24 months.
+---
+Trial: NCT00153712
+Title: Natural History of Non-steroidal Anti-inflammatory Drug and Non-Helicobacter Pylori in Bleeding Peptic Ulcers
+Phase: NA
+Status: COMPLETED
+Summary: The aim of this study is to study the natural history of the ulcer healing while on proton pump inhibitors (PPI) and the ulcer recurrence without acid suppression therapy of Non-steroidal Anti-inflammatory Drugs (NSAID), non-Helicobacter pylori (HP) bleeding ulcer patients.
+---
+Trial: NCT02761486
+Title: Effect of Aspirin on Gut Microbiome
+Phase: PHASE1
+Status: COMPLETED
+Summary: Regular use of aspirin may reduce the incidence of colorectal cancer (CRC). However, it is unclear through which mechanism aspirin exerts its effect, in whom it decreases CRC risk and in whom it causes side effects. Recently, the imbalanced gut microbiome was linked to inflammation and CRC risk. The main hypothesis for this study is that aspirin may decrease CRC risk via targeting the gut microbio
+---
+Trial: NCT00468910
+Title: Aspirin in Preventing Colorectal Cancer in Patients at Increased Risk of Colorectal Cancer
+Phase: PHASE2
+Status: COMPLETED
+Summary: This randomized phase II trial is studying how well aspirin works in preventing colorectal cancer in patients at increased risk of colorectal cancer. Chemoprevention is the use of certain drugs to keep cancer from forming. The use of aspirin may prevent colorectal cancer.
+---
+Trial: NCT05732623
+Title: Exogenous and Endogenous Risk Factors for Early-onset Colorectal Cancer
+Phase: NA
+Status: RECRUITING
+Summary: An increase in early-onset colorectal cancers (eoCRC), defined as a CRC before 50 years, is confirmed globally.
+
+CRC pathogenesis has been associated with several risk factors (family history, germline pathogenic variants, obesity, alcohol, physical activity, red meat, and a Western diet).
+
+Design: an international, multicenter, retrospective case-control study of prospectively enrolled patients; 
+---

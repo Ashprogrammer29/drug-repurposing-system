@@ -1,0 +1,90 @@
+Reaction: Dyspepsia | Outcome: 
+Reaction: Renal impairment | Outcome: 
+Reaction: Cholecystectomy | Outcome: 1
+Reaction: Nephrolithiasis | Outcome: 1
+Reaction: Biliary tract disorder | Outcome: 1
+Reaction: Malaise | Outcome: 6
+Reaction: Cerebral venous thrombosis | Outcome: 1
+Reaction: Jugular vein thrombosis | Outcome: 1
+Reaction: Multiple sclerosis relapse | Outcome: 2
+Reaction: Dysaesthesia | Outcome: 2
+Reaction: Weight loss poor | Outcome: 6
+Reaction: Off label use | Outcome: 1
+Reaction: Stevens-Johnson syndrome | Outcome: 1
+Reaction: Consciousness fluctuating | Outcome: 1
+Reaction: Lip swelling | Outcome: 1
+Reaction: Lip discolouration | Outcome: 1
+Reaction: Blister | Outcome: 1
+Reaction: Pain | Outcome: 1
+Reaction: Skin exfoliation | Outcome: 1
+Reaction: Chapped lips | Outcome: 1
+Reaction: Eye disorder | Outcome: 1
+Reaction: Scab | Outcome: 1
+Reaction: Scar | Outcome: 1
+Reaction: Weight decreased | Outcome: 1
+Reaction: Skin disorder | Outcome: 1
+Reaction: Rash generalised | Outcome: 1
+Reaction: Dyspnoea | Outcome: 1
+Reaction: Hypersensitivity | Outcome: 1
+Reaction: Malaise | Outcome: 1
+Reaction: Hallucination, auditory | Outcome: 6
+Reaction: Nervousness | Outcome: 6
+Reaction: Feeling abnormal | Outcome: 6
+Reaction: Hypoaesthesia oral | Outcome: 4
+Reaction: Hypoaesthesia | Outcome: 4
+Reaction: Malaise | Outcome: 6
+Reaction: Pain | Outcome: 6
+Reaction: Feeling abnormal | Outcome: 6
+Reaction: White blood cell count increased | Outcome: 6
+Reaction: Platelet count decreased | Outcome: 6
+Reaction: Contusion | Outcome: 6
+Reaction: Intraventricular haemorrhage neonatal | Outcome: 2
+Reaction: Drug hypersensitivity | Outcome: 6
+Reaction: Cerebral thrombosis | Outcome: 1
+Reaction: Loss of consciousness | Outcome: 1
+Reaction: Gait disturbance | Outcome: 1
+Reaction: Agraphia | Outcome: 1
+Reaction: Fear | Outcome: 
+Reaction: Migraine | Outcome: 1
+Reaction: Abdominal pain | Outcome: 
+Reaction: Back pain | Outcome: 
+Reaction: Activities of daily living impaired | Outcome: 1
+Reaction: Paralysis | Outcome: 
+Reaction: Seizure | Outcome: 1
+Reaction: Frustration | Outcome: 
+Reaction: Pain | Outcome: 1
+Reaction: Speech disorder | Outcome: 1
+Reaction: Injury | Outcome: 1
+Reaction: General physical health deterioration | Outcome: 1
+Reaction: Amnesia | Outcome: 1
+Reaction: Scar | Outcome: 
+Reaction: Stress | Outcome: 
+Reaction: Impaired driving ability | Outcome: 1
+Reaction: Intracranial venous sinus thrombosis | Outcome: 1
+Reaction: Motor dysfunction | Outcome: 1
+Reaction: Weight increased | Outcome: 
+Reaction: Malaise | Outcome: 1
+Reaction: Nausea | Outcome: 1
+Reaction: Hypothyroidism | Outcome: 
+Reaction: Haemoptysis | Outcome: 6
+Reaction: Pulmonary haemorrhage | Outcome: 6
+Reaction: Convulsion | Outcome: 6
+Reaction: Drug abuse | Outcome: 6
+Reaction: Chronic obstructive pulmonary disease | Outcome: 6
+Reaction: Dyspnoea | Outcome: 1
+Reaction: Gastrointestinal disorder | Outcome: 6
+Reaction: Dyspepsia | Outcome: 6
+Reaction: Anaemia | Outcome: 6
+Reaction: Breast cancer | Outcome: 6
+Reaction: Drug interaction | Outcome: 6
+Reaction: Adverse event | Outcome: 6
+Reaction: Influenza like illness | Outcome: 6
+Reaction: Arthralgia | Outcome: 3
+Reaction: Pain in extremity | Outcome: 3
+Reaction: Gait disturbance | Outcome: 3
+Reaction: Mobility decreased | Outcome: 3
+Reaction: Fatigue | Outcome: 3
+Reaction: Asthenia | Outcome: 3
+Reaction: Depressed mood | Outcome: 3
+Reaction: Vision blurred | Outcome: 6
+Reaction: Dry mouth | Outcome: 6

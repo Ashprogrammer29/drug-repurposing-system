@@ -1,0 +1,7 @@
+Mechanistic pathway data for esomeprazole.
+Primary target pathway: esomeprazole.
+Drug class biological mechanism relevant to disease modulation.
+Protein interaction pathways associated with esomeprazole therapeutic effects.
+Molecular target engagement data for esomeprazole.
+Pathway analysis: esomeprazole signaling cascade.
+Biological plausibility of esomeprazole in neurological and metabolic disease contexts.

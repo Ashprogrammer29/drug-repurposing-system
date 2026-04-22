@@ -1,0 +1,7 @@
+Mechanistic pathway data for thalidomide.
+Primary target pathway: cereblon TNF alpha.
+Drug class biological mechanism relevant to disease modulation.
+Protein interaction pathways associated with thalidomide therapeutic effects.
+Molecular target engagement data for thalidomide.
+Pathway analysis: cereblon TNF alpha signaling cascade.
+Biological plausibility of thalidomide in neurological and metabolic disease contexts.

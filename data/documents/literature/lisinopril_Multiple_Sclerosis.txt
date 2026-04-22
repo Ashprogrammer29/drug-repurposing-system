@@ -1,0 +1,55 @@
+1. Neurol Ther. 2016 Dec;5(2):169-182. doi: 10.1007/s40120-016-0048-2. Epub 2016 
+Jul 13.
+
+Pregnancy Experience: Nonclinical Studies and Pregnancy Outcomes in the 
+Daclizumab Clinical Study Program.
+
+Gold R(1), Stefoski D(2), Selmaj K(3), Havrdova E(4), Hurst C(5), Holman J(6), 
+Tornesi B(6), Akella S(7), McCroskery P(5).
+
+Author information:
+(1)St. Josef Hospital, Ruhr University Bochum, Bochum, Germany. 
+ralf.gold@rub.de.
+(2)Rush University Medical Center, Chicago, IL, USA.
+(3)Medical University of Lodz, Lodz, Poland.
+(4)First School of Medicine, Charles University in Prague, Prague, Czech 
+Republic.
+(5)Biogen, Cambridge, MA, USA.
+(6)AbbVie Inc., North Chicago, IL, USA.
+(7)AbbVie Biotherapeutics Inc., Redwood City, CA, USA.
+
+INTRODUCTION: Multiple sclerosis (MS) is more common in women and can occur 
+during childbearing years; thus, information on outcomes following exposure to 
+MS therapy during pregnancy is important. No formal studies of daclizumab have 
+been conducted in pregnant women. Here, we report available nonclinical and 
+clinical data on pregnancy outcomes from the daclizumab clinical study program.
+METHODS: Reproductive and developmental toxicity studies were conducted in 
+cynomolgus monkeys. Reports of pregnancies that occurred during the daclizumab 
+clinical study program through March 9, 2015 were collated and summarized. In 
+the event of pregnancy, daclizumab was discontinued and safety monitoring 
+continued.
+RESULTS: Studies in cynomolgus monkeys showed no daclizumab-related effects on 
+maternal well-being, embryo-fetal development, indirect fertility end points, 
+and pre- and postnatal development and growth. Across the clinical study 
+program, 38 pregnancies were reported in 36 daclizumab-exposed women (on 
+treatment ≤6 months from last dose); 20 resulted in live births and four (11%) 
+in spontaneous abortions or miscarriages. One congenital heart defect (complex 
+transposition of great vessels) occurred in one live birth (considered unrelated 
+to daclizumab); daclizumab had been discontinued and intramuscular interferon 
+beta-1a and lisinopril were used at conception. Eight women had an elective 
+termination, two had an ectopic pregnancy, and two were lost to follow-up; two 
+pregnancy outcomes are pending. Six additional pregnancies occurred in five 
+women >6 months after their last daclizumab dose; in one additional pregnancy, 
+exposure was unknown.
+CONCLUSION: Spontaneous abortion rate in daclizumab-exposed women was consistent 
+with early pregnancy loss in the general population (12%-26%). Data on 
+pregnancies exposed to daclizumab do not suggest an increased risk of adverse 
+fetal or maternal outcomes, although the numbers are too small for definitive 
+conclusions. CLINICALTRIALS.
+GOV IDENTIFIERS: NCT00390221, NCT01064401, NCT01462318, NCT00870740, 
+NCT01051349, and NCT01797965.
+FUNDING: Biogen and AbbVie Biotherapeutics Inc.
+
+DOI: 10.1007/s40120-016-0048-2
+PMCID: PMC5130915
+PMID: 27411694

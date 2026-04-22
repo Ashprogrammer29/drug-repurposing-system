@@ -1,0 +1,16 @@
+{
+  "total": 3,
+  "phases": [
+    "NA",
+    "PHASE1",
+    "PHASE1"
+  ],
+  "statuses": [
+    "UNKNOWN",
+    "COMPLETED",
+    "COMPLETED"
+  ],
+  "phase_score": 0.35,
+  "status_score": 1.0,
+  "grounded_confidence": 0.518
+}

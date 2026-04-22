@@ -1,0 +1,6 @@
+Trial: NCT02369926
+Title: Endpoint Calibration for a Phase 2 Study of Lisinopril in Multiple Sclerosis
+Phase: PHASE2
+Status: UNKNOWN
+Summary: This study aims to calibrate the Multiple Sclerosis Functional Composite (MSFC) for home implementation in a phase 2 trial of lisinopril in multiple sclerosis. In this initial stage, participants are required to travel to the study site one day a week for three weeks to complete the MSFC. They are also required to complete the MSFC at home once weekly for three weeks using remote sensing technolog
+---

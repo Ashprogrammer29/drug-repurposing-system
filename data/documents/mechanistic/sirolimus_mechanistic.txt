@@ -1,0 +1,7 @@
+Mechanistic pathway data for sirolimus.
+Primary target pathway: sirolimus.
+Drug class biological mechanism relevant to disease modulation.
+Protein interaction pathways associated with sirolimus therapeutic effects.
+Molecular target engagement data for sirolimus.
+Pathway analysis: sirolimus signaling cascade.
+Biological plausibility of sirolimus in neurological and metabolic disease contexts.

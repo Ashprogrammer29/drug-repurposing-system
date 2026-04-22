@@ -1,0 +1,62 @@
+Trial: NCT03757910
+Title: Brain Imaging in the Diabetes Prevention Program Outcomes Study
+Phase: EARLY_PHASE1
+Status: TERMINATED
+Summary: This is a cross-sectional pilot study of Alzheimer's disease (AD) brain imaging biomarkers in Diabetes Prevention Program (DPP) outcomes study (DPPOS) participants from the New York City sites (Columbia and Einstein), comparing 10 persons originally randomized to metformin and 10 persons randomized to placebo in DPP. All study procedures will be conducted at Columbia University Irving Medical Cent
+---
+Trial: NCT05109169
+Title: METformin and FINGER Intervention to Prevent Cognitive Impairment and Disability in Older Adults at Risk for Dementia
+Phase: PHASE2
+Status: RECRUITING
+Summary: Dementia is the main cause of disability in older adults, currently affecting about 50 million people world-wide with this number estimated to triple in the next 30 years. In MET-FINGER, we aim to understand whether the FINGER 2.0 multidomain intervention, combining healthy lifestyle changes and a drug for diabetes (metformin), may help reduce the risk of dementia and improve health and independen
+---
+Trial: NCT01965756
+Title: Effect of Insulin Sensitizer Metformin on AD Biomarkers
+Phase: PHASE2
+Status: COMPLETED
+Summary: Alzheimer's disease (AD) is a neurodegenerative disorder characterized by progressive loss of memory and other cognitive functions. It is the most common cause of dementia in older adults, affecting approximately 18 million people worldwide, including almost 500,000 in the Philadelphia tri-state area. After age 65, the incidence of AD rises exponentially, doubling every five years. By age 85, almo
+---
+Trial: NCT07139405
+Title: TRIGLYTZA® VERSUS METFORMIN IN OBESE ADULT TYPE 2 DIABETES (T2DM) PATIENTS OVER 24 WEEKS OF TREATMENT
+Phase: PHASE2
+Status: NOT_YET_RECRUITING
+Summary: Type 2 diabetes (T2DM) is still very difficult to treat because current medicines mostly help with symptoms but don't stop the damage happening inside the pancreas. Many people who start on common treatments like Metformin, and even newer drugs like Ozempic, eventually stop responding to them. This is because these drugs don't address the real problem: the gradual loss of the pancreas' ability to 
+---
+Trial: NCT05360147
+Title: Liraglutide Improve Cognitive Function in Patients With Type 2 Diabetes Mellitus
+Phase: PHASE3
+Status: COMPLETED
+Summary: Patients with diabetes are susceptible to dementia, but regular therapy fails to reduce the risk of dementia. In previous observational study, the investigators found that liraglutide can improve cognitive function in patients with T2DM through a metabolism-independent pathway. Here the investigators aim to further verify such effects through a randomized, controlled study.
+---
+Trial: NCT00620191
+Title: Metformin in Amnestic Mild Cognitive Impairment
+Phase: PHASE2
+Status: COMPLETED
+Summary: Hyperinsulinemia and type 2 diabetes (T2D) are important potential risk factors for cognitive decline and Alzheimer's disease (AD). Two thirds of the US adult population are at risk for hyperinsulinemia and T2D, and half of the population 85 years and older have AD. Peripheral hyperinsulinemia can impair the clearance of amyloid beta in the brain, the main culprit in AD. Thus, the investigators hy
+---
+Trial: NCT02409238
+Title: Insulin Resistance and Mild Cognitive Impairment (IRMCI) Study
+Phase: PHASE4
+Status: TERMINATED
+Summary: Dementia (Alzheimer's Disease) is sometimes called "Type 3 Diabetes" because of the strong connection between Type 2 diabetes (a function of insulin resistance) with Dementia.
+
+The investigators therefore hypothesize that Reducing Insulin Resistance using Intensive Lifestyle Intervention (Exercise and Weight loss) + Metformin Treatment in Prediabetic \& diet-control-only Diabetic overweight and mi
+---
+Trial: NCT03733132
+Title: Metformin Effect on Brain Function in Insulin Resistant Elderly People
+Phase: PHASE2
+Status: COMPLETED
+Summary: Alzheimer's disease (AD) and other forms of dementia are rapidly increasing with the aging of the population, and show a clear preponderance among people with insulin resistance. Metformin, an insulin sensitizer, is being examined in clinical trials as an anti-aging drug. However, very little objective data is available regarding metformin's effect on the brain, a major organ affected by aging.
+---
+Trial: NCT04098666
+Title: Metformin in Alzheimer's Dementia Prevention
+Phase: PHASE2
+Status: ACTIVE_NOT_RECRUITING
+Summary: MAP will be a multisite phase II/III 1:1 randomized controlled trial (RCT) of long acting metformin (reduced mass Glucophage XR) vs. matching placebo in 326 men and women with early and late aMCI, without diabetes, not treated with metformin, overweight or obese, aged 55 years to 90 years. The RCT will last 18 months and have 4 visits: baseline, 6-months, 12-months, and 18-months. The RCT will be 
+---
+Trial: NCT02588729
+Title: A Mobile Smartphone Application to Promote a Healthy Diet and Physical Activity Among Pregnant Women With GDM - RCT
+Phase: NA
+Status: COMPLETED
+Summary: In this study, the investigators will test a new way to communicate advice on diet and lifestyle to women with gestational diabetes mellitus by app downloaded on women's smartphone. The app wishes to motivate women to have a healthy diet, and be physically active. It allows automatic transfer of blood glucose measures from the glucose meter to the smartphone. The women will answer questionnaires d
+---

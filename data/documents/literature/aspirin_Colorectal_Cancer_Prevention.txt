@@ -1,0 +1,1387 @@
+1. Cancer Prev Res (Phila). 2022 Sep 1;15(9):565-567. doi: 
+10.1158/1940-6207.CAPR-22-0176.
+
+Aspirin for Colorectal Cancer Prevention: Age Matters.
+
+Shureiqi I(1)(2).
+
+Author information:
+(1)Department of Internal Medicine, Division of Hematology and Oncology, 
+University of Michigan, Ann Arbor, Michigan.
+(2)Rogel Cancer Center, University of Michigan, Ann Arbor, Michigan.
+
+Comment on
+    Cancer Prev Res (Phila). 2022 Jul 5;15(7):447-454. doi: 
+10.1158/1940-6207.CAPR-22-0011.
+
+Further data from the Aspirin in Reducing Events in the Elderly (ASPREE) trial 
+heightens the concern regarding aspirin use for colorectal cancer prevention in 
+elderly subjects. A 95-variant colorectal cancer polygenic risk score (PRS) 
+failed to identify a subset of elderly individuals who could have benefited from 
+aspirin preventive activity. Further research to define predictive biomarkers of 
+aspirin preventive activity is needed. Meanwhile, the use of aspirin for 
+colorectal cancer prevention in the elderly becomes more questionable. See 
+Cancer Prev Res 15(7):447-53.
+
+©2022 American Association for Cancer Research.
+
+DOI: 10.1158/1940-6207.CAPR-22-0176
+PMID: 36047054 [Indexed for MEDLINE]
+
+
+2. Nat Rev Gastroenterol Hepatol. 2019 Dec;16(12):713-732. doi: 
+10.1038/s41575-019-0189-8. Epub 2019 Aug 27.
+
+Global burden of colorectal cancer: emerging trends, risk factors and prevention 
+strategies.
+
+Keum N(1)(2), Giovannucci E(3)(4)(5)(6).
+
+Author information:
+(1)Department of Nutrition, Harvard T.H. Chan School of Public Health, Boston, 
+MA, USA.
+(2)Department of Food Science and Biotechnology, Dongguk University, Goyang, 
+South Korea.
+(3)Department of Nutrition, Harvard T.H. Chan School of Public Health, Boston, 
+MA, USA. egiovann@hsph.harvard.edu.
+(4)Department of Epidemiology, Harvard T.H. Chan School of Public Health, 
+Boston, MA, USA. egiovann@hsph.harvard.edu.
+(5)Channing Division of Network Medicine, Brigham and Women's Hospital and 
+Harvard Medical School, Boston, MA, USA. egiovann@hsph.harvard.edu.
+(6)Department of Medicine, Harvard Medical School, Boston, MA, USA. 
+egiovann@hsph.harvard.edu.
+
+Globally, colorectal cancer (CRC) is the third most commonly diagnosed 
+malignancy and the second leading cause of cancer death. Arising through three 
+major pathways, including adenoma-carcinoma sequence, serrated pathway and 
+inflammatory pathway, CRC represents an aetiologically heterogeneous disease 
+according to subtyping by tumour anatomical location or global molecular 
+alterations. Genetic factors such as germline MLH1 and APC mutations have an 
+aetiologic role, predisposing individuals to CRC. Yet, the majority of CRC is 
+sporadic and largely attributable to the constellation of modifiable 
+environmental risk factors characterizing westernization (for example, obesity, 
+physical inactivity, poor diets, alcohol drinking and smoking). As such, the 
+burden of CRC is shifting towards low-income and middle-income countries as they 
+become westernized. Furthermore, the rising incidence of CRC at younger ages 
+(before age 50 years) is an emerging trend. This Review provides a comprehensive 
+summary of CRC epidemiology, with emphasis on modifiable lifestyle and 
+nutritional factors, chemoprevention and screening. Overall, the optimal 
+reduction of CRC incidence and mortality will require concerted efforts to 
+reduce modifiable risk factors, to leverage chemoprevention research and to 
+promote population-wide and targeted screening.
+
+DOI: 10.1038/s41575-019-0189-8
+PMID: 31455888 [Indexed for MEDLINE]
+
+
+3. Genes (Basel). 2022 Mar 3;13(3):460. doi: 10.3390/genes13030460.
+
+Aspirin Colorectal Cancer Prevention in Lynch Syndrome: Recommendations in the 
+Era of Precision Medicine.
+
+Serrano D(1), Patrignani P(2), Stigliano V(3), Turchetti D(4), Sciallero S(5), 
+Roviello F(6), D'Arpino A(7), Grattagliano I(8), Testa S(9), Oliani C(10), 
+Bertario L(1), Bonanni B(1).
+
+Author information:
+(1)Division of Cancer Prevention and Genetics, European Institute of Oncology 
+IRCCS, 20141 Milan, Italy.
+(2)Department of Neuroscience, Imaging and Clinical Sciences, and CAST, "G. 
+d'Annunzio" University, 66100 Chieti, Italy.
+(3)Division of Gastroenterology and Digestive Endoscopy, IRCCS, Regina Elena 
+National Cancer Institute, 00144 Rome, Italy.
+(4)Center for Hereditary Cancer, Department of Medical and Surgical Sciences, 
+University of Bologna, 40100 Bologna, Italy.
+(5)IRCCS Ospedale Policlinico San Martino, 16100 Genoa, Italy.
+(6)Unit of General Surgery and Surgical Oncology, Department of Medicine, 
+Surgery and Neurosciences, University of Siena, 53100 Siena, Italy.
+(7)Hospital Pharmacy Unit, Santa Maria della Misericordia Hospital, Azienda 
+Ospedaliera di Perugia, 06100 Perugia, Italy.
+(8)Italian College of General Practitioners and Primary Care, 70100 Bari, Italy.
+(9)Mutagens Foundation, 20100 Milano, Italy.
+(10)Ambulatorio Familiarita' Neoplastica UOC Oncologia Medica ULSS5 Polesana, 
+45100 Rovigo, Italy.
+
+Cancer prevention in the era of precision medicine has to consider integrated 
+therapeutic approaches. Therapeutic cancer prevention should be offered to 
+selected cohorts with increased cancer risk. Undoubtedly, carriers of hereditary 
+cancer syndromes have a well-defined high cancer risk. Lynch Syndrome is one of 
+the most frequent hereditary syndromes; it is mainly associated with colorectal 
+cancer (CRC). Nonsteroidal anti-inflammatory drugs and, in particular, aspirin 
+use, has been associated with reduced CRC risk in several studies, initially 
+with contradictory results; however, longer follow-up confirmed a reduced CRC 
+incidence and mortality. The CAPP2 study recruited 861 Lynch syndrome 
+participants randomly assigned to 600 mg of aspirin versus placebo. Like 
+sporadic CRCs, a significant CRC risk reduction was seen after an extended 
+follow-up, with a median treatment time that was relatively short (2 years). The 
+ongoing CAPP3 will address whether lower doses are equally effective. Based on 
+pharmacology and clinical data on sporadic CRCs, the preventive effect should 
+also be obtained with low-dose aspirin. The leading international guidelines 
+suggest discussing with Lynch syndrome carriers the possibility of using 
+low-dose aspirin for CRC prevention. We aim systematically promote this 
+intervention with all Lynch syndrome carriers.
+
+DOI: 10.3390/genes13030460
+PMCID: PMC8952565
+PMID: 35328014 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+4. Lancet. 2020 Jun 13;395(10240):1855-1863. doi: 10.1016/S0140-6736(20)30366-4.
+
+Cancer prevention with aspirin in hereditary colorectal cancer (Lynch syndrome), 
+10-year follow-up and registry-based 20-year data in the CAPP2 study: a 
+double-blind, randomised, placebo-controlled trial.
+
+Burn J(1), Sheth H(2), Elliott F(3), Reed L(2), Macrae F(4), Mecklin JP(5), 
+Möslein G(6), McRonald FE(7), Bertario L(8), Evans DG(9), Gerdes AM(10), Ho 
+JWC(11), Lindblom A(12), Morrison PJ(13), Rashbass J(7), Ramesar R(14), Seppälä 
+T(15), Thomas HJW(16), Pylvänäinen K(17), Borthwick GM(2), Mathers JC(18), 
+Bishop DT(3); CAPP2 Investigators.
+
+Collaborators: Boussioutas A, Brewer C, Cook J, Eccles D, Ellis A, Hodgson SV, 
+Lubinski J, Maher ER, Porteous ME, Sampson J, Scott RJ, Side L.
+
+Author information:
+(1)Translational and Clinical Research Institute, Newcastle University, 
+Newcastle upon Tyne, UK. Electronic address: john.burn@newcastle.ac.uk.
+(2)Translational and Clinical Research Institute, Newcastle University, 
+Newcastle upon Tyne, UK.
+(3)Division of Haematology and Immunology, Leeds Institute of Medical Research 
+at St James's, University of Leeds, Leeds, UK.
+(4)Colorectal Medicine and Genetics, Royal Melbourne Hospital, Melbourne, 
+Australia.
+(5)Department of Education & Research, Jyväskylä Central Hospital, Jyväskylä, 
+Finland; Faculty of Sport and Health Sciences, University of Jyväskylä, 
+Jyväskylä, Finland.
+(6)St Josefs-Hospital, Bochum-Linden, Germany.
+(7)National Cancer Registration and Analysis Service, Public Health England, 
+London, UK.
+(8)Instituto Nazionale per lo Studio e, la Cura dei Tumori, Milan, Italy.
+(9)Division of Evolution and Genomic Medicine, University of Manchester, 
+Manchester, UK; St Mary's Hospital, Manchester Universities Foundation Trust, 
+Manchester, UK.
+(10)Clinical Genetics, Rigshospital, Copenhagen, Denmark.
+(11)Hereditary GI Cancer Registry, Department of Surgery, Queen Mary Hospital, 
+Hong Kong Special Administrative Region, China.
+(12)Department of Molecular Medicine & Surgery, Karolinska Institutet, 
+Stockholm, Sweden.
+(13)Department of Medical Genetics, Queens University Belfast, Belfast City 
+Hospital HSC Trust, Belfast, UK.
+(14)Genomic and Precision Medicine Research Unit, Division of Human Genetics, 
+Institute of Infectious Diseases and Molecular Medicine, Faculty of Health 
+Sciences, University of Cape Town, South Africa.
+(15)Department of Gastrointestinal Surgery, Helsinki University Hospital, 
+Helsinki, Finland.
+(16)St Mark's Hospital, London, UK; Faculty of Medicine, Imperial College 
+London, London, UK.
+(17)Department of Education & Research, Jyväskylä Central Hospital, Jyväskylä, 
+Finland.
+(18)Human Nutrition Research Centre, Population Health Sciences Institute, 
+Newcastle University, Newcastle upon Tyne, UK.
+
+Comment in
+    Lancet. 2020 Jun 13;395(10240):1817-1818. doi: 
+10.1016/S0140-6736(20)30973-9.
+
+BACKGROUND: Lynch syndrome is associated with an increased risk of colorectal 
+cancer and with a broader spectrum of cancers, especially endometrial cancer. In 
+2011, our group reported long-term cancer outcomes (mean follow-up 55·7 months 
+[SD 31·4]) for participants with Lynch syndrome enrolled into a randomised trial 
+of daily aspirin versus placebo. This report completes the planned 10-year 
+follow-up to allow a longer-term assessment of the effect of taking regular 
+aspirin in this high-risk population.
+METHODS: In the double-blind, randomised CAPP2 trial, 861 patients from 43 
+international centres worldwide (707 [82%] from Europe, 112 [13%] from 
+Australasia, 38 [4%] from Africa, and four [<1%] from The Americas) with Lynch 
+syndrome were randomly assigned to receive 600 mg aspirin daily or placebo. 
+Cancer outcomes were monitored for at least 10 years from recruitment with 
+English, Finnish, and Welsh participants being monitored for up to 20 years. The 
+primary endpoint was development of colorectal cancer. Analysis was by intention 
+to treat and per protocol. The trial is registered with the ISRCTN registry, 
+number ISRCTN59521990.
+FINDINGS: Between January, 1999, and March, 2005, 937 eligible patients with 
+Lynch syndrome, mean age 45 years, commenced treatment, of whom 861 agreed to be 
+randomly assigned to the aspirin group or placebo; 427 (50%) participants 
+received aspirin and 434 (50%) placebo. Participants were followed for a mean of 
+10 years approximating 8500 person-years. 40 (9%) of 427 participants who 
+received aspirin developed colorectal cancer compared with 58 (13%) of 434 who 
+received placebo. Intention-to-treat Cox proportional hazards analysis revealed 
+a significantly reduced hazard ratio (HR) of 0·65 (95% CI 0·43-0·97; p=0·035) 
+for aspirin versus placebo. Negative binomial regression to account for multiple 
+primary events gave an incidence rate ratio of 0·58 (0·39-0·87; p=0·0085). 
+Per-protocol analyses restricted to 509 who achieved 2 years' intervention gave 
+an HR of 0·56 (0·34-0·91; p=0·019) and an incidence rate ratio of 0·50 
+(0·31-0·82; p=0·0057). Non-colorectal Lynch syndrome cancers were reported in 36 
+participants who received aspirin and 36 participants who received placebo. 
+Intention-to-treat and per-protocol analyses showed no effect. For all Lynch 
+syndrome cancers combined, the intention-to-treat analysis did not reach 
+significance but per-protocol analysis showed significantly reduced overall risk 
+for the aspirin group (HR=0·63, 0·43-0·92; p=0·018). Adverse events during the 
+intervention phase between aspirin and placebo groups were similar, and no 
+significant difference in compliance between intervention groups was observed 
+for participants with complete intervention phase data; details reported 
+previously.
+INTERPRETATION: The case for prevention of colorectal cancer with aspirin in 
+Lynch syndrome is supported by our results.
+FUNDING: Cancer Research UK, European Union, MRC, NIHR, Bayer Pharma AG, Barbour 
+Foundation.
+
+Copyright © 2020 The Author(s). Published by Elsevier Ltd. This is an Open 
+Access article under the CC BY 4.0 license. Published by Elsevier Ltd.. All 
+rights reserved.
+
+DOI: 10.1016/S0140-6736(20)30366-4
+PMCID: PMC7294238
+PMID: 32534647 [Indexed for MEDLINE]
+
+
+5. JAMA Oncol. 2021 Mar 1;7(3):428-435. doi: 10.1001/jamaoncol.2020.7338.
+
+Aspirin Use and Risk of Colorectal Cancer Among Older Adults.
+
+Guo CG(1)(2)(3), Ma W(1)(2)(4), Drew DA(1)(2), Cao Y(5)(6), Nguyen LH(1)(2)(4), 
+Joshi AD(1)(2), Ng K(7), Ogino S(8)(9)(10)(11), Meyerhardt JA(7), Song 
+M(1)(2)(8)(12), Leung WK(3), Giovannucci EL(8)(12)(13), Chan 
+AT(1)(2)(8)(10)(13)(14).
+
+Author information:
+(1)Clinical and Translational Epidemiology Unit, Massachusetts General Hospital 
+and Harvard Medical School, Boston.
+(2)Division of Gastroenterology, Massachusetts General Hospital and Harvard 
+Medical School, Boston.
+(3)Department of Medicine, Li Ka Shing Faculty of Medicine, University of Hong 
+Kong, Hong Kong, China.
+(4)Department of Biostatistics, Harvard T. H. Chan School of Public Health, 
+Boston, Massachusetts.
+(5)Division of Public Health Sciences, Department of Surgery, Washington 
+University School of Medicine, St Louis, Missouri.
+(6)Alvin J. Siteman Cancer Center, Washington University School of Medicine, St 
+Louis, Missouri.
+(7)Department of Medical Oncology, Dana-Farber Cancer Institute and Harvard 
+Medical School, Boston, Massachusetts.
+(8)Department of Epidemiology, Harvard T. H. Chan School of Public Health, 
+Boston, Massachusetts.
+(9)Program in Molecular Pathological Epidemiology, Department of Pathology, 
+Brigham and Women's Hospital and Harvard Medical School, Boston, Massachusetts.
+(10)Broad Institute of MIT and Harvard, Cambridge, Massachusetts.
+(11)Cancer Immunology and Cancer Epidemiology Programs, Dana-Farber Harvard 
+Cancer Center, Boston, Massachusetts.
+(12)Department of Nutrition, Harvard T. H. Chan School of Public Health, Boston, 
+Massachusetts.
+(13)Channing Division of Network Medicine, Department of Medicine, Brigham and 
+Women's Hospital and Harvard Medical School, Boston, Massachusetts.
+(14)Department of Immunology and Infectious Diseases, Harvard T. H. Chan School 
+of Public Health, Boston, Massachusetts.
+
+IMPORTANCE: Although aspirin is recommended for the prevention of colorectal 
+cancer (CRC) among adults aged 50 to 59 years, recent data from a randomized 
+clinical trial suggest a lack of benefit and even possible harm among older 
+adults.
+OBJECTIVE: To examine the association between aspirin use and the risk of 
+incident CRC among older adults.
+DESIGN, SETTING, AND PARTICIPANTS: A pooled analysis was conducted of 2 large US 
+cohort studies, the Nurses' Health Study (June 1, 1980-June 30, 2014) and Health 
+Professionals Follow-up Study (January 1, 1986-January 31, 2014). A total of 
+94 540 participants aged 70 years or older were included and followed up to June 
+30, 2014, for women or January 31, 2014, for men. Participants with a diagnosis 
+of any cancer, except nonmelanoma skin cancer, or inflammatory bowel disease 
+were excluded. Statistical analyses were conducted from December 2019 to October 
+2020.
+MAIN OUTCOMES AND MEASURES: Cox proportional hazards models were used to 
+calculate multivariable adjusted hazard ratios (HRs) and 95% CIs for incident 
+CRC.
+RESULTS: Among the 94 540 participants (mean [SD] age, 76.4 [4.9] years for 
+women, 77.7 [5.6] years for men; 67 223 women [71.1%]; 65 259 White women 
+[97.1%], 24 915 White men [96.0%]) aged 70 years or older, 1431 incident cases 
+of CRC were documented over 996 463 person-years of follow-up. After adjustment 
+for other risk factors, regular use of aspirin was associated with a 
+significantly lower risk of CRC at or after age 70 years compared with 
+nonregular use (HR, 0.80; 95% CI, 0.72-0.90). However, the inverse association 
+was evident only among aspirin users who initiated aspirin use before age 70 
+years (HR, 0.80; 95% CI, 0.67-0.95). In contrast, initiating aspirin use at or 
+after 70 years was not significantly associated with a lower risk of CRC (HR, 
+0.92; 95% CI, 0.76-1.11).
+CONCLUSIONS AND RELEVANCE: Initiating aspirin at an older age was not associated 
+with a lower risk of CRC in this pooled analysis of 2 cohort studies. In 
+contrast, those who used aspirin before age 70 years and continued into their 
+70s or later had a reduced risk of CRC.
+
+DOI: 10.1001/jamaoncol.2020.7338
+PMCID: PMC7821085
+PMID: 33475710 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Chan 
+reported receiving grants from the National Institutes of Health, the National 
+Cancer Institute, Stand Up to Cancer, and the Crohn's and Colitis Foundation; 
+and personal fees from Bayer Pharma AG, Pfizer Inc, and Boehringer Ingelheim 
+outside of the submitted work. Dr Meyerhardt reported receiving institutional 
+research funding from Boston Biomedical, serving as an advisor and consultant to 
+Ignyta and COTA Healthcare, and serving on a grant review panel for the National 
+Comprehensive Cancer Network funded by Taiho Pharmaceutical outside the 
+submitted work. Dr Leung reported receiving speaker fees from Eisai and Ipsen, 
+an honorarium for attending the advisory board for Janssen and Pfizer, and 
+personal fees from Medtronic and Ferring outside the submitted work. Dr Drew 
+reported receiving grants from the National Institutes of Health during the 
+conduct of the study. Dr Cao reported receiving grants from the National 
+Institutes of Health during the conduct of the study. Dr Ng reported receiving 
+grants from the National Cancer Institute, the Department of Defense, Cancer 
+Research UK, Revolution Medicines, Genentech, and Gilead Sciences; nonfinancial 
+support from Pharmavite and Evergrande Group; and personal fees from Bayer, 
+Seattle Genetics, Array Biopharma, and X-Biotix Therapeutics outside the 
+submitted work. Dr Ogino reported receiving grants from the National Institutes 
+of Health during the conduct of the study. No other disclosures were reported.
+
+
+6. Int J Mol Sci. 2020 Nov 27;21(23):9018. doi: 10.3390/ijms21239018.
+
+Mechanisms of Colorectal Cancer Prevention by Aspirin-A Literature Review and 
+Perspective on the Role of COX-Dependent and -Independent Pathways.
+
+Sankaranarayanan R(1), Kumar DR(2), Altinoz MA(3), Bhat GJ(1).
+
+Author information:
+(1)Department of Pharmaceutical Sciences and Translational Cancer Research 
+Center, College of Pharmacy and Allied Health Professions, South Dakota State 
+University, Brookings, SD 57007, USA.
+(2)Department of Entomology, University of Kentucky, Lexington, KY 40506, USA.
+(3)Department of Biochemistry, Acibadem M.A.A. University, Istanbul, Turkey.
+
+Aspirin, synthesized and marketed in 1897 by Bayer, is one of the most widely 
+used drugs in the world. It has a well-recognized role in decreasing 
+inflammation, pain and fever, and in the prevention of thrombotic cardiovascular 
+diseases. Its anti-inflammatory and cardio-protective actions have been well 
+studied and occur through inhibition of cyclooxygenases (COX). Interestingly, a 
+vast amount of epidemiological, preclinical and clinical studies have revealed 
+aspirin as a promising chemopreventive agent, particularly against colorectal 
+cancers (CRC); however, the primary mechanism by which it decreases the 
+occurrences of CRC has still not been established. Numerous mechanisms have been 
+proposed for aspirin's chemopreventive properties among which the inhibition of 
+COX enzymes has been widely discussed. Despite the wide attention COX-inhibition 
+has received as the most probable mechanism of cancer prevention by aspirin, it 
+is clear that aspirin targets many other proteins and pathways, suggesting that 
+these extra-COX targets may also be equally important in preventing CRC. In this 
+review, we discuss the COX-dependent and -independent pathways described in 
+literature for aspirin's anti-cancer effects and highlight the strengths and 
+limitations of the proposed mechanisms. Additionally, we emphasize the potential 
+role of the metabolites of aspirin and salicylic acid (generated in the gut 
+through microbial biotransformation) in contributing to aspirin's 
+chemopreventive actions. We suggest that the preferential chemopreventive effect 
+of aspirin against CRC may be related to direct exposure of aspirin/salicylic 
+acid or its metabolites to the colorectal tissues. Future investigations should 
+shed light on the role of aspirin, its metabolites and the role of the gut 
+microbiota in cancer prevention against CRC.
+
+DOI: 10.3390/ijms21239018
+PMCID: PMC7729916
+PMID: 33260951 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or 
+interpretation of data; in the writing of the manuscript, or in the decision to 
+publish the results.
+
+
+7. Semin Surg Oncol. 1994 May-Jun;10(3):158-64. doi: 10.1002/ssu.2980100303.
+
+Aspirin and the prevention of colorectal cancer: a review of the evidence.
+
+Paganini-Hill A(1).
+
+Author information:
+(1)Department of Preventive Medicine, University of Southern California School 
+of Medicine, Los Angeles 90031.
+
+In all but one of seven recent epidemiologic case-control and cohort studies 
+directly examining the association between aspirin and colorectal cancer and 
+polyps, regular aspirin use reduced the risk of these diseases by about half. 
+Although these studies show a biologically plausible relationship between 
+aspirin and colorectal cancer, information regarding dose and duration and risk 
+change after discontinuation of aspirin is limited and contradictory. 
+Additionally, selection bias, recall bias, and confounding cannot be completed 
+discounted. The one randomized trial of aspirin and placebo showed that aspirin 
+at a dose adequate for preventing myocardial infarction (325 mg every other day) 
+did not reduce colorectal cancer incidence during five years of randomized 
+treatment and follow-up. Further studies need to determine the biologic effects 
+of aspirin, the minimum dose required, and whether other factors, such as age, 
+illnesses, and reasons for aspirin use, modify or confound colorectal cancer 
+development.
+
+DOI: 10.1002/ssu.2980100303
+PMID: 8085092 [Indexed for MEDLINE]
+
+
+8. Int J Colorectal Dis. 2021 Aug;36(8):1711-1722. doi:
+10.1007/s00384-021-03880-3.  Epub 2021 Mar 8.
+
+Influence of aspirin on prevention of colorectal cancer: an updated systematic 
+review and meta-analysis of randomized controlled trials.
+
+Ghaddaf AA(1)(2), Aziz M(3), Alomari MS(4)(5), Abdulhamid AS(4)(5), Alharbi 
+FA(4)(5), Mullah AN(4)(5), Zaidi SF(4)(5).
+
+Author information:
+(1)College of Medicine, King Saud bin Abdulaziz University for Health Sciences, 
+Jeddah, 22384, Saudi Arabia. abdullahg.official@gmail.com.
+(2)King Abdullah International Medical Research Center, Jeddah, 22384, Saudi 
+Arabia. abdullahg.official@gmail.com.
+(3)Division of Gastroenterology and Hepatology, University of Toledo, Toledo, 
+OH, USA.
+(4)College of Medicine, King Saud bin Abdulaziz University for Health Sciences, 
+Jeddah, 22384, Saudi Arabia.
+(5)King Abdullah International Medical Research Center, Jeddah, 22384, Saudi 
+Arabia.
+
+PURPOSE: Colorectal cancer is the second most common cause of cancer death 
+worldwide. Aspirin, due to its antineoplastic effects, has been suggested to 
+have chemopreventive effects on colorectal cancer based on recent trials. We 
+conducted this systematic review and meta-analysis to provide an updated 
+evidence about the long-term efficacy of daily aspirin use in the prevention of 
+colorectal cancer.
+METHODS: We searched Medline/PubMed, Ovid, Web of Science, and Cochrane Library. 
+We included randomized controlled trials (RCTs) that compared the efficacy of 
+daily aspirin use to placebo in healthy individuals at the time of study entry. 
+The desired outcomes of this review were the incidence of advanced lesions 
+(i.e., adenomas with villous component, adenomas ≥1 cm in diameter, adenomas 
+with high-grade dysplasia, and/or invasive cancer) and colorectal adenomas.
+RESULTS: A total of 15 articles representing 11 RCTs were included. Overall, the 
+results indicated that aspirin significantly reduced the risk of developing 
+colorectal adenomas but not advanced lesions at 3 years (risk ratio (RR) = 0.84, 
+P < 0.05 and risk ratio = 0.82, P = 0.10, respectively). At 5 years, the risk of 
+advanced lesions but not adenomas was reduced by aspirin (RR = 0.68, P < 0.05 
+and RR = 0.87, P = 0.22, respectively). Aspirin was not found to have an effect 
+on the risk of advanced lesions or adenomas beyond 5 years (hazard ratio 
+(HR) = 0.82, P = 0.07 and HR = 0.99, P = 0.82, respectively).
+CONCLUSION: Overall, aspirin (particularly high dose) only reduced the risk of 
+advanced lesions up to 5 years.
+
+© 2021. The Author(s), under exclusive licence to Springer-Verlag GmbH, DE part 
+of Springer Nature.
+
+DOI: 10.1007/s00384-021-03880-3
+PMID: 33682036 [Indexed for MEDLINE]
+
+
+9. Best Pract Res Clin Gastroenterol. 2011 Aug;25(4-5):461-72. doi: 
+10.1016/j.bpg.2011.10.015.
+
+Aspirin for the prevention of colorectal cancer.
+
+Garcia-Albeniz X(1), Chan AT.
+
+Author information:
+(1)Department of Epidemiology, Harvard School of Public Health, 677 Huntington 
+Ave., Boston, MA 02114, USA. xgarciad@hsph.harvard.edu
+
+Over 600,000 people worldwide die of colorectal cancer (CRC) annually, 
+highlighting the importance of developing effective prevention strategies. Among 
+proposed chemopreventive interventions, aspirin is perhaps the agent with the 
+strongest body of evidence that supports wider spread use to significantly 
+reduce the population burden of CRC. Several epidemiological studies, four 
+randomized controlled trials (RCTs) of colorectal polyp recurrence, and RCTs in 
+patients with hereditary colorectal cancer syndromes, have shown that aspirin 
+reduces incidence of colorectal neoplasia. Recently, in a pooled analysis of 
+five cardiovascular-prevention RCTs linked to cancer outcomes, daily aspirin use 
+at any dose reduced the risk of CRC by 24% and of CRC-associated mortality by 
+35% after a delay of 8-10 years. In an expanded meta-analysis of 8 
+cardiovascular-prevention RCTs, daily aspirin use at any dose was associated 
+with a 21% lower risk of all cancer death, including CRC, with benefit only 
+apparent after 5 years. In this review, we will summarize human studies of 
+aspirin in CRC prevention as well as discuss the safety profile and mechanism of 
+aspirin in CRC prevention.
+
+Copyright © 2011 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.bpg.2011.10.015
+PMCID: PMC3354696
+PMID: 22122763 [Indexed for MEDLINE]
+
+
+10. J Oncol Pharm Pract. 2021 Jun;27(4):954-961. doi: 10.1177/1078155220984846.
+Epub  2021 Jan 11.
+
+Updates on the molecular mechanisms of aspirin in the prevention of colorectal 
+cancer: Review.
+
+Belayneh YM(1), Amare GG(1), Meharie BG(1).
+
+Author information:
+(1)Department of Pharmacy, College of Medicine and Health Sciences, Wollo 
+University, Dessie, Ethiopia.
+
+Colorectal cancer is one of the commonest malignancies worldwide. The estimated 
+lifetime risk of the disease is about 5% with an incidence of one million new 
+cases and 600,000 deaths worldwide every year. It is estimated that in 2019, 
+approximately 134,490 new cases of colorectal cancer will be diagnosed with 
+49,190 mortalities. Though the disease is regarded as a disorder of the more 
+developed world, the occurrence is steadily increasing in many developing 
+countries. Since chronic inflammation is a known aggravating risk factor for 
+colorectal cancer, anti-inflammatory agents such as aspirin have been used to 
+prevent the development of colorectal cancer and related mortality. The 
+potential mechanisms for the effect of aspirin in the prevention of colorectal 
+cancer have been proposed and broadly classified as cyclooxygenase (COX) 
+dependent and COX-independent. Some of the primary effectors of COX-dependent 
+mechanisms in carcinogenesis are likely to be prostaglandins. In contrast to the 
+reversible action of other nonsteroidal anti-inflammatory drugs, aspirin is 
+known to irreversibly inactivate COX enzymes to suppress production of 
+prostaglandins. COX-independent mechanisms of anticancer effects of aspirin 
+include down-regulation of nuclear factor kappa B activity and Akt activation, 
+modulation of Bcl-2 and Bax family proteins, suppression of vascular endothelial 
+growth factor, induction of apoptosis, disruption of DNA repair mechanisms, and 
+induction of spermidine/spermine N1-acetyltransferase that modulates polyamine 
+catabolism.
+
+DOI: 10.1177/1078155220984846
+PMID: 33427041 [Indexed for MEDLINE]
+
+
+11. J Fam Pract. 2019 Apr;68(3):146-151.
+
+Aspirin for primary prevention: USPSTF recommendations for CVD and colorectal 
+cancer.
+
+Smith DK(1), Demetriou T(2), Weber C(3).
+
+Author information:
+(1)Naval Branch Clinic Diego Garcia. Email: dustinksmith@yahoo.com.
+(2)Penn State University Family and Community Medicine Residency Program, USA.
+(3)Naval Hospital Okinawa.
+
+Comment in
+    J Fam Pract. 2019 Apr;68(3):144.
+
+Patient age, baseline cardiovascular disease risk, bleeding risk, and personal 
+preference regarding aspirin use are key to decision making. A clinical decision 
+tool can help.
+
+PMID: 31039213 [Indexed for MEDLINE]
+
+
+12. JAMA Oncol. 2024 Oct 1;10(10):1354-1361. doi: 10.1001/jamaoncol.2024.2503.
+
+Aspirin Use and Incidence of Colorectal Cancer According to Lifestyle Risk.
+
+Sikavi DR(1)(2), Wang K(3), Ma W(2)(4), Drew DA(2)(4), Ogino S(3)(5)(6)(7), 
+Giovannucci EL(3)(8)(9), Cao Y(10)(11)(12), Song M(2)(3)(10), Nguyen 
+LH(2)(4)(13), Chan AT(2)(4)(6)(14).
+
+Author information:
+(1)Department of Medicine, Massachusetts General Hospital and Harvard Medical 
+School, Boston.
+(2)Clinical and Translational Epidemiology Unit, Massachusetts General Hospital 
+and Harvard Medical School, Boston.
+(3)Department of Epidemiology, Harvard T. H. Chan School of Public Health, 
+Boston, Massachusetts.
+(4)Division of Gastroenterology, Massachusetts General Hospital and Harvard 
+Medical School, Boston.
+(5)Program in MPE Molecular Pathological Epidemiology, Department of Pathology, 
+Brigham and Women's Hospital and Harvard Medical School, Boston, Massachusetts.
+(6)Broad Institute of MIT and Harvard, Cambridge, Massachusetts.
+(7)Cancer Immunology and Cancer Epidemiology Programs, Dana-Farber Harvard 
+Cancer Center, Boston, Massachusetts.
+(8)Department of Nutrition, Harvard T. H. Chan School of Public Health, Boston, 
+Massachusetts.
+(9)Channing Division of Network Medicine, Department of Medicine, Brigham and 
+Women's Hospital and Harvard Medical School, Boston, Massachusetts.
+(10)Division of Public Health Sciences, Department of Surgery, Washington 
+University School of Medicine, St Louis, Missouri.
+(11)Alvin J. Siteman Cancer Center, Washington University School of Medicine, St 
+Louis, Missouri.
+(12)Division of Gastroenterology, Department of Medicine, Washington University 
+School of Medicine, St Louis, Missouri.
+(13)Department of Biostatistics, Harvard T. H. Chan School of Public Health, 
+Boston, Massachusetts.
+(14)Department of Immunology & Infectious Disease, Harvard T. H. Chan School of 
+Public Health, Harvard University, Boston, Massachusetts.
+
+IMPORTANCE: Aspirin reduces the risk of colorectal cancer (CRC). Identifying 
+individuals more likely to benefit from regular aspirin use for CRC prevention 
+is a high priority.
+OBJECTIVE: To assess whether aspirin use is associated with the risk of CRC 
+across different lifestyle risk factors.
+DESIGN, SETTING, AND PARTICIPANTS: A prospective cohort study among women in the 
+Nurses' Health Study (1980-2018) and men in the Health Professionals Follow-Up 
+Study (1986-2018) was conducted. Data analysis was performed from October 1, 
+2021, to May 22, 2023.
+EXPOSURES: A healthy lifestyle score was calculated based on body mass index, 
+alcohol intake, physical activity, diet, and smoking with scores ranging from 0 
+to 5 (higher values corresponding to a healthier lifestyle). Regular aspirin use 
+was defined as 2 or more standard tablets (325 mg) per week.
+MAIN OUTCOME AND MEASURES: Outcomes included multivariable-adjusted 10-year 
+cumulative incidence of CRC, absolute risk reduction (ARR), and number needed to 
+treat associated with regular aspirin use by lifestyle score and 
+multivariable-adjusted hazard ratios for incident CRC across lifestyle scores.
+RESULTS: The mean (SD) baseline age of the 107 655 study participants (63 957 
+women from the Nurses' Health Study and 43 698 men from the Health Professionals 
+Follow-Up Study) was 49.4 (9.0) years. During 3 038 215 person-years of 
+follow-up, 2544 incident cases of CRC were documented. The 10-year cumulative 
+CRC incidence was 1.98% (95% CI, 1.44%-2.51%) among participants who regularly 
+used aspirin compared with 2.95% (95% CI, 2.31%-3.58%) among those who did not 
+use aspirin, corresponding to an ARR of 0.97%. The ARR associated with aspirin 
+use was greatest among those with the unhealthiest lifestyle scores and 
+progressively decreased with healthier lifestyle scores (P < .001 for additive 
+interaction). The 10-year ARR for lifestyle scores 0 to 1 (unhealthiest) was 
+1.28%. In contrast, the 10-year ARR for lifestyle scores 4 to 5 (healthiest) was 
+0.11%. The 10-year number needed to treat with aspirin was 78 for participants 
+with lifestyle scores 0 to 1, 164 for score 2, 154 for score 3, and 909 for 
+scores 4 to 5. Among the components of the healthy lifestyle score, the greatest 
+differences in ARR associated with aspirin use were observed for body mass index 
+and smoking.
+CONCLUSIONS AND RELEVANCE: In this cohort study, aspirin use was associated with 
+a greater absolute reduction in risk of CRC among individuals with less healthy 
+lifestyles. The findings of the study suggest that lifestyle risk factors may be 
+useful to identify individuals who may have a more favorable risk-benefit 
+profile for cancer prevention with aspirin.
+
+DOI: 10.1001/jamaoncol.2024.2503
+PMCID: PMC11295063
+PMID: 39088221 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Chan 
+reported receiving personal fees from Boehringer Ingelheim, Pfizer Inc, and 
+Freenome outside the submitted work. No other disclosures were reported.
+
+
+13. Curr Pharm Des. 2015;21(35):5127-34. doi: 10.2174/1381612821666150915111000.
+
+Can We Select Patients for Colorectal Cancer Prevention with Aspirin?
+
+Kraus S, Sion D, Arber N(1).
+
+Author information:
+(1)Yechiel and Helen Lieber Professor for Cancer Research, Head of The 
+Integrated Cancer Prevention Center, 3/3 Floor, Arison Medical Tower, Tel Aviv 
+Sourasky Medical Center, 6th Weizmann St. Tel Aviv 64239, Israel. 
+nadira@tlvmc.gov.il.
+
+Aspirin has been extensively investigated in the context of the prevention of 
+cardiovascular disease. It has one of the strongest cumulative evidence 
+supporting its use in colorectal cancer (CRC) chemoprevention. Epidemiological, 
+clinical, and observational studies have demonstrated that aspirin and 
+non-steroidal antiinflammatory drugs (NSAIDs), including COX-2 inhibitors, can 
+protect against CRC and significantly reduce its incidence. Moreover, 
+prospective randomized controlled trials of colorectal polyp recurrence and in 
+patients with hereditary CRC syndromes have shown that aspirin can produce 
+regression of existing colorectal adenomas and prevent the formation of new 
+polyps. However, the lowest effective doses, treatment duration, target 
+populations, and the effects on survival are not entirely clear. Although not 
+common serious side effects and in particular gastrointestinal and intracerebral 
+hemorrhage do occur, better selection of individuals who might benefit the most 
+from aspirin use must be carefully performed in order to maximize their 
+risk/benefit ratio. In the era of precision medicine, genetic information, blood 
+and/or urinary biomarkers, could potentially help in tailoring chemopreventive 
+therapeutic strategies, based on aspirin use, while limiting adverse toxic 
+effects. The current review will cover the use of aspirin for the prevention of 
+colorectal adenomas and CRC, potential markers for chemoprevention, and patient 
+stratification.
+
+DOI: 10.2174/1381612821666150915111000
+PMID: 26369678 [Indexed for MEDLINE]
+
+
+14. Best Pract Res Clin Gastroenterol. 2012 Apr;26(2):185-95. doi: 
+10.1016/j.bpg.2012.01.009.
+
+Aspirin and the prevention of colorectal cancer.
+
+Ferrández A(1), Piazuelo E, Castells A.
+
+Author information:
+(1)Department of Gastroenterology, Hospital Clínico Lozano Blesa, CIBERehd, 
+Zaragoza, Spain.
+
+A large body of evidence from basic science, epidemiologic observations and 
+population-based studies demonstrates that aspirin, as well as other 
+non-steroidal anti-inflammatory drugs, has a chemopreventive effect on several 
+cancer types and, more specifically, in CRC. This protective effect includes 
+prevention of adenoma recurrence and reduction of CRC incidence and mortality. 
+Although the protective effect appears to depend on the dose and the drug, the 
+most important factor is the duration of exposure. However, the lowest effective 
+dose, treatment duration, specific target populations, and effects on survival 
+have not been defined yet. More important, data on the risk-benefit profile for 
+cancer prevention are insufficient and, accordingly, no definitive 
+recommendation can be made at present. In this article, besides reviewing 
+current knowledge of the mechanisms involved in aspirin-based CRC 
+chemoprevention, we will be focused on randomized controlled studies assessing 
+its efficacy in high-, moderate- and average-risk populations.
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.bpg.2012.01.009
+PMID: 22542156 [Indexed for MEDLINE]
+
+
+15. J Clin Oncol. 2005 Jan 10;23(2):378-91. doi: 10.1200/JCO.2005.08.097.
+
+Colorectal cancer prevention.
+
+Hawk ET(1), Levin B.
+
+Author information:
+(1)GI and Other Cancers Research Group, National Cancer Institute, 6130 
+Executive Boulevard, Suite 2141, Bethesda, MD 20892-7322, USA. eh51p@nih.gov
+
+Colorectal cancer is the second leading cause of mortality in the United States. 
+In the United States, the cumulative lifetime risk of developing colorectal 
+cancer for both men and women is 6%. Despite advances in the management of this 
+disease, the 5-year survival rate in the United States in only 62%. Because only 
+38% of patients are diagnosed when the cancers are localized to the bowel wall, 
+it is likely that widespread implementation of screening could significantly 
+improve the outcome. Colorectal cancer screening is cost effective, irrespective 
+of the methods used. In addition to currently available methods (fecal occult 
+blood, flexible sigmoidoscopy, colonoscopy, and double contrast barium enema), 
+computed tomographic colonography (virtual colonoscopy) and stool-based 
+molecular screening are under development. Four classes of chemopreventive 
+compounds have demonstrated efficacy in reducing recurrent colorectal adenomas 
+and/or cancer in randomized, controlled trials. They are selenium, calcium 
+carbonate, hormone replacement therapy, and nonsteroidal anti-inflammatory 
+drugs. The mechanisms of action of nonsteroidal anti-inflammatory drugs include 
+inhibition of the cyclooxygenase system as well as cyclooxygenase-independent 
+effects. Considerable effort is being expended to define chemopreventive 
+activity, optimal dose, administration schedule, and toxicity for the coxibs in 
+adenoma recurrence prevention trials. The threshold for tolerating toxicities is 
+very low in asymptomatic individuals at minimally increased risk for colorectal 
+neoplasia.
+
+DOI: 10.1200/JCO.2005.08.097
+PMID: 15637400 [Indexed for MEDLINE]
+
+
+16. Annu Rev Med. 2021 Jan 27;72:415-430. doi: 10.1146/annurev-med-060319-120913.
+ Epub 2020 Oct 9.
+
+Aspirin in the Prevention of Colorectal Neoplasia.
+
+Drew DA(1), Chan AT(1)(2)(3).
+
+Author information:
+(1)Clinical and Translational Epidemiology Unit and Division of 
+Gastroenterology, Department of Medicine, Massachusetts General Hospital and 
+Harvard Medical School, Boston, Massachusetts 02114, USA; email: 
+dadrew@mgh.harvard.edu, achan@mgh.harvard.edu.
+(2)Department of Immunology and Infectious Disease, Harvard T.H. Chan School of 
+Public Health, Boston, Massachusetts 02114, USA.
+(3)Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA.
+
+High-quality evidence indicates that regular use of aspirin is effective in 
+reducing the risk for precancerous colorectal neoplasia and colorectal cancer 
+(CRC). This has led to US and international guidelines recommending aspirin for 
+the primary prevention of CRC in specific populations. In this review, we 
+summarize key questions that require addressing prior to broader adoption of 
+aspirin-based chemoprevention, review recent evidence related to the benefits 
+and harms of aspirin use among specific populations, and offer a rationale for 
+precision prevention approaches. We specifically consider the mechanistic 
+implications of evidence showing differences in aspirin's effects according to 
+age, the potential role of modifiable mechanistic biomarkers for personalizing 
+prevention, and emerging evidence that the gut microbiota may offer novel 
+aspirin-associated preventive targets to reduce high-risk neoplasia.
+
+DOI: 10.1146/annurev-med-060319-120913
+PMCID: PMC7880546
+PMID: 33035431 [Indexed for MEDLINE]
+
+
+17. J Am Coll Cardiol. 2016 Aug 30;68(9):967-76. doi: 10.1016/j.jacc.2016.05.083.
+
+Aspirin and Cancer.
+
+Patrignani P(1), Patrono C(2).
+
+Author information:
+(1)Department of Neuroscience, Imaging and Clinical Sciences and Center of 
+Excellence on Aging, "G. D'Annunzio" University School of Medicine, Chieti, 
+Italy.
+(2)Department of Pharmacology, Catholic University School of Medicine, Rome, 
+Italy. Electronic address: carlo.patrono@rm.unicatt.it.
+
+The place of aspirin in primary prevention remains controversial, with North 
+American and European organizations issuing contradictory treatment guidelines. 
+More recently, the U.S. Preventive Services Task Force recommended "initiating 
+low-dose aspirin use for the primary prevention of cardiovascular disease (CVD) 
+and colorectal cancer in adults aged 50 to 59 years who have a 10% or greater 
+10-year CVD risk, are not at increased risk for bleeding, have a life expectancy 
+of at least 10 years, and are willing to take low-dose aspirin daily for at 
+least 10 years." This recommendation reflects increasing evidence for a 
+chemopreventive effect of low-dose aspirin against colorectal (and other) 
+cancer. The intent of this paper is to review the evidence supporting a 
+chemopreventive effect of aspirin, discuss its potential mechanism(s) of action, 
+and provide a conceptual framework for assessing current guidelines in the light 
+of ongoing studies.
+
+Copyright © 2016 American College of Cardiology Foundation. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jacc.2016.05.083
+PMID: 27561771 [Indexed for MEDLINE]
+
+
+18. Cancer Biol Ther. 2022 Dec 31;23(1):446-461. doi:
+10.1080/15384047.2022.2104561.
+
+Colorectal cancer chemoprevention: is aspirin still in the game?
+
+Grancher A(1), Michel P(1), Di Fiore F(2), Sefrioui D(1).
+
+Author information:
+(1)Normandy Centre for Genomic and Personalized Medicine and Department of 
+Hepatogastroenterology, Normandie Univ, Iron Group, Rouen University Hospital, 
+Rouen, France.
+(2)Normandy Centre for Genomic and Personalized Medicine, Department of 
+Hepatogastroenterology and Department of Medical Oncology, Henri Becquerel 
+Centre, Normandie Univ, IRON group, Rouen University Hospital, Rouen, France.
+
+Screening strategies have demonstrated their potential for decreasing the 
+incidence and mortality of cancers, particularly that of colorectal cancer 
+(CRC). Another strategy that has been developed to reduce CRC occurrence is the 
+use of chemoprevention agents. Among them, aspirin is the most promising. 
+Aspirin acts in colorectal tumourigenesis through several mechanisms, either 
+directly in tumor cells or in their microenvironment, such as through its 
+anti-inflammatory activity or its effect on the modulation of platelet function. 
+Many retrospective studies, as well as follow-up of large cohorts from trials 
+with primary cardiovascular end points, have shown that long-term treatment with 
+daily low-dose aspirin decreases the incidence of adenomas and colorectal 
+cancers. Therefore, aspirin is currently recommended by the United States 
+Preventive Services Task Force (USPSTF) for primary prevention of CRC in all 
+patients aged 50 to 59 with a 10-y risk of cardiovascular events greater than 
+10%. Furthermore, several studies have also reported that long-term aspirin 
+treatment taking after CRC resection decreases recurrence risk and increases 
+overall survival, especially in patients with PIK3CA-mutated tumors. This review 
+summarizes current knowledge on the pathophysiological mechanisms of aspirin 
+chemoprevention, discusses the primary clinical results on CRC prevention and 
+highlights the potential biomarkers identified to predict aspirin efficacy.
+
+DOI: 10.1080/15384047.2022.2104561
+PMCID: PMC9341367
+PMID: 35905195 [Indexed for MEDLINE]
+
+Conflict of interest statement: None
+
+
+19. Gastroenterology. 2016 Jan;150(1):14-8. doi: 10.1053/j.gastro.2015.11.018.
+Epub  2015 Nov 18.
+
+Where Do We Stand With Aspirin for the Prevention of Colorectal Cancer? The 
+USPSTF Recommendations.
+
+Chan AT(1), Ladabaum U(2).
+
+Author information:
+(1)Massachusetts General Hospital, Boston, Massachusetts; Harvard Medical 
+School, Boston, Massachusetts. Electronic address: achan@mgh.harvard.edu.
+(2)Stanford University School of Medicine, Stanford, California. Electronic 
+address: uri.ladabaum@stanford.edu.
+
+DOI: 10.1053/j.gastro.2015.11.018
+PMID: 26602220 [Indexed for MEDLINE]
+
+
+20. Bull Cancer. 2018 Feb;105(2):171-180. doi: 10.1016/j.bulcan.2017.09.013. Epub
+ 2017 Nov 15.
+
+[Aspirin and colorectal cancer].
+
+[Article in French]
+
+Grancher A(1), Michel P(2), Di Fiore F(3), Sefrioui D(4).
+
+Author information:
+(1)Normandie université, UNIROUEN, hôpital universitaire de Rouen, service 
+d'hépato-gastroenterologie, 76000 Rouen, France.
+(2)Normandie université, UNIROUEN, Inserm 1245, IRON group, hôpital 
+universitaire de Rouen, service d'hépato-gastroentérologie, 76000 Rouen, France. 
+Electronic address: Pierre.Michel@chu-rouen.fr.
+(3)Normandie université, UNIROUEN, Inserm 1245, IRON group, hôpital 
+universitaire de Rouen, centre Henri-Becquerel, département d'oncolgie médicale, 
+service d'hépato-gastroentérologie, 76000 Rouen, France.
+(4)Normandie université, UNIROUEN, Inserm 1245, IRON group, hôpital 
+universitaire de Rouen, service d'hépato-gastroentérologie, 76000 Rouen, France.
+
+Colorectal cancer is a worldwide public health problem. Aspirin has been 
+identified as a protective factor against the apparition of colorectal cancer. 
+There are several mechanisms about the actions by aspirin on colorectal 
+tumorogenesis. These are not perfectly known nowadays. On one hand, there are 
+direct mechanisms on colorectal mucosa, on the other hand there are indirect 
+mechanisms through platelet functions. Aspirin also plays a role by its 
+anti-inflammatory action and the stimulation of antitumor immunity. Several 
+studies show that long-term treatment with low-doses of aspirin decreases the 
+incidence of adenomas and colorectal cancers. In the United States, aspirin is 
+currently recommended for primary prevention of the risk of colorectal cancer in 
+all patients aged 50 to 59, with a 10-year risk of cardiovascular event greater 
+than 10 %. However, primary prevention with aspirin should not be a substitute 
+for screening in colorectal cancer. Furthermore, aspirin seems to be beneficial 
+when used in post-diagnosis of colorectal cancer. It could actually decrease the 
+risk of metastasis in case of a localized colorectal cancer, and increase the 
+survival in particular, concerning PIK3CA mutated tumors. The association of 
+aspirin with neoadjuvant treatment of colorectal cancer by radiochimiotherapy 
+seems to have beneficial effects. French prospective randomized study is 
+currently being conducted to investigate postoperative aspirin in colorectal 
+cancers with a PIK3CA mutation.
+
+Copyright © 2017 Société Française du Cancer. Published by Elsevier Masson SAS. 
+All rights reserved.
+
+DOI: 10.1016/j.bulcan.2017.09.013
+PMID: 29153543 [Indexed for MEDLINE]
+
+
+21. Important Adv Oncol. 1996:123-37.
+
+Aspirin and other nonsteroidal anti-inflammatory agents in the prevention of 
+colorectal cancer.
+
+Sandler RS(1).
+
+Author information:
+(1)Department of Medicine, University of North Carolina, Chapel Hill, USA.
+
+Chemoprevention refers to the use of specific natural or synthetic chemical 
+agents to reverse, suppress, or prevent the progression to invasive cancer. The 
+ideal chemopreventive agent is safe and nontoxic over the long term. It should 
+be easy to take and demonstrated to be effective in randomized trials in humans. 
+Aspirin and NSAIDs meet many of the criteria for an ideal agent. The literature 
+on aspirin and NSAIDs makes it clear that these agents can prevent colorectal 
+cancer and precursor adenomas. That does not mean that we should make general 
+recommendations for their use. First, we do not know the proper dose or 
+duration. More important, these medications are accompanied by adverse effects 
+that can be considerable. Indeed, the Medical Letter, an authoritative, unbiased 
+publication on drugs and therapeutics, concluded that "for primary prevention in 
+low-risk patients, more studies are required to establish whether the beneficial 
+effect of aspirin is great enough to compensate for the possible increased risk 
+of hemorrhagic stroke." These recommendations were directed at the use of these 
+medications for prevention of myocardial infarction, but the same conclusions 
+apply to colorectal cancer: although aspirin may prevent the disease, it may 
+increase the risk of hemorrhagic strokes or cause other adverse effects. We must 
+accurately balance the benefits and risks of these drugs, based on the results 
+of ongoing randomized studies, before recommending aspirin for prevention of 
+colorectal cancer. Is there anything that we can recommend to our patients for 
+prevention of colorectal cancer? Based on observational epidemiologic studies, 
+it is clear that individuals who consume a diet high in vegetables and natural 
+fibers and low in fat have a reduced risk of colon cancer and polyps. Optimal 
+nutrient intakes for the prevention of cancer might be more readily achieved via 
+food fortification or supplementation, but this requires more research. Regular 
+physical exercise and maintenance of normal body weight are also protective. 
+Until the results of definitive studies of chemopreventive agents are available, 
+we can recommend that our patients eat a sensible diet, exercise, and avoid 
+obesity. Such an approach should protect them from cardiovascular disease, an 
+even deadlier condition than colorectal cancer. In the future, we need 
+randomized prevention trials that, for logistic reasons, may need to focus on 
+the occurrence and progression of colorectal adenomas rather than carcinoma 
+itself. Studies that test more than one compound at a time, using factorial 
+designs, will be more efficient. We will need better information about duration 
+and dose, adverse side effects, molecular mechanisms, and cellular sites of 
+NSAID activity. Ultimately, we will need to know more about the biology and 
+molecular biology of colorectal cancer and its precursors. That information 
+will, perhaps, permit us to design agents to interrupt the pathway to cancer and 
+to use intermediate markers more intelligently.
+
+PMID: 8791132 [Indexed for MEDLINE]
+
+
+22. Expert Opin Ther Targets. 2012 Mar;16 Suppl 1:S51-62. doi: 
+10.1517/14728222.2011.647810. Epub 2012 Feb 8.
+
+The role of low-dose aspirin in the prevention of colorectal cancer.
+
+Avivi D(1), Moshkowitz M, Detering E, Arber N.
+
+Author information:
+(1)Tel-Aviv University, Integrated Cancer Prevention Center, Tel-Aviv Medical 
+Center and Sackler School of Medicine, Tel-Aviv, Israel.
+
+INTRODUCTION: Colorectal cancer (CRC) is a prevalent disease that is associated 
+with considerable morbidity and mortality. The progression of normal mucosa 
+through adenomatous polyps to overt cancer can span for 10 - 15 years, making 
+early detection, as well as the use of chemopreventive agents such as aspirin, 
+an attractive option. The effects of aspirin in reducing CRC incidence and 
+mortality have consistently been demonstrated in a number of studies. However, a 
+greater understanding of how aspirin exerts its anti-cancer effects is 
+warranted.
+AREAS COVERED: The aim of this non-systematic review, which was developed using 
+published randomized and epidemiological studies, as well as key references 
+known to the authors, was to consider the role of aspirin in CRC prevention. 
+Areas covered include the effects of aspirin on cardiovascular disease, CRC and 
+colorectal adenoma (CRA) prevention, mode of action of aspirin and the 
+benefit-to-risk of aspirin in disease prevention.
+EXPERT OPINION: Incorporating CRC and CRA benefits into coronary heart disease 
+(CHD) risk scores would be particularly useful for determining the 
+benefit-to-risk ratio for aspirin use in borderline cases. For instance, 
+patients with an annual CHD risk around 0.7 - 1.4%, but with a high risk of 
+colorectal neoplasm may benefit from aspirin. The strong association between CRC 
+and age may also be useful for re-examining the benefit-to-risk ratio for 
+aspirin use in older patients. However, it has to be noted that a cancer 
+prevention indication for aspirin is not approved regulatory-wise anywhere.
+
+DOI: 10.1517/14728222.2011.647810
+PMID: 22313430 [Indexed for MEDLINE]
+
+
+23. BMJ. 1993 Jul 31;307(6899):278-9. doi: 10.1136/bmj.307.6899.278.
+
+Aspirin and colorectal cancer.
+
+Paganini-Hill A.
+
+Comment in
+    BMJ. 1993 Oct 16;307(6910):1007-8. doi: 10.1136/bmj.307.6910.1007-b.
+
+Comment on
+    BMJ. 1993 Jul 31;307(6899):285-9. doi: 10.1136/bmj.307.6899.285.
+
+DOI: 10.1136/bmj.307.6899.278
+PMCID: PMC1678580
+PMID: 8374370 [Indexed for MEDLINE]
+
+
+24. Curr Opin Oncol. 2025 Jul 1;37(4):383-390. doi: 10.1097/CCO.0000000000001153.
+ Epub 2025 May 16.
+
+Aspirin for colorectal cancer chemoprevention: where are we?
+
+Genoud V(1), Kim F, Koessler T.
+
+Author information:
+(1)Department of Oncology, Service of Oncology, University Hospitals of Geneva, 
+Geneva, Switzerland.
+
+PURPOSE OF REVIEW: Aspirin (acetylsalicylic acid, ASA) is gaining recognition as 
+a possible chemopreventive agent for colorectal cancer (CRC). This review 
+explores current evidence on ASA use in both primary and secondary prevention of 
+CRC among sporadic cases and in patients with Lynch syndrome (LS).
+RECENT FINDINGS: Observational cohorts consistently indicate a modest, 
+time-dependent reduction in CRC incidence with long-term ASA use, especially in 
+individuals with elevated baseline risk. In LS, extended follow-up from 
+randomized trials reveals a robust protective effect, although the ideal dose 
+remains unsettled. For secondary prevention, randomized trials in unselected 
+patients did not detect a clear advantage, on the other hand tumors harboring 
+Phosphatidylinositol-4,5-Bisphosphate 3-Kinase Catalytic Subunit Alpha 
+(PIK3CA)-mutation have a substantial gains in recurrence prevention, emphasizing 
+the role of molecular stratification.
+SUMMARY: Accumulating evidence supports a nuanced approach to ASA 
+chemoprevention, tailoring treatment to each patient's genetic background, 
+lifestyle factors, and risk profile. Ongoing research on dosage optimization and 
+biomarker-driven selection is expected to further refine the integration of ASA 
+into standard CRC prevention strategies.
+
+Copyright © 2025 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/CCO.0000000000001153
+PMID: 40423235 [Indexed for MEDLINE]
+
+
+25. J Cell Mol Med. 2019 Jul;23(7):4514-4522. doi: 10.1111/jcmm.14332. Epub 2019
+May  14.
+
+Use of aspirin in the prevention of colorectal cancer through TIGIT-CD155 
+pathway.
+
+Ma B(1)(2), Duan X(1)(3), Zhou Q(1), Liu J(1), Yang X(1), Zhang D(4), Yang S(5), 
+Du Y(3), Li H(4), Su C(6).
+
+Author information:
+(1)Department of Laboratory Medicine, College of Clinical Medicine, Ningxia 
+Medical University, Yinchuan, China.
+(2)Department of Oncology Surgery, The First People's Hospital of Yinchuan, 
+Yinchuan, China.
+(3)Department of Laboratory Surgery, General Hospital of Ningxia Medical 
+University, Yinchuan, China.
+(4)Department of Colorectal Surgery, General Hospital of Ningxia Medical 
+University, Yinchuan, China.
+(5)Department of Gastroenterology, General Hospital of Ningxia Medical 
+University, Yinchuan, China.
+(6)Department of Pathogen Biology and Immunology, School of Basic Medical 
+Science, Ningxia Medical University, Yinchuan, China.
+
+Colorectal cancer (CRC) is one of the most widespread malignant cancers, with a 
+high incidence and mortality all over the world. Aspirin (ASA) otherwise known 
+as acetylsalicylic acid, is a non-steroidal anti-inflammatory drug that has 
+shown promising results in the prevention of chronic diseases, including several 
+cancers. In previous studies, aspirin has been shown to reduce the incidence of 
+CRC. Immune checkpoint blockade of T cell Ig and ITIM domain receptor (TIGIT) 
+alone or combined with other immune checkpoint blockades moleculars has gained 
+impressive results in the treatment of the melanoma and glioblastoma. Here, we 
+found that TIGIT and Poliovirus receptor (PVR, CD155) are expressed in tumour 
+cells; the TIGIT and CD155 protein expression in cancer tissue has been found to 
+be significantly higher than that in the precancerous tissue. T cell Ig and ITIM 
+domain receptor and CD226 were expressed in the lymphocytes near the tumour 
+tissue and the adjacent tissues. Aspirin has been found to inhibit cancer cell 
+viability and promote CRC cell apoptosis.Similarly, aspirin has also been found 
+to increase pro-apoptotic protein Bax's expression. We found that the expression 
+of TIGIT decreased with an increase in the concentration of aspirin and that the 
+suppression of TIGIT can affect the effect of aspirin on cell proliferation. In 
+this paper, we found that aspirin attenuates cancer cell proliferation and 
+induces CRC cells apoptosis by down-regulating the expression of TIGIT, which 
+provides new evidence for the application of aspirin in cancer treatment.
+
+© 2019 The Authors. Journal of Cellular and Molecular Medicine published by John 
+Wiley & Sons Ltd and Foundation for Cellular and Molecular Medicine.
+
+DOI: 10.1111/jcmm.14332
+PMCID: PMC6584546
+PMID: 31090213 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+26. Aliment Pharmacol Ther. 2017 Jan;45(2):193-204. doi: 10.1111/apt.13857. Epub 
+2016 Nov 17.
+
+Systematic review with meta-analysis: the comparative effectiveness of aspirin 
+vs. screening for colorectal cancer prevention.
+
+Emilsson L(1)(2)(3), Holme Ø(1)(4), Bretthauer M(1)(5)(3), Cook NR(3)(6), Buring 
+JE(3)(6), Løberg M(1)(5), Adami HO(3)(7), Sesso HD(3)(6), Gaziano MJ(6), Kalager 
+M(1)(3)(8).
+
+Author information:
+(1)Institute of Health and Society, University of Oslo, Oslo, Norway.
+(2)Primary Care Research Unit, Vårdcentralen Värmlands Nysäter, Värmland, 
+Sweden.
+(3)Department of Transplantation Medicine, K. G. Jebsen Center for Colorectal 
+Cancer Research, Oslo University Hospital, Oslo, Norway.
+(4)Department of Epidemiology, Harvard T.H. Chan School of Public Health, 
+Boston, MA, USA.
+(5)Department of Medicine, Sørlandet Hospital, Kristiansand, Norway.
+(6)Division of Preventive Medicine, Brigham and Women's Hospital, Harvard 
+Medical School, Boston, MA, USA.
+(7)Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, 
+Stockholm, Sweden.
+(8)Telemark Hospital, Skien, Norway.
+
+BACKGROUND: Both aspirin use and screening with flexible sigmoidoscopy or guaiac 
+faecal occult blood testing (FOBT) may reduce mortality from colorectal cancer, 
+but comparative effectiveness of these interventions is unknown.
+AIM: To compare aspirin to guaiac FOBT screening with regard to incidence and 
+mortality of colorectal cancer in a network meta-analysis.
+METHODS: We searched Medline, EMBASE and the COCHRANE central register (CENTRAL) 
+for relevant randomised trials identified until 31 October 2015. Randomised 
+trials in average-risk populations that reported colorectal cancer mortality, 
+colorectal cancer incidence, or both, with a minimum follow-up of 2 years, and 
+more than 100 randomised individuals were included. Three investigators 
+independently extracted data. We calculated relative risks [RR with 95% 
+predictive intervals (PrIs)] for the comparison of the interventions by 
+frequentist network meta-analyses.
+RESULTS: The effect of aspirin on colorectal cancer mortality was similar to 
+FOBT (RR 1.03; 95% PrI 0.76-1.39) and flexible sigmoidoscopy (RR 1.16; 95% PrI 
+0.84-1.60). Aspirin was more effective than FOBT (RR 0.36; 95% PrI 0.22-0.59) 
+and flexible sigmoidoscopy (RR 0.37; 95% PrI 0.22-0.62) in preventing death from 
+or cancer in the proximal colon. Aspirin was equally effective as screening in 
+reducing colorectal cancer incidence, while flexible sigmoidoscopy was superior 
+to FOBT (RR 0.84; 95% PrI 0.72-0.97).
+CONCLUSIONS: Low-dose aspirin seems to be equally effective as flexible 
+sigmoidoscopy or guaiac FOBT screening to reduce colorectal cancer incidence and 
+mortality, and more effective for cancers in the proximal colon. A randomised 
+comparative effectiveness trial of aspirin vs. screening is warranted.
+
+© 2016 John Wiley & Sons Ltd.
+
+DOI: 10.1111/apt.13857
+PMID: 27859394 [Indexed for MEDLINE]
+
+
+27. J Natl Cancer Inst. 2021 Jul 1;113(7):801-802. doi: 10.1093/jnci/djab010.
+
+Aspirin and Primary Prevention of Colorectal Cancer: A Still-Evolving Story.
+
+McNeil JJ(1).
+
+Author information:
+(1)Department of Epidemiology and Preventive Medicine, Monash University, 
+Melbourne, Victoria, Australia.
+
+DOI: 10.1093/jnci/djab010
+PMID: 33528017 [Indexed for MEDLINE]
+
+
+28. JAMA. 2022 Apr 26;327(16):1577-1584. doi: 10.1001/jama.2022.4983.
+
+Aspirin Use to Prevent Cardiovascular Disease: US Preventive Services Task Force 
+Recommendation Statement.
+
+US Preventive Services Task Force; Davidson KW(1), Barry MJ(2), Mangione CM(3), 
+Cabana M(4), Chelmow D(5), Coker TR(6), Davis EM(7), Donahue KE(8), Jaén CR(9), 
+Krist AH(5)(10), Kubik M(11), Li L(12), Ogedegbe G(13), Pbert L(14), Ruiz 
+JM(15), Stevermer J(16), Tseng CW(17), Wong JB(18).
+
+Author information:
+(1)Feinstein Institutes for Medical Research at Northwell Health, Manhasset, New 
+York.
+(2)Harvard Medical School, Boston, Massachusetts.
+(3)University of California, Los Angeles.
+(4)Albert Einstein College of Medicine, New York, New York.
+(5)Virginia Commonwealth University, Richmond.
+(6)University of Washington, Seattle.
+(7)University of Pittsburgh, Pittsburgh, Pennsylvania.
+(8)University of North Carolina at Chapel Hill.
+(9)University of Texas Health Science Center, San Antonio.
+(10)Fairfax Family Practice Residency, Fairfax, Virginia.
+(11)George Mason University, Fairfax, Virginia.
+(12)University of Virginia, Charlottesville.
+(13)New York University, New York, New York.
+(14)University of Massachusetts Medical School, Worcester.
+(15)University of Arizona, Tucson.
+(16)University of Missouri, Columbia.
+(17)University of Hawaii, Honolulu.
+(18)Tufts University School of Medicine, Boston, Massachusetts.
+
+Comment in
+    JAMA. 2022 Apr 26;327(16):1552-1554. doi: 10.1001/jama.2022.2460.
+    Ann Intern Med. 2022 Sep;175(9):JC98. doi: 10.7326/J22-0064.
+
+Summary for patients in
+    JAMA. 2022 Apr 26;327(16):1624. doi: 10.1001/jama.2022.5564.
+
+IMPORTANCE: Cardiovascular disease (CVD) is the leading cause of mortality in 
+the US, accounting for more than 1 in 4 deaths. Each year, an estimated 605 000 
+people in the US have a first myocardial infarction and an estimated 610 000 
+experience a first stroke.
+OBJECTIVE: To update its 2016 recommendation, the US Preventive Services Task 
+Force (USPSTF) commissioned a systematic review on the effectiveness of aspirin 
+to reduce the risk of CVD events (myocardial infarction and stroke), 
+cardiovascular mortality, and all-cause mortality in persons without a history 
+of CVD. The systematic review also investigated the effect of aspirin use on 
+colorectal cancer (CRC) incidence and mortality in primary CVD prevention 
+populations, as well as the harms (particularly bleeding) associated with 
+aspirin use. The USPSTF also commissioned a microsimulation modeling study to 
+assess the net balance of benefits and harms from aspirin use for primary 
+prevention of CVD and CRC, stratified by age, sex, and CVD risk level.
+POPULATION: Adults 40 years or older without signs or symptoms of CVD or known 
+CVD (including history of myocardial infarction or stroke) who are not at 
+increased risk for bleeding (eg, no history of gastrointestinal ulcers, recent 
+bleeding, other medical conditions, or use of medications that increase bleeding 
+risk).
+EVIDENCE ASSESSMENT: The USPSTF concludes with moderate certainty that aspirin 
+use for the primary prevention of CVD events in adults aged 40 to 59 years who 
+have a 10% or greater 10-year CVD risk has a small net benefit. The USPSTF 
+concludes with moderate certainty that initiating aspirin use for the primary 
+prevention of CVD events in adults 60 years or older has no net benefit.
+RECOMMENDATION: The decision to initiate low-dose aspirin use for the primary 
+prevention of CVD in adults aged 40 to 59 years who have a 10% or greater 
+10-year CVD risk should be an individual one. Evidence indicates that the net 
+benefit of aspirin use in this group is small. Persons who are not at increased 
+risk for bleeding and are willing to take low-dose aspirin daily are more likely 
+to benefit. (C recommendation) The USPSTF recommends against initiating low-dose 
+aspirin use for the primary prevention of CVD in adults 60 years or older. (D 
+recommendation).
+
+DOI: 10.1001/jama.2022.4983
+PMID: 35471505 [Indexed for MEDLINE]
+
+
+29. JAMA. 2022 Apr 26;327(16):1585-1597. doi: 10.1001/jama.2022.3337.
+
+Aspirin Use to Prevent Cardiovascular Disease and Colorectal Cancer: Updated 
+Evidence Report and Systematic Review for the US Preventive Services Task Force.
+
+Guirguis-Blake JM(1)(2), Evans CV(1), Perdue LA(1), Bean SI(1), Senger CA(1).
+
+Author information:
+(1)Kaiser Permanente Evidence-based Practice Center, Center for Health Research, 
+Kaiser Permanente, Portland, Oregon.
+(2)Department of Family Medicine, University of Washington, Tacoma.
+
+Erratum in
+    JAMA. 2022 Jun 14;327(22):2249. doi: 10.1001/jama.2022.7526.
+
+IMPORTANCE: Low-dose aspirin is used for primary cardiovascular disease 
+prevention and may have benefits for colorectal cancer prevention.
+OBJECTIVE: To review the benefits and harms of aspirin in primary cardiovascular 
+disease prevention and colorectal cancer prevention to inform the US Preventive 
+Services Task Force.
+DATA SOURCES: MEDLINE, PubMed, Embase, and the Cochrane Central Register of 
+Controlled Trials through January 2021; literature surveillance through January 
+21, 2022.
+STUDY SELECTION: English-language randomized clinical trials (RCTs) of low-dose 
+aspirin (≤100 mg/d) compared with placebo or no intervention in primary 
+prevention populations.
+DATA EXTRACTION AND SYNTHESIS: Single extraction, verified by a second reviewer. 
+Quantitative synthesis using Peto fixed-effects meta-analysis.
+MAIN OUTCOMES AND MEASURES: Cardiovascular disease events and mortality, 
+all-cause mortality, colorectal cancer incidence and mortality, major bleeding, 
+and hemorrhagic stroke.
+RESULTS: Eleven RCTs (N = 134 470) and 1 pilot trial (N = 400) of low-dose 
+aspirin for primary cardiovascular disease prevention were included. Low-dose 
+aspirin was associated with a significant decrease in major cardiovascular 
+disease events (odds ratio [OR], 0.90 [95% CI, 0.85-0.95]; 11 RCTs 
+[n = 134 470]; I2 = 0%; range in absolute effects, -2.5% to 0.1%). Results for 
+individual cardiovascular disease outcomes were significant, with similar 
+magnitude of benefit. Aspirin was not significantly associated with reductions 
+in cardiovascular disease mortality or all-cause mortality. There was limited 
+trial evidence on benefits for colorectal cancer, with the findings highly 
+variable by length of follow-up and statistically significant only when 
+considering long-term observational follow-up beyond randomized trial periods. 
+Low-dose aspirin was associated with significant increases in total major 
+bleeding (OR, 1.44 [95% CI, 1.32-1.57]; 10 RCTs [n = 133 194]; I2 = 4.7%; range 
+in absolute effects, 0.1% to 1.0%) and in site-specific bleeding, with similar 
+magnitude.
+CONCLUSIONS AND RELEVANCE: Low-dose aspirin was associated with small absolute 
+risk reductions in major cardiovascular disease events and small absolute 
+increases in major bleeding. Colorectal cancer results were less robust and 
+highly variable.
+
+DOI: 10.1001/jama.2022.3337
+PMID: 35471507 [Indexed for MEDLINE]
+
+
+30. PLoS One. 2025 Mar 28;20(3):e0319750. doi: 10.1371/journal.pone.0319750. 
+eCollection 2025.
+
+Role of aspirin on colorectal cancer risk and bacterial translocation to 
+bloodstream.
+
+Mignozzi S(1), De Pinto G(1), Guglielmetti S(2), Riso P(3), Cintolo M(4), 
+Penagini R(5)(6), Gargari G(3), Marino M(3), Ciafardini C(6), Ferraroni M(1)(7), 
+Bonzi R(1), Mutignani M(4), La Vecchia C(1), Rossi M(1).
+
+Author information:
+(1)Department of Clinical Science and Community Health, Dipartimento di 
+Eccellenza 2023-2027, University of Milan, Milan, Italy.
+(2)Department of Biotechnology and Biosciences, University of Milan Bicocca, 
+Milan, Italy.
+(3)Department of Food, Environmental and Nutritional Sciences, University of 
+Milan, Milan, Italy.
+(4)Digestive and Interventional Endoscopy Unit, ASST Grande Ospedale 
+Metropolitano Niguarda, Milan, Italy.
+(5)Department of Pathophysiology and Transplantation, University of Milan, 
+Milan, Italy.
+(6)Gastroenterology and Endoscopy Unit, Fondazione IRCCS Ca' Granda Ospedale 
+Maggiore Policlinico, Milan, Italy.
+(7)Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico, Milan, Italy.
+
+An involvement of gut microbiota on the possible role of aspirin against 
+intestinal adenoma (IA) and colorectal cancer (CRC) has been suggested. To 
+further investigate this issue, we analyzed data from an Italian case-control 
+study including 100 incident histologically confirmed CRC cases, as well as 100 
+IA and 100 controls without lesions from colonoscopy, matched to cases by 
+center, sex and age. Serum zonulin was assessed by ELISA kit and blood bacterial 
+DNA by qPCR and 16S rRNA gene profiling. Fifty-eight subjects (19.3%) reported 
+aspirin use of ≥  100 mg/day for cardiovascular prevention for at least six 
+months. To evaluate the relationship between aspirin and IA and CRC risks, the 
+odds ratios (OR) of IA and CRC and the corresponding 95% confidence intervals 
+(CI) for aspirin use were estimated using a logistic regression model 
+conditioned on the matching variable and adjusted for education and a model 
+adjusted for several potential confounders including BMI and cardiovascular 
+diseases. We evaluated whether the levels of zonulin and bacterial DNA data were 
+different in aspirin users vs non-users through the rank sum and chi-square 
+tests. Aspirin use was associated with a reduced risk of IA (OR = 0.45, 95% 
+CI = 0.21-0.94) and CRC (OR = 0.43, 95% CI = 0.19-0.96). Similar results were 
+obtained using the fully adjusted model. We found lower genera and operational 
+taxonomic units (OTUs) richness of blood bacterial community in aspirin users vs 
+non-users overall and in cases and controls. The genera Cutibacterium, 
+Sphingomonas, Gaiella, Delftia and Romboutsia, order Microtrichales and class 
+Deltaproteobacteria were different according to aspirin use. This study provides 
+additional data on the favorable role of aspirin on IA and CRC risks and 
+supports the hypothesis of an involvement of intestinal bacterial translocation 
+to the bloodstream.
+
+Copyright: © 2025 Mignozzi et al. This is an open access article distributed 
+under the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0319750
+PMCID: PMC11952268
+PMID: 40153368 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

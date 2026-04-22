@@ -1,0 +1,7 @@
+Mechanistic pathway data for warfarin.
+Primary target pathway: vitamin K epoxide reductase.
+Drug class biological mechanism relevant to disease modulation.
+Protein interaction pathways associated with warfarin therapeutic effects.
+Molecular target engagement data for warfarin.
+Pathway analysis: vitamin K epoxide reductase signaling cascade.
+Biological plausibility of warfarin in neurological and metabolic disease contexts.

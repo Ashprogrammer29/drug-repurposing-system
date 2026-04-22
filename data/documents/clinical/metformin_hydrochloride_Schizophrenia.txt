@@ -1,0 +1,136 @@
+Trial: NCT07001878
+Title: Cannabis Potency Effects on Brain White Matter in Early Phase Psychosis
+Phase: PHASE4
+Status: RECRUITING
+Summary: Canada reports some of the highest rates of cannabis use in our youth and young adult populations, among all the developed countries. Recent Health Canada surveys report that 27% of 16-19-year-olds and 32% of 20-24-year-olds have used cannabis in the past 30 days, with 16-24-year-olds showing the highest rates of daily or near-daily use. Unfortunately, cannabis use has also been found to be a risk
+---
+Trial: NCT05838573
+Title: Metformin Treatment on Cognitive Impairment of Schizophrenia
+Phase: PHASE3
+Status: RECRUITING
+Summary: In this study, the investigators will investigate the effect and the underlying mechanism of metformin treatment on cognitive impairment in individuals with schizophrenia. The study will recruit 120 individuals with schizophrenia at 4 sites, who will be randomized to metformin or placebo group for 24-week treatment. Clinical assessments will be done at screen/baseline, 12th week and 24th week. Par
+---
+Trial: NCT01171456
+Title: Early Intervention for Gestational Diabetes
+Phase: NA
+Status: WITHDRAWN
+Summary: Gestational diabetes (GDM) represents a significant and growing source nationwide of morbidity and mortality for both mothers and infants. Between 5 and 10% of pregnancies are complicated by GDM. Infants exposed in utero to hyperglycemia from GDM have an increased risk of neonatal complications as well as an increased prevalence of a number of chronic diseases, including type 2 diabetes and schizo
+---
+Trial: NCT01177709
+Title: Metformin for Weight Loss in Schizophrenia
+Phase: NA
+Status: TERMINATED
+Summary: Study hypothesis is that patients on antipsychotics medication treated with metformin will show loss in weight and improved measures of glucose metabolism.
+---
+Trial: NCT01300637
+Title: Effects of Adjunctive Metformin on Metabolic Profiles in Clozapine-treated Schizophrenic Patients
+Phase: NA
+Status: UNKNOWN
+Summary: Background: Several studies have suggested that clozapine has the greatest propensity of all available atypical antipsychotics to induce weight gain and metabolic dysregulation. So it is necessary to conduct some interventions to prevent or treat metabolic dysregulation induced by clozapine.
+
+Metformin has been reported to achieve weight loss in several groups of patients characterized by insulin 
+---
+Trial: NCT00794963
+Title: Aggressive Treatment of Metabolic Syndrome in Patients Receiving Clozapine for Schizophrenia
+Phase: NA
+Status: TERMINATED
+Summary: Schizophrenia patients treated with clozapine have a high prevalence of obesity-related metabolic syndrome. The condition is often poorly treated and may lead to the emergence of coronary heart disease and type 2 diabetes. The study will investigate whether structured treatment provided at the site of the outpatient psychiatric clinic of metabolic syndrome in this population will decrease the seve
+---
+Trial: NCT04865835
+Title: A Clinical Trial Study to Determine the Effect of an Investigational Drug (SEP-363856) Has on the Way That the Drug Metformin Travels Through the Body in People With Schizophrenia.
+Phase: PHASE1
+Status: COMPLETED
+Summary: A clinical trial study to determine the effect of an investigational drug (SEP-363856) has on the way that the drug Metformin travels through the body in people with schizophrenia. This clinical trial will have approximately 24 subjects both male and female 18 year of age and older. This study will be conducted in approximately 2 study sites in the United States.
+---
+Trial: NCT00816907
+Title: The Use of Metformin in the Treatment of Antipsychotic-Induced Weight Gain in Schizophrenia (The METS Study)
+Phase: PHASE4
+Status: COMPLETED
+Summary: This study will test the usefulness of the medication metformin in treating people with schizophrenia or schizoaffective disorder who are overweight and also taking antipsychotic medications.
+---
+Trial: NCT00672464
+Title: Cardio Risk of Acute Schizophrenia Olanzapine Duke
+Phase: PHASE4
+Status: WITHDRAWN
+Summary: Primary Objective: To compare added metformin and/or added simvastatin versus no intervention in reducing or eliminating increased cardiovascular risk (as estimated by elevation in non-HDL cholesterol levels) during the treatment of schizophrenia with olanzapine.
+
+Secondary Objective(s): To compare added metformin and/or added simvastatin versus no intervention in reducing or eliminating increased
+---
+Trial: NCT02751307
+Title: Adjunctive Low-dose Metformin in Patients With Schizophrenia and Metabolic Abnormalities
+Phase: PHASE4
+Status: COMPLETED
+Summary: Metformin has been used for alleviating metabolic abnormalities in patients with schizophrenia. Until now, the lowest dose of metformin to treat metabolic abnormalities in clozapine-treated patients is 1000 mg/d. The aim of this study was to determine whether a lower dosage of metformin, such as 500 mg/d, is effective for improving metabolic profiles in clozapine-treated patients with pre-existing
+---
+Trial: NCT00682448
+Title: Metformin for the Prevention of the Metabolic Side-effects of Zyprexa
+Phase: PHASE4
+Status: COMPLETED
+Summary: We hypothesize that metformin co-administered with olanzapine will be well tolerated and associated with significantly less insulin resistance, weight gain and dyslipidemia as compared to olanzapine plus placebo.
+---
+Trial: NCT06326840
+Title: Clinical Efficacy and Adverse Reactions of Antipsychotic Treatment
+Phase: NA
+Status: COMPLETED
+Summary: The goal of this clinical trial is to explore the potential of metformin in managing olanzapine-induced metabolic disturbance and hyperprolactinemia in patients with schizophrenia. The main questions it aims to answer are:
+
+1. The effect of metformin on olanzapine-induced metabolic disturbance
+2. The effect of metformin on olanzapine-induced hyperprolactinemia
+
+Participants will receive metformin 
+---
+Trial: NCT03271866
+Title: Metformin Treatment on Cognitive Impairment of Schizophrenia Co-morbid Metabolic Syndrome
+Phase: NA
+Status: UNKNOWN
+Summary: In this study, the investigators will investigate the impact and the related mechanism of metformin treatment on cognitive impairment of schizophrenia with a high risk of metabolic syndrome. Patients will be randomized to the metformin group or non-metformin control group (40 patients per arm) for 24 weeks. Clinical assessment will be done at screen/baseline, 4 weeks, 12 weeks, and 24 weeks. The s
+---
+Trial: NCT01654640
+Title: The Effect of Metformin on Obesity and Metabolic Disturbance in Patients Taking Clozapine
+Phase: PHASE4
+Status: TERMINATED
+Summary: The purpose of this study is the evaluation of effect of metformin on obesity and metabolic disturbance in patients taking clozapine.
+---
+Trial: NCT03708549
+Title: Comparison of Berberine and Metformin for the Treatment for MS in Schizophrenia Patients
+Phase: PHASE4
+Status: UNKNOWN
+Summary: Berberine is an isoquinoline alkaloid extracted from medicinal herbs, has been demonstrated to produce beneficial effects on diabetes and hyperlipidemia, fewer study reported its modification on lipid metabolism in schizophrenia. Metformin, have been used for metabolic abnormalities in schizophrenia, findings from these studies indicated that they did have some effect,which are still in experiment
+---
+Trial: NCT01778244
+Title: Metformin for Treatment of Antipsychotic-induced Dyslipidemia
+Phase: PHASE4
+Status: COMPLETED
+Summary: Almost all antipsychotics can induce dyslipidemia, but no treatment has been established. Metformin can improve lipid levels in obese patients. The investigators conducted a randomized, placebo-controlled study to test the efficacy of metformin for antipsychotic-induced dyslipidemia.
+---
+Trial: NCT02167620
+Title: Metformin in Co-morbid Diabetes or Prediabetes and Serious Mental Illness
+Phase: PHASE4
+Status: COMPLETED
+Summary: Schizophrenia is associated with a lifespan shortened by 20 years, due to cardiovascular disease (CVD), with antipsychotic (AP) medications understood to contribute to this risk through associated metabolic side-effects. Metformin, a medication used to treat prediabetes, and diabetes in the general population, holds promise with regard to reduction of AP-related metabolic problems, but has not bee
+---
+Trial: NCT00806234
+Title: Reducing Weight Gain and Improving Metabolic Function in Children Being Treated With Antipsychotics
+Phase: PHASE4
+Status: COMPLETED
+Summary: This study will test the effectiveness of two different treatments for children and adolescents who have gained weight on their antipsychotic medications.
+---
+Trial: NCT04162067
+Title: The Current Health Status of Patients Living With Type 1 Diabetes From the LMC Diabetes Patient Registry
+Phase: NA
+Status: COMPLETED
+Summary: This retrospective study uses the Canadian LMC Diabetes Registry to describe the current health status of Canadians with type 1 diabetes. The study provides a detailed report of the demographic composition, treatment regimens, self-care approaches, health status, metabolic outcomes, and glycemic control of a large Canadian community-based, specialist-led cohort of patients with type 1 diabetes. Sp
+---
+Trial: NCT07342764
+Title: Comparative Effectiveness of Dapagliflozin, Metformin, and Lifestyle Modification for Antipsychotic-Induced Weight Gain: An Open-Label Pragmatic Trial
+Phase: PHASE4
+Status: NOT_YET_RECRUITING
+Summary: Clinical trial:
+
+The goal of this clinical trial is to learn if dapagliflozin can help reduce weight gain caused by antipsychotic medications in people with schizophrenia and related disorders. It will also assess the safety of dapagliflozin.
+
+* The main questions it aims to answer are:
+
+  * Does dapagliflozin lower body weight compared to metformin or lifestyle changes alone?
+  * Does it improve 
+---

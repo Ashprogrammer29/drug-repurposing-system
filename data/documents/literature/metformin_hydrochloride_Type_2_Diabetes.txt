@@ -1,0 +1,1217 @@
+1. Front Endocrinol (Lausanne). 2023 Mar 9;14:1118848. doi: 
+10.3389/fendo.2023.1118848. eCollection 2023.
+
+Pharmacological approaches to the prevention of type 2 diabetes mellitus.
+
+Majety P(1), Lozada Orquera FA(1), Edem D(2), Hamdy O(3).
+
+Author information:
+(1)Division of Endocrinology, Diabetes and Metabolism, Virginia Commonwealth 
+University Health System, Richmond, VA, United States.
+(2)Division of Endocrinology, Diabetes and Metabolism, University of Arkansas 
+Medical Center, Little Rock, AR, United States.
+(3)Joslin Diabetes Center, Harvard Medical School, Boston, MA, United States.
+
+About 1 in 10 adults worldwide are estimated to have diabetes mellitus. They are 
+at risk of developing life-threatening complications resulting in reduced 
+quality of life, increased mortality and higher healthcare costs. The ability to 
+prevent or delay type 2 diabetes mellitus (T2DM) by modifying some of its risk 
+factors has been hypothesized for decades. The long and often gradual 
+time-course of increasing dysglycemia prior to diabetes diagnosis suggests that 
+interventions during that period could be effective in preventing T2DM. In 
+addition to lifestyle modifications, certain drugs prevent or slow development 
+of hyperglycemia. Recently, drugs used for obesity management were shown to 
+prevent T2DM. In this review, we discuss various pharmacotherapeutic options for 
+preventing T2DM.
+
+Copyright © 2023 Majety, Lozada Orquera, Edem and Hamdy.
+
+DOI: 10.3389/fendo.2023.1118848
+PMCID: PMC10033948
+PMID: 36967777 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest. The reviewer GW declared a 
+past collaboration with the author PM to the handling editor.
+
+
+2. Diabetologia. 2017 Sep;60(9):1586-1593. doi: 10.1007/s00125-017-4336-x. Epub 
+2017 Aug 2.
+
+Metformin: clinical use in type 2 diabetes.
+
+Sanchez-Rangel E(1), Inzucchi SE(2).
+
+Author information:
+(1)Section of Endocrinology, Yale School of Medicine and Yale-New Haven 
+Hospital, Fitkin 106, 333 Cedar Street, New Haven, CT, 06520-8020, USA.
+(2)Section of Endocrinology, Yale School of Medicine and Yale-New Haven 
+Hospital, Fitkin 106, 333 Cedar Street, New Haven, CT, 06520-8020, USA. 
+silvio.inzucchi@yale.edu.
+
+Comment in
+    Diabetologia. 2017 Sep;60(9):1561-1565. doi: 10.1007/s00125-017-4343-y.
+
+Metformin is one of the most popular oral glucose-lowering medications, widely 
+considered to be the optimal initial therapy for patients with type 2 diabetes 
+mellitus. Interestingly, there still remains controversy regarding the drug's 
+precise mechanism of action, which is thought to involve a reduction in hepatic 
+glucose production. It is now recommended as first-line treatment in various 
+guidelines, including that of the EASD and ADA. Its favoured status lies in its 
+efficacy, low cost, weight neutrality and good safety profile. Other benefits 
+have also been described, including improvements in certain lipids, inflammatory 
+markers, and a reduction in cardiovascular events, apparently independent from 
+the drug's glucose-lowering effect. Data have emerged questioning the previous 
+reluctance to use this agent in those with mild to moderate chronic kidney 
+disease. Regulations guiding its use in patients with stable, modest renal 
+dysfunction have, as a result, become more lenient in recent years. With no 
+long-term studies comparing it against newer glucose-lowering drugs, some of 
+which have more robust evidence for cardioprotection, metformin's established 
+role as 'foundation therapy' in type 2 diabetes may justifiably be challenged.
+
+DOI: 10.1007/s00125-017-4336-x
+PMID: 28770321 [Indexed for MEDLINE]
+
+
+3. Acad Emerg Med. 2024 Aug;31(8):832-834. doi: 10.1111/acem.14922. Epub 2024 Apr
+ 25.
+
+Metformin for Type 2 diabetes mellitus.
+
+MacDonald BJ(1), Turgeon RD(1), McCormack J(1).
+
+Author information:
+(1)Faculty of Pharmaceutical Sciences, University of British Columbia, 
+Vancouver, British Columbia, Canada.
+
+DOI: 10.1111/acem.14922
+PMID: 38661224 [Indexed for MEDLINE]
+
+
+4. Int J Vitam Nutr Res. 2023 Dec;93(6):498-506. doi: 10.1024/0300-9831/a000760. 
+Epub 2022 Aug 15.
+
+Anti-hyperglycemic effects of propolis or metformin in type 2 diabetes mellitus.
+
+Ochoa-Morales PD(1), González-Ortiz M(1)(2), Martínez-Abundis E(1)(2), 
+Pérez-Rubio KG(1)(2), Patiño-Laguna ADJ(1).
+
+Author information:
+(1)Instituto de Terapéutica Experimental y Clínica, Centro Universitario de 
+Ciencias de la Salud, Universidad de Guadalajara, Mexico.
+(2)Centro de Investigación Biomédica para la Salud, SA de CV, Guadalajara, 
+Mexico.
+
+Background: The aim of this study was to evaluate the effect of propolis or 
+metformin versus placebo on glycemic control in pharmacological treatment-naïve 
+patients with type 2 diabetes mellitus (T2DM). Methods: A double-blind, 
+randomized, placebo-controlled in parallel groups clinical trial was performed 
+in 36 pharmacological treatment-naïve patients with T2DM. They received propolis 
+(300 mg), metformin (850 mg), or placebo twice daily before breakfast and dinner 
+for 12 weeks. At the beginning and end of the study, fasting plasma glucose 
+(FPG), 2-h postload glucose (2-h PG) during a 75-g oral glucose tolerance test, 
+glycated hemoglobin A1c (A1C) and a metabolic profile were measured. Areas under 
+the curve (AUC) of glucose and insulin, total insulin secretion (insulinogenic 
+index), the first phase of insulin secretion (Stumvoll index), and insulin 
+sensitivity (Matsuda index) were calculated. Statistical analyses: 
+Kruskal-Wallis, Mann-Whitney U and Wilcoxon tests. Results: The propolis and 
+metformin groups exhibited significant reductions in FPG (p=0.009 and p=0.001, 
+respectively), 2-h PG (p=0.034 and p=0.001, respectively) levels, AUC of 
+insulin, Stumvoll index, and an increment in the Matsuda index. The comparison 
+of the changes from baseline to the end showed significant differences between 
+placebo and propolis in FPG (p=0.004) and A1C (p=0.049) levels, while between 
+placebo and metformin were in FPG (p=0.002), 2-h PG (p=0.004) and A1C (p=0.007) 
+levels. Conclusions: The administration of propolis and metformin compared to 
+placebo reduced FPG and A1C levels; in addition, metformin decreased 2-h PG, AUC 
+of glucose and insulin, high-density lipoprotein cholesterol, and increased the 
+insulin sensitivity.
+
+DOI: 10.1024/0300-9831/a000760
+PMID: 35965421 [Indexed for MEDLINE]
+
+
+5. Trends Endocrinol Metab. 2024 Dec;35(12):1062-1077. doi: 
+10.1016/j.tem.2024.05.006. Epub 2024 May 29.
+
+Increased hepatic gluconeogenesis and type 2 diabetes mellitus.
+
+Barroso E(1), Jurado-Aguilar J(1), Wahli W(2), Palomer X(1), Vázquez-Carrera 
+M(3).
+
+Author information:
+(1)Department of Pharmacology, Toxicology and Therapeutic Chemistry, Faculty of 
+Pharmacy and Food Sciences, University of Barcelona, 08028 Barcelona, Spain; 
+Institute of Biomedicine of the University of Barcelona (IBUB), University of 
+Barcelona, 08028 Barcelona, Spain; Spanish Biomedical Research Center in 
+Diabetes and Associated Metabolic Diseases (CIBERDEM)-Instituto de Salud Carlos 
+III, 28029 Madrid, Spain; Pediatric Research Institute-Hospital Sant Joan de 
+Déu, 08950, Esplugues de Llobregat, Barcelona, Spain.
+(2)Center for Integrative Genomics, University of Lausanne, CH-1015 Lausanne, 
+Switzerland; Lee Kong Chian School of Medicine, Nanyang Technological University 
+Singapore, Singapore 308232; ToxAlim (Research Center in Food Toxicology), 
+INRAE, UMR1331, F-31300 Toulouse Cedex, France.
+(3)Department of Pharmacology, Toxicology and Therapeutic Chemistry, Faculty of 
+Pharmacy and Food Sciences, University of Barcelona, 08028 Barcelona, Spain; 
+Institute of Biomedicine of the University of Barcelona (IBUB), University of 
+Barcelona, 08028 Barcelona, Spain; Spanish Biomedical Research Center in 
+Diabetes and Associated Metabolic Diseases (CIBERDEM)-Instituto de Salud Carlos 
+III, 28029 Madrid, Spain; Pediatric Research Institute-Hospital Sant Joan de 
+Déu, 08950, Esplugues de Llobregat, Barcelona, Spain. Electronic address: 
+mvazquezcarrera@ub.edu.
+
+Abnormally increased hepatic gluconeogenesis is a significant contributor to 
+hyperglycemia in the fasting state in patients with type 2 diabetes mellitus 
+(T2DM) due to insulin resistance. Metformin, the most prescribed drug for the 
+treatment of T2DM, is believed to exert its effect mainly by reducing hepatic 
+gluconeogenesis. Here, we discuss how increased hepatic gluconeogenesis 
+contributes to T2DM and we review newly revealed mechanisms underlying the 
+attenuation of gluconeogenesis by metformin. In addition, we analyze the recent 
+findings on new determinants involved in the regulation of gluconeogenesis, 
+which might ultimately lead to the identification of novel and targeted 
+treatment strategies for T2DM.
+
+Copyright © 2024 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.tem.2024.05.006
+PMID: 38816269 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests No interests are 
+declared.
+
+
+6. Diabetes Metab Syndr. 2022 Oct;16(10):102634. doi: 10.1016/j.dsx.2022.102634. 
+Epub 2022 Oct 2.
+
+The efficacy of vitamin B(12) supplementation for treating vitamin B(12) 
+deficiency and peripheral neuropathy in metformin-treated type 2 diabetes 
+mellitus patients: A systematic review.
+
+Pratama S(1), Lauren BC(2), Wisnu W(3).
+
+Author information:
+(1)Faculty of Medicine, University of Indonesia, Jakarta, 10430, Indonesia. 
+Electronic address: samuel.pratama@gmail.com.
+(2)Faculty of Medicine, University of Indonesia, Jakarta, 10430, Indonesia.
+(3)Faculty of Medicine, University of Indonesia, Jakarta, 10430, Indonesia; 
+Division of Endocrine, Metabolic and Diabetes, Internal Medicine Department, Dr. 
+Cipto Mangunkusumo Hospital, Jakarta, 10430, Indonesia.
+
+BACKGROUND AND AIMS: Metformin-treated type 2 diabetes mellitus (T2DM) patients 
+are at higher risk of vitamin B12 deficiency and more severe neuropathy 
+symptoms. There is still no guideline suggesting vitamin B12 supplementation for 
+this population. This study aimed to analyze the efficacy of vitamin B12 
+supplementation in this population.
+METHOD: Studies reporting the efficacy of vitamin B12 supplementation in 
+metformin-treated T2DM patients were systematically searched in PubMed, 
+Cochrane, EBSCOHost, and Scopus following the Preferred Reporting Items for 
+Systematic Reviews and Meta-Analyses (PRISMA) guideline. Additional relevant 
+studies were searched manually through citations. Study quality and risk of bias 
+were assessed using suitable tools.
+RESULTS: Seven clinical trials with a total of 506 participants were included. 
+Using the Cochrane's Risk of Bias 2 tools for clinical trials, 4 studies were 
+assessed to have high risk of bias and 3 studies had low risk of bias. There 
+were 5 studies that measured changes in serum vitamin B12 level, all of which 
+reported a statistically significant increase after supplementation. Significant 
+reductions in homocysteine after supplementation were found in 2 studies. Its 
+effect on neuropathy symptoms was still unclear, with 2 studies reporting a 
+significant improvement and 1 study reporting no significant effect.
+CONCLUSIONS: The results of this systematic review support the implementation of 
+vitamin B12 supplementation for metformin-treated T2DM to prevent or treat 
+vitamin B12 deficiency and neuropathy. More high-quality clinical studies are 
+required to generate quantitative analysis and to encourage supplementation in 
+available guidelines.
+
+Copyright © 2022 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.dsx.2022.102634
+PMID: 36240684 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest There is no 
+conflict of interest regarding the publication of this manuscript for all 
+authors.
+
+
+7. Expert Rev Endocrinol Metab. 2019 Mar;14(2):75-83. doi: 
+10.1080/17446651.2019.1571908. Epub 2019 Feb 5.
+
+Fixed-dose combination of ertugliflozin and metformin hydrochloride for the 
+treatment of type 2 diabetes.
+
+Frias JP(1).
+
+Author information:
+(1)a Department of Clinical Research , National Research Institute , Los Angeles 
+, CA , USA.
+
+Combining antihyperglycemic agents in order to rapidly and safely achieve the 
+best possible glycemic control is the standard of care today for the management 
+of type 2 diabetes. Agents should ideally have mechanisms of actions that are 
+complementary and that improve glycemic control without unacceptable gain in 
+body weight or hypoglycemia. Areas covered: Ertugliflozin and metformin 
+hydrochloride (ertugliflozin/metformin, SEGLUROMET) is a recently approved 
+fixed-dose combination tablet containing the sodium-glucose co-transporter 2 
+(SGLT-2) inhibitor ertugliflozin and metformin. This review summarizes key 
+characteristics of ertugliflozin and metformin, as well as the efficacy and 
+safety results of co-administration of these agents in the ertugliflozin 
+clinical development program. This information comes from the 
+ertugliflozin/metformin prescribing information as well as published clinical 
+trials obtained through a PubMed search. Expert commentary: SGLT-2 inhibitors 
+are an important class of antihyperglycemic agents that are efficacious as 
+monotherapy and in combination with other antihyperglycemic agents. Given their 
+favorable effects on glycemia control as well as 'extra-glycemic' parameters 
+such as body weight and blood pressure, they are ideal agents for appropriate 
+patients with type 2 diabetes. The fixed-dose combination of ertugliflozin with 
+metformin is an effective combination that is conveniently administered and may 
+improve medication adherence and persistence.
+
+DOI: 10.1080/17446651.2019.1571908
+PMID: 30724637 [Indexed for MEDLINE]
+
+
+8. Diabetes Obes Metab. 2017 Apr;19(4):473-481. doi: 10.1111/dom.12854. Epub 2017
+ Feb 22.
+
+Understanding and overcoming metformin gastrointestinal intolerance.
+
+Bonnet F(1), Scheen A(2)(3).
+
+Author information:
+(1)Department of Endocrinology, Diabetes and Nutrition, Centre Hospitalier 
+Universitaire de Rennes, Rennes, France.
+(2)Department of Endocrinology, Diabetes and Nutrition, Division of Clinical 
+Pharmacology, Center for Interdisciplinary Research on Medicines (CIRM), 
+University of Liège, CHU, Liège, Belgium.
+(3)Division of Diabetes, Nutrition and Metabolic Disorders, Department of 
+Medicine, University of Liège CHU, Liège, Belgium.
+
+Metformin is the most widely prescribed drug for patients with type 2 diabetes 
+mellitus and the first-line pharmacological option as supported by multiple 
+international guidelines, yet a rather large proportion of patients cannot 
+tolerate metformin in adequate amounts because of its associated 
+gastrointestinal (GI) adverse events (AEs). GI AEs typically encountered with 
+metformin therapy include diarrhoea, nausea, flatulence, indigestion, vomiting 
+and abdominal discomfort, with diarrhoea and nausea being the most common. 
+Although starting at a low dose and titrating slowly may help prevent some GI 
+AEs associated with metformin, some patients are unable to tolerate metformin at 
+all and it may also be difficult to convince patients to start metformin again 
+after a bout of GI AEs. Despite this clinical importance, the underlying 
+mechanisms of the GI intolerance associated with metformin are poorly known. In 
+the present review, we discuss: the epidemiology of metformin-associated GI 
+intolerance and its underlying mechanisms; genotype variability and associated 
+factors affecting metformin GI intolerance, such as comorbidities, 
+co-medications and bariatric surgery; clinical consequences and therapeutic 
+strategies to overcome metformin GI intolerance. These strategies include 
+appropriate titration of immediate-release metformin, use of extended-release 
+metformin, the promise of delayed-release metformin and gut microbiome 
+modulators, as well as alternative pharmacological therapies when metformin 
+cannot be tolerated at all. Given the available data, all efforts should be made 
+to maintain metformin before considering a shift to another drug therapy.
+
+© 2016 John Wiley & Sons Ltd.
+
+DOI: 10.1111/dom.12854
+PMID: 27987248 [Indexed for MEDLINE]
+
+
+9. JAMA. 2019 Oct 1;322(13):1312-1313. doi: 10.1001/jama.2019.11497.
+
+Metformin for Type 2 Diabetes.
+
+Patel JJ(1), Mundi MS(2).
+
+Author information:
+(1)Division of Pulmonary and Critical Care Medicine, Medical College of 
+Wisconsin, Milwaukee.
+(2)Division of Endocrinology, Diabetes, Metabolism and Nutrition, Mayo Clinic, 
+Rochester, Minnesota.
+
+Comment in
+    JAMA. 2019 Oct 1;322(13):1313. doi: 10.1001/jama.2019.11505.
+
+Comment on
+    JAMA. 2019 May 21;321(19):1926-1927. doi: 10.1001/jama.2019.3805.
+
+DOI: 10.1001/jama.2019.11497
+PMID: 31573632 [Indexed for MEDLINE]
+
+
+10. JAMA. 2019 Oct 1;322(13):1312. doi: 10.1001/jama.2019.11489.
+
+Metformin for Type 2 Diabetes.
+
+Caturano A(1), Galiero R(1), Pafundi PC(1).
+
+Author information:
+(1)Department of Advanced Medical and Surgical Sciences, University of Campania 
+Luigi Vanvitelli, Naples, Italy.
+
+Comment in
+    JAMA. 2019 Oct 1;322(13):1313. doi: 10.1001/jama.2019.11505.
+
+Comment on
+    JAMA. 2019 May 21;321(19):1926-1927. doi: 10.1001/jama.2019.3805.
+
+DOI: 10.1001/jama.2019.11489
+PMID: 31573630 [Indexed for MEDLINE]
+
+
+11. Curr Diab Rep. 2024 Jun;24(6):119-130. doi: 10.1007/s11892-024-01539-1. Epub 
+2024 Apr 3.
+
+Metformin: Past, Present, and Future.
+
+Chaudhary S(1), Kulkarni A(2).
+
+Author information:
+(1)NMC Specialty Hospital, Al Nahda 1, Dubai, United Arab Emirates. 
+sandeepch8j@gmail.com.
+(2)NMC Specialty Hospital, Al Nahda 1, Dubai, United Arab Emirates.
+
+PURPOSE OF REVIEW: This review provides the most recent update of metformin, a 
+biguanide oral antihyperglycemic drug used as a first-line treatment in type 2 
+diabetes mellitus.
+RECENT FINDINGS: Metformin continues to dominate in the world of antidiabetics, 
+and its use will continue to rise because of its high efficiency and easy 
+availability. Apart from type 2 diabetes, research is exploring its potential in 
+other conditions such as cancer, memory loss, bone disorders, immunological 
+diseases, and aging. Metformin is the most prescribed oral antidiabetic 
+worldwide. It has been in practical use for the last six decades and continues 
+to be the preferred drug for newly diagnosed type 2 diabetes mellitus. It 
+reduces glucose levels by decreasing hepatic glucose production, reducing 
+intestinal glucose absorption, and increasing insulin sensitivity. It can be 
+used as monotherapy or combined with other antidiabetics like sulfonylureas, 
+DPP-4 inhibitors, SGLT-2 inhibitors, or insulin, improving its efficacy. 
+Metformin can be used once or twice daily, depending on requirements. Prolonged 
+usage of metformin may lead to abdominal discomfort, deficiency of Vitamin B12, 
+or lactic acidosis. It should be used carefully in patients with renal 
+impairment. Recent studies have explored additional benefits of metformin in 
+polycystic ovarian disease, gestational diabetes mellitus, cognitive disorders, 
+and immunological diseases. However, more extensive studies are needed to 
+confirm these additional benefits.
+
+© 2024. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s11892-024-01539-1
+PMID: 38568468 [Indexed for MEDLINE]
+
+
+12. Endokrynol Pol. 2021;72(2):163-170. doi: 10.5603/EP.a2021.0033.
+
+Metformin in patients with type 2 diabetes mellitus and heart failure: a review.
+
+Kułaczkowska ZM(1), Wróbel M, Rokicka D, Gąsior M, Strojek K.
+
+Author information:
+(1)3rd Department of Cardiology, School of Medicine with the Division of 
+Dentistry in Zabrze, Medical University of Silesia in Katowice, Silesian Center 
+for Heart Diseases, Zabrze, Poland. zosiakulaczkowska@gmail.com.
+
+Diabetes mellitus is a major, global problem. Among the numerous complications 
+of diabetes, there is increasing concern over the coexisting heart failure. 
+Metformin is the most frequently used oral antidiabetic drug that is considered 
+to be safe and effective in the management of type 2 diabetes mellitus. Since 
+the publication of the UK Prospective Diabetes Study, it has been suggested that 
+metformin might improve cardiovascular prognoses. Results from available studies 
+have shown that metformin therapy in patients with type 2 diabetes mellitus and 
+heart failure was associated with improved clinical outcomes when compared with 
+other oral antidiabetic agents, insulin, or lifestyle management. However, there 
+have been no randomized controlled trials evaluating the influence of metformin 
+use on clinical outcomes in patients with type 2 diabetes mellitus and heart 
+failure. New evidence from large cardiovascular outcome trials that showed a 
+reduction in heart failure hospitalization for SGLT2 inhibitors caused changes 
+in recommendations on the management of hyperglycaemia. Currently, the European 
+Society of Cardiology recommends sodium-glucose co-transporter 2 inhibitors in 
+patients with type 2 diabetes mellitus and heart failure or at high risk for 
+heart failure, as a first choice in drug naïve patients, or as a second drug if 
+the patient is already on metformin. The aim of our study is to review the 
+current state of knowledge about the position of metformin in the treatment of 
+patients with type 2 diabetes mellitus and heart failure.
+
+DOI: 10.5603/EP.a2021.0033
+PMID: 33970481 [Indexed for MEDLINE]
+
+
+13. Curr Diabetes Rev. 2024;20(3):e270723219177. doi: 
+10.2174/1573399820666230727101141.
+
+Metformin in Type 2 Diabetes: Evidence for its Beneficial Effects on Frailty and 
+Sarcopenia.
+
+Pyrgioti EE(1), Karakousis ND(2), Georgakopoulos PN(3), Papanas N(2).
+
+Author information:
+(1)Pharmacist, Private Practice, Athens, Greece.
+(2)Second Department of Internal Medicine, Diabetes Centre-Diabetic Foot Clinic, 
+Democritus University of Thrace, Alexandroupolis, Greece.
+(3)Primary Healthcare, Internal Medicine Department, Amarousion, Attica, Greece.
+
+This narrative review aimed to discuss the potential interplay among frailty 
+syndrome, sarcopenia and metformin in type 2 diabetes mellitus (T2DM). There is 
+emerging evidence on the potential protective role of metformin on both frailty 
+and sarcopenia. However, results are not always consistent. Thus, further 
+research is needed to provide a definitive answer on any role of metformin in 
+improving frailty and/or sarcopenia in T2DM.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/1573399820666230727101141
+PMID: 37497698 [Indexed for MEDLINE]
+
+
+14. Front Endocrinol (Lausanne). 2023 Feb 6;13:1072879. doi: 
+10.3389/fendo.2022.1072879. eCollection 2022.
+
+Metformin therapy in pediatric type 2 diabetes mellitus and its comorbidities: A 
+review.
+
+Alfaraidi H(1)(2)(3), Samaan MC(4)(5)(6)(7).
+
+Author information:
+(1)College of Medicine, King Saud bin Abdulaziz University for Health Sciences, 
+Ministry of National Guard Health Affairs, Riyadh, Saudi Arabia.
+(2)Department of Pediatrics, King Abdullah Specialized Children's Hospital, King 
+Abdulaziz Medical City, Ministry of National Guard Health Affairs, Riyadh, Saudi 
+Arabia.
+(3)King Abdullah International Medical Research Center, Ministry of National 
+Guard Health Affairs, Riyadh, Saudi Arabia.
+(4)Department of Pediatrics, McMaster University, Hamilton, ON, Canada.
+(5)Division of Pediatric Endocrinology, McMaster Children's Hospital, Hamilton, 
+ON, Canada.
+(6)Department of Health Research Methods, Evidence and Impact, McMaster 
+University, Hamilton, ON, Canada.
+(7)Michael G. De Groote School of Medicine, McMaster University, Hamilton, ON, 
+Canada.
+
+Type 2 diabetes (T2D) rates in children and adolescents are rising globally. T2D 
+is a complex and aggressive disease in children with several comorbidities, high 
+treatment failure rates, and insulin needs within a few years from diagnosis. 
+While myriads of pharmacotherapies are licensed to treat adults with T2D, 
+treatments accessible to children and adolescents have been limited until 
+recently. Metformin is an old drug with multiple beneficial metabolic health 
+effects beyond glycemic control. This review discusses Metformin's origins, its 
+mechanisms of action, and evidence for its use in the pediatric population to 
+treat and prevent T2D. We also explore the evidence for its use as an obesity 
+therapy, which is the primary driver of T2D, and T2D-driven comorbidities. While 
+emerging therapies create new horizons for managing pediatric T2D, Metformin 
+remains an inexpensive and safe part of the treatment plans of many T2D children 
+globally for its beneficial metabolic effects.
+
+Copyright © 2023 Alfaraidi and Samaan.
+
+DOI: 10.3389/fendo.2022.1072879
+PMCID: PMC9939509
+PMID: 36814831 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+15. Cells. 2021 Aug 1;10(8):1958. doi: 10.3390/cells10081958.
+
+The Impact of Glucose-Lowering Drugs on Sarcopenia in Type 2 Diabetes: Current 
+Evidence and Underlying Mechanisms.
+
+Massimino E(1), Izzo A(1), Riccardi G(1), Della Pepa G(1).
+
+Author information:
+(1)Department of Clinical Medicine and Surgery, Federico II University, Via 
+Sergio Pansini 5, 80131 Naples, Italy.
+
+The age-related decrease in skeletal muscle mass together with the loss of 
+muscle power and function is defined sarcopenia. Mounting evidence suggests that 
+the prevalence of sarcopenia is higher in patients with type 2 diabetes mellitus 
+(T2DM), and different mechanisms may be responsible for this association such as 
+impaired insulin sensitivity, chronic hyperglycemia, advanced glycosylation end 
+products, subclinical inflammation, microvascular and macrovascular 
+complications. Glucose-lowering drugs prescribed for patients with T2DM might 
+impact on these mechanisms leading to harmful or beneficial effect on skeletal 
+muscle. Importantly, beyond their glucose-lowering effects, glucose-lowering 
+drugs may affect per se the equilibrium between protein anabolism and catabolism 
+through several mechanisms involved in skeletal muscle physiology, contributing 
+to sarcopenia. The aim of this narrative review is to provide an update on the 
+effects of glucose-lowering drugs on sarcopenia in individuals with T2DM, 
+focusing on the parameters used to define sarcopenia: muscle strength (evaluated 
+by handgrip strength), muscle quantity/quality (evaluated by appendicular lean 
+mass or skeletal muscle mass and their indexes), and physical performance 
+(evaluated by gait speed or short physical performance battery). Furthermore, we 
+also describe the plausible mechanisms by which glucose-lowering drugs may 
+impact on sarcopenia.
+
+DOI: 10.3390/cells10081958
+PMCID: PMC8393336
+PMID: 34440727 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+16. Clin Ther. 2003 Dec;25(12):2991-3026. doi: 10.1016/s0149-2918(03)90089-0.
+
+Metformin hydrochloride in the treatment of type 2 diabetes mellitus: a clinical 
+review with a focus on dual therapy.
+
+Setter SM(1), Iltz JL, Thams J, Campbell RK.
+
+Author information:
+(1)Department of Pharmacotherapy, College of Pharmacy, Washington State 
+University, Spokane 99217-6131, USA. ssetter@smhca.org
+
+BACKGROUND: Type 2 diabetes mellitus typically involves abnormal beta-cell 
+function that results in relative insulin deficiency, insulin resistance 
+accompanied by decreased glucose transport into muscle and fat cells, and 
+increased hepatic glucose output, all of which contribute to hyperglycemia.
+OBJECTIVE: This review examines the pharmacology, pharmacokinetics, 
+drug-interaction potential, adverse effects, and dosing guidelines for metformin 
+hydrochloride, a biguanide agent for the treatment of type 2 diabetes. Clinical 
+trial data are reviewed, including efficacy and tolerability information, with a 
+focus on studies of dual metformin therapy (metformin plus another oral agent or 
+insulin) published from 1998 to the present. Pharmacoeconomic considerations are 
+also discussed.
+METHODS: Primary research and review articles were identified through a search 
+of MEDLINE (1966-May 2003) and International Pharmaceutical Abstracts (1970-May 
+2003) using the terms metformin and/or Glucophage. Web of Science (1995-May 
+2003) was used to search for additional abstracts. The package inserts for 
+metformin and metformin combination products were consulted. All identified 
+articles and abstracts were assessed for relevance, and all relevant information 
+was included. Priority was given to the primary medical literature and clinical 
+trial reports.
+RESULTS: Metformin is the only currently available oral 
+antidiabetic/hypoglycemic agent that acts predominantly by inhibiting hepatic 
+glucose release. Because patients with type 2 diabetes often have excess hepatic 
+glucose output, use of metformin is effective in lowering glycosylated 
+hemoglobin (HbA1c) by 1 to 2 percentage points when used as monotherapy or in 
+combination with other blood glucose-lowering agents or insulin. Other metabolic 
+variables (eg, dyslipidemia, fibrinolysis) may be improved with the use of 
+metformin. Body weight is often maintained or slightly reduced from baseline. 
+Metformin is well tolerated and is associated with few clinically deleterious 
+adverse events. The most important and potentially life-threatening adverse 
+event associated with its use is lactic acidosis, which occurs very rarely.
+CONCLUSIONS: Metformin has multiple benefits in patients with type 2 diabetes. 
+It can effectively lower HbA1c values, positively affect lipid profiles, and 
+improve vascular and hemodynamic indices. Adverse effects are generally 
+tolerable and self-limiting. The availability of products combining metformin 
+with a sulfonylurea or rosiglitazone has expanded the array of therapies for the 
+management of type 2 diabetes.
+
+DOI: 10.1016/s0149-2918(03)90089-0
+PMID: 14749143 [Indexed for MEDLINE]
+
+
+17. Postgrad Med. 2023 Aug;135(6):539-542. doi: 10.1080/00325481.2023.2224036.
+Epub  2023 Jun 14.
+
+Time to revisit the true role of metformin in type 2 diabetes mellitus.
+
+Lopez-Candales A(1), Monte S(2), Sawalha K(3), Norgard NB(4).
+
+Author information:
+(1)Cardiovascular Medicine Division, University Health Truman Medical Center, 
+University of Missouri-Kansas City, Missouri-Kansas, MO, USA.
+(2)School of Pharmacy and Pharmaceutical Sciences, University at Buffalo, NY, 
+USA.
+(3)Nutrition and Metabolism, Department of Medicine, University of 
+Missouri-Kansas City, Kansas, MO, USA.
+(4)Department of Medicine, University Health Truman Medical Center, University 
+of Missouri-Kansas City, Kansas, MO, USA.
+
+DOI: 10.1080/00325481.2023.2224036
+PMID: 37294638 [Indexed for MEDLINE]
+
+
+18. JAMA. 2019 Oct 1;322(13):1313. doi: 10.1001/jama.2019.11505.
+
+Metformin for Type 2 Diabetes-Reply.
+
+Flory J(1), Lipska K(2).
+
+Author information:
+(1)Endocrinology Service, Memorial Sloan Kettering Cancer Center, New York, New 
+York.
+(2)Section of Endocrinology, Yale School of Medicine, New Haven, Connecticut.
+
+Comment on
+    JAMA. 2019 Oct 1;322(13):1312. doi: 10.1001/jama.2019.11489.
+    JAMA. 2019 Oct 1;322(13):1312-1313. doi: 10.1001/jama.2019.11497.
+
+DOI: 10.1001/jama.2019.11505
+PMID: 31573634 [Indexed for MEDLINE]
+
+
+19. mBio. 2024 Jun 12;15(6):e0016924. doi: 10.1128/mbio.00169-24. Epub 2024 May
+20.
+
+Changes in the type 2 diabetes gut mycobiome associate with metformin treatment 
+across populations.
+
+Van Syoc E(1)(2)(3), Nixon MP(4), Silverman JD(3)(4)(5)(6), Luo Y(7), Gonzalez 
+FJ(7), Elbere I(8), Klovins J(8), Patterson AD(3)(9), Rogers CJ(10), Ganda 
+E(2)(3).
+
+Author information:
+(1)Department of Biology, The Pennsylvania State University, University Park, 
+Pennsylvania, USA.
+(2)Department of Animal Science, The Pennsylvania State University, University 
+Park, Pennsylvania, USA.
+(3)One Health Microbiome Center, The Pennsylvania State University, University 
+Park, Pennsylvania, USA.
+(4)College of Information Sciences and Technology, The Pennsylvania State 
+University, University Park, Pennsylvania, USA.
+(5)Department of Statistics, The Pennsylvania State University, University Park, 
+Pennsylvania, USA.
+(6)Department of Medicine, The Pennsylvania State University, Hershey, 
+Pennsylvania, USA.
+(7)Center for Cancer Research, National Cancer Institute, National Institutes of 
+Health, Bethesda, Maryland, USA.
+(8)Latvian Biomedical Research and Study Center, Riga, Latvia.
+(9)Department of Veterinary and Biomedical Sciences, The Pennsylvania State 
+University, University Park, Pennsylvania, USA.
+(10)Department of Nutritional Sciences, University of Georgia, Athens, Georgia, 
+USA.
+
+Update of
+    bioRxiv. 2023 Nov 03:2023.05.25.542255. doi: 10.1101/2023.05.25.542255.
+
+The human gut teems with a diverse ecosystem of microbes, yet non-bacterial 
+portions of that community are overlooked in studies of metabolic diseases 
+firmly linked to gut bacteria. Type 2 diabetes mellitus (T2D) is associated with 
+compositional shifts in the gut bacterial microbiome and the mycobiome, the 
+fungal portion of the microbiome. However, whether T2D and/or metformin 
+treatment underpins fungal community changes is unresolved. To differentiate 
+these effects, we curated a gut mycobiome cohort spanning 1,000 human samples 
+across five countries and validated our findings in a murine experimental model. 
+We use Bayesian multinomial logistic normal models to show that T2D and 
+metformin both associate with shifts in the relative abundance of distinct gut 
+fungi. T2D is associated with shifts in the Saccharomycetes and Sordariomycetes 
+fungal classes, while the genera Fusarium and Tetrapisipora most consistently 
+associate with metformin treatment. We confirmed the impact of metformin on 
+individual gut fungi by administering metformin to healthy mice. Thus, metformin 
+and T2D account for subtle, but significant and distinct variation in the gut 
+mycobiome across human populations. This work highlights for the first time that 
+metformin can confound associations of gut fungi with T2D and warrants the need 
+to consider pharmaceutical interventions in investigations of linkages between 
+metabolic diseases and gut microbial inhabitants.
+IMPORTANCE: This is the largest to-date multi-country cohort characterizing the 
+human gut mycobiome, and the first to investigate potential perturbations in gut 
+fungi from oral pharmaceutical treatment. We demonstrate the reproducible 
+effects of metformin treatment on the human and murine gut mycobiome and 
+highlight a need to consider metformin as a confounding factor in investigations 
+between type 2 diabetes mellitus and the gut microbial ecosystem.
+
+DOI: 10.1128/mbio.00169-24
+PMCID: PMC11237675
+PMID: 38767350 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+20. Adv Ther. 2022 Jun;39(6):2283-2286. doi: 10.1007/s12325-022-02125-1. Epub
+2022  Mar 28.
+
+Reduced Progression of Monoclonal Gammopathy of Undetermined Significance to 
+Multiple Myeloma in Type 2 Diabetes Mellitus: Will Metformin Never Stop Its 
+Pleasant Surprises?
+
+Papachristou S(1), Popovic DS(2)(3), Papanas N(4).
+
+Author information:
+(1)Second Department of Internal Medicine, Diabetes Centre-Diabetic Foot Clinic, 
+Democritus University of Thrace, University Hospital of Alexandroupolis, 
+Alexandroupolis, Greece.
+(2)Clinic for Endocrinology, Diabetes and Metabolic Disorders, Clinical Centre 
+of Vojvodina, Novi Sad, Serbia.
+(3)Medical Faculty, University of Novi Sad, Novi Sad, Serbia.
+(4)Second Department of Internal Medicine, Diabetes Centre-Diabetic Foot Clinic, 
+Democritus University of Thrace, University Hospital of Alexandroupolis, 
+Alexandroupolis, Greece. papanasnikos@yahoo.gr.
+
+Monoclonal gammopathy of undetermined significance (MGUS) is an asymptomatic 
+plasma cell disorder characterised by a serum M protein level below 3 g/dL, 
+percentage of bone marrow clonal plasma cells below 10%, absence of end-organ 
+damage (hypercalcaemia, renal insufficiency, anaemia, bone lesions) and absence 
+of any other disease known to produce M protein. MGUS may progress to 
+myeloproliferative disorders or multiple myeloma, but very little is known about 
+any modifiable risk factors or any preventative treatment that might delay this 
+progression. Metformin has begun to be discussed as a potentially useful agent 
+on the basis of the results of epidemiological and preclinical research showing 
+that it may be beneficial in patients with leukaemia, lymphomas and multiple 
+myeloma. Metformin studies dedicated to MGUS are currently very limited, yet it 
+would appear that there may be hope for reducing progression of MGUS to multiple 
+myeloma with metformin in type 2 diabetes mellitus. However, more data is needed 
+until we reach a clearer view of what is to be gained with metformin in this 
+setting.
+
+© 2022. The Author(s), under exclusive licence to Springer Healthcare Ltd., part 
+of Springer Nature.
+
+DOI: 10.1007/s12325-022-02125-1
+PMID: 35344184 [Indexed for MEDLINE]
+
+
+21. J Diabetes. 2022 Dec;14(12):806-814. doi: 10.1111/1753-0407.13334. Epub 2022
+Nov  28.
+
+Metformin and growth differentiation factor 15 (GDF15) in type 2 diabetes 
+mellitus: A hidden treasure.
+
+Al-Kuraishy HM(1), Al-Gareeb AI(1), Alexiou A(2)(3), Papadakis M(4), Nadwa 
+EH(5)(6), Albogami SM(7), Alorabi M(7), Saad HM(8), Batiha GE(9).
+
+Author information:
+(1)Department of Clinical Pharmacology and Medicine, College of Medicine, 
+AL-Mustansiriyah University, Baghdad, Iraq.
+(2)Department of Science and Engineering, Novel Global Community Educational 
+Foundation, Hebersham, Australia.
+(3)AFNP Med, Wien, Austria.
+(4)Department of Surgery II, University Hospital Witten-Herdecke, Heusnerstrasse 
+40, Wuppertal, Germany.
+(5)Department of Pharmacology and Therapeutics, College of Medicine, Jouf 
+University, Sakakah, Saudi Arabia.
+(6)Department of Medical Pharmacology, Faculty of Medicine, Cairo University, 
+Giza, Egypt.
+(7)Department of Biotechnology, College of Science, Taif University, Taif, Saudi 
+Arabia.
+(8)Department of Pathology, Faculty of Veterinary Medicine, Matrouh University, 
+Marsa Matruh, Egypt.
+(9)Department of Pharmacology and Therapeutics, Faculty of Veterinary Medicine, 
+Damanhour University, Damanhour, Egypt.
+
+Type 2 diabetes mellitus (T2DM) is a chronic endocrine disorder due to the 
+reduction of insulin sensitivity and relative deficiency of insulin secretion. 
+Growth differentiation factor 15 (GDF15) belongs to the transforming growth 
+factor beta (TGF-β) superfamily and was initially identified as macrophage 
+inhibitory cytokine-1 (MIC-1). GDF15 is considered a cytokine with an 
+anti-inflammatory effect and increases insulin sensitivity, reduces body weight, 
+and improves clinical outcomes in diabetic patients. GDF15 acts through 
+stimulation of glial-derived neurotrophic factor (GDNF) family receptor α-like 
+(GFRAL), which is highly expressed in the brain stem to induce taste aversion. 
+Metformin belongs to the group of biguanides that are derived from the plant 
+Galega officinalis. It is interesting to note that metformin is an 
+insulin-sensitizing agent used as a first-line therapy for T2DM that has been 
+shown to increase the circulating level of GDF15. Thus, the present review aims 
+to determine the critical association of the GDF15 biomarker in T2DM and how 
+metformin agents affect it. This review illustrates that metformin activates 
+GDF15 expression, which reduces appetite and leads to weight loss in both 
+diabetic and nondiabetic patients. However, the present review cannot give a 
+conclusion in this regard. Therefore, experimental, preclinical, and clinical 
+studies are warranted to confirm the potential role of GDF15 in T2DM patients.
+
+Publisher: 2型糖尿病(T2DM)是一种因胰岛素敏感性降低和胰岛素分泌相对不足而引起的慢性内分泌疾病。生长分化因子15 
+(GDF15)属于转化生长因子-β (TGF-β)超家族，最初被鉴定为巨噬细胞抑制因子-1 
+(MIC)。GDF15被认为是一种具有抗炎作用、增加胰岛素敏感性、减轻体重和改善糖尿病患者临床疗效的细胞因子。GDF15通过刺激脑干高表达的胶质源性神经营养因子(GDNF)家族受体α样(GFRAL)诱导味觉厌恶。二甲双胍属于从大戟属植物中提取的双胍类化合物。二甲双胍是一种胰岛素增敏剂，用于T2DM的一线治疗，已被证明可增加GDF15的循环水平。本综述旨在确定GDF15生物标志物在T2DM中的关键作用以及二甲双胍药物是如何影响它发。综述表明，二甲双胍激活GDF15的表达，降低糖尿病和非糖尿病患者的食欲，诱导体重减轻。然而，目前的研究无法在这方面给出结论。因此，有必要进行实验、临床前和临床研究来确认GDF15在T2DM患者中的潜在作用。.
+
+© 2022 The Authors. Journal of Diabetes published by Ruijin Hospital, Shanghai 
+JiaoTong University School of Medicine and John Wiley & Sons Australia, Ltd.
+
+DOI: 10.1111/1753-0407.13334
+PMCID: PMC9789395
+PMID: 36444166 [Indexed for MEDLINE]
+
+
+22. Neuropsychopharmacol Rep. 2025 Mar;45(1):e12528. doi: 10.1002/npr2.12528.
+
+Metformin and Cognitive Performance in Patients With Type 2 Diabetes: An 
+Umbrella Review.
+
+Enderami A(1), Shariati B(2), Zarghami M(3), Aliasgharian A(4), Ghazaiean M(5), 
+Darvishi-Khezri H(4).
+
+Author information:
+(1)Department of Psychiatry, School of Medicine, Mazandaran University of 
+Medical Sciences, Sari, Iran.
+(2)Mental Health Research Center, Iran University of Medical Sciences, Tehran, 
+Iran.
+(3)Department of Psychiatry, School of Medicine and Psychiatry and Behavioral 
+Sciences Research Center, Addiction Institute, Mazandaran University of Medical 
+Sciences, Sari, Iran.
+(4)Thalassemia Research Center (TRC), Hemoglobinopathy Institute, Mazandaran 
+University of Medical Sciences, Sari, Iran.
+(5)Gut and Liver Research Center, Non-communicable Disease Institute, Mazandaran 
+University of Medical Sciences, Sari, Iran.
+
+Contradictory results for the association between metformin intake and changes 
+in cognitive function have been reported. We attempted to overview systematic 
+reviews and meta-analyses showing the role of metformin, as mono or combination 
+therapy, in cognitive performance alterations among patients with type 2 
+diabetes mellitus (T2DM) and to determine the quality of the evidence as well. 
+To find the English-written reviews, a literature search was conducted on 
+PubMed, Web of Science, Scopus, Cochrane Library, Trip, and Google Scholar by 
+May 1, 2023. The literature search unearthed 2672 records, 10 of which were 
+included in the study. Metformin may provide cognitive benefits for patients 
+with type 2 diabetes, as evidence suggests potential improvements in memory and 
+a reduced risk of neurodegenerative diseases. Even though the Alzheimer's 
+Disease Assessment Scale-Cognitive Subscale (ADAS-Cog) score alterations 
+correspond to raising concerns about cognitive decline, Mini-Mental State 
+Examination (MMSE) and selective reminding test (SRT) score improvements support 
+metformin's role in improving specific cognitive domains. As such, metformin may 
+exert differential impacts on various aspects of cognitive performance in these 
+patients. However, the inconsistency and low quality of current evidence point 
+toward the need for accurate research to elucidate whether metformin's cognitive 
+effects are protective, neutral, or context-dependent based on patient profiles.
+
+© 2025 The Author(s). Neuropsychopharmacology Reports published by John Wiley & 
+Sons Australia, Ltd on behalf of The Japanese Society of 
+Neuropsychopharmacology.
+
+DOI: 10.1002/npr2.12528
+PMCID: PMC11772738
+PMID: 39871536 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+23. Drugs Today (Barc). 2004 Jul;40(7):633-43. doi: 10.1358/dot.2004.40.7.850480.
+
+Rosiglitazone maleate/metformin hydrochloride: a new formulation therapy for 
+type 2 diabetes.
+
+Cox SL(1).
+
+Author information:
+(1)Medical Information Department, Prous Science, 08025 Barcelona, Spain. 
+support@prous.com
+
+Many patients with type 2 diabetes require treatment with more than one 
+antihyperglycemic drug to achieve optimal glycemic control. The 
+thiazolidinediones are a novel class of oral antihyperglycemic drugs that 
+improve glycemic control primarily by increasing peripheral insulin resistance 
+and sensitizing the skeletal muscle, liver and adipose tissue to the actions of 
+insulin, in addition to improving beta-cell function. One of the many features 
+of the thiazolidinedione class of drugs is their synergism with other 
+antihyperglycemic drugs that have a different mechanism of action. The 
+combination of metformin hydrochloride, a biguanide that enhances glucose uptake 
+in peripheral tissues and reduces hepatic gluconeogenesis, with rosiglitazone 
+maleate, one of the newly available members of the thiazolidinedione family, 
+offers a rational therapeutic approach to the treatment of type 2 diabetes. In 
+patients whose type 2 diabetes is inadequately controlled with metformin 
+monotherapy, the addition of rosiglitazone significantly improves glycemic 
+control, insulin sensitivity and beta-cell function, compared with either drug 
+alone. In addition, this combination therapy has beneficial effects on other 
+cardiovascular risk factors. Rosiglitazone maleate/metformin hydrochloride 
+combination therapy is well tolerated in patients with type 2 diabetes and has a 
+favorable safety profile. This review summarizes the available evidence on the 
+clinical efficacy and safety of rosiglitazone maleate and metformin 
+hydrochloride combination therapy in patients with type 2 diabetes.
+
+DOI: 10.1358/dot.2004.40.7.850480
+PMID: 15510236 [Indexed for MEDLINE]
+
+
+24. Endocr Metab Immune Disord Drug Targets. 2023;23(6):818-825. doi: 
+10.2174/1871530323666221115091621.
+
+Older Adults with Type 2 Diabetes Treated with Metformin: AME-MET Study - A 
+Multicentric Real-world Study in Italy.
+
+Elena C(1), Borretta G(1), Attanasio R(2), Alberto B(3), Agrimi D(4), Argese 
+N(5), Crescenti C(6), Disoteo O(7), Fusco A(8), Gabellieri E(9), Guglielmi 
+R(10), Lisco G(11), Lo Pomo F(12), Nizzoli M(13), Panico A(14), Pirali B(15), 
+Salcuni AS(16), Turchi F(17), Grimaldi F(16).
+
+Author information:
+(1)Department of Endocrinology, Diabetes and Metabolism, Santa Croce and Carle 
+Hospital, Cuneo, 12100, Italy.
+(2)AME Scientific Committee, Milan, 20100, Italy.
+(3)Medical Physics Department, Santa Croce and Carle Hospital, Cuneo, 12100, 
+Italy.
+(4)District Hospital, Azienda Sanitaria Locale, Brindisi, 72100, Italy.
+(5)Department of Endocrinology, S.S. Annunziata Hospital, Taranto, 74100, Italy.
+(6)Department of Endocrinology and Diabetes, San Giovanni di Dio Hospital, 
+Florence, 50100, Italy.
+(7)Diabetology Department, Niguarda Hospital, Milan, 20100, Italy.
+(8)Antidiabetic Center AID, Garibaldi Hospital, Naples, 80100, Italy.
+(9)Endocrine and Metabolic Diseases Unit, SS. Antonio e Biagio e Cesare Arrigo 
+Hospital, Alessandria, 15100, Italy.
+(10)Department of Endocrinology and Metabolism, Regina Apostolorum Hospital, 
+Albano Laziale, 00041, Italy.
+(11)Department of Medicine-Section of Internal Medicine, Geriatrics, 
+Endocrinology and Rare Diseases, Bari, 70100, Italy.
+(12)Division of Endocrinology, San Carlo Hospital, Potenza, 85100, Italy.
+(13)Endocrinology Unit, Morgagni-Pierantoni Hospital, Forlì, 47121, Italy.
+(14)Endocrinology and Diabetology Service, ASL Benevento, 82100, Italy.
+(15)Internal Medicine Unit, Humanitas Mater Domini, Castellanza, 21053, Italy.
+(16)Endocrinology and Metabolism Unit, University Hospital of Udine, Udine, 
+33100, Italy.
+(17)Endocrinology and Metabolism UOC, INCA-IRCCS, Ancona, 60121, Italy.
+
+AIMS: Metformin is the most widely used drug for the first-line treatment of 
+type 2 diabetes mellitus (T2DM), but its use and schedule have been poorly 
+investigated in elderly patients.
+METHODS: We conducted an observational, cross-sectional, multicentric study on 
+metformin in T2DM outpatients older than 65 years who were taking the drug for 
+at least 6 months and referred to Italian Endocrinology and Diabetology 
+Services. The primary endpoint was daily metformin dose, and secondary endpoints 
+were the correlations between metformin dose and age, comorbidities, and 
+concomitant use of other drugs. The study was open to all members of AME 
+(Associazione Medici Endocrinologi).
+RESULTS: Fifteen Italian centers recruited 751 consecutive participants (42.9% 
+older than 75 years, 48.6% females). T2DM duration was 12.9 ± 9.7 years (longer 
+than 10 years in 53.8%). Metformin had been used for 10.3 ± 6.8 years (longer 
+than 10 years in 52.4%). Metformin dose was 1.6 ± 0.9 g/day (>1.5 g/day in 
+63.4%). As compared to the youngest, participants older than 75 years did not 
+differ for metformin daily dose or number of administrations. Metformin dose was 
+significantly directly correlated to eGFR, diabetes duration, and metformin 
+treatment duration.
+CONCLUSION: In this real-world study, the minimum daily effective dose of 
+metformin was prescribed in more than half of older T2DM outpatients.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/1871530323666221115091621
+PMCID: PMC10245800
+PMID: 36380441 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest, 
+financial or otherwise
+
+
+25. BMC Res Notes. 2025 Jul 31;18(1):339. doi: 10.1186/s13104-025-07214-2.
+
+Comparison of the effects of empagliflozin and sitagliptin, as an add-on to 
+metformin, on cardio-metabolic and glycemic parameters of patients with type 2 
+diabetes mellitus: a randomized, double-blind clinical trial.
+
+Mesri Alamdari N(1), Barghaman M(1), Roshanravan N(2), Mobasseri M(1), Tutunchi 
+H(1), Baharami A(1), Aliasgarzadeh A(1), Sadra V(3).
+
+Author information:
+(1)Endocrine Research Center, Tabriz University of Medical Sciences, Tabriz, 
+Iran.
+(2)Cardiovascular Research Center, Tabriz University of Medical Sciences, 
+Tabriz, Iran.
+(3)Endocrine Research Center, Tabriz University of Medical Sciences, Tabriz, 
+Iran. Sadra.vahideh@gmail.com.
+
+OBJECTIVE: To evaluate the effects of empagliflozin, sitagliptin, and metformin 
+on the glycemic indices and cardiometabolic control of patients with type 2 
+diabetes mellitus (T2DM).
+RESULTS: The significant changes in FBS from baseline to week 12 were - 23.1, 
+-16.15, and - 15.25 mg/dl in the empagliflozin, sitagliptin, and metformin arm, 
+respectively. HbA1C decreased significantly from baseline to week 12 in the 
+empagliflozin, sitagliptin, and metformin arm (-1.8, -1.35, -0.69%). The FBS and 
+HbA1C changes were significant in the empagliflozin group compared to the 
+metformin group (P = 0.027, P = 0.037, respectively). The weight changes were 
+substantial in the empagliflozin group relative to the metformin group (-4.1 vs. 
+-0.90 kg; p = 0.044). Compared with the metformin group, the adjusted mean 
+difference in the empagliflozin group was - 12.91 mg/dl (95% CI: 31.82, 6; 
+P = 0.001) for triglyceride (TG) levels and 6.47 mg/dl (95% CI: 2.93, 10.01; 
+P = 0.010) for high-density lipoprotein (HDL-c) levels. Moreover, empagliflozin 
+led to reductions in SBP about - 8.27 mm Hg (95% CI: -13.31, -3.23; P = 0.001) 
+and in DBP about - 13.37 mm Hg (95% CI: -16.42, -10.32; P = 0.001) compared with 
+metformin.
+TRAIL REGISTRATION NUMBER: IRCT. ir (IRCT20191231045959N1).
+TRAIL REGISTRATION DATE: 2020-01-19.
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s13104-025-07214-2
+PMCID: PMC12315431
+PMID: 40745313 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: The experimental protocol was reviewed and approved by the Ethics 
+Committee of Tabriz University of Medical Sciences (Ethical code: 
+IR.TBZMED.REC.1398.850). Moreover, the study was performed by the Helsinki 
+Declaration of 1964, and its later amendments; and all subjects provided 
+informed consent to participate in the study. Consent for publication: Not 
+applicable. Competing interests: The authors declare no competing interests.
+
+
+26. Cleve Clin J Med. 2019 Apr;86(4):237. doi: 10.3949/ccjm.86c.04004.
+
+In reply: Metformin for type 2 diabetes.
+
+Makin V(1), Lansang MC(1).
+
+Author information:
+(1)Cleveland Clinic, Cleveland, OH, USA.
+
+Comment on
+    Cleve Clin J Med. 2019 Apr;86(4):237. doi: 10.3949/ccjm.86c.04003.
+
+DOI: 10.3949/ccjm.86c.04004
+PMID: 30951459 [Indexed for MEDLINE]
+
+
+27. Am J Med. 1997 Jan;102(1):99-110. doi: 10.1016/s0002-9343(96)00353-1.
+
+An overview of metformin in the treatment of type 2 diabetes mellitus.
+
+Davidson MB(1), Peters AL.
+
+Author information:
+(1)Department of Diabetes, Endocrinology & Metabolism, City of Hope National 
+Medical Center, Duarte, California, USA.
+
+Type 2 diabetes mellitus results from impaired insulin secretion and reduced 
+peripheral insulin sensitivity. Treatment options include diet, oral 
+antihyperglycemic agents, and insulin. Metformin, an oral biguanide, ameliorates 
+hyperglycemia by improving peripheral sensitivity to insulin, and reducing 
+gastrointestinal glucose absorption and hepatic glucose production. Unlike 
+sulfonylureas, it does not stimulate insulin secretion, aggravate 
+hyperinsulinemia, or cause hypoglycemia or weight gain (weight stabilizes or 
+decreases). It also has beneficial effects on serum lipid profiles. In lean or 
+overweight type 2 diabetic patients uncontrolled by diet, metformin monotherapy 
+significantly improves glycemic control, compared with placebo, and to similar 
+extents as sulfonylurea monotherapy. In secondary sulfonylurea failure, 
+combination metformin-sulfonylurea treatment significantly improves glycemic 
+control beyond that achieved with either agent along. Metformin-sulfonylurea 
+also appears to be as effective as insulin or insulin plus sulfonylurea, 
+suggesting that such combination therapy may obviate or substantially delay 
+insulin therapy. Limited data suggest that metformin-insulin therapy may improve 
+glycemic control, possibly reducing insulin requirements, in type 2 diabetic 
+patients uncontrolled by insulin alone following secondary sulfonylurea failure. 
+Gastrointestinal side effects are common, but usually tolerated. Lactic acidosis 
+risk is minimal, provided that contraindications, particularly renal impairment, 
+and prescribing guidelines are respected. Aside from elevated plasma metformin 
+levels with cimetidine and synergistic hypoglycemia with sulfonylureas, few 
+interactions occur. Thus, metformin is safe and effective both as monotherapy or 
+in combination with other antihyperglycemic agents in type 2 diabetic patients 
+requiring additional glycemic control and may be advantageous when weight 
+control is desirable and/or hyperlipidemia exists.
+
+DOI: 10.1016/s0002-9343(96)00353-1
+PMID: 9209206 [Indexed for MEDLINE]
+
+
+28. Expert Opin Drug Saf. 2018 Aug;17(8):837-848. doi: 
+10.1080/14740338.2018.1497159. Epub 2018 Aug 1.
+
+The safety of empagliflozin plus metformin for the treatment of type 2 diabetes.
+
+Scheen AJ(1)(2).
+
+Author information:
+(1)a Division of Diabetes Nutrition and Metabolic Disorders, Department of 
+Medicine, (B35) , University of Liège, CHU Sart Tilman , Liege , Belgium.
+(2)b Division of Clinical Pharmacology, Center for Interdisciplinary Research on 
+Medicines (CIRM) , University of Liège, CHU Sart Tilman , Liège , Belgium.
+
+Metformin is the first-line glucose-lowering medication in type 2 diabetes 
+mellitus (T2DM), but it generally requires soon or later the addition of a 
+second-line therapy, among which a sodium-glucose cotransporter type 2 (SGLT-2) 
+inhibitor, to reach and maintain adequate glucose control. Areas covered: This 
+narrative review provides an analysis of both efficacy and safety of a dual 
+therapy combining metformin and empagliflozin, a SGLT-2 inhibitor that has 
+proven its' potential to reduce major cardiovascular (CV) events, mortality, and 
+renal outcomes in patients with T2DM and established CV disease. Pharmacokinetic 
+studies showed the absence of drug-drug interactions and demonstrate 
+bioequivalence between fixed-dose combination (FDC) and individual tablets of 
+empagliflozin and metformin. Focus will be put on the use of this dual therapy 
+in special populations. Expert opinion: The addition of empagliflozin to 
+metformin therapy improves glucose control, with a minimal risk of hypoglycemia, 
+while reducing body weight and arterial blood pressure. EMPA-REG OUTCOME showed 
+that this combined therapy may be used in patients with established CV disease 
+or heart failure. However, caution may be required in fragile elderly patients 
+and in patients with severe impaired renal function. Further post-marketing 
+surveillance is recommended to demonstrate long-term safety. FDC may improve 
+adherence.
+
+DOI: 10.1080/14740338.2018.1497159
+PMID: 30068236 [Indexed for MEDLINE]
+
+
+29. Zhongguo Zhen Jiu. 2024 Mar 12;44(3):245-250. doi: 
+10.13703/j.0255-2930.20230705-k0002.
+
+Acupotomy combined with metformin hydrochloride tablet for type 2 diabetes 
+mellitus and its effect on serum inflammatory factors.
+
+[Article in Chinese, English; Abstract available in Chinese from the publisher]
+
+Zhu T(1), Ji L(2), Gao Z(2), Ren J(2), Ji Y(2), Miao J(3).
+
+Author information:
+(1)College of Acupuncture-Moxibustion and Tuina, Chengdu University of TCM, 
+Chengdu 611137, Sichuan Province, China. 873678395@qq.com.
+(2)Second Clinical College, Shanxi University of CM.
+(3)Fourth Department of Acupuncture and Moxibustion, Shanxi 
+Acupuncture-Moxibustion Hospital, Taiyuan 030006. 475241908@qq.com.
+
+OBJECTIVES: To observe the clinical efficacy of acupotomy combined with 
+metformin hydrochloride tablet for type 2 diabetes mellitus (T2DM) and its 
+effect on serum levels of inflammatory factors.
+METHODS: A total of 68 patients with T2DM were randomized into an acupotomy 
+group (34 cases, 2 cases dropped out) and a western medication group (34 cases, 
+2 cases dropped out). Metformin hydrochloride tablet was given orally in the 
+western medication group, 0.5-1 g each time, twice a day, for continuous 8 
+weeks. On the basis of the treatment in the western medication group, acupotomy 
+was applied at bilateral Geshu (BL 17), Weiwanxiashu (EX-B 3), Ganshu (BL 18) in 
+the acupotomy group, once a week for continuous 8 weeks. Before and after 
+treatment, in the two groups, blood glucose (fasting blood glucose [FBG], 2-hour 
+plasma glucose [2 h PG] and glycosylated hemoglobin [HbA1c]), TCM syndrome 
+score, blood lipids (total cholesterol [TC], triglyceride [TG], low density 
+lipoprotein cholesterol [LDL-C] and high density lipoprotein cholesterol 
+[HDL-C]), insulin (fasting insulin [FINS] and 2-hour insulin [2 h INS]), 
+C-peptide indexes (fasting C-peptide [FC-P] and 2-hour C-peptide [2 h C-P]), 
+dosage of metformin hydrochloride tablet and diabetes specific quality of life 
+(DSQL) score were observed, the serum levels of tumor necrosis factor (TNF)-α, 
+interleukin (IL)-6 and IL-17 were measured by ELISA.
+RESULTS: After treatment, the FBG, 2 h PG, HbA1c, TCM syndrome scores, TC, TG, 
+LDL-C, FINS, 2 h INS, FC-P, 2 h C-P, DSQL scores as well as the serum levels of 
+TNF-α, IL-6, IL-17 were decreased compared with those before treatment (P<0.01), 
+HDL-C was increased compared with that before treatment (P<0.01) in the two 
+groups; the dosage of metformin hydrochloride tablet was decreased compared with 
+that before treatment in the acupotomy group (P<0.01). After treatment, in the 
+acupotomy group, the FBG, HbA1c, TCM syndrome score, TC, TG, LDL-C, FINS, 2 h 
+INS, FC-P, 2 h C-P, dosage of metformin hydrochloride tablet, DSQL score as well 
+as the serum level of TNF-α were lower than those in the western medication 
+group (P<0.05).
+CONCLUSIONS: Acupotomy combined with metformin hydrochloride tablet can improve 
+the blood glucose, clinical symptoms and quality of life in patients with T2DM, 
+its mechanism may be related to the regulation of inflammatory reaction.
+
+Publisher: 目的: 观察针刀联合盐酸二甲双胍片治疗2型糖尿病（T2DM）的临床疗效及对血清炎性因子含量的影响。方法: 
+将68例T2DM患者随机分为针刀组（34例，脱落2例）和西药组（34例，脱落2例）。西药组予盐酸二甲双胍片口服，每次0.5~1 
+g，每日2次，并根据血糖调整药物用量，连续治疗8周；针刀组在西药组基础上予针刀治疗，穴取双侧膈俞、胃脘下俞、肝俞，每周1次，连续治疗8周。观察两组患者治疗前后血糖［空腹血糖（FBG）、餐后2 
+h血糖（2 h 
+PG）、糖化血红蛋白（HbA1c）］、中医证候积分、血脂［总胆固醇（TC）、三酰甘油（TG）、低密度脂蛋白胆固醇（LDL-C）、高密度脂蛋白胆固醇（HDL-C）］、胰岛素［空腹胰岛素（FINS）、餐后2 
+h胰岛素（2 h INS）］、C肽指标［空腹C肽（FC-P）、餐后2 h C肽（2 h 
+C-P）］、盐酸二甲双胍片用量、糖尿病特异性生存质量量表（DSQL）评分，采用ELISA法检测血清肿瘤坏死因子（TNF）-α、白细胞介素（IL）-6、IL-17含量。结果: 
+治疗后，两组患者FBG、2 h PG、HbA1c、中医证候积分、TC、TG、LDL-C、FINS、2 h INS、FC-P、2 h 
+C-P、DSQL评分及血清TNF-α、IL-6、IL-17含量均较治疗前降低（P<0.01），HDL-C较治疗前升高（P<0.01），针刀组盐酸二甲双胍片用量较治疗前减少（P<0.01）；针刀组FBG、HbA1c、中医证候积分、TC、TG、LDL-C、FINS、2 
+h INS、FC-P、2 h C-P、盐酸二甲双胍片用量、DSQL评分及血清TNF-α含量低于西药组（P<0.05）。结论: 
+针刀联合盐酸二甲双胍片能改善T2DM患者的血糖及临床症状，提高患者生活质量，其机制可能与调控炎性反应相关。.
+
+DOI: 10.13703/j.0255-2930.20230705-k0002
+PMID: 38467496 [Indexed for MEDLINE]
+
+
+30. Pharmacogenomics. 2023 Aug;24(12):651-663. doi: 10.2217/pgs-2023-0109. Epub
+2023  Aug 23.
+
+Identification of clinical and pharmacogenetic factors influencing metformin 
+response in Type 2 diabetes mellitus.
+
+Pérez-Gómez N(1)(2), Fernández-Ortega MD(3), Elizari-Roncal M(4), Santos-Mazo 
+E(5), la Maza-Pereg L(5), Calvo S(2), Alcaraz R(2), Sanz-Solas A(2), Vinuesa 
+R(2), Saiz-Rodríguez M(1)(2).
+
+Author information:
+(1)Department of Health Sciences, University of Burgos, Burgos, Spain.
+(2)Research Unit, Fundación Burgos por la Investigación de la Salud (FBIS), 
+Hospital Universitario de Burgos, Burgos, Spain.
+(3)Health Center Gamonal Las Torres, Burgos Primary Health Care Management, 
+Burgos, Spain.
+(4)Health Center Jose Luis Santamaría, Burgos Primary Health Care Management, 
+Burgos, Spain.
+(5)Endocrinology Department, Hospital Universitario de Burgos, Burgos, Spain.
+
+Metformin, a hypoglycemic drug for Type 2 diabetes mellitus, shows variability 
+in pharmacokinetics and response due to membrane transporters. This study 
+followed 34 Type 2 diabetes mellitus patients on metformin treatment. Genetic 
+variants in 11 metformin transport-related genes were analyzed, revealing 
+associations. Specifically, SLC47A1 rs2289669 A/A and SLC22A4 rs1050152 T/T 
+genotypes correlated with glycated hemoglobin values at 6 months. SLC47A1 
+rs2289669 G/A genotype influenced glucose levels at 6 months, while SLC29A4 
+rs3889348 A/A, SLC47A1 rs2289669 A/A, SLC22A4 rs1050152 C/T and SLC47A2 
+rs12943590 A/A genotypes were linked to glucose levels at 12 months. 
+Additionally, ABCB1 rs2032582 C/A and ABCG2 rs2231137 C/T genotypes impacted 
+cholesterol levels at 12 months. These findings shed light on metformin response 
+determinants, offering insights for further research.
+
+DOI: 10.2217/pgs-2023-0109
+PMID: 37610884 [Indexed for MEDLINE]

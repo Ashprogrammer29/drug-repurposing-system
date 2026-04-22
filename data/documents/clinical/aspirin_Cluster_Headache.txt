@@ -1,0 +1,18 @@
+Trial: NCT04860713
+Title: An Efficacy and Safety of Proprietary Formulations of Oral Ketamine + Aspirin in Treatment of Acute Headache
+Phase: PHASE4
+Status: COMPLETED
+Summary: Headaches affect over 50% of patients annually, with close to 4% of ED visits for headache. Most headaches managed in the ED are benign, with 90% of these headaches classified as tension, migraine, or cluster. At present, the satisfaction with ED treatment of headache is low, and despite the multitude of available medications, the evidence- based treatment options are often quite limited. There ar
+---
+Trial: NCT04939922
+Title: China Headache and Vertigo Registry Study
+Phase: NA
+Status: RECRUITING
+Summary: In the Chinese Headache and Vertigo Registration Study, patients aged 4-99 years with headache (primary headache and secondary headache such as migraine and tension type headache), vertigo (vertigo diseases such as vestibular migraine) and chronic pain (fibromyalgia and other diseases) were collected. The biomarkers, imaging features, right-to-left shunt of the heart (lung), genetic characteristic
+---
+Trial: NCT00550446
+Title: A Phase 2 Study For Patients With A Physician's Diagnosis Of Rheumatoid Arthritis
+Phase: PHASE2
+Status: COMPLETED
+Summary: The purpose of this study is to determine the effectiveness and safety, over 6 months, of 5 doses of CP-690,550 for the treatment of adults with active rheumatoid arthritis. Five out of seven subjects will receive CP-690,550. One out of seven will receive adalimumab (Humira®) and one out of seven will only receive inactive substances (placebo.)
+---

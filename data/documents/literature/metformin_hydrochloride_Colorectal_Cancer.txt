@@ -1,0 +1,1497 @@
+1. Cancer Res. 2023 Jul 14;83(14):2358-2371. doi: 10.1158/0008-5472.CAN-22-3042.
+
+Metformin Reprograms Tryptophan Metabolism to Stimulate CD8+ T-cell Function in 
+Colorectal Cancer.
+
+Huang X(#)(1), Sun T(#)(1), Wang J(#)(1), Hong X(1), Chen H(1), Yan T(1), Zhou 
+C(1), Sun D(1), Yang C(2), Yu T(1), Su W(1), Du W(1), Xiong H(1).
+
+Author information:
+(1)Division of Gastroenterology and Hepatology, Key Laboratory of 
+Gastroenterology and Hepatology, Ministry of Health, State Key Laboratory for 
+Oncogenes and Related Genes, Renji Hospital, School of Medicine, Shanghai Jiao 
+Tong University; Shanghai Institute of Digestive Disease, Shanghai, China.
+(2)State Key Laboratory of Oncogenes and Related Genes, Shanghai Cancer 
+Institute, Renji Hospital, Shanghai Jiao Tong University School of Medicine, 
+Shanghai, China.
+(#)Contributed equally
+
+Colorectal carcinogenesis coincides with immune cell dysfunction. Metformin has 
+been reported to play a role in stimulating antitumor immunity, suggesting it 
+could be used to overcome immunosuppression in colorectal cancer. Herein, using 
+single-cell RNA sequencing (scRNA-seq), we showed that metformin remodels the 
+immune landscape of colorectal cancer. In particular, metformin treatment 
+expanded the proportion of CD8+ T cells and potentiated their function. Analysis 
+of the metabolic activities of cells in the colorectal cancer tumor 
+microenvironment (TME) at a single-cell resolution demonstrated that metformin 
+reprogrammed tryptophan metabolism, which was reduced in colorectal cancer cells 
+and increased in CD8+ T cells. Untreated colorectal cancer cells outcompeted 
+CD8+ T cells for tryptophan, leading to impaired CD8+ T-cell function. Metformin 
+in turn reduced tryptophan uptake by colorectal cancer cells, thereby restoring 
+tryptophan availability for CD8+ T cells and increasing their cytotoxicity. 
+Metformin inhibited tryptophan uptake in colorectal cancer cells by 
+downregulating MYC, which led to a reduction in the tryptophan transporter 
+SLC7A5. This work highlights metformin as an essential regulator of T-cell 
+antitumor immunity by reprogramming tryptophan metabolism, suggesting it could 
+be a potential immunotherapeutic strategy for treating colorectal cancer.
+SIGNIFICANCE: Analysis of the impact of metformin on the colorectal cancer 
+immunometabolic landscape at a single-cell resolution shows that metformin 
+alters cancer cell tryptophan metabolism to stimulate CD8+ T-cell antitumor 
+activity.
+
+©2023 American Association for Cancer Research.
+
+DOI: 10.1158/0008-5472.CAN-22-3042
+PMID: 37195082 [Indexed for MEDLINE]
+
+
+2. Front Endocrinol (Lausanne). 2018 Oct 23;9:622. doi: 10.3389/fendo.2018.00622.
+ eCollection 2018.
+
+Metformin and Colorectal Cancer.
+
+Higurashi T(1), Nakajima A(1).
+
+Author information:
+(1)Department of Gastroenterology and Hepatology, Yokohama City University 
+School of Medicine, Yokohama, Japan.
+
+Colorectal Cancer (CRC) is one of the most frequently encountered neoplasms in 
+humans. The incidence of CRC has been increasing and new strategies for 
+prevention, including chemoprevention, are required to lower its incidence and 
+associated mortality. Metformin is a biguanide compound commonly used for the 
+treatment of diabetes mellitus. Many recent basic research, epidemiological and 
+clinical trial studies have indicated that metformin has benefits not only in 
+diabetes treatment, but also in lowering the risk of developing cancer 
+(including CRC). These studies indicate that metformin may be a candidate 
+chemoprevention agent for CRC. This review article shall discuss the present 
+evidence of metformin treatment and CRC, as well as outline our challenge in the 
+investigation of metformin use in chemoprevention therapy for colorectal tumors.
+
+DOI: 10.3389/fendo.2018.00622
+PMCID: PMC6205961
+PMID: 30405532
+
+
+3. Cancer Med. 2023 May;12(10):11073-11096. doi: 10.1002/cam4.5594. Epub 2023 Jan
+ 16.
+
+Novel strategies to reverse chemoresistance in colorectal cancer.
+
+Ma SC(1)(2), Zhang JQ(1), Yan TH(2), Miao MX(2), Cao YM(1), Cao YB(1), Zhang 
+LC(3), Li L(1).
+
+Author information:
+(1)Institute of Vascular Disease, Shanghai TCM-Integrated Hospital, Shanghai 
+University of Traditional Chinese Medicine, Shanghai, China.
+(2)Department of Physiology and Pharmacology, China Pharmaceutic University, 
+Nanjing, China.
+(3)Department of Pharmacy, Shanghai Municipal Hospital of Traditional Chinese 
+Medicine, Shanghai, China.
+
+Colorectal cancer (CRC) is a common gastrointestinal malignancy with high 
+morbidity and fatality. Chemotherapy, as traditional therapy for CRC, has 
+exerted well antitumor effect and greatly improved the survival of CRC patients. 
+Nevertheless, chemoresistance is one of the major problems during chemotherapy 
+for CRC and significantly limits the efficacy of the treatment and influences 
+the prognosis of patients. To overcome chemoresistance in CRC, many strategies 
+are being investigated. Here, we review the common and novel measures to combat 
+the resistance, including drug repurposing (nonsteroidal anti-inflammatory 
+drugs, metformin, dichloroacetate, enalapril, ivermectin, bazedoxifene, 
+melatonin, and S-adenosylmethionine), gene therapy (ribozymes, RNAi, 
+CRISPR/Cas9, epigenetic therapy, antisense oligonucleotides, and noncoding 
+RNAs), protein inhibitor (EFGR inhibitor, S1PR2 inhibitor, and DNA 
+methyltransferase inhibitor), natural herbal compounds (polyphenols, terpenoids, 
+quinones, alkaloids, and sterols), new drug delivery system (nanocarriers, 
+liposomes, exosomes, and hydrogels), and combination therapy. These common or 
+novel strategies for the reversal of chemoresistance promise to improve the 
+treatment of CRC.
+
+© 2023 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/cam4.5594
+PMCID: PMC10242875
+PMID: 36645225 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no potential conflict of 
+interest.
+
+
+4. Front Endocrinol (Lausanne). 2020 Apr 16;11:191. doi:
+10.3389/fendo.2020.00191.  eCollection 2020.
+
+Metformin and Its Benefits for Various Diseases.
+
+Lv Z(1), Guo Y(2).
+
+Author information:
+(1)Department of Molecular Epidemiology, Shenzhen Center for Disease Control and 
+Prevention, Shenzhen, China.
+(2)The Eighth Affiliated Hospital, Sun Yat-Sen University, Shenzhen, China.
+
+Metformin is a widely used biguanide drug due to its safety and low cost. It has 
+been used for over 60 years to treat type 2 diabetes at the early stages because 
+of its outstanding ability to decrease plasma glucose levels. Over time, 
+different uses of metformin were discovered, and the benefits of metformin for 
+various diseases and even aging were verified. These diseases include cancers 
+(e.g., breast cancer, endometrial cancer, bone cancer, colorectal cancer, and 
+melanoma), obesity, liver diseases, cardiovascular disease, and renal diseases. 
+Metformin exerts different effects through different signaling pathways. 
+However, the underlying mechanisms of these different benefits remain to be 
+elucidated. The aim of this review is to provide a brief summary of the benefits 
+of metformin and to discuss the possible underlying mechanisms.
+
+Copyright © 2020 Lv and Guo.
+
+DOI: 10.3389/fendo.2020.00191
+PMCID: PMC7212476
+PMID: 32425881 [Indexed for MEDLINE]
+
+
+5. Dig Dis Sci. 2021 May;66(5):1409-1414. doi: 10.1007/s10620-020-06390-4. Epub 
+2020 Jun 12.
+
+Metformin, Microbiome and Protection Against Colorectal Cancer.
+
+Jones GR(1), Molloy MP(2).
+
+Author information:
+(1)Bowel Cancer and Biomarker Laboratory, Kolling Institute, Northern Clinical 
+School, The University of Sydney, St.Leonards, Australia.
+(2)Bowel Cancer and Biomarker Laboratory, Kolling Institute, Northern Clinical 
+School, The University of Sydney, St.Leonards, Australia. 
+m.molloy@sydney.edu.au.
+
+Metformin is widely used as a firstline therapy to improve insulin sensitivity 
+in type 2 diabetes mellitus (T2DM) patients. This is achieved primarily through 
+regulating AMP-activated protein kinase (AMPK)-dependent pathways leading to 
+reduced hepatic gluconeogenesis and improved muscular uptake of glucose. 
+Epidemiological studies first recognized a relationship with metformin use in 
+T2DM patients and reduced colorectal cancer (CRC) risk. Thereafter, metformin 
+has gained wide attention as a candidate CRC chemopreventative agent; however, 
+the molecular mechanisms underlying its gastrointestinal anti-cancer properties 
+appear multi-faceted and are not well understood. An intriguing area of research 
+is the growing evidence of metformin's metabolic juncture with gut microbiota at 
+the intestinal mucosal interface. This review examines the mechanistic evidence 
+which may account for metformin's protection against CRC through interactions 
+between the drug, gut microbiota and the colonic epithelial mucosa.
+
+DOI: 10.1007/s10620-020-06390-4
+PMID: 32533543 [Indexed for MEDLINE]
+
+
+6. Indian J Gastroenterol. 2025 Apr;44(2):142-153. doi:
+10.1007/s12664-024-01726-8.  Epub 2025 Feb 10.
+
+Epidemiology of colorectal cancer: A review with special emphasis on India.
+
+Shivshankar S(1)(2), Patil PS(1)(3), Deodhar K(1)(4), Budukh AM(5)(6).
+
+Author information:
+(1)Homi Bhabha National Institute, Training School Complex, Anushakti Nagar, 
+Mumbai, 400 094, India.
+(2)Division of Medical Records and Cancer Registries, Centre for Cancer 
+Epidemiology, Advanced Centre for Treatment, Research and Education on Cancer, 
+Tata Memorial Centre, Kharghar, Navi Mumbai, 410 210, India.
+(3)Department of Digestive Diseases and Clinical Nutrition, Tata Memorial 
+Hospital, Dr Ernest Borges Road, Mumbai, 400 012, India.
+(4)Department of Pathology, Tata Memorial Hospital, Dr Ernest Borges Road, 
+Mumbai, 400 012, India.
+(5)Homi Bhabha National Institute, Training School Complex, Anushakti Nagar, 
+Mumbai, 400 094, India. budukham@tmc.gov.in.
+(6)Division of Medical Records and Cancer Registries, Centre for Cancer 
+Epidemiology, Advanced Centre for Treatment, Research and Education on Cancer, 
+Tata Memorial Centre, Kharghar, Navi Mumbai, 410 210, India. 
+budukham@tmc.gov.in.
+
+Colorectal cancer (CRC) is a common malignancy and cause for death around the 
+world. In India, it ranks as the fourth most incident cancer in both sexes, with 
+64,863 cases and 38,367 deaths in 2022. With such high mortality, CRC survival 
+in India is way lesser than that of developed countries. While western countries 
+are facing an overall decline in CRC incidence, various regions in India are 
+seeing an increasing trend. Within India, urban regions have markedly higher 
+incidence than rural. Risk factors include consumption of red and processed 
+meat, fried and sugary food, smoking and alcohol, comorbidities such as obesity, 
+diabetes and inflammatory bowel disease (IBD), family history of CRC, adenomas 
+and genetic syndromes, radiation exposure, pesticides and asbestos. Consumption 
+of nutrient-rich well-balanced diets abundant in vegetables, dairy products, 
+whole grains, nuts and legumes combined with physical activity are protective 
+against CRC. Besides these, metformin, aspirin and micronutrient supplements 
+were inversely associated with the development of CRC. Since a considerable 
+proportion of CRC burden is attributed to modifiable risk factors, execution of 
+population level preventive strategies is essential to limit the growing burden 
+of CRC. Identifying the necessity, in this review, we explore opportunities for 
+primary prevention and for identifying high-risk populations of CRC to control 
+its burden in the near future.
+
+© 2025. The Author(s).
+
+DOI: 10.1007/s12664-024-01726-8
+PMCID: PMC11953156
+PMID: 39928255 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Competing interests: SS, PSP, KD 
+and AMB have no competing interests to declare that are relevant to the content 
+of this article. Disclaimer: The authors are solely responsible for the data and 
+the content of the paper. In no way, the Honorary Editor-in-Chief, Editorial 
+Board Members, the Indian Society of Gastroenterology, printer/publishers, or 
+are responsible for the results/findings and content of this article.
+
+
+7. Diabetes Res Clin Pract. 2018 Sep;143:409-419. doi: 
+10.1016/j.diabres.2018.05.023. Epub 2018 May 26.
+
+Metformin in cancer.
+
+Mallik R(1), Chowdhury TA(2).
+
+Author information:
+(1)(a)International Training Fellow in Endocrinology and Diabetes, Department of 
+Diabetes and Metabolism, Barts Health NHS Trust, London, UK.
+(2)Department of Diabetes and Metabolism, Barts and the London School of 
+Medicine and Dentistry, London, UK. Electronic address: 
+Tahseen.Chowdhury@bartshealth.nhs.uk.
+
+Metformin is a lipophilic biguanide which inhibits hepatic gluconeogenesis and 
+improves peripheral utilization of glucose. It is the first line pharmacotherapy 
+for glucose control in patients with Type 2 diabetes due to its safety, efficacy 
+and tolerability. Metformin exhibits pleotropic effects, which may have 
+beneficial effects on a variety of tissues independent of glucose control. A 
+potential anti-tumourigenic effect of metformin may be mediated by its role in 
+activating AMP-kinase, which in turn inhibits mammalian target of rapamycin 
+(mTOR). Non-AMPK dependent protective pathways may include reduction of insulin, 
+insulin-like growth factor-1, leptin, inflammatory pathways and potentiation of 
+adiponectin, all of which may have a role in tumourigenesis. A role in 
+inhibiting cancer stem cells is also postulated. A number of large scale 
+observational and cohort studies suggest metformin is associated with a reduced 
+risk of a number of cancers, although the data is not conclusive. Recent 
+randomised studies reporting use of metformin in treatment of cancer have 
+revealed mixed results, and the results of much larger randomised trials of 
+metformin as an adjuvant therapy in breast and colorectal cancers are awaited.
+
+Copyright © 2018 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.diabres.2018.05.023
+PMID: 29807101 [Indexed for MEDLINE]
+
+
+8. Epidemiology. 2023 Sep 1;34(5):690-699. doi: 10.1097/EDE.0000000000001626.
+Epub  2023 May 23.
+
+Evaluating Metformin Strategies for Cancer Prevention: A Target Trial Emulation 
+Using Electronic Health Records.
+
+Dickerman BA(1)(2), García-Albéniz X(1)(2)(3), Logan RW(1)(2), Denaxas 
+S(4)(5)(6), Hernán MA(1)(2)(7).
+
+Author information:
+(1)From the CAUSALab, Harvard T.H. Chan School of Public Health, Boston, MA.
+(2)Department of Epidemiology, Harvard T.H. Chan School of Public Health, 
+Boston, MA.
+(3)RTI Health Solutions, Barcelona, Spain.
+(4)Institute of Health Informatics Research, University College London, London, 
+UK.
+(5)Health Data Research UK (HDR UK) London, University College London, London, 
+UK.
+(6)The Alan Turing Institute, London, UK.
+(7)Department of Biostatistics, Harvard T.H. Chan School of Public Health, 
+Boston, MA.
+
+Comment in
+    J Comp Eff Res. 2024 Aug;13(8):e240091. doi: 10.57264/cer-2024-0091.
+
+BACKGROUND: Metformin users appear to have a substantially lower risk of cancer 
+than nonusers in many observational studies. These inverse associations may be 
+explained by common flaws in observational analyses that can be avoided by 
+explicitly emulating a target trial.
+METHODS: We emulated target trials of metformin therapy and cancer risk using 
+population-based linked electronic health records from the UK (2009-2016). We 
+included individuals with diabetes, no history of cancer, no recent prescription 
+for metformin or other glucose-lowering medication, and hemoglobin A1c (HbA1c) 
+<64 mmol/mol (<8.0%). Outcomes included total cancer and 4 site-specific cancers 
+(breast, colorectal, lung, and prostate). We estimated risks using pooled 
+logistic regression with adjustment for risk factors via inverse-probability 
+weighting. We emulated a second target trial among individuals regardless of 
+diabetes status. We compared our estimates with those obtained using previously 
+applied analytic approaches.
+RESULTS: Among individuals with diabetes, the estimated 6-year risk differences 
+(metformin - no metformin) were -0.2% (95% CI = -1.6%, 1.3%) in the 
+intention-to-treat analysis and 0.0% (95% CI = -2.1%, 2.3%) in the per-protocol 
+analysis. The corresponding estimates for all site-specific cancers were close 
+to zero. Among individuals regardless of diabetes status, these estimates were 
+also close to zero and more precise. By contrast, previous analytic approaches 
+yielded estimates that appeared strongly protective.
+CONCLUSIONS: Our findings are consistent with the hypothesis that metformin 
+therapy does not meaningfully influence cancer incidence. The findings highlight 
+the importance of explicitly emulating a target trial to reduce bias in the 
+effect estimates derived from observational analyses.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/EDE.0000000000001626
+PMCID: PMC10524586
+PMID: 37227368 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors report no conflicts of interest.
+
+
+9. Contemp Oncol (Pozn). 2024;28(2):85-90. doi: 10.5114/wo.2024.142553. Epub 2024
+ Aug 23.
+
+Metformin in the treatment of colorectal cancer and neuroendocrine tumours.
+
+Daniłowska K(1), Picheta N(1), Krupska BI(1), Rudzińska A(1), Burdan O(1), 
+Szklener K(2).
+
+Author information:
+(1)Student Academic Group at the Department of Clinical Oncology and 
+Chemotherapy, Medical University of Lublin, Lublin, Poland.
+(2)Oncology and Chemotherapy Department, Independent Public Clinical Hospital 
+no. 4, Lublin, Poland.
+
+Colorectal cancer is being detected in increasingly younger age groups, and its 
+incidence has been on the rise in recent years. Neuroendocrine tumors have also 
+shown an increase in occurrence despite their rarity. Neuroendocrine tumors most 
+commonly occur in the gastrointestinal tract and lungs. Therefore, new, better, 
+and more effective treatment methods are being sought. Metformin, a drug 
+commonly used in the treatment of type 2 diabetes, has demonstrated its ability 
+to reduce the incidence and increase the efficacy of chemotherapy in colorectal 
+cancer and neuroendocrine tumors. The biguanide works by inhibiting the 
+mammalian target of rapamycin pathway, activating 5'AMP activated protein 
+kinase, and reducing insulin-like growth factor 1. In studies conducted on human 
+cells and xenografts, the drug has shown its positive effects in combating these 
+tumors by reducing proliferation, slowing the growth of cancer cells, and 
+inhibiting metastasis. The main goal of this review is to comprehensively 
+summarize the current state of knowledge regarding metformin in the treatment of 
+colorectal cancer and neuroendocrine tumors.
+
+Copyright © 2024 Termedia.
+
+DOI: 10.5114/wo.2024.142553
+PMCID: PMC11480908
+PMID: 39421710
+
+Conflict of interest statement: None.
+
+
+10. Exp Clin Endocrinol Diabetes. 2019 Jul;127(7):445-454. doi:
+10.1055/a-0621-8830.  Epub 2018 Jun 28.
+
+Metformin and Colorectal Cancer - A Systematic Review.
+
+Kobiela J(1), Dobrzycka M(1), Jędrusik P(2), Kobiela P(3), Spychalski P(1), 
+Śledziński Z(1), Zdrojewski T(4).
+
+Author information:
+(1)Department of General, Endocrine, and Transplant Surgery, Medical University 
+of Gdańsk, Gdańsk, Poland.
+(2)Department of Internal Medicine, Hypertension, and Angiology, Medical 
+University of Warsaw, Warsaw, Poland.
+(3)Department of Neonalology, Medical University of Gdańsk, Gdańsk, Poland.
+(4)Department of Arterial Hypertension and Diabetology, Medical University of 
+Gdańsk, Gdańsk, Poland.
+
+OBJECTIVES: Colorectal cancer (CRC) is the second leading cause of 
+cancer-related deaths. The development of preventive strategies in CRC has been 
+the subject of much research. Multiple studies have shown an association between 
+diabetes and CRC. In addition to its glucose-lowering properties, metformin 
+might have an additional role in the prevention and treatment of CRC. OUR 
+OBJECTIVE: was to summarize findings on role of metformin in colorectal cancer.
+METHODS: We conducted a systematic review of the PubMed and Cochrane databases 
+from January 2005 to December 2017 in search for studies on the association 
+between metformin and CRC.
+RESULTS: Of the total of 189 studies identified by the search, we excluded 123 
+studies and reviewed the remaining 66 studies on cell lines, animals, patients 
+with diabetes, and healthy subjects. In vitro and animal studies have shown a 
+protective effect of metformin use on the incidence of CRC and amplification of 
+the therapeutic effects of CRC chemotherapy. Studies on patients with type 2 
+diabetes treated with metformin analyzed data on total of 146 496 patients. The 
+results of those studies on the role of metformin in CRC suggest risk reduction 
+and potential applications within therapeutic regimens, although some of those 
+are conflicting.
+CONCLUSION: Further studies are warranted to define the role of metformin in 
+both prevention and treatment of CRC.
+
+© Georg Thieme Verlag KG Stuttgart · New York.
+
+DOI: 10.1055/a-0621-8830
+PMID: 29954001 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.
+
+
+11. JAMA Netw Open. 2024 Jul 1;7(7):e2421305. doi: 
+10.1001/jamanetworkopen.2024.21305.
+
+Glucagon-Like Peptide 1 Receptor Agonists and 13 Obesity-Associated Cancers in 
+Patients With Type 2 Diabetes.
+
+Wang L(1), Xu R(2)(3), Kaelber DC(4), Berger NA(1)(3).
+
+Author information:
+(1)Center for Science, Health, and Society, Case Western Reserve University 
+School of Medicine, Cleveland, Ohio.
+(2)Center for Artificial Intelligence in Drug Discovery, Case Western Reserve 
+University School of Medicine, Cleveland, Ohio.
+(3)Case Comprehensive Cancer Center, Case Western Reserve University School of 
+Medicine, Cleveland, Ohio.
+(4)Departments of Internal Medicine, Pediatrics, and Population and Quantitative 
+Health Sciences and the Center for Clinical Informatics Research and Education, 
+The MetroHealth System, Cleveland, Ohio.
+
+Erratum in
+    JAMA Netw Open. 2025 Jun 2;8(6):e2519224. doi: 
+10.1001/jamanetworkopen.2025.19224.
+
+IMPORTANCE: Thirteen human malignant neoplasms have been identified as 
+obesity-associated cancers (OACs), ie, the presence of excess body fat is 
+associated with increased risk of developing cancer and worse prognosis in 
+patients with these specific tumors. The glucagon-like peptide receptor agonist 
+(GLP-1RA) class of pharmaceuticals are effective agents for the treatment of 
+type 2 diabetes (T2D) and for achieving weight loss, but the association of 
+GLP-1RAs with the incident risk of 13 OACs is unclear.
+OBJECTIVE: To compare the incident risk of each of the 13 OACs in patients with 
+T2D who were prescribed GLP-1RAs vs insulins or metformin.
+DESIGN, SETTING, AND PARTICIPANTS: This retrospective cohort study was based on 
+a nationwide multicenter database of electronic health records (EHRs) of 113 
+million US patients. The study population included 1 651 452 patients with T2D 
+who had no prior diagnosis of OACs and were prescribed GLP-1RAs, insulins, or 
+metformin during March 2005 to November 2018. Data analysis was conducted on 
+April 26, 2024.
+EXPOSURES: Prescription of GLP-1RAs, insulins, or metformin.
+MAIN OUTCOMES AND MEASURES: Incident (first-time) diagnosis of each of the 13 
+OACs occurring during a 15-year follow-up after the exposure was examined using 
+Cox proportional hazard and Kaplan-Meier survival analyses with censoring 
+applied. Hazard ratios (HRs), cumulative incidences, and 95% CIs were 
+calculated. All models were adjusted for confounders at baseline by 
+propensity-score matching baseline covariates.
+RESULTS: In the study population of 1 651 452 patients with T2D (mean [SD] age, 
+59.8 [15.1] years; 827 873 [50.1%] male and 775 687 [47.0%] female participants; 
+5780 [0.4%] American Indian or Alaska Native, 65 893 [4.0%] Asian, 281 242 
+[17.0%] Black, 13 707 [0.8%] Native Hawaiian or Other Pacific Islander, and 
+1 000 780 [60.6%] White participants), GLP-1RAs compared with insulin were 
+associated with a significant risk reduction in 10 of 13 OACs, including in 
+gallbladder cancer (HR, 0.35; 95% CI, 0.15-0.83), meningioma (HR, 0.37; 95% CI, 
+0.18-0.74), pancreatic cancer (HR, 0.41; 95% CI, 0.33-0.50), hepatocellular 
+carcinoma (HR, 0.47; 95% CI, 0.36-0.61), ovarian cancer (HR, 0.52; 95% CI, 
+0.03-0.74), colorectal cancer (HR, 0.54; 95% CI, 0.46-0.64), multiple myeloma 
+(HR, 0.59; 95% CI, 0.44-0.77), esophageal cancer (HR, 0.60; 95% CI, 0.42-0.86), 
+endometrial cancer (HR, 0.74; 95% CI, 0.60-0.91), and kidney cancer (HR, 0.76; 
+95% CI, 0.64-0.91). Although not statistically significant, the HR for stomach 
+cancer was less than 1 among patients who took GLP-1RAs compared with those who 
+took insulin (HR, 0.73; 95% CI, 0.51-1.03). GLP-1RAs were not associated with a 
+reduced risk of postmenopausal breast cancer or thyroid cancer. Of those cancers 
+that showed a decreased risk among patients taking GLP-1RAs compared with those 
+taking insulin, HRs for patients taking GLP-1RAs vs those taking metformin for 
+colorectal and gallbladder cancer were less than 1, but the risk reduction was 
+not statistically significant. Compared with metformin, GLP-1RAs were not 
+associated with a decreased risk of any cancers, but were associated with an 
+increased risk of kidney cancer (HR, 1.54; 95% CI, 1.27-1.87).
+CONCLUSIONS AND RELEVANCE: In this study, GLP-1RAs were associated with lower 
+risks of specific types of OACs compared with insulins or metformin in patients 
+with T2D. These findings provide preliminary evidence of the potential benefit 
+of GLP-1RAs for cancer prevention in high-risk populations and support further 
+preclinical and clinical studies for the prevention of certain OACs.
+
+DOI: 10.1001/jamanetworkopen.2024.21305
+PMCID: PMC11227080
+PMID: 38967919 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Drs Kaelber 
+and Berger reported receiving grants from the National Institutes of Health 
+(NIH) during the conduct of the study. No other disclosures were reported.
+
+
+12. J Exp Clin Cancer Res. 2019 Dec 12;38(1):491. doi: 10.1186/s13046-019-1495-2.
+
+Metformin in colorectal cancer: molecular mechanism, preclinical and clinical 
+aspects.
+
+Kamarudin MNA(1), Sarker MMR(2)(3), Zhou JR(4), Parhar I(5).
+
+Author information:
+(1)Brain Research Institute Monash Sunway (BRIMS), Jeffrey Cheah School of 
+Medicine and Health Sciences, Monash University Malaysia, 47500, Bandar Sunway, 
+Selangor, Malaysia. MuhamadNoor.Alfarizal@monash.edu.
+(2)Department of Pharmacy, State University of Bangladesh, 77 Satmasjid Road, 
+Dhanmondi, Dhaka, 1205, Bangladesh. moklesur2002@yahoo.com.
+(3)Health Med Science Research Limited, 3/1 Block F, Lalmatia, Mohammadpur, 
+Dhaka, 1207, Bangladesh. moklesur2002@yahoo.com.
+(4)Department of Surgery, Beth Israel Deaconess Medical Center, Harvard Medical 
+School, Boston, MA, 02215, USA.
+(5)Brain Research Institute Monash Sunway (BRIMS), Jeffrey Cheah School of 
+Medicine and Health Sciences, Monash University Malaysia, 47500, Bandar Sunway, 
+Selangor, Malaysia.
+
+Growing evidence showed the increased prevalence of cancer incidents, 
+particularly colorectal cancer, among type 2 diabetic mellitus patients. 
+Antidiabetic medications such as, insulin, sulfonylureas, dipeptyl peptidase 
+(DPP) 4 inhibitors and glucose-dependent insulinotropic peptide (GLP-1) 
+analogues increased the additional risk of different cancers to diabetic 
+patients. Conversely, metformin has drawn attention among physicians and 
+researchers since its use as antidiabetic drug exhibited beneficial effect in 
+the prevention and treatment of cancer in diabetic patients as well as an 
+independent anticancer drug. This review aims to provide the comprehensive 
+information on the use of metformin at preclinical and clinical stages among 
+colorectal cancer patients. We highlight the efficacy of metformin as an 
+anti-proliferative, chemopreventive, apoptosis inducing agent, adjuvant, and 
+radio-chemosensitizer in various colorectal cancer models. This multifarious 
+effects of metformin is largely attributed to its capability in modulating 
+upstream and downstream molecular targets involved in apoptosis, autophagy, cell 
+cycle, oxidative stress, inflammation, metabolic homeostasis, and epigenetic 
+regulation. Moreover, the review highlights metformin intake and colorectal 
+cancer risk based on different clinical and epidemiologic results from different 
+gender and specific population background among diabetic and non-diabetic 
+patients. The improved understanding of metformin as a potential 
+chemotherapeutic drug or as neo-adjuvant will provide better information for it 
+to be used globally as an affordable, well-tolerated, and effective anticancer 
+agent for colorectal cancer.
+
+DOI: 10.1186/s13046-019-1495-2
+PMCID: PMC6909457
+PMID: 31831021 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author declares no conflict of interest in 
+this review manuscript.
+
+
+13. Int J Colorectal Dis. 2020 Aug;35(8):1501-1512. doi:
+10.1007/s00384-020-03676-x.  Epub 2020 Jun 26.
+
+Metformin and colorectal cancer: a systematic review, meta-analysis and 
+meta-regression.
+
+Ng CW(1), Jiang AA(1), Toh EMS(1), Ng CH(1), Ong ZH(1), Peng S(2), Tham HY(3), 
+Sundar R(1)(2), Chong CS(1)(3), Khoo CM(4)(5).
+
+Author information:
+(1)Yong Loo Lin School of Medicine, National University of Singapore, 10 Medical 
+Dr, Singapore, 117597, Singapore.
+(2)Department of Haematology-Oncology, National University Cancer Institute, NUH 
+Medical Centre, Singapore, 119074, Singapore.
+(3)Division of Colorectal Surgery, University Surgical Cluster, National 
+University Hospital, 5 Lower Kent Ridge Rd, Singapore, 119074, Singapore.
+(4)Yong Loo Lin School of Medicine, National University of Singapore, 10 Medical 
+Dr, Singapore, 117597, Singapore. mdckcm@nus.edu.sg.
+(5)Division of Endocrinology, Department of Medicine, National University 
+Hospital, 5 Lower Kent Ridge Rd, Singapore, 119074, Singapore. 
+mdckcm@nus.edu.sg.
+
+PURPOSE: Metformin may have a role in reducing the incidence of colorectal 
+cancer (CRC) and improving survival outcome. This meta-analysis explored the 
+effect of metformin use on colorectal adenoma and cancer incidence, and 
+colorectal oncological outcomes.
+METHODS: A database search was conducted on Medline, Embase and CNKI for studies 
+comparing metformin vs. non-metformin users, metformin users vs. non-diabetics 
+and metformin users vs. diabetics with diet-only treatment. Meta-analysis was 
+done with DerSimonian and Laird with risk ratios (RR), and hazard ratios (HR) 
+for survival outcomes.
+RESULTS: We included 58 studies and summarized incidences of colorectal adenoma 
+and cancer, as well as cancer survival outcomes. Metformin users had a 
+significant lower incidence of colorectal adenoma (RR 0.77, CI 0.67-0.88, 
+p < 0.001), advanced adenoma (0.61, CI 0.42-0.88, p = 0.008) and CRC (RR 0.76, 
+CI 0.69-0.84, p < 0.001) respectively compared with non-metformin users. Overall 
+survival (HR 0.6, CI 0.53-0.67, p < 0.001) and CRC-specific survival (HR 0.66, 
+CI 0.59-0.74, p < 0.001) were higher among metformin users compared with 
+non-metformin users. Further analysis on overall survival of metastatic CRC 
+patients revealed significantly higher survival rates in metformin users (HR 
+0.77, CI 0.68-0.87, p < 0.001).
+CONCLUSION: This meta-analysis showed that metformin use significantly reduces 
+colorectal adenoma and cancer incidence and improves colorectal cancer outcomes.
+
+DOI: 10.1007/s00384-020-03676-x
+PMID: 32592092 [Indexed for MEDLINE]
+
+
+14. Med Oncol. 2022 Jul 2;39(9):136. doi: 10.1007/s12032-022-01722-y.
+
+Metformin inhibits the development and metastasis of colorectal cancer.
+
+Sugiura K(1)(2), Okabayashi K(3), Seishima R(1), Ishida T(4), Shigeta K(1), 
+Tsuruta M(1)(4), Hasegawa H(5), Kitagawa Y(1).
+
+Author information:
+(1)Department of Surgery, Keio University School of Medicine, 35 Shinanomachi 
+Shinjyuku-Ku, Tokyo, 160-8582, Japan.
+(2)Surgery, Ashikaga Red Cross Hospital, Tochigi, Japan.
+(3)Department of Surgery, Keio University School of Medicine, 35 Shinanomachi 
+Shinjyuku-Ku, Tokyo, 160-8582, Japan. okabayashikoji@gmail.com.
+(4)Department of Hepato-Biliary-Pancreatic & Gastrointestinal Surgery, and 
+Welfare, School of Medicine, International University of Health, Chiba, Japan.
+(5)Department of Surgery, Tokyo Dental College Ichikawa General Hospital, Chiba, 
+Japan.
+
+Metformin is a commonly used drug for the treatment of diabetes. Accumulating 
+evidence suggests that it exerts anti-cancer effects in many cancers, including 
+colorectal cancer. However, the underlying molecular mechanisms of colorectal 
+cancer metastasis remain unclear. Colorectal cancer cell lines were treated with 
+metformin, and cell proliferation, invasion, and migration were analyzed in 
+vitro. The relationship between metformin and the AMPK-mTOR axis was assessed by 
+Western blot analysis and transfection with small interfering RNA. A colorectal 
+cancer xenograft mouse model was used to observe the effects of metformin on 
+liver metastasis. Immunohistochemical analysis was performed on liver metastatic 
+tumors. In in vitro experiments, metformin significantly inhibited the 
+proliferation, migration, and invasion only in HCT116 and SW837 cells, but not 
+in HCT8 and Lovo cells. Only in HCT116 and SW837, a change in AMPK-mTOR 
+expression was observed in a dose-dependent manner. In colorectal cancer 
+xenograft mice, the liver metastatic rate (10% vs. 50%, p = 0.05) and the number 
+of liver metastatic nodules (0.1/body vs. 1.2/body, p = 0.04) were significantly 
+lower in the metformin group. Tumor proliferation and EMT were decreased and 
+apoptosis was promoted only in metastatic liver tumors of mice treated with 
+metformin. The molecular mechanism of the anti-cancer effects of metformin 
+involves repression of mTOR pathways via AMPK activation. Moreover, the 
+differences in metformin sensitivity depend on the response of the AMPK-mTOR 
+pathway to metformin. Our study provides a theoretical basis for the 
+anti-metastatic treatment of colorectal cancer using metformin.
+
+© 2022. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s12032-022-01722-y
+PMID: 35780231 [Indexed for MEDLINE]
+
+
+15. Cancers (Basel). 2024 May 29;16(11):2055. doi: 10.3390/cancers16112055.
+
+Restricting Colorectal Cancer Cell Metabolism with Metformin: An Integrated 
+Transcriptomics Study.
+
+Orang A(1), Marri S(1), McKinnon RA(1), Petersen J(1)(2), Michael MZ(1)(3)(4).
+
+Author information:
+(1)Flinders Health and Medical Research Institute, Flinders University, Bedford 
+Park, SA 5042, Australia.
+(2)Nutrition and Metabolism, South Australia Health and Medical Research 
+Institute, Adelaide, SA 5000, Australia.
+(3)Department of Gastroenterology and Hepatology, Flinders Medical Centre, 
+Bedford Park, SA 5042, Australia.
+(4)Flinders Centre for Innovation in Cancer, Flinders Medical Centre, Bedford 
+Park, SA 5042, Australia.
+
+BACKGROUND: Metformin is a first-line therapy for type 2 diabetes as it disrupts 
+cellular metabolism. Despite the association between metformin and lower cancer 
+incidence, the anti-tumour activity of the drug in colorectal cancer (CRC) is 
+incompletely understood. This study identifies underlying molecular mechanisms 
+by which metformin slows colorectal cancer cell proliferation by investigating 
+metformin-associated microRNA (miRNA) and target gene pairs implicated in 
+signalling pathways.
+METHODS: The present study analysed changes in miRNAs and the coding 
+transcriptome in CRC cells treated with a sublethal dose of metformin, followed 
+by the contextual validation of potential miRNA-target gene pairs.
+RESULTS: Analyses of small RNA and transcriptome sequencing data revealed 104 
+miRNAs and 1221 mRNAs to be differentially expressed in CRC cells treated with 
+metformin for 72 h. Interaction networks between differentially expressed miRNAs 
+and putative target mRNAs were identified. Differentially expressed genes were 
+mainly implicated in metabolism and signalling processes, such as the PI3K-Akt 
+and MAPK/ERK pathways. Further validation of potential miRNA-target mRNA pairs 
+revealed that metformin induced miR-2110 and miR-132-3p to target PIK3R3 and, 
+consequently, regulate CRC cell proliferation, cell cycle progression and the 
+PI3K-Akt signalling pathway. Metformin also induced miR-222-3p and miR-589-3p, 
+which directly target STMN1 to inhibit CRC cell proliferation and cell cycle 
+progression.
+CONCLUSIONS: This study identified novel changes in the coding transcriptome and 
+small non-coding RNAs associated with metformin treatment of CRC cells. 
+Integration of these datasets highlighted underlying mechanisms by which 
+metformin impedes cell proliferation in CRC. Importantly, it identified the 
+post-transcriptional regulation of specific genes that impact both metabolism 
+and cell proliferation.
+
+DOI: 10.3390/cancers16112055
+PMCID: PMC11171104
+PMID: 38893174
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+16. Int J Colorectal Dis. 2020 May;35(5):827-835. doi:
+10.1007/s00384-020-03539-5.  Epub 2020 Feb 25.
+
+Effect of metformin on the mortality of colorectal cancer patients with T2DM: 
+meta-analysis of sex differences.
+
+Wang Y(1), Xiao J(2), Zhao Y(1), Du S(1), Du J(3).
+
+Author information:
+(1)Department of Pathology, Sichuan Science City Hospital, Mianyang, 621000, 
+Sichuan, China.
+(2)Department of Pharmacy, The Third Hospital of Mianyang, Sichuan Mental Health 
+Center, Mianyang, 621000, Sichuan, China. xiaojingping5@126.com.
+(3)Department of General Surgery, Sichuan Science City Hospital, Mianyang, 
+621000, Sichuan, China.
+
+PURPOSE: To evaluate the effect of metformin as a treatment for the mortality of 
+colorectal cancer (CRC) patients with type 2 diabetes mellitus (T2DM).
+METHODS: We searched Medline, PubMed, EMBASE, Clinical Trials.gov 
+(http://www.clinicaltrials.gov), and the Cochrane Collaboration Library from 
+inception to November 2019. To analyze the relationship between metformin and 
+the overall mortality, specific mortality, and sex differences in CRC patients 
+with T2DM, hazard ratios (HRs) with 95% confidence intervals (CIs) were used. 
+Egger's test and Begg's test were used to assess publication bias.
+RESULTS: We included 8 cohort studies in our meta-analysis. CRC patients with 
+T2DM treated with metformin had a lower overall mortality than CRC patients with 
+T2DM who did not receive metformin (HR = 0.80, 95% CI 0.67-0.95). There was no 
+significant difference in CRC-specific mortality between CRC patients with T2DM 
+who used metformin and those who did not (HR = 0.84, 95% CI 0.65-1.08). However, 
+females had a lower CRC-specific mortality among CRC patients with T2DM than 
+males (HR = 0.63, 95% CI 0.41-0.97).
+CONCLUSION: Metformin reduced the overall mortality of CRC patients with T2DM. 
+Moreover, female CRC patients with T2DM using metformin had lower CRC-specific 
+mortality than male CRC patients with T2DM.
+
+DOI: 10.1007/s00384-020-03539-5
+PMID: 32100113 [Indexed for MEDLINE]
+
+
+17. Int Immunopharmacol. 2025 Jan 10;144:113683. doi:
+10.1016/j.intimp.2024.113683.  Epub 2024 Nov 26.
+
+Metformin alleviates colitis-associated colorectal cancer via inhibition of the 
+TLR4/MyD88/NFκB/MAPK pathway and macrophage M2 polarization.
+
+Lai X(1), Liu B(2), Wan Y(3), Zhou P(4), Li W(4), Hu W(4), Gong W(5).
+
+Author information:
+(1)Department of Gastroenterology, Shenzhen Hospital, Southern Medical 
+University, Shenzhen, Guangdong, 510086, China; Department of Gastroenterology, 
+The Affiliated Panyu Central Hospital of Guangzhou Medical University, Guangzhou 
+511400, China.
+(2)Department of Pharmacy, Nanfang Hospital, Southern Medical University, 
+Guangzhou 510515, China.
+(3)Department of Gastroenterology, The Affiliated Panyu Central Hospital of 
+Guangzhou Medical University, Guangzhou 511400, China.
+(4)Department of Gastroenterology, Shenzhen Hospital, Southern Medical 
+University, Shenzhen, Guangdong, 510086, China.
+(5)Department of Gastroenterology, Shenzhen Hospital, Southern Medical 
+University, Shenzhen, Guangdong, 510086, China. Electronic address: 
+gongwei@smu.edu.cn.
+
+BACKGROUND: Colon inflammation plays an essential role in the development and 
+progression of colorectal cancer. Emerging evidence from clinical and animal 
+studies indicates that metformin may reduce the risk of colorectal cancer 
+through its anti-inflammatory effects.
+AIMS: To investigate the efficacy of metformin in reducing the risk of 
+colorectal cancer and the possible pathways and mechanisms.
+METHODS: The Enterotoxigenic Bacteroides Fragilis (ETBF)/azoxymethane 
+(AOM)/dextran sulfate sodium (DSS) mouse model was established and low-dose 
+metformin (125 mg/kg) or high-dose metformin (250 mg/kg) was administered daily 
+by gavage. Colon tumors were counted, and colon tissue was stained with 
+hematoxylin and eosin (HE) and Periodic Acid-Schiff's and Alcian Blue (PAS-AB). 
+Colon Ki67, ZO-1 Muc2, Claudin-1, Occludin, MPO, reactive oxygen species (ROS), 
+E-cadherin, CD206 and Arg-1 expression were detected by immunohistochemistry or 
+immunofluorescence staining. NF-κB pathway-related protein expression was 
+assessed by Western blot. Fecal short-chain fatty acid (SCFA) levels were also 
+examined.
+RESULTS: Our results showed that low- or high-dose metformin ameliorates colonic 
+mucosal damage, reduces colonic inflammation, and eventually inhibits colorectal 
+tumorigenesis in the ETBF/AOM/DSS mouse model. Our further research found that 
+metformin suppresses the expression of TLR4/MyD88/NFκB/MAPK pathway-related 
+proteins, modulates macrophage M2 polarization and increases SCFA levels in 
+colon contents, which may be the mechanisms by which metformin exerts a 
+protective effect against colon carcinogenesis.
+CONCLUSION: Metformin inhibited colorectal tumorigenesis by suppressing the 
+TLR4/MyD88/NFκB/MAPK pathway, modulating macrophage M2 polarization and 
+increasing SCFA levels. It holds promise as a potentially effective treatment 
+for colorectal cancer.
+
+Copyright © 2024 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.intimp.2024.113683
+PMID: 39602956 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+18. Proc Natl Acad Sci U S A. 2023 Oct 10;120(41):e2221653120. doi: 
+10.1073/pnas.2221653120. Epub 2023 Oct 3.
+
+Nuclear VCP drives colorectal cancer progression by promoting fatty acid 
+oxidation.
+
+Huang Y(#)(1)(2)(3), Wang F(#)(1), Lin X(#)(1), Li Q(1), Lu Y(1)(4), Zhang J(5), 
+Shen X(1), Tan J(3), Qin Z(1), Chen J(1)(6), Chen X(1), Pan G(1), Wang X(1), 
+Zeng Y(1), Yang S(1), Liu J(1), Xing F(7), Li K(5), Zhang H(1).
+
+Author information:
+(1)Department of Pharmacology, School of Medicine, Jinan University, Guangzhou 
+510632, China.
+(2)Guangdong Provincial Key Laboratory of Tumor Interventional Diagnosis and 
+Treatment, Zhuhai Institute of Translational Medicine, Zhuhai People's Hospital 
+Affiliated with Jinan University, Zhuhai 519000, China.
+(3)Biomedical Translational Research Institute, Health Science Center (School of 
+Medicine), Jinan University, Guangzhou 510632, China.
+(4)Department of Public Health, Shantou Center for Disease Control and 
+Prevention, Shantou 515000, China.
+(5)Guangdong Research Institute of Gastroenterology, The Sixth Affiliated 
+Hospital of Sun Yat-sen University, Guangzhou 510655, China.
+(6)Department of Pathophysiology, School of Basic Medical Sciences, Peking 
+University, Beijing 100191, China.
+(7)Medical Research Institute, Guangdong Provincial People's Hospital (Guangdong 
+Academy of Medical Sciences), Southern Medical University, Guangzhou 510080, 
+China.
+(#)Contributed equally
+
+Fatty acid oxidation (FAO) fuels many cancers. However, knowledge of pathways 
+that drive FAO in cancer remains unclear. Here, we revealed that 
+valosin-containing protein (VCP) upregulates FAO to promote colorectal cancer 
+growth. Mechanistically, nuclear VCP binds to histone deacetylase 1 (HDAC1) and 
+facilitates its degradation, thus promoting the transcription of FAO genes, 
+including the rate-limiting enzyme carnitine palmitoyltransferase 1A (CPT1A). 
+FAO is an alternative fuel for cancer cells in environments exhibiting limited 
+glucose availability. We observed that a VCP inhibitor blocked the upregulation 
+of FAO activity and CPT1A expression triggered by metformin in colorectal cancer 
+(CRC) cells. Combined VCP inhibitor and metformin prove more effective than 
+either agent alone in culture and in vivo. Our study illustrates the molecular 
+mechanism underlying the regulation of FAO by nuclear VCP and demonstrates the 
+potential therapeutic utility of VCP inhibitor and metformin combination 
+treatment for colorectal cancer.
+
+DOI: 10.1073/pnas.2221653120
+PMCID: PMC10576098
+PMID: 37788309 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interest.
+
+
+19. J Immunother Cancer. 2023 Oct;11(10):e007235. doi: 10.1136/jitc-2023-007235.
+
+Phase II trial of nivolumab and metformin in patients with treatment-refractory 
+microsatellite stable metastatic colorectal cancer.
+
+Akce M(1), Farran B(2), Switchenko JM(3)(4), Rupji M(3), Kang S(5), Khalil L(5), 
+Ruggieri-Joyce A(5), Olson B(5), Shaib WL(6), Wu C(7), Alese OB(5), Diab 
+M(8)(9), Lesinski GB(5), El-Rayes BF(10).
+
+Author information:
+(1)Division of Hematology and Oncology, Department of Medicine, O'Neal 
+Comprehensive Cancer Center, University of Alabama at Birmingham Heersink School 
+of Medicine, Birmingham, Alabama, USA makce@uabmc.edu.
+(2)Department of Oncology, Albert Einstein College of Medicine, Bronx, New York, 
+USA.
+(3)Biostatistics Shared Resource, Emory University Winship Cancer institute, 
+Atlanta, Georgia, USA.
+(4)Department of Biostsatistics and Bioinformatics, Rollins School of Public 
+Health, Emory University, Atlanta, Georgia, USA.
+(5)Department of Hematology and Medical Oncology, Emory University Winship 
+Cancer Institute, Atlanta, Georgia, USA.
+(6)Northwest Georgia Oncology Centers Wellstar, Marietta, Georgia, USA.
+(7)Division of Hematology and Oncology, Department of Internal Medicine, Mayo 
+Clinic Arizona, Scottsdale, Arizona, USA.
+(8)Department of Internal Medicine, Michigan State University, East Lansing, 
+Michigan, USA.
+(9)Department of Internal Medicine, Henry Ford Health, Detroit, Michigan, USA.
+(10)Division of Hematology and Oncology, Department of Medicine, O'Neal 
+Comprehensive Cancer Center, University of Alabama at Birmingham Heersink School 
+of Medicine, Birmingham, Alabama, USA.
+
+BACKGROUND: Preclinical studies showed metformin reduces exhaustion of 
+tumor-infiltrating lymphocytes and potentiates programmed cell death protein-1 
+(PD-1) blockade. We hypothesized that metformin with nivolumab would elicit 
+potent antitumor and immune modulatory activity in metastatic microsatellite 
+stable (MSS) colorectal cancer (CRC). We evaluated this hypothesis in a phase II 
+study.
+METHODS: Nivolumab (480 mg) was administered intravenously every 4 weeks while 
+metformin (1000 mg) was given orally, two times per day following a 14-day 
+metformin only lead-in phase. Patients ≥18 years of age, with previously 
+treated, stage IV MSS CRC, and Eastern Cooperative Oncology Group 0-1, having 
+received no prior anti-PD-1 agent were eligible. The primary endpoint was 
+overall response rate with secondary endpoints of overall survival (OS) and 
+progression-free survival (PFS). Correlative studies using paired 
+pretreatment/on-treatment biopsies and peripheral blood evaluated a series of 
+immune biomarkers in the tumor microenvironment and systemic circulation using 
+ChipCytometry and flow cytometry.
+RESULTS: A total of 24 patients were enrolled, 6 patients were replaced per 
+protocol, 18 patients had evaluable disease. Of the 18 evaluable patients, 11/18 
+(61%) were women and the median age was 58 (IQR 50-67). Two patients had stable 
+disease, but no patients had objective response, hence the study was stopped for 
+futility. Median OS and PFS was 5.2 months (95% CI (3.2 to 11.7)) and 2.3 months 
+(95% CI (1.7 to 2.3)). Most common grade 3/4 toxicities: Anemia (n=2), diarrhea 
+(n=2), and fever (n=2). Metformin alone failed to increase the infiltration of 
+T-cell subsets in the tumor, but combined metformin and nivolumab increased 
+percentages of tumor-infiltrating leukocytes (p=0.031). Dual treatment also 
+increased Tim3+ levels in patient tissues and decreased naïve CD8+T cells 
+(p=0.0475).
+CONCLUSIONS: Nivolumab and metformin were well tolerated in patients with MSS 
+CRC but had no evidence of efficacy. Correlative studies did not reveal an 
+appreciable degree of immune modulation from metformin alone, but showed trends 
+in tumorous T-cell infiltration as a result of dual metformin and PD-1 blockade 
+despite progression in a majority of patients.
+
+© Author(s) (or their employer(s)) 2023. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/jitc-2023-007235
+PMCID: PMC10603338
+PMID: 37852737 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: MA has consulted for Eisai, 
+Ipsen, Exelixis, GSK, QED, Isofol, Curio Science, AstraZeneca and Genentech and 
+has received research funding from Tesaro (Inst), RedHill Biopharma Limited 
+(Inst), Polaris (Inst), Bristol-Myers Squibb-Ono Pharmaceutical (Inst), Xencor 
+(Inst), Merck Sharp & Dohme (Inst), Eisai (Inst), GSK (Inst). BER has consulted 
+for AZ, Ipsen, Exelixis, Seagen and received research funding from BMS, Merck, 
+AZ, Novartis, EUSA, adptamune, Bayer, Exelixis. GBL has consulted for ProDa 
+Biotech, LLC and received compensation. GBL has received research funding 
+through a sponsored research agreement between Emory University and Merck and 
+Co., Bristol-Myers Squibb, Boerhinger-Ingelheim, and Vaccinex. CW has consulted 
+for Array Biopharma, Natera, Seagen, Pfizer, Daiichi Sankyo/Lilly and has 
+received research funding (trial funding to institution) through Pfizer, 
+Hutchmed and Seagen. Employment/leadership/stock and other ownership—nothing to 
+disclose. Honoraria: Cancer Treatment Centers of America, Medscape. WLS is on 
+the advisory board of Mylan, BMS, Esai, Tesaro, Blueprints, Seagen and a member 
+of the speaker’s bureau of Guardant health, Cumberland therapeutics, Seagen. His 
+research has been funded by GSK, Eli Lilly, Tesaro. BO has received research 
+funding through a sponsored research agreement between Emory University and 
+Boehringer Ingelheim. OBA has consulted for Ipsen Pharmaceuticals, Aadi 
+Bioscience, Taiho, Pfizer, Seagen Inc. Bristol-Myers Squibb and AstraZeneca. He 
+has received research funding from Taiho Oncology, Ipsen Pharmaceuticals, GSK, 
+Bristol-Myers Squibb, PCI Biotech AS, ASCO, Calithera Biosciences, Inc., SynCore 
+Biotechnology Co. Ltd., Suzhou Transcenta Therapeutics Co., Ltd, Corcept 
+Therapeutics Inc., Hutchison MediPharma, Boehringer Ingelheim, Xencor Inc., Cue 
+Biopharma, Inc., Merck, Syros Pharmaceuticals Inc., Inhibitex Inc, Arcus 
+Biosciences Inc. and ImmunoGen. MD has consulted for Novartis and Guardant 
+Health. The rest of the authors have no conflicts of interest to disclose.
+
+
+20. Cancer Epidemiol. 2019 Oct;62:101587. doi: 10.1016/j.canep.2019.101587. Epub 
+2019 Sep 3.
+
+Metformin increases cancer specific survival in colorectal cancer 
+patients-National cohort study.
+
+Dulskas A(1), Patasius A(2), Linkeviciute-Ulinskiene D(3), Zabuliene L(4), 
+Urbonas V(5), Smailyte G(2).
+
+Author information:
+(1)Department of Abdominal and General Surgery and Oncology, National Cancer 
+Institute, 1 Santariskiu Str., Vilnius LT-08406, Lithuania; University of 
+Applied Sciences, Faculty of Health Care, 45 Didlaukio Str., LT-08303 Vilnius, 
+Lithuania; Institute of Clinical Medicine, Faculty of Medicine, Vilnius 
+University, 1 Santariskiu Str., Vilnius LT-08406, Lithuania. Electronic address: 
+Audrius.Dulskas@NVI.lt.
+(2)Laboratory of Cancer Epidemiology, National Cancer Institute, LT-08406 
+Vilnius, Lithuania; Institute of Health Sciences, Faculty of Medicine, Vilnius 
+University, LT-03101 Vilnius, Lithuania.
+(3)Institute of Biomedical Sciences, Faculty of Medicine, Vilnius University, 
+Vilnius, Lithuania.
+(4)Institute of Clinical Medicine, Faculty of Medicine, Vilnius University, 1 
+Santariskiu Str., Vilnius LT-08406, Lithuania.
+(5)Laboratory of Clinical Oncology, Department of Medical Oncology, National 
+Cancer Institute, Lithuania.
+
+Comment in
+    Cancer Epidemiol. 2020 Feb;64:101627. doi: 10.1016/j.canep.2019.101627.
+    Cancer Epidemiol. 2020 Feb;64:101626. doi: 10.1016/j.canep.2019.101626.
+
+PURPOSE: We aimed to assess oncological outcomes in colorectal cancer patients 
+with type 2 diabetes mellitus (T2DM) using metformin.
+METHODS: Patients with colorectal cancer and T2DM during 2000-2012 period were 
+identified form Lithuanian Cancer Registry and the National Health Insurance 
+Fund database. Colorectal cancer-specific survival (CS) was the primary outcome. 
+It was measured from date of colorectal cancer diagnosis to date of death due to 
+colorectal cancer, or last known date alive.
+RESULTS: 15,052 people who met eligibility criteria for this analysis, including 
+1094 (7.27%) with pre-existing type 2 diabetes (271 metformin never users and 
+823 metformin users) and 13 958 people without diabetes assessed. During 
+follow-up (mean follow-up time was 4.4 years, with range from 1 day to 17 years) 
+there were 10,927 deaths including 8559 from colorectal cancer. Significantly 
+lower risk in CS between diabetic and non-diabetic people with lower risk of 
+cancer-specific mortality (HR 0.87, 95% CI 0.80-0.94) in diabetic patient 
+population was seen. After adjustment for age, stage at diagnosis and metformin 
+usage, significant difference in colorectal CS between metformin users in 
+diabetic patient population compared to non-diabetics and metformin non-users in 
+diabetic patient population was found (0.80 (0.72-0.89) vs 1.00 and vs 1.05 
+(0.91-1.23)). Overall survival (OS) was better for diabetic patients with 
+significant difference in diabetic metformin users (HR 0.91, 95% CI 0.79-0.94).
+CONCLUSIONS: Colorectal cancer patients with T2DM treated with metformin as part 
+of their diabetic therapy appear to have a superior OS and CS. However, 
+prospective controlled studies are still needed to evaluate the efficacy of 
+metformin as an anti-tumor agent.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.canep.2019.101587
+PMID: 31491730 [Indexed for MEDLINE]
+
+
+21. Arch Endocrinol Metab. 2023 Jun 19;67(6):e000647. doi: 
+10.20945/2359-3997000000647.
+
+Obesity, diabetes, and cancer: epidemiology, pathophysiology, and potential 
+interventions.
+
+de Andrade Mesquita L(1)(2), Wayerbacher LF(3), Schwartsmann G(2)(3), Gerchman 
+F(1)(4).
+
+Author information:
+(1)Programa de Pós-graduação em Ciências Médicas: Endocrinologia, Universidade 
+Federal do Rio Grande do Sul, Porto Alegre, RS, Brasil.
+(2)Hospital de Clínicas de Porto Alegre, Porto Alegre, Brasil, Porto Alegre, RS, 
+Brasil.
+(3)Faculdade de Medicina, Universidade Federal do Rio Grande do Sul, Porto 
+Alegre, RS, Brasil.
+(4)Hospital de Clínicas de Porto Alegre, Porto Alegre, Brasil, Porto Alegre, RS, 
+Brasil, fgerchman@hcpa.edu.br.
+
+The proportion of deaths attributable to cancer is rising, and malignant 
+neoplasms have become the leading cause of death in high-income countries. 
+Obesity and diabetes are now recognized as risk factors for several types of 
+malignancies, especially endometrial, colorectal, and postmenopausal breast 
+cancers. Mechanisms implicated include disturbances in lipid-derived hormone 
+secretion, sex steroids biosynthesis, hyperinsulinemia, and chronic 
+inflammation. Intentional weight loss is associated with a mitigation of risk 
+for obesity-related cancers, a phenomenon observed specially with bariatric 
+surgery. The impact of pharmacological interventions for obesity and diabetes is 
+not uniform: while metformin seems to protect against cancer, other agents such 
+as lorcaserin may increase the risk of malignancies. However, these 
+interpretations must be carefully considered, since most data stem from 
+bias-prone observational studies, and high-quality randomized controlled trials 
+with appropriate sample size and duration are needed to achieve definite 
+conclusions. In this review, we outline epidemiological and pathophysiological 
+aspects of the relationship between obesity, diabetes, and malignancies. We also 
+highlight pieces of evidence regarding treatment effects on cancer incidence in 
+these populations.
+
+DOI: 10.20945/2359-3997000000647
+PMCID: PMC10660996
+PMID: 37364149 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure: no potential conflict of interest 
+relevant to this article was reported.
+
+
+22. Diabetes Res Clin Pract. 2020 Jul;165:108232. doi: 
+10.1016/j.diabres.2020.108232. Epub 2020 May 22.
+
+Use of metformin and risk of breast and colorectal cancer.
+
+Rennert G(1), Rennert HS(2), Gronich N(2), Pinchev M(2), Gruber SB(3).
+
+Author information:
+(1)Department of Community Medicine and Epidemiology, Carmel Medical Center and 
+B. Rappaport Faculty of Medicine, Technion-Israel Institute of Technology, 
+Haifa, Israel; Clalit Health Services National Cancer Control Center (NICCC), 
+Haifa, Israel. Electronic address: rennert@technion.ac.il.
+(2)Department of Community Medicine and Epidemiology, Carmel Medical Center and 
+B. Rappaport Faculty of Medicine, Technion-Israel Institute of Technology, 
+Haifa, Israel.
+(3)USC Norris Comprehensive Cancer Center, USC, Los Angeles, USA.
+
+BACKGROUND: Diabetes has been associated with increased risk of cancer, 
+including breast cancer and colorectal cancer. Metformin, an oral hypoglycemic 
+drug, but not other anti-diabetic drugs, has been associated with reduced risk 
+of breast and of colon cancers in some, but not in other, studies.
+METHODS: Data from two large-scale, population-based, case-control studies of 
+breast and colorectal cancers etiology, conducted in Northern Israel since 1998 
+were analyzed to evaluate the association between regular use (>3 times) of 
+metformin prior to diagnosis and risk of developing cancer. The multivariate 
+analyses for both cancer sites included age, family history of breast/colorectal 
+cancer, history of diabetes, sports participation, fruits/vegetables 
+consumption, aspirin and statins use, and for breast cancer, also included use 
+of oral contraceptives and postmenopausal hormones and number of pregnancies. 
+Use of metformin and diabetes status were determined based on valid electronic 
+medical records of the participants.
+RESULTS: Metformin use prior to diagnosis of cancer was associated with a 
+decrease in risk of both breast cancer (OR = 0.821, 0.726-0.928, p = 0.002) and 
+colorectal cancer (OR = 0.754, 0.623-0.912, p = 0.004). An inverse association 
+was not identified with use of other anti-diabetic medications. Diabetes was 
+found to be associated with risk of colorectal cancer (OR = 1.204, 1.014-1.431, 
+p = 0.034) but not of breast cancer. No dose response by years of use of 
+metformin was found.
+CONCLUSION: These analyses of large population-based studies provide evidence of 
+a strong inverse association of metformin with breast and, even more so, with 
+colorectal cancer risk.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.diabres.2020.108232
+PMID: 32446797 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest None of the 
+authors have any relevant conflict of interest to report
+
+
+23. Int J Mol Sci. 2025 Jun 24;26(13):6040. doi: 10.3390/ijms26136040.
+
+Metformin in Colorectal Cancer: Epidemiological Evidence, Predictive Biomarkers, 
+and Implications for Prevention and Treatment.
+
+Myung S(1)(2), Park YY(2)(3), Kim MS(1)(2).
+
+Author information:
+(1)Translational-Transdisciplinary Research Center, Clinical Research Institute, 
+Kyung Hee University Hospital at Gangdong, College of Medicine, Kyung Hee 
+University, Seoul 05278, Republic of Korea.
+(2)Department of Medicine, Kyung Hee University College of Medicine, Seoul 
+02453, Republic of Korea.
+(3)Department of Surgery, Kyung Hee University Hospital at Gangdong, Kyung Hee 
+University College of Medicine, Seoul 05278, Republic of Korea.
+
+Interest in metformin as a potential anticancer agent for colorectal cancer 
+(CRC) has increased. However, compelling epidemiological links and strong 
+preclinical evidence suggest that metformin has variable efficacy in patients 
+with CRC. This variability highlights the need to identify the patients who are 
+most likely to benefit from effective stratification. We aimed to review the 
+evidence concerning the diverse roles of metformin in CRC prevention and 
+treatment, focusing on identifying and validating the predictive biomarkers 
+essential for selecting patient subgroups that are likely to respond positively. 
+We explored the various molecular pathways through which metformin acts and 
+investigated how these diverse mechanisms might explain the observed differences 
+in patient responses. Epidemiological studies and large meta-analyses have 
+consistently reported reduced CRC incidence and improved survival among patients 
+with diabetes treated with metformin. However, successfully extending these 
+benefits broadly across all patients with CRC or achieving predictable outcomes 
+in advanced disease settings remains a significant challenge. This review 
+consolidates the current knowledge, highlights how different mechanisms 
+interact, critically assesses clinical evidence in light of patient 
+heterogeneity, and advocates for the development and implementation of 
+biomarker-guided personalized therapeutic strategies as key to optimally 
+utilizing the potential of metformin in CRC management. The current challenges 
+and vital future research priorities in this critical area are also outlined.
+
+DOI: 10.3390/ijms26136040
+PMCID: PMC12250430
+PMID: 40649818 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+24. J Cachexia Sarcopenia Muscle. 2024 Aug;15(4):1520-1527. doi:
+10.1002/jcsm.13509.  Epub 2024 Jun 18.
+
+Effects of exercise or metformin on myokine concentrations in patients with 
+breast and colorectal cancer: A phase II multi-centre factorial randomized 
+trial.
+
+Brown JC(1)(2)(3), Spielmann G(4), Yang S(1), Compton SLE(1), Jones LW(5), Irwin 
+ML(6), Ligibel JA(7), Meyerhardt JA(7).
+
+Author information:
+(1)Pennington Biomedical Research Center, Baton Rouge, LA, USA.
+(2)LSU Health Sciences Center New Orleans School of Medicine, New Orleans, LA, 
+USA.
+(3)Stanley S. Scott Cancer Center, Louisiana State University Health Sciences 
+Center, New Orleans, LA, USA.
+(4)Louisiana State University, Baton Rouge, LA, USA.
+(5)Memorial Sloan Kettering Cancer Center, New York, NY, USA.
+(6)Yale University, New Haven, CT, USA.
+(7)Dana-Farber Cancer Institute, Boston, MA, USA.
+
+BACKGROUND: Physical activity and metformin pharmacotherapy are associated with 
+improved clinical outcomes in breast and colorectal cancer survivors. Myokines 
+are cytokines secreted from skeletal muscle that may mediate these associations.
+METHODS: This hypothesis-generating analysis used biospecimens collected from a 
+multi-centre 2 × 2 factorial randomized design of 116 patients with stage I-III 
+breast and colorectal cancer who were randomized to 12 weeks of (1) aerobic 
+exercise (moderate intensity titrated to 220 min/week); (2) metformin (850 mg 
+daily for 2 weeks and then titrated to 850 mg twice per day); (3) aerobic 
+exercise and metformin; or (4) control. Fourteen myokines were quantified using 
+a multiplex panel. Myokine concentrations were log-transformed, and main effects 
+analyses were conducted using linear mixed-effects regression models. The type I 
+error rate was controlled with the Holm sequential testing procedure.
+RESULTS: Randomization to exercise increased leukaemia inhibitory factor 
+(1.26 pg/mL, 95% confidence interval [CI]: 0.69, 1.84; adjusted P = 0.001) and 
+interleukin-15 (2.23 pg/mL, 95% CI: 0.87, 3.60; adjusted P = 0.013) compared 
+with randomization to no exercise. Randomization to metformin decreased apelin 
+(-2.69 pg/mL, 95% CI: -4.31, -1.07; adjusted P = 0.014) and interleukin-15 
+(-1.74 pg/mL, 95% CI: -2.79, -0.69; adjusted P = 0.013) compared with 
+randomization to no metformin. Metformin decreased myostatin, irisin, oncostatin 
+M, fibroblast growth factor 21 and osteocrin; however, these changes were not 
+statistically significant after correction for multiple comparisons.
+CONCLUSIONS: This pilot study demonstrates that randomization to exercise and 
+metformin elicit unique effects on myokine concentrations in cancer patients. 
+This hypothesis-generating observation warrants further basic, translational and 
+clinical investigation and replication.
+
+© 2024 The Author(s). Journal of Cachexia, Sarcopenia and Muscle published by 
+Wiley Periodicals LLC.
+
+DOI: 10.1002/jcsm.13509
+PMCID: PMC11294014
+PMID: 38887915 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no relevant conflicts of 
+interest. The results of the present study do not constitute endorsement by the 
+American College of Sports Medicine (ACSM). The study results are presented 
+clearly, honestly and without fabrication, falsification or inappropriate data 
+manipulation.
+
+
+25. Diabetes Care. 2011 Oct;34(10):2336-7. doi: 10.2337/dc11-1447.
+
+Metformin and colorectal cancer risk in diabetic patients.
+
+Ioannou GN, Boyko EJ.
+
+Comment on
+    Diabetes Care. 2011 Oct;34(10):2323-8. doi: 10.2337/dc11-0512.
+
+DOI: 10.2337/dc11-1447
+PMCID: PMC3177744
+PMID: 21949227 [Indexed for MEDLINE]
+
+
+26. J Natl Cancer Inst. 2025 Sep 1;117(9):1904-1914. doi: 10.1093/jnci/djaf165.
+
+Metformin use and risk of colorectal cancer in patients with inflammatory bowel 
+disease: a nationwide, population-based cohort study.
+
+Huang YJ(1)(2)(3), Lin JA(4)(5)(6)(7)(8), Chen WM(9)(10), Shia BC(9)(10), Wu 
+SY(9)(10)(11)(12)(13)(14)(15)(16)(17).
+
+Author information:
+(1)Division of Colorectal Surgery, Department of Surgery, Taipei Medical 
+University Hospital, Taipei Medical University, Taipei, Taiwan.
+(2)Department of Surgery, School of Medicine, College of Medicine, Taipei 
+Medical University, Taipei, Taiwan.
+(3)Division of General Surgery, Department of Surgery, Taipei Medical University 
+Hospital, Taipei Medical University, Taipei, Taiwan.
+(4)Department of Anesthesiology, School of Medicine, Chung Shan Medical 
+University, Taichung, Taiwan.
+(5)Department of Anesthesiology, Chung Shan Medical University Hospital, 
+Taichung, Taiwan.
+(6)Center for Regional Anesthesia and Pain Management, Chung Shan Medical 
+University, Taichung, Taiwan.
+(7)Department of Anesthesiology, School of Medicine, College of Medicine, Taipei 
+Medical University, Taipei, Taiwan.
+(8)Department of Anesthesiology, School of Medicine, National Defense Medical 
+Center, Taipei, Taiwan.
+(9)Graduate Institute of Business Administration, College of Management, Fu Jen 
+Catholic University, Taipei, Taiwan.
+(10)Artificial Intelligence Development Center, Fu Jen Catholic University, 
+Taipei, Taiwan.
+(11)D epartment of Food Nutrition and Health Biotechnology, College of Medical 
+and Health Science, Asia University, Taichung, Taiwan.
+(12)Division of Radiation Oncology, Lo-Hsu Medical Foundation, Lotung Poh-Ai 
+Hospital, Yilan, Taiwan.
+(13)Big Data Center, Lo-Hsu Medical Foundation, Lotung Poh-Ai Hospital, Yilan, 
+Taiwan.
+(14)Department of Healthcare Administration, College of Medical and Health 
+Science, Asia University, Taichung, Taiwan.
+(15)Cancer Center, Lo-Hsu Medical Foundation, Lotung Poh-Ai Hospital, Yilan, 
+Taiwan.
+(16)Centers for Regional Anesthesia and Pain Medicine, Taipei Municipal Wan Fang 
+Hospital, Taipei Medical University, Taipei, Taiwan.
+(17)Department of Management, College of Management, Fo Guang University, Yilan, 
+Taiwan.
+
+BACKGROUND: Patients with inflammatory bowel disease (IBD) have a significantly 
+elevated risk of colorectal cancer (CRC). While metformin has been associated 
+with lower CRC risk in general diabetic populations, its effect in patients with 
+coexisting IBD and diabetes-a group at compounded risk-remains unclear.
+METHODS: We conducted a nationwide cohort study using Taiwan's National Health 
+Insurance Research Database linked to the Taiwan Cancer Registry. Among 241 590 
+adults newly diagnosed with IBD between 2008 and 2019, 1695 metformin users were 
+matched to 1695 non-metformin users after applying strict eligibility criteria 
+and 1:1 propensity score matching. Adjusted hazard ratios (aHRs) for incident 
+CRC and all-cause mortality were estimated using time-dependent Cox models and 
+Fine-Gray competing risk analysis. Dose-response was assessed via restricted 
+cubic splines.
+RESULTS: Metformin use was associated with a 56% lower risk of CRC (aHR = 0.44; 
+95% CI = 0.29 to 0.68), with similar findings in competing risk models 
+(subdistribution HR = 0.49; 95% CI = 0.32 to 0.76). All-cause mortality was 
+reduced by 32% (aHR = 0.68; 95% CI = 0.57 to 0.80). CRC risk decreased with 
+higher cumulative exposure; those in the highest quartile had a 67% lower risk 
+(aHR = 0.33; 95% CI = 0.19 to 0.57). The lowest CRC risk occurred at ∼0.4 
+defined daily dose/day (∼800 mg/day).
+CONCLUSIONS: Metformin use was associated with a lower risk of colorectal cancer 
+in patients with IBD. These findings suggest a potential chemopreventive role, 
+but confirmation from prospective randomized studies is needed before drawing 
+causal inferences.
+
+© The Author(s) 2025. Published by Oxford University Press. All rights reserved. 
+For commercial re-use, please contact reprints@oup.com for reprints and 
+translation rights for reprints. All other permissions can be obtained through 
+our RightsLink service via the Permissions link on the article page on our 
+site—for further information please contact journals.permissions@oup.com.
+
+DOI: 10.1093/jnci/djaf165
+PMID: 40601368 [Indexed for MEDLINE]
+
+
+27. Curr Drug Targets. 2017;18(6):734-750. doi:
+10.2174/1389450118666161205125548.
+
+Is Metformin a Therapeutic Paradigm for Colorectal Cancer: Insight into the 
+Molecular Pathway?
+
+Thent ZC(1), Zaidun NH, Azmi MF, Senin MI, Haslan H, Salehuddin R.
+
+Author information:
+(1)Anatomy Discipline, Faculty of Medicine, Universiti Teknologi MARA, Sungai 
+Buloh Campus, Jalan Hospital, 47000, Selangor, Malaysia.
+
+Colorectal cancer (CRC) remains one of the major leading causes of cancer 
+related morbidity and mortality. Apart from the conventional anti-neoplastic 
+agents, metformin, a biguanide anti-diabetic agent, has recently found to have 
+anti-cancer property. Several studies observed the effect of metformin towards 
+its anti-cancer effect on colon or colorectal cancer in diabetic patients. 
+However, only a few studies showed its effect on colorectal cancer in relation 
+to the non-diabetic status. The present review aimed to highlight the insight 
+into the molecular pathway of metformin towards colorectal cancer in the absence 
+of diabetes mellitus. In CRC-independent of diabetes mellitus, highly 
+deregulation of PI3K/AKT pathway is found which activates the downstream 
+mammalian target of rapamycin (mTOR). Metformin inhibits cancer growth in colon 
+by suppressing the colonic epithelial proliferation by inhibiting the mTOR 
+pathway. Metformin exerts its anti-neoplastic effects by acting on tumour 
+suppressor pathway via activating the adenosine monophosphate.activated protein 
+kinase (AMPK) signaling pathway. Metformin interrupts the glucose metabolism by 
+activating the AMPK. Metformin reduces tumour cell growth and metastasis by 
+activating the p53 tumour suppressor gene. In addition to its therapeutic 
+benefits, metformin is easily accessible, cost effective with better tolerance 
+to the patients compared to the chemotherapeutic agents. This review summarised 
+modern findings on the therapeutic applications of metformin on the colorectal 
+cancer with no evidences of diabetes mellitus.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.org.
+
+DOI: 10.2174/1389450118666161205125548
+PMID: 27919208 [Indexed for MEDLINE]
+
+
+28. Clin Res Hepatol Gastroenterol. 2020 Feb;44(1):73-81. doi: 
+10.1016/j.clinre.2019.06.009. Epub 2019 Jul 9.
+
+For colorectal cancer patients with type II diabetes, could metformin improve 
+the survival rate? A meta-analysis.
+
+Cheng Y(1), Chen Y(1), Zhou C(1), Shen L(2), Tu F(2), Xu J(2), Liu C(3).
+
+Author information:
+(1)Department of Coloproctology, The Second Affiliated Hospital and Yuying 
+Children's Hospital of Wenzhou Medical University, Wenzhou, Zhejiang, China.
+(2)Department of Gastrointestinal Surgery, The Second Affiliated Hospital and 
+Yuying Children's Hospital of Wenzhou Medical University, Wenzhou, Zhejiang, 
+China.
+(3)Department of Coloproctology, The Second Affiliated Hospital and Yuying 
+Children's Hospital of Wenzhou Medical University, Wenzhou, Zhejiang, China. 
+Electronic address: liuchangbao2008@aliyun.com.
+
+OBJECTIVE: Current research is controversial about whether metformin can improve 
+the survival rate of patients with colon cancer. Therefore, we conducted a 
+meta-analysis to identify the association between metformin and the survival 
+rate of colorectal cancer (CRC) patients with type II diabetes.
+METHODS: We conducted a search in databases including Pubmed, EMBASE and 
+Cochrane Library. All articles were published in the last decade, and the 
+quality of each study was evaluated by the Newcastle-Ottawa Scale. Odds ratios 
+(ORs) and its corresponding 95% confidence intervals (CIs) for each study were 
+calculated and summary relative risk estimates with corresponding 95% CIs were 
+generated using the random-effects model. Heterogeneity and publication bias 
+were assessed.
+RESULTS: Ten articles were included in this meta-analysis. The included articles 
+were all cohort studies. In a pooled analysis of all studies, metformin using 
+was associated with increased overall survival (OS) rate (OR, 0.54; 95% CI, 0.47 
+to 0.63) and cancer-specific survival (CS) rate (OR 0.59; 95% CI 0.43 to 0.82) 
+of CRC patients with diabetes. We found that the effect of metformin is 
+associated with geographical region through subgroup meta-analysis.
+CONCLUSIONS: Metformin using was associated with an increased OS rate and CS 
+rate of colorectal cancer.
+
+Copyright © 2019 Elsevier Masson SAS. All rights reserved.
+
+DOI: 10.1016/j.clinre.2019.06.009
+PMID: 31300371 [Indexed for MEDLINE]
+
+
+29. Br J Cancer. 2023 Jan;128(2):363-374. doi: 10.1038/s41416-022-02044-6. Epub
+2022  Nov 17.
+
+Metformin abrogates Fusobacterium nucleatum-induced chemoresistance in 
+colorectal cancer by inhibiting miR-361-5p/sonic hedgehog signaling-regulated 
+stemness.
+
+Hong XL(#)(1), Yu TC(#)(1), Huang XW(#)(1), Wang JL(1), Sun TT(1), Yan TT(1), 
+Zhou CB(1), Chen HM(1), Su WY(1), Du W(2), Xiong H(3)(4).
+
+Author information:
+(1)Division of Gastroenterology and Hepatology; Shanghai Institute of Digestive 
+Disease; NHC Key Laboratory of Digestive Diseases; State Key Laboratory for 
+Oncogenes and Related Genes; Renji Hospital, School of Medicine, Shanghai Jiao 
+Tong University, 145 Middle Shandong Road, Shanghai, 200001, China.
+(2)Division of Gastroenterology and Hepatology; Shanghai Institute of Digestive 
+Disease; NHC Key Laboratory of Digestive Diseases; State Key Laboratory for 
+Oncogenes and Related Genes; Renji Hospital, School of Medicine, Shanghai Jiao 
+Tong University, 145 Middle Shandong Road, Shanghai, 200001, China. 
+duwan2017@126.com.
+(3)Division of Gastroenterology and Hepatology; Shanghai Institute of Digestive 
+Disease; NHC Key Laboratory of Digestive Diseases; State Key Laboratory for 
+Oncogenes and Related Genes; Renji Hospital, School of Medicine, Shanghai Jiao 
+Tong University, 145 Middle Shandong Road, Shanghai, 200001, China. 
+huaxiong1979@163.com.
+(4)Division of Gastroenterology and Hepatology, Ningbo Hangzhou Bay Hospital, 
+1155 Second Binhai Road, Ningbo, 315336, China. huaxiong1979@163.com.
+(#)Contributed equally
+
+BACKGROUND: Chemotherapy resistance is the major cause of recurrence in patients 
+with colorectal cancer (CRC). A previous study found that Fusobacterium (F.) 
+nucleatum promoted CRC chemoresistance. Additionally, metformin rescued F. 
+nucleatum-induced tumorigenicity of CRC. Here, we aimed to investigate whether 
+metformin could revert F. nucleatum-induced chemoresistance and explore the 
+mechanism.
+METHODS: The role of metformin in F. nucleatum-infected CRC cells was confirmed 
+using cell counting kit 8 assays and CRC xenograft mice. Stemness was identified 
+by tumorsphere formation. Bioinformatic analyses were used to explore the 
+regulatory molecules involved in metformin and F. nucleatum-mediated regulation 
+of the sonic hedgehog pathway.
+RESULTS: We found that metformin abrogated F. nucleatum-promoted CRC resistance 
+to chemotherapy. Furthermore, metformin attenuated F. nucleatum-stimulated 
+stemness by inhibiting sonic hedgehog signaling. Mechanistically, metformin 
+diminished sonic hedgehog signaling proteins by targeting the MYC/miR-361-5p 
+cascade to reverse F. nucleatum-induced stemness, thereby rescuing F. 
+nucleatum-triggered chemoresistance in CRC.
+CONCLUSIONS: Metformin acts on F. nucleatum-infected CRC via the 
+MYC/miR-361-5p/sonic hedgehog pathway cascade, subsequently reversing stemness 
+and abolishing F. nucleatum-triggered chemoresistance. Our results identified 
+metformin intervention as a potential clinical treatment for patients with 
+chemoresistant CRC with high amounts of F. nucleatum.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41416-022-02044-6
+PMCID: PMC9902563
+PMID: 36396820 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+30. Biomater Sci. 2022 Sep 27;10(19):5596-5607. doi: 10.1039/d2bm00988a.
+
+Metformin reprograms tumor microenvironment and boosts chemoimmunotherapy in 
+colorectal cancer.
+
+Ni W(1)(2), Wu J(1), Feng Y(1), Hu Y(1), Liu H(3), Chen J(1), Chen F(2), Tian 
+H(1).
+
+Author information:
+(1)Key Laboratory of Polymer Ecomaterials, Changchun Institute of Applied 
+Chemistry Chinese Academy of Sciences, Changchun 130022, PR China. 
+chenjie@ciac.ac.cn.
+(2)Key Laboratory of Pathobiology, Ministry of Education, Nanomedicine and 
+Translational Research Center, China-Japan Union Hospital of Jilin University, 
+Changchun 130033, PR China. cff@jlu.edu.cn.
+(3)Center for Biological Experiment, College of Basic Medicine, Jilin 
+University, Changchun 130021, PR China.
+
+Tumor stroma plays an important role in the occurrence, development, and 
+metastasis of colorectal cancer (CRC). The dense collagenous stroma forms a 
+physical barrier for antitumor drugs and sustains a highly tumor 
+immunosuppressive microenvironment. To address this issue, a spatiotemporal 
+combination of antitumor stroma and nanoscale functional materials was used as 
+an antitumor strategy for reprogramming the tumor immune microenvironment. In 
+this combination, metformin hydrochloride (MET) was intraperitoneally injected 
+to disrupt the dense tumor stroma for promoting drug delivery and remodeling the 
+tumor immune microenvironment. Subsequently, intravenously injected 
+multifunctional drug-delivery materials (MIL-100/mitoxantrone/hyaluronic acid 
+nanoparticles, MMH NPs) were visualized by double imaging (photoacoustic (PA) 
+and fluorescence imaging) and generated a robust immune response via immunogenic 
+cell death (ICD). More importantly, the combination treatment also acted 
+synergistically with the anti-OX40 agonist antibody (αOX40), which enhanced the 
+treatment of orthotopic CRC. In summary, the combination strategy of MET/MMH 
+NPs/αOX40 provides a novel and effective clinical option for CRC therapy.
+
+DOI: 10.1039/d2bm00988a
+PMID: 35979933 [Indexed for MEDLINE]

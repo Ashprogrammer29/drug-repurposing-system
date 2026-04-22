@@ -1,0 +1,917 @@
+1. J Dermatolog Treat. 2022 Jun;33(4):1896-1906. doi: 
+10.1080/09546634.2021.1945527. Epub 2021 Jul 20.
+
+Minoxidil: a comprehensive review.
+
+Gupta AK(1)(2), Talukder M(2), Venkataraman M(2), Bamimore MA(2).
+
+Author information:
+(1)Division of Dermatology, Department of Medicine, University of Toronto, 
+Toronto, Canada.
+(2)Mediprobe Research Inc., London, Canada.
+
+Topical minoxidil (5% foam, 5% solution, and 2% solution) is FDA-approved for 
+androgenetic alopecia (AGA) in men and women.Mechanism of action: Minoxidil acts 
+through multiple pathways (vasodilator, anti-inflammatory agent, inducer of the 
+Wnt/β-catenin signaling pathway, an antiandrogen), and may also affect the 
+length of the anagen and telogen phases.Pharmacokinetics: Approximately 1.4% of 
+topical minoxidil is absorbed through the skin. Minoxidil is a prodrug that is 
+metabolized by follicular sulfotransferase to minoxidil sulfate (active form). 
+Those with higher sulfotransferase activity may respond better than patients 
+with lower sulfotransferase activity.Clinical efficacy (topical minoxidil): In a 
+five-year study, 2% minoxidil exhibited peak hair growth in males at year one 
+with a decline in subsequent years. Topical minoxidil causes hair regrowth in 
+both frontotemporal and vertex areas. The 5% solution and foam were not 
+significantly different in efficacy from the 2% solution.Oral and Sublingual 
+minoxidil (not FDA approved; off-label): After 6 months of administration, 
+minoxidil 5 mg/day was significantly more effective than topical 5% and 2% in 
+male AGA. Low-dose 0.5-5 mg/day may also be safe and effective for female 
+pattern hair loss and chronic telogen effluvium. Sublingual minoxidil may be 
+safe and effective in male and female pattern hair loss.
+
+DOI: 10.1080/09546634.2021.1945527
+PMID: 34159872 [Indexed for MEDLINE]
+
+
+2. Dermatol Ther. 2019 May;32(3):e12915. doi: 10.1111/dth.12915. Epub 2019 Apr
+23.
+
+Tretinoin enhances minoxidil response in androgenetic alopecia patients by 
+upregulating follicular sulfotransferase enzymes.
+
+Sharma A(1), Goren A(2)(3), Dhurat R(1), Agrawal S(1), Sinclair R(4), Trüeb 
+RM(5), Vañó-Galván S(6), Chen G(7), Tan Y(8), Kovacevic M(3), Situm M(3), McCoy 
+J(2).
+
+Author information:
+(1)Department of Dermatology, LTM Medical College & Hospital Sion, Mumbai, 
+India.
+(2)Department of Research and Development, Applied Biology, Irvine, California.
+(3)Department of Dermatology and Venereology, University Hospital Center "Sestre 
+milosrdnice", Zagreb, Croatia.
+(4)Department of Medicine, University of Melbourne, Victoria, Australia.
+(5)Center for Dermatology and Hair Diseases, Zurich-Wallisellen, Switzerland.
+(6)Trichology Unit, Dermatology Department, Ramon y Cajal Hospital, Madrid, 
+Spain.
+(7)Department of Physiological Sciences, Oklahoma State University, Stillwater, 
+Oklahoma.
+(8)Skin & Cosmetic Research Department, Shanghai Skin Disease Hospital, 
+Shanghai, China.
+
+Minoxidil sulfate is the active metabolite required to exert the vasodilatory 
+and hair growing effects of minoxidil. For hair growth, sulfotransferase enzymes 
+expressed in outer root sheath of the hair follicle sulfonate minoxidil. The 
+large intra-subject variability in follicular sulfotransferase was found to 
+predict minoxidil response and thus explain the low response rate to topical 
+minoxidil in the treatment of androgenetic alopecia. A method to increase 
+minoxidil response would be of significant clinical utility. Retinoids have been 
+reported to increase minoxidil response. The purported mechanism of action was 
+retinoid modulation of skin permeation to minoxidil; however, evidence to the 
+contrary supports retinoids increase dermal thickness. In order to elucidate the 
+effect of topical retinoids on minoxidil response, we studied the effect of 
+topical tretinoin on follicular sulfotransferase. In this study, we demonstrate 
+that topical tretinoin application influences the expression of follicular 
+sulfotransferase. Of clinical significance, in our cohort, 43% of subjects 
+initially predicted to be nonresponders to minoxidil were converted to 
+responders following 5 days of topical tretinoin application. To the best of our 
+knowledge, this is the first study to elucidate the interaction mechanism 
+between topical minoxidil and retinoids and thus provides a pathway for the 
+development of future androgenetic alopecia treatments.
+
+© 2019 Wiley Periodicals, Inc.
+
+DOI: 10.1111/dth.12915
+PMID: 30974011 [Indexed for MEDLINE]
+
+
+3. Br J Dermatol. 2004 Feb;150(2):186-94. doi: 10.1111/j.1365-2133.2004.05785.x.
+
+Minoxidil: mechanisms of action on hair growth.
+
+Messenger AG(1), Rundegren J.
+
+Author information:
+(1)Department of Dermatology, Royal Hallamshire Hospital, Sheffield S10 2JF, UK. 
+a.g.messenger@sheffield.ac.uk
+
+We have known for over 30 years that minoxidil stimulates hair growth, yet our 
+understanding of its mechanism of action on the hair follicle is very limited. 
+In animal studies, topical minoxidil shortens telogen, causing premature entry 
+of resting hair follicles into anagen, and it probably has a similar action in 
+humans. Minoxidil may also cause prolongation of anagen and increases hair 
+follicle size. Orally administered minoxidil lowers blood pressure by relaxing 
+vascular smooth muscle through the action of its sulphated metabolite, minoxidil 
+sulphate, as an opener of sarcolemmal KATP channels. There is some evidence that 
+the stimulatory effect of minoxidil on hair growth is also due to the opening of 
+potassium channels by minoxidil sulphate, but this idea has been difficult to 
+prove and to date there has been no clear demonstration that KATP channels are 
+expressed in the hair follicle. A number of in vitro effects of minoxidil have 
+been described in monocultures of various skin and hair follicle cell types 
+including stimulation of cell proliferation, inhibition of collagen synthesis, 
+and stimulation of vascular endothelial growth factor and prostaglandin 
+synthesis. Some or all of these effects may be relevant to hair growth, but the 
+application of results obtained in cell culture studies to the complex biology 
+of the hair follicle is uncertain. In this article we review the current state 
+of knowledge on the mode of action of minoxidil on hair growth and indicate 
+lines of future research.
+
+DOI: 10.1111/j.1365-2133.2004.05785.x
+PMID: 14996087 [Indexed for MEDLINE]
+
+
+4. Int J Trichology. 2023 May-Jun;15(3):108-112. doi: 10.4103/ijt.ijt_55_22. Epub
+ 2023 Dec 1.
+
+Efficacy, Tolerability, and Superiority of Propylene Glycol-Free, North American 
+Witch-Hazel (Hamamelis virginiana)-Based Solution of 5% Minoxidil Sulfate for 
+the Treatment of Female Androgenetic Alopecia.
+
+Trüeb RM(1).
+
+Author information:
+(1)Center for Dermatology and Hair Diseases Professor Trüeb, Zurich-Wallisellen, 
+Switzerland.
+
+BACKGROUND: Androgenetic alopecia leads to progressive hair loss in susceptible 
+individuals if left untreated. Topical minoxidil represents an evidence-based 
+treatment for female androgenetic alopecia, though with variable success.
+AIMS AND OBJECTIVES: Treatment of minoxidil non-responders remains challenging, 
+as does treatment of patients with propylene glycol sensitivity or irritable 
+scalp syndrome.
+MATERIALS AND METHODS: Single-center, retrospective cohort of 50 female patients 
+with androgenetic alopecia failing to respond to a minimum of 6 months of 
+standard 5% topical minoxidil solution either once daily or b.i.d. depending on 
+the severity of the alopecia. Patients were switched to propylene glycol-free, 
+North American Witch Hazel (Hamamelis virginiana)-based solution of 5% minoxidil 
+sulfate (5% minoxidil sensitive solution). Efficacy and safety of treatment were 
+evaluated, including stereotactic global photography and epiluminiscence 
+microscopy with digital imaging taken at baseline, at 3, and at 6 months of 
+treatment.
+RESULTS: 70% of patients showed observable clinical improvement with combined 
+global photographic and epiluminiscence microscopic assessment with digital 
+imaging, and 22% epiluminiscence microscopic-only improvement as evidence of 
+treatment efficacy. The treatment was well tolerated, particularly in patients 
+with propylene glycol sensitivity and patients with irritable scalp syndrome.
+CONCLUSIONS: These results suggest that propylene glycol-free, North American 
+witch hazel (Hamamelis virginiana)-based solution of 5% minoxidil is effective 
+and safe for treatment of female androgenetic alopecia, specifically in 
+minoxidil non-responders and patients with propylene glycol sensitivity or 
+irritable scalp syndrome.
+
+Copyright: © 2023 International Journal of Trichology.
+
+DOI: 10.4103/ijt.ijt_55_22
+PMCID: PMC10763728
+PMID: 38179008
+
+Conflict of interest statement: There are no conflicts of interest.
+
+
+5. Int J Pharm. 2025 May 30;677:125642. doi: 10.1016/j.ijpharm.2025.125642. Epub 
+2025 Apr 24.
+
+Liposomes enhance the hair follicle delivery of minoxidil sulfate with improved 
+treatment of androgenic alopecia.
+
+Shan Y(1), Xu C(2), Guo Y(1), Wen L(1), Zhou S(1), Fang L(3), Xu J(4), Zheng 
+H(5).
+
+Author information:
+(1)School of Pharmaceutical Sciences, Zhejiang Chinese Medical University, 
+Hangzhou 311402, China.
+(2)The First People's Hospital of Yuhang District, Hangzhou 311100, China.
+(3)Key Laboratory of Health Risk Factors for Seafood of Zhejiang Province 
+(Zhoushan Municipal District Center for Disease Control and Prevention), 
+Zhoushan 316021, China. Electronic address: fangli123@126.com.
+(4)Department of Pharmacy, The Second Affiliated Hospital, Zhejiang University 
+School of Medicine, Hangzhou 310009, China. Electronic address: 
+xujunjun90@zju.edu.cn.
+(5)School of Pharmaceutical Sciences, Zhejiang Chinese Medical University, 
+Hangzhou 311402, China. Electronic address: hs-zheng@163.com.
+
+Androgenic alopecia (AGA) represents one of the most prevalent forms of hair 
+loss. Liposomes (LPSs), acting as a localized dermal drug reservoir with 
+sustained release property, can effectively prolong and enhance drug retention 
+within the skin. Minoxidil sulfate (MXS), a potent active metabolite of 
+minoxidil (MX) for promoting hair growth, exhibits instability in aqueous 
+solution and faces difficulties in depositing within the deep dermal hair 
+follicle regions. In this study, MXS-LPSs were fabricated via the thin-film 
+hydration-dispersion method combined with an ammonium sulfate gradient active 
+drug loading process, and their physicochemical characteristics were 
+comprehensively characterized. The skin permeation/deposition properties of the 
+drug from the MXS-LPSs were investigated by Franz diffusion cell method on ex 
+vivo rat skin, and the mechanism underlying the targeted drug delivery of LPSs 
+to hair follicles was explored by confocal laser scanning microscopy (CLSM). The 
+pharmacodynamic evaluation of MXS-LPSs was carried out in AGA model rats. The 
+optimized MXS-LPSs were uniformly dispersed with enhanced stability. The average 
+vesicle size of MXS-LPSs was 129.46 ± 7.04 nm, the zeta potential was 
+-25.57 ± 4.79 mV, the encapsulation efficiency (EE) was 92.72 ± 0.75 %, and the 
+drug loading (DL) was 2.80 ± 0.12 %. The results of ex vivo skin 
+permeation/deposition showed that the cumulative permeated drug amount (Qn) from 
+MXS-LPS, MX tincture and MXS solution at 36 h was 225.98 ± 11.53, 19.79 ± 1.97 
+and 584.42 ± 2.33 μg·cm-2, respectively. The deposited drug amount in the skin 
+beneath the stratum corneum from MXS-LPSs, MX tincture and MXS solution 
+accounted for about 59.80 ± 26.27 %, 43.18 ± 6.58 % and 32.55 ± 1.61 % of that 
+in the whole skin, respectively. It is remarkable that MXS-LPSs showed a 
+considerably increased accumulation in hair follicles when compared to MXS 
+solution. The results of pharmacodynamic tests demonstrated that, compared to MX 
+tincture, MXS-LPSs could more effectively stimulate hair regrowth and avoided 
+the adverse effects. Importantly, the MXS-LPSs also reduced skin irritation and 
+sensitization. Consequently, MXS-LPSs hold substantial promise in the treatment 
+of AGA.
+
+Copyright © 2025 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijpharm.2025.125642
+PMID: 40287072 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare the following financial interests/personal relationships which may be 
+considered as potential competing interests: [Hangsheng Zheng reports financial 
+support was provided by National Natural Science Foundation of China. Junjun Xu 
+reports financial support was provided by the Zhejiang Provincial Natural 
+Science Foundation of China. Li Fang reports financial support was provided by 
+the Science and Technology Project of Zhejiang Province Disease Prevention and 
+Control. Yunjun Shan reports financial support was provided by Science and 
+Technology Innovation Activity Plan and Xinmiao Talent Plan of Undergers of 
+Zhejiang Province, China. If there are other authors, they declare that they 
+have no known competing financial interests or personal relationships that could 
+have appeared to influence the work reported in this paper].
+
+
+6. Skin Appendage Disord. 2018 Oct;4(4):349-350. doi: 10.1159/000488011. Epub
+2018  Apr 5.
+
+Use of Minoxidil Sulfate versus Minoxidil Base in Androgenetic Alopecia 
+Treatment: Friend or Foe?
+
+Dias PCR(1), Miot HA(1), Trüeb RM(2), Ramos PM(1).
+
+Author information:
+(1)Dermatology Department, São Paulo State University - UNESP, Botucatu, Brazil.
+(2)Center for Dermatology and Hair Diseases Professor Trüeb, Zurich-Wallisellen, 
+Switzerland.
+
+DOI: 10.1159/000488011
+PMCID: PMC6219241
+PMID: 30410915
+
+
+7. Dermatol Ther. 2018 Nov;31(6):e12741. doi: 10.1111/dth.12741. Epub 2018 Oct 8.
+
+Low-dose daily aspirin reduces topical minoxidil efficacy in androgenetic 
+alopecia patients.
+
+Goren A(1), Sharma A(2), Dhurat R(2), Shapiro J(3), Sinclair R(4), Situm M(5), 
+Kovacevic M(5), Lukinovic Skudar V(6), Goldust M(7), Lotti T(8), McCoy J(1).
+
+Author information:
+(1)Applied Biology, Inc., Irvine, California.
+(2)Department of Dermatology, LTM Medical College & Hospital, Sion, Maharashtra, 
+India.
+(3)NYU, New York, New York.
+(4)Department of Medicine, University of Melbourne, Parkville, Victoria, 
+Australia.
+(5)Department of Dermatovenereology, "Sestre Milosrdnice" University Hospital 
+Centre, Zagreb, Croatia.
+(6)Zagreb School of Medicine, University of Zagreb, Croatia.
+(7)Faculty of Medicine, Tabriz University of Medical Sciences, Islamic Republic 
+of Iran.
+(8)Department of Dermatology and Venereology, University of Rome "G. Marconi", 
+Rome, Italy.
+
+Topical minoxidil is the only US FDA approved OTC drug for the treatment of 
+androgenetic alopecia (AGA). Minoxidil is a pro-drug converted into its active 
+form, minoxidil sulfate, by the sulfotransferase enzymes in the outer root 
+sheath of hair follicles. Previously, we demonstrated that sulfotransferase 
+activity in hair follicles predicts response to topical minoxidil in the 
+treatment of AGA. In the human liver, sulfotransferase activity is significantly 
+inhibited by salicylic acid. Low-dose OTC aspirin (75-81 mg), a derivative of 
+salicylic acid, is used by millions of people daily for the prevention of 
+coronary heart disease and cancer. It is not known whether oral aspirin inhibits 
+sulfotransferase activity in hair follicles, potentially affecting minoxidil 
+response in AGA patients. In the present study, we determined the follicular 
+sulfotransferase enzymatic activity following 14 days of oral aspirin 
+administration. In our cohort of 24 subjects, 50% were initially predicted to be 
+responders to minoxidil. However, following 14 days of aspirin administration, 
+only 27% of the subjects were predicted to respond to topical minoxidil. To the 
+best of our knowledge, this is the first study to report the effect of low-dose 
+daily aspirin use on the efficacy of topical minoxidil.
+
+© 2018 Wiley Periodicals, Inc.
+
+DOI: 10.1111/dth.12741
+PMID: 30226287 [Indexed for MEDLINE]
+
+
+8. JAAD Int. 2023 May 20;12:103-104. doi: 10.1016/j.jdin.2023.04.011. eCollection
+ 2023 Sep.
+
+Evaluation of hair regrowth after minoxidil and dutasteride tattooing in men 
+with androgenetic alopecia.
+
+Ragi SD(1), Ghanian S(1), Rogers N(2), Peterson DM(3), Johnson LS(4), Wambier 
+CG(1).
+
+Author information:
+(1)Department of Dermatology, The Warren Alpert Medical School of Brown 
+University, Rhode Island Hospital, Providence, Rhode Island.
+(2)Hair Restoration of the South, Metairie, Louisiana.
+(3)Department of Dermatology, Yale School of Medicine, New Haven, Connecticut.
+(4)Department of Dermatology, University of Utah, Salt Lake City, Utah.
+
+DOI: 10.1016/j.jdin.2023.04.011
+PMCID: PMC10315762
+PMID: 37404245
+
+Conflict of interest statement: Dr Wambier has served as an adviser for Applied 
+Biology, Chemistry Rx, Daniel Alain, and Young Pharmaceuticals and as an 
+investigator for Concert Pharmaceuticals, Incyte, Eli Lilly, Pfizer, Sun Pharma, 
+and UCB. Dr Peterson has served as investigator for Concert Pharmaceuticals, 
+Incyte, Eli Lilly, Pfizer, and AnaptysBio. The other authors have no potential 
+conflict of interest to disclose.
+
+
+9. Dermatol Ther. 2014 May-Jun;27(3):171-3. doi: 10.1111/dth.12111. Epub 2013 Nov
+ 27.
+
+Novel enzymatic assay predicts minoxidil response in the treatment of 
+androgenetic alopecia.
+
+Goren A(1), Castano JA, McCoy J, Bermudez F, Lotti T.
+
+Author information:
+(1)Applied Biology, Irvine, California; Department of Dermatology and 
+Venereology, University of Rome "G.Marconi", Rome, Italy.
+
+Topical minoxidil is the most common drug used for the treatment of androgenetic 
+alopecia (AGA) in men and women. Although topical minoxidil exhibits a good 
+safety profile, the efficacy in the overall population remains relatively low at 
+30-40%. To observe significant improvement in hair growth, minoxidil is 
+typically used daily for a period of at least 3-4 months. Due to the significant 
+time commitment and low response rate, a biomarker for predicting patient 
+response prior to therapy would be advantageous. Minoxidil is converted in the 
+scalp to its active form, minoxidil sulfate, by the sulfotransferase enzyme 
+SULT1A1. We hypothesized that SULT1A1 enzyme activity in the hair follicle 
+correlates with minoxidil response for the treatment of AGA. Our preliminary 
+retrospective study of a SULT1A1 activity assay demonstrates 95% sensitivity and 
+73% specificity in predicting minoxidil treatment response for AGA. A larger 
+prospective study is now under way to further validate this novel assay.
+
+© 2013 Wiley Periodicals, Inc.
+
+DOI: 10.1111/dth.12111
+PMID: 24283387 [Indexed for MEDLINE]
+
+
+10. J Pharm Sci. 2013 May;102(5):1488-94. doi: 10.1002/jps.23485. Epub 2013 Feb
+28.
+
+Iontophoresis-targeted, follicular delivery of minoxidil sulfate for the 
+treatment of alopecia.
+
+Gelfuso GM(1), Gratieri T, Delgado-Charro MB, Guy RH, Vianna Lopez RF.
+
+Author information:
+(1)School of Pharmaceutical Sciences of Ribeirão Preto, University of São Paulo, 
+Ribeirão Preto, SP, 14040-903, Brazil.
+
+Although minoxidil (MX) is a drug known to stimulate hair growth, the treatment 
+of androgenic alopecia could be improved by delivery strategies that would favor 
+drug accumulation into the hair follicles. This work investigated in vitro the 
+potential of iontophoresis to achieve this objective using MX sulfate (MXS), a 
+more water-soluble derivative of MX. Passive delivery of MXS was first 
+determined from an ethanol-water solution and from a thermosensitive gel. The 
+latter formulation resulted in greater accumulation of MXS in the stratum 
+corneum (skin's outermost layer) and hair follicles and an overall decrease in 
+absorption through the skin. Anodal iontophoresis of MXS from the same gel 
+formulation was then investigated at pH 3.5 and pH 5.5. Compared with passive 
+delivery, iontophoresis increased the amount of drug reaching the follicular 
+infundibula from 120 to 600 ng per follicle. In addition, drug recovery from 
+follicular casts was threefold higher following iontophoresis at pH 5.5 compared 
+with that at pH 3.5. Preliminary in vivo experiments in rats confirmed that 
+iontophoretic delivery of MXS facilitated drug accumulation in hair follicles. 
+Overall, therefore, iontophoresis successfully and significantly enhanced 
+follicular delivery of MX suggesting a useful opportunity for the improved 
+treatment of alopecia.
+
+Copyright © 2013 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jps.23485
+PMID: 23450524 [Indexed for MEDLINE]
+
+
+11. J Cosmet Dermatol. 2022 Jan;21(1):343-346. doi: 10.1111/jocd.14299. Epub 2021
+ Jun 25.
+
+SULT1A1 (Minoxidil Sulfotransferase) enzyme booster significantly improves 
+response to topical minoxidil for hair regrowth.
+
+Dhurat R(1), Daruwalla S(1), Pai S(1), Kovacevic M(2), McCoy J(3), Shapiro J(4), 
+Sinclair R(5), Vano-Galvan S(6), Goren A(3)(7).
+
+Author information:
+(1)Department of Dermatology, LTM Medical College & Hospital Sion, Mumbai, 
+India.
+(2)Department of Dermatology and Venereology, University Hospital Center "Sestre 
+milosrdnice", Zagreb, Croatia.
+(3)Applied Biology, Irvine, California, USA.
+(4)Department of Dermatology, New York University Langone Medical Center, New 
+York City, New York, USA.
+(5)Department of Medicine, University of Melbourne, East Melbourne, Victoria, 
+Australia.
+(6)Trichology Unit, Dermatology Department, Ramon y Cajal Hospital, IRYCIS, 
+University of Alcala, Madrid, Spain.
+(7)Department of Dermatology and Venereology, Clinical Hospital Center Sestre 
+Milosrdnice, Zagreb, Croatia.
+
+BACKGROUND: Minoxidil is a widely used over-the-counter topical treatment for 
+hair loss. The response rate for topical minoxidil is relatively low. Minoxidil 
+is a pro-drug, converted to its active form, minoxidil sulfate, by SULT1A1 
+enzymes located in the scalp. Recently, a novel topical formula that increases 
+the activity of SULT1A1 in hair follicles was reported.
+AIMS: To evaluate any benefit of applying the SULT1A1 enzyme booster prior to 
+daily 5% minoxidil treatment.
+METHODS: Male androgenic alopecia patients were recruited to a randomized 
+blinded placebo-controlled study. Patients were randomized to receive 5% topical 
+minoxidil plus the novel formula or minoxidil plus a sham adjuvant. Patient's 
+hair growth was monitored using global photography over 60 days.
+RESULTS: Twenty-four males with androgenic alopecia (Norwood scale average 4.4, 
+range 2-6) were randomized and completed the trial: 12 in the active arm and 12 
+in placebo. 75% of the subjects who used the SULT1A1 adjuvant with their daily 
+minoxidil treatments for 60 days regrew hair versus 33% of those using the 
+placebo adjuvant (p = 0.023).
+CONCLUSIONS: In a small cohort of androgenetic alopecia men, adding the SULT1A1 
+adjuvant to their daily minoxidil treatment regimen improved hair regrowth.
+
+© 2021 Wiley Periodicals LLC.
+
+DOI: 10.1111/jocd.14299
+PMID: 34133836 [Indexed for MEDLINE]
+
+
+12. Dermatol Clin. 1990 Apr;8(2):367-75.
+
+The therapeutic use of topical minoxidil.
+
+DeVillez RL(1).
+
+Author information:
+(1)Upjohn Company, Kalamazoo, Michigan.
+
+Topical minoxidil is a trichogenic agent that stimulates the hair follicle via 
+the vasoactive metabolite minoxidil sulfate without any evidence of antiandrogen 
+activity or an effect on the immune system. Less than 5% of the applied dose is 
+absorbed. The therapeutic effect on hair regrowth is demonstrated for 
+androgenetic alopecia in males and females, by a computer-assisted image 
+analysis counting technique of nonvellus hairs from a photographic print. 
+Patients with severe alopecia areata respond poorly to topical minoxidil 
+treatment. The most common adverse reactions are limited to irritant and 
+allergic contact dermatitis on the scalp. The use of retinoic acid with topical 
+minoxidil has been disappointing relative to the increase in systemic exposure. 
+The value of topical minoxidil as an adjunct for the hair transplant procedure 
+and its effect on hair loss from chemotherapy are being evaluated.
+
+PMID: 2191807 [Indexed for MEDLINE]
+
+
+13. J Am Acad Dermatol. 1987 Mar;16(3 Pt 2):657-68. doi: 
+10.1016/s0190-9622(87)70084-x.
+
+Action of topical minoxidil in the bald stump-tailed macaque.
+
+Uno H, Cappas A, Brigham P.
+
+The effect of topical minoxidil (5% and 2% solutions) on hair regrowth was 
+studied in the frontal bald scalp of 18 adolescent and adult stump-tailed 
+macaques (Macaca arctoides). Gross observation of the hairiness and 
+folliculogram analysis of the skin biopsy specimens have shown that minoxidil 
+induces the enlargement of vellus follicles to the size of middle to terminal 
+follicles (regrowth of hair effect), minoxidil maintains the terminal follicles 
+in the prebald scalp of periadolescent animals (prevention of baldness effect), 
+enlarged follicles regress after minoxidil is withdrawn, and hair follicular 
+growth is once again stimulated when treatment with minoxidil is reinstituted. 
+Hair regrowth was more prominent in the early stage of baldness among younger 
+macaques than in baldness of longer duration in older animals. An in vitro study 
+of 3H thymidine uptake revealed that the hair follicles in minoxidil-treated 
+macaque skin showed significant enhancement of deoxyribonucleic acid synthesis 
+in the follicular and perifollicular cells but not in the epidermal 
+keratinocytes. Furthermore, the uptake of 3H minoxidil and its conversion to 
+minoxidil sulfate (the active metabolite producing vasodilation) was relatively 
+higher in the hair follicles than in the epidermis and dermis. Serum 
+concentration of minoxidil was fairly constant 2, 4, 6, 15, and 24 hours after a 
+single application (averaging 15 ng/ml with 5% minoxidil). Minoxidil's essential 
+action in hair follicular growth may be as a potent vasodilator. However, a 
+direct action on the hair follicle cannot be ruled out considering uptake and 
+conversion of the drug to minoxidil sulfate within the hair follicle itself.
+
+DOI: 10.1016/s0190-9622(87)70084-x
+PMID: 3558911 [Indexed for MEDLINE]
+
+
+14. J Biol Regul Homeost Agents. 2018 Jul-Aug;32(4):937-940.
+
+The effect of topical minoxidil treatment on follicular sulfotransferase 
+enzymatic activity.
+
+Goren A(1)(2), Mccoy J(1), Kovacevic M(2), Situm M(3), Chitalia J(4), Dhurat 
+R(4), Naccarato T(1), Lotti T(2).
+
+Author information:
+(1)Applied Biology, Inc., Irvine, CA, USA.
+(2)Department of Dermatology and Venereology, University of Rome G. Marconi, 
+Rome, Italy.
+(3)Department of Dermatology and Venereology, University Hospital Center Sestre 
+Milosrdnice, Zagreb, Croatia.
+(4)Department of Dermatology, LTM Medical College and Hospital Sion, Mumbai, 
+India.
+
+Minoxidil is the only US FDA-approved topical drug for the treatment of female 
+and male pattern hair loss. Previously, it was demonstrated that topical 
+minoxidil is metabolized to its active metabolite, minoxidil sulfate, by 
+sulfotransferase enzymes located in the outer root sheath of hair follicles. The 
+expression of sulfotransferase in the scalp varies greatly between individuals, 
+and this difference in expression explains the varied response to minoxidil 
+treatment. Previously, we have demonstrated the clinical utility of detecting 
+sulfotransferase in plucked hair follicles to predict minoxidil response in 
+pattern hair loss patients. Typically, exogenous exposure to substrates affects 
+the expression of the enzymatic system responsible for their metabolism. For 
+example, Phase I metabolizing enzymes, such as the cytochrome P450 family of 
+enzymes, are known to be up-regulated in the presence of xenobiotic substrates. 
+However, it is not known if Phase II metabolizing enzymes, such as the 
+sulfotransferase family of enzymes, are similarly affected by the presence of 
+substrates. In this study, we recruited 120 subjects and analyzed their 
+sulfotransferase enzymatic activity before and after treatment with topical 
+minoxidil. Adjusting the results for biologic (within subject) variability, we 
+discovered that the sulfotransferase enzymatic system expression is stable over 
+the course of minoxidil treatment. To the best of our knowledge, this is the 
+first study to demonstrate the stability of sulfotransferase, a Phase II 
+metabolizing enzyme, over the course of minoxidil treatment.
+
+PMID: 30043580 [Indexed for MEDLINE]
+
+
+15. Sci Data. 2022 Nov 29;9(1):731. doi: 10.1038/s41597-022-01846-w.
+
+Comprehensive transcriptome data to identify downstream genes of testosterone 
+signalling in dermal papilla cells.
+
+Matsusaka H(1), Wu T(1), Furuya K(1), Yamada-Kato T(2), Bai L(1), Tomita H(1), 
+Sugano E(1), Ozaki T(1), Kiyono T(3), Okunishi I(4), Fukuda T(5).
+
+Author information:
+(1)Graduate School of Science and Engineering, Iwate University, 4-3-5, Ueda, 
+Morioka, Iwate, 020-8551, Japan.
+(2)Research & Development Division, Kinjirushi corporation limited, 2-61 
+Yahata-hontori, Nakagawa-ku, Nagoya-shi, Aichi, Japan.
+(3)Exploratory Oncology Research and Clinical Trial Center, National Cancer 
+Center, 6-5-1 Kashiwanoha, Kashiwa, Chiba, 277-8577, Japan. 
+tkiyono@east.ncc.go.jp.
+(4)Research & Development Division, Kinjirushi corporation limited, 2-61 
+Yahata-hontori, Nakagawa-ku, Nagoya-shi, Aichi, Japan. 
+i-okunishi@kinjirushi.co.jp.
+(5)Graduate School of Science and Engineering, Iwate University, 4-3-5, Ueda, 
+Morioka, Iwate, 020-8551, Japan. tomofukuda009@gmail.com.
+
+Testosterone-related steroid hormones are associated with various types of 
+diseases, including prostate cancer and androgenetic alopecia (AGA). The 
+testosterone or dihydroxy testosterone (DHT) circulates through the blood, binds 
+to the androgen receptor (AR) in the cytoplasm, and finally enters the nucleus 
+to activate downstream target genes. We previously found that immortalized 
+dermal papilla cells (DPCs) lost AR expression, which may be explained by the 
+repeated cell passages of DPCs. To compensate for the AR expression, DPCs that 
+express AR exogenously were established. In this study, we performed an RNA-Seq 
+analysis of the AR-expressing and non-AR-expressing DPCs in the presence or 
+absence of DHT to identify the downstream target genes regulated by AR 
+signalling. Furthermore, we treated DPCs with minoxidil sulphate, which has the 
+potential to treat AGA. This is the first comprehensive analysis to identify the 
+downstream genes involved in testosterone signalling in DPCs. Our manuscript 
+provides high-priority data for the discovery of molecular targets for prostate 
+cancer and AGA.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41597-022-01846-w
+PMCID: PMC9709033
+PMID: 36446804 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+16. Mini Rev Med Chem. 2026 Mar 24. doi: 10.2174/0113895575433118260115212307. 
+Online ahead of print.
+
+Minoxidil as a Prodrug: Review of Chemical, Pharmacological, and Technological 
+Aspects in Alopecia Therapeutics.
+
+de Oliveira GT(1), Ikegaki ABKB(2), de Souza ILI(2), Agostini SBN(3), Marques 
+MBF(4), de Araújo MB(5).
+
+Author information:
+(1)Postgraduate student in Pharmaceutical Sciences, Faculty of Pharmaceutical 
+Sciences, Federal University of Alfenas, Alfenas, MG, Brazil.
+(2)Scientific Initiation Programme, Faculty of Pharmaceutical Sciences, Federal 
+University of Alfenas, Alfenas, MG, Brazil.
+(3)Postdoctoral Researcher of the Postgraduate Program in Pharmaceutical 
+Sciences, Faculty of Pharmaceutical Sciences, Federal University of Alfenas, 
+Alfenas, MG, Brazil.
+(4)Visiting Professor Program in Pharmaceutical Sciences, Faculty of 
+Pharmaceutical Sciences, Federal University of Alfenas, Alfenas, MG, Brazil.
+(5)Quality Control Laboratory, Faculty of Pharmaceutical Sciences, Federal 
+University of Alfenas, Alfenas, MG, Brazil.
+
+Alopecia is a prevalent condition that affects both sexes, characterised by 
+miniaturisation of hair follicles and changes in the dynamics of the hair cycle, 
+such as androgenetic alopecia associated with various systemic factors, 
+including the COVID-19 pandemic. Minoxidil (base), initially developed as an 
+oral antihypertensive, is currently used in the treatment of alopecia, acting as 
+a prodrug that requires hepatic sulphation to generate its active metabolite, 
+minoxidil sulphate. Topical formulations use minoxidil sulphate, the active 
+pharmaceutical ingredient, directly on the hair follicles. Pharmacogenomic 
+studies highlight the critical role of SULT1A1 enzyme variability in modulating 
+treatment response, supporting personalised therapeutic strategies. Despite 
+challenges related to low water solubility, high permeability, and narrow 
+therapeutic index, emerging pharmaceutical technologies, including minitablets, 
+orodispersible forms, sublingual preparations, and modified release systems, 
+offer the potential to optimise absorption, increase dosing accuracy, and reduce 
+adverse effects. This review consolidates current knowledge on the chemistry, 
+pharmacology, pharmacogenomics, and technological aspects of minoxidil (base) 
+for systemic use, emphasising translational developments that may redefine its 
+clinical applications and contribute to safer and more standardised therapies. 
+The integration of medicinal chemistry, pharmaceutical technology, clinical 
+pharmacology, and regulatory guidance is expected to promote oral minoxidil as a 
+reliable, effective, and patient-centred therapeutic option for alopecia.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/0113895575433118260115212307
+PMID: 41879458
+
+
+17. Ann N Y Acad Sci. 1991 Dec 26;642:470-2. doi: 
+10.1111/j.1749-6632.1991.tb24421.x.
+
+The hair growing effect of minoxidil.
+
+Takeshita K(1), Yamagishi I, Sugimoto T, Otomo S, Moriwaki K.
+
+Author information:
+(1)Research Center, Taisho Pharmaceutical Co., Ltd., Ohmiya, Japan.
+
+DOI: 10.1111/j.1749-6632.1991.tb24421.x
+PMID: 1809109 [Indexed for MEDLINE]
+
+
+18. Sci Rep. 2020 Mar 5;10(1):4084. doi: 10.1038/s41598-020-60863-0.
+
+Colored Polymeric Nanofiber Loaded with Minoxidil Sulphate as Beauty Coverage 
+and Restoring Hair Loss.
+
+Sfouq Aleanizy F(1), Yahya Alqahtani F(2), Alkahtani HM(3), Alquadeib B(2), 
+Eltayeb EK(2), Aldarwesh A(4), Abdelhady HG(5), Alsarra IA(2).
+
+Author information:
+(1)Department of Pharmaceutics, College of Pharmacy, King Saud University, P.O. 
+Box 22452, Riyadh, 11495, Saudi Arabia. faleanizy@ksu.edu.sa.
+(2)Department of Pharmaceutics, College of Pharmacy, King Saud University, P.O. 
+Box 22452, Riyadh, 11495, Saudi Arabia.
+(3)Department of Pharmaceutical Chemistry, College of Pharmacy, King Saud 
+University, P.O. Box 2457, Riyadh, 11451, Saudi Arabia.
+(4)Department of Optometry, College of Applied Medical Sciences, King Saud 
+University, P.O. Box 22452, Riyadh, 11495, Saudi Arabia.
+(5)Eugene Applebaum College of Pharmacy and Health Sciences, Wayne State 
+University, 42 W. Warren Ave., Detroit, MI, USA.
+
+Polymeric nanofibers fabricated by electrospinning either blank (PVA) or loaded 
+with minoxidil sulphate have yielded optimum fibers with an average diameter 
+273 nm, and 511 nm, respectively. Thermal analysis of nanofibers indicated no 
+chemical interaction. The NMR spectrum confirmed stability of nanofiber as there 
+were no interactions between functional groups. Prepared nanofibers showed a 
+47.4% encapsulation efficiency and 73% yield. In vitro drug release of minoxidil 
+sulphate from nanofiber exhibited an initial burst release followed by a slower 
+release pattern. Stability studies revealed that minoxidil nanofiber was stable 
+if stored at room temperature and protected from light with only loss of 9.6% of 
+its nominal concentration within 6 months. As a result, the prepared 
+solid/colored formula serves as an ideal formulation for such instable drug in 
+liquid formula taking the advantage of the attractiveness of beauty colored 
+coverage, and the simple, and non-tousled application.
+
+DOI: 10.1038/s41598-020-60863-0
+PMCID: PMC7058081
+PMID: 32139735 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+19. J Biol Regul Homeost Agents. 2016 Jan-Mar;30(1):131-4.
+
+Doppler laser imaging predicts response to topical minoxidil in the treatment of 
+female pattern hair loss.
+
+McCoy J(1), Kovacevic M(2), Situm M(3), Stanimirovic A(4), Bolanca Z(3), Goren 
+A(5).
+
+Author information:
+(1)Applied Biology, Inc., Irvine, CA, USA.
+(2)Department of Dermatology and Venereology, University of Rome G.Marconi, 
+Rome, Italy.
+(3)Department of Dermatology and Venereology, University Hospital Center Sestre 
+milosrdnice, Zagreb, Croatia.
+(4)Department of Clinical Medicine, University of Applied Health Sciences, 
+Zagreb, Croatia.
+(5)Applied Biology, Inc., Irvine, CA, USA; Department of Dermatology and 
+Venereology, University of Rome G.Marconi, Rome, Italy.
+
+Topical minoxidil is the only drug approved by the US FDA for the treatment of 
+female pattern hair loss. Unfortunately, following 16 weeks of daily 
+application, less than 40% of patients regrow hair. Several studies have 
+demonstrated that sulfotransferase enzyme activity in plucked hair follicles 
+predicts topical minoxidil response in female pattern hair loss patients. 
+However, due to patients discomfort with the procedure, and the time required 
+to perform the enzymatic assay it would be ideal to develop a rapid, 
+non-invasive test for sulfotransferase enzyme activity. Minoxidil is a pro-drug 
+converted to its active form, minoxidil sulfate, by sulfotransferase enzymes in 
+the outer root sheath of hair. Minoxidil sulfate is the active form required for 
+both the promotion of hair regrowth and the vasodilatory effects of minoxidil. 
+We thus hypothesized that laser Doppler velocimetry measurement of scalp blood 
+perfusion subsequent to the application of topical minoxidil would correlate 
+with sulfotransferase enzyme activity in plucked hair follicles. In this study, 
+plucked hair follicles from female pattern hair loss patients were analyzed for 
+sulfotransferase enzyme activity. Additionally, laser Doppler velocimetry was 
+used to measure the change in scalp perfusion at 15, 30, 45, and 60 minutes, 
+after the application of minoxidil. In agreement with our hypothesis, we 
+discovered a correlation (r=1.0) between the change in scalp perfusion within 60 
+minutes after topical minoxidil application and sulfotransferase enzyme activity 
+in plucked hairs. To our knowledge, this is the first study demonstrating the 
+feasibility of using laser Doppler imaging as a rapid, non-invasive diagnostic 
+test to predict topical minoxidil response in the treatment of female pattern 
+hair loss.
+
+PMID: 27049083 [Indexed for MEDLINE]
+
+
+20. Colloids Surf B Biointerfaces. 2015 Oct 1;134:408-12. doi: 
+10.1016/j.colsurfb.2015.07.031. Epub 2015 Jul 19.
+
+Iontophoresis of minoxidil sulphate loaded microparticles, a strategy for 
+follicular drug targeting?
+
+Gelfuso GM(1), Barros MA(2), Delgado-Charro MB(3), Guy RH(3), Lopez RF(4).
+
+Author information:
+(1)School of Pharmaceutical Sciences of Ribeirão Preto, University of São Paulo. 
+Av. do Café s/n, 14040-903 Ribeirão Preto, SP, Brazil; Department of Pharmacy & 
+Pharmacology, University of Bath, Claverton Down, BA2 7AY, Bath, UK; Laboratory 
+of Food, Drugs and Cosmetics (LTMAC), School of Health Sciences, University of 
+Brasília, Campus Universitário Darcy Ribeiro, s/n, 70910-900 Brasília, DF, 
+Brazil.
+(2)School of Pharmaceutical Sciences of Ribeirão Preto, University of São Paulo. 
+Av. do Café s/n, 14040-903 Ribeirão Preto, SP, Brazil.
+(3)Department of Pharmacy & Pharmacology, University of Bath, Claverton Down, 
+BA2 7AY, Bath, UK.
+(4)School of Pharmaceutical Sciences of Ribeirão Preto, University of São Paulo. 
+Av. do Café s/n, 14040-903 Ribeirão Preto, SP, Brazil. Electronic address: 
+rvianna@fcfrp.usp.br.
+
+The feasibility of targeting drugs to hair follicles by a combination of 
+microencapsulation and iontophoresis has been evaluated. Minoxidil sulphate 
+(MXS), which is used in the treatment of alopecia, was selected as a relevant 
+drug with respect to follicular penetration. The skin permeation and disposition 
+of MXS encapsulated in chitosan microparticles (MXS-MP) was evaluated in vitro 
+after passive and iontophoretic delivery. Uptake of MXS was quantified at 
+different exposure times in the stratum corneum (SC) and hair follicles. 
+Microencapsulation resulted in increased (6-fold) drug accumulation in the hair 
+follicles relative to delivery from a simple MXS solution. Application of 
+iontophoresis enhanced follicular delivery for both the solution and the 
+microparticle formulations. It appears, therefore, that microencapsulation and 
+iontophoresis can act synergistically to enhance topical drug targeting to hair 
+follicles.
+
+Copyright © 2015 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.colsurfb.2015.07.031
+PMID: 26222406 [Indexed for MEDLINE]
+
+
+21. J Microencapsul. 2011;28(7):650-8. doi: 10.3109/02652048.2011.604435. Epub
+2011  Aug 9.
+
+Chitosan microparticles for sustaining the topical delivery of minoxidil 
+sulphate.
+
+Gelfuso GM(1), Gratieri T, Simão PS, de Freitas LA, Lopez RF.
+
+Author information:
+(1)Department of Pharmaceutical Sciences, School of Pharmaceutical Sciences of 
+Ribeirão Preto, University of São Paulo, Av. do Café, s/n. 14040-903, Ribeirão 
+Preto, SP, Brazil.
+
+Given the hypothesis that microparticles can penetrate the skin barrier along 
+the transfollicular route, this work aimed to obtain and characterise chitosan 
+microparticles loaded with minoxidil sulphate (MXS) and to study their ability 
+to sustain the release of the drug, attempting a further application utilising 
+them in a targeted delivery system for the topical treatment of alopecia. 
+Chitosan microparticles, containing different proportions of MXS/polymer, were 
+prepared by spray drying and were characterised by yield, encapsulation 
+efficiency, size and morphology. Microparticles selected for further studies 
+showed high encapsulation efficiency (∼82%), a mean diameter of 3.0 µm and a 
+spherical morphology without porosities. When suspended in an ethanol/water 
+solution, chitosan microparticles underwent instantaneous swelling, increasing 
+their mean diameter by 90%. Release studies revealed that the chitosan 
+microparticles were able to sustain about three times the release rate of MXS. 
+This feature, combined with suitable size, confers to these microparticles the 
+potential to target and improve topical therapy of alopecia with minoxidil.
+
+DOI: 10.3109/02652048.2011.604435
+PMID: 21824068 [Indexed for MEDLINE]
+
+
+22. J Pharm Biomed Anal. 2020 Aug 5;187:113373. doi: 10.1016/j.jpba.2020.113373. 
+Epub 2020 May 20.
+
+LC-MS bioanalytical method for simultaneous determination of latanoprost and 
+minoxidil in the skin.
+
+Oliveira PM(1), Sampaio TR(2), França LCF(1), Gratieri T(1), Cunha-Filho M(3), 
+Gelfuso GM(4).
+
+Author information:
+(1)Laboratory of Food, Drug and Cosmetics (LTMAC), School of Health Sciences, 
+University of Brasília, 70910-900, Brasília, DF, Brazil.
+(2)Department of Pharmacy, School of Health Sciences, University of Brasília, 
+70910-900, Brasília, DF, Brazil.
+(3)Laboratory of Food, Drug and Cosmetics (LTMAC), School of Health Sciences, 
+University of Brasília, 70910-900, Brasília, DF, Brazil. Electronic address: 
+marciliocunha@unb.br.
+(4)Laboratory of Food, Drug and Cosmetics (LTMAC), School of Health Sciences, 
+University of Brasília, 70910-900, Brasília, DF, Brazil. Electronic address: 
+gmgelfuso@unb.br.
+
+The association of minoxidil sulphate and latanoprost is currently emerging as a 
+promising strategy for the treatment of androgenic alopecia, which is the most 
+common type of scalp hair loss. In order to support the development of new 
+pharmaceutical products containing such drugs combination, this study proposes a 
+simple and efficient LC-MS bioanalytical method to simultaneously quantify 
+minoxidil sulphate and latanoprost in different skin layers. Compounds 
+separation was performed by liquid chromatography using a C18 column with 
+gradient elution of a mobile phase composed of 0.1 % formic acid in acetonitrile 
+and water at a flow rate of 0.5 mL min-1. Determinations were executed using 
+mass spectrometry equipped with an ESI interface operating in a positive 
+ionization mode. Quantification was performed using selective ion mode 
+monitoring of m/z 210.1 for minoxidil sulphate and 433.3 for latanoprost. The 
+matrix effect was very pronounced in samples containing some skin layers or 
+electrolyte solution. Accordingly, a calibration curve for each contaminant 
+group was built, leading to correlation coefficient values higher than 0.99. 
+Additionally, lower limits of detection and quantification were obtained, and 
+precision (repeatability and intermediate precision) achieved results with a 
+coefficient of variation less than 15 %. Drug recovery from skin samples was 
+higher than 70 %, fulfilling the recommendations. Also, the bioanalytical method 
+was successfully tested in in vitro skin penetration studies proving its 
+effectiveness in the development of topical formulations containing both drugs.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jpba.2020.113373
+PMID: 32473548 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest None.
+
+
+23. Int J Biol Macromol. 2015 Apr;75:225-9. doi: 10.1016/j.ijbiomac.2015.01.036. 
+Epub 2015 Jan 31.
+
+Chitosan nanoparticles for targeting and sustaining minoxidil sulphate delivery 
+to hair follicles.
+
+Matos BN(1), Reis TA(1), Gratieri T(1), Gelfuso GM(2).
+
+Author information:
+(1)Laboratory of Food, Drug and Cosmetics (LTMAC), School of Health Sciences, 
+University of Brasília, 70910-900 Brasília, DF, Brazil.
+(2)Laboratory of Food, Drug and Cosmetics (LTMAC), School of Health Sciences, 
+University of Brasília, 70910-900 Brasília, DF, Brazil. Electronic address: 
+gmgelfuso@unb.br.
+
+This work developed minoxidil sulphate-loaded chitosan nanoparticles (MXS-NP) 
+for targeted delivery to hair follicles, which could sustain drug release and 
+improve the topical treatment of alopecia. Chitosan nanoparticles were obtained 
+using low-molecular weight chitosan and tripolyphosphate as crosslink agent. 
+MXS-NP presented a monomodal distribution with hydrodynamic diameter of 235.5 ± 
+99.9 nm (PDI of 0.31 ± 0.01) and positive zeta potential (+38.6 ± 6.0 mV). SEM 
+analysis confirmed nanoparticles average size and spherical shape. A drug 
+loading efficiency of 73.0 ± 0.3% was obtained with polymer:drug ratio of 1:1 
+(w/w). Drug release through cellulose acetate membranes from MXS-NP was 
+sustained in about 5 times in comparison to the diffusion rate of MXS from the 
+solution (188.9 ± 6.0 μg/cm(2)/h and 35.4 ± 1.8 μg/cm(2)/h). Drug permeation 
+studies through the skin in vitro, followed by selective recovery of MXS from 
+the hair follicles, showed that MXS-NP application resulted in a two-fold MXS 
+increase into hair follicles after 6h in comparison to the control solution (5.9 
+± 0.6 μg/cm(2) and 2.9 ± 0.8 μg/cm(2)). MXS-loading in nanoparticles appears as 
+a promising and easy strategy to target and sustain drug delivery to hair 
+follicles, which may improve the topical treatment of alopecia.
+
+Copyright © 2015 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijbiomac.2015.01.036
+PMID: 25647618 [Indexed for MEDLINE]

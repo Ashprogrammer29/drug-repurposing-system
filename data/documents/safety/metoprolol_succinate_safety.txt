@@ -1,0 +1,89 @@
+Reaction: Rash | Outcome: 6
+Reaction: Hypertension | Outcome: 6
+Reaction: Increased appetite | Outcome: 6
+Reaction: Weight increased | Outcome: 6
+Reaction: Haemoglobin decreased | Outcome: 
+Reaction: Rectal haemorrhage | Outcome: 6
+Reaction: Drug interaction | Outcome: 6
+Reaction: Gingival bleeding | Outcome: 6
+Reaction: Drug interaction | Outcome: 6
+Reaction: Myelodysplastic syndrome | Outcome: 5
+Reaction: Anaemia | Outcome: 6
+Reaction: Sepsis | Outcome: 6
+Reaction: Coccidioidomycosis | Outcome: 6
+Reaction: Pneumonia pseudomonal | Outcome: 6
+Reaction: Pancreatitis | Outcome: 6
+Reaction: Drug dose omission | Outcome: 6
+Reaction: Hepatomegaly | Outcome: 6
+Reaction: Liver function test abnormal | Outcome: 6
+Reaction: Drug dose omission | Outcome: 6
+Reaction: Transfusion | Outcome: 6
+Reaction: Extra dose administered | Outcome: 6
+Reaction: No adverse event | Outcome: 6
+Reaction: Cyst rupture | Outcome: 1
+Reaction: Chromaturia | Outcome: 3
+Reaction: Urosepsis | Outcome: 1
+Reaction: Cerebral haemorrhage | Outcome: 1
+Reaction: Cerebral atrophy | Outcome: 3
+Reaction: Memory impairment | Outcome: 6
+Reaction: Fatigue | Outcome: 3
+Reaction: Dizziness | Outcome: 1
+Reaction: Off label use | Outcome: 6
+Reaction: Rash | Outcome: 6
+Reaction: Deafness | Outcome: 6
+Reaction: Agranulocytosis | Outcome: 2
+Reaction: Hyperprolactinaemia | Outcome: 6
+Reaction: Electrocardiogram QT prolonged | Outcome: 6
+Reaction: Leukopenia | Outcome: 6
+Reaction: Hypokalaemia | Outcome: 6
+Reaction: Hypocalcaemia | Outcome: 6
+Reaction: Fatigue | Outcome: 6
+Reaction: Death | Outcome: 5
+Reaction: Cerebrovascular accident | Outcome: 3
+Reaction: Transfusion | Outcome: 3
+Reaction: Platelet count decreased | Outcome: 6
+Reaction: Migraine | Outcome: 6
+Reaction: Platelet count decreased | Outcome: 6
+Reaction: Cerebrovascular accident | Outcome: 6
+Reaction: Myocardial infarction | Outcome: 6
+Reaction: Transfusion | Outcome: 3
+Reaction: Therapy cessation | Outcome: 1
+Reaction: Muscle injury | Outcome: 
+Reaction: Coronary artery occlusion | Outcome: 
+Reaction: Muscle spasms | Outcome: 
+Reaction: Memory impairment | Outcome: 3
+Reaction: Cough | Outcome: 3
+Reaction: Choking | Outcome: 3
+Reaction: Dyspnoea | Outcome: 2
+Reaction: Mouth haemorrhage | Outcome: 1
+Reaction: Asthenia | Outcome: 1
+Reaction: Haematemesis | Outcome: 1
+Reaction: Acute myocardial infarction | Outcome: 
+Reaction: Prothrombin level increased | Outcome: 
+Reaction: Coagulation factor VII level increased | Outcome: 
+Reaction: Coagulation factor V level increased | Outcome: 
+Reaction: Anaemia | Outcome: 
+Reaction: Hyperkalaemia | Outcome: 
+Reaction: Renal failure | Outcome: 
+Reaction: International normalised ratio increased | Outcome: 
+Reaction: Cardiac failure | Outcome: 
+Reaction: Aortic valve stenosis | Outcome: 
+Reaction: Infected skin ulcer | Outcome: 
+Reaction: Pulmonary oedema | Outcome: 
+Reaction: Abdominal pain upper | Outcome: 
+Reaction: Haematemesis | Outcome: 
+Reaction: Syncope | Outcome: 
+Reaction: Hypotension | Outcome: 
+Reaction: Arteriosclerosis | Outcome: 
+Reaction: Ventricular tachycardia | Outcome: 
+Reaction: Hypercholesterolaemia | Outcome: 
+Reaction: Peripheral arterial occlusive disease | Outcome: 
+Reaction: Leg amputation | Outcome: 
+Reaction: Amputation | Outcome: 
+Reaction: Coagulation factor X level increased | Outcome: 
+Reaction: Blood test abnormal | Outcome: 
+Reaction: Endoscopy upper gastrointestinal tract abnormal | Outcome: 
+Reaction: Weight fluctuation | Outcome: 
+Reaction: Gastric ulcer | Outcome: 
+Reaction: Coronary artery occlusion | Outcome: 
+Reaction: Coronary artery stenosis | Outcome: 

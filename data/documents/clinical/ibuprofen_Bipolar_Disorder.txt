@@ -1,0 +1,12 @@
+Trial: NCT04725305
+Title: BiZact Tonsillectomy in the Pediatric Population
+Phase: NA
+Status: COMPLETED
+Summary: This study has been designed to evaluate how effective the Bizact tonsillectomy device is in reducing operating time and complications that occur after surgery. This device operates in a different way than the standard device that is used for most tonsillectomies. In 2019, a study was conducted in 186 children and adults using this device in tonsillectomies. Results showed lower blood loss and sho
+---
+Trial: NCT06088732
+Title: Effects of Acute Exercise and Ibuprofen on Symptoms, Immunity, and Neural Circuits in Bipolar Depression
+Phase: PHASE1
+Status: RECRUITING
+Summary: This is a 2x2, within-subjects, cross-over trial to test the anti-depressant effects of acute exercise in 20 participants with bipolar depression. Participants will complete four experimental sessions, two with an exercise challenge and two with a resting control condition in a counterbalanced order. Participants will receive either 800mg of ibuprofen or placebo before exercise or rest in order to
+---

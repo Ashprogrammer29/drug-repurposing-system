@@ -1,0 +1,16 @@
+{
+  "total": 3,
+  "phases": [
+    "PHASE4",
+    "NA",
+    "PHASE2"
+  ],
+  "statuses": [
+    "COMPLETED",
+    "RECRUITING",
+    "COMPLETED"
+  ],
+  "phase_score": 1.0,
+  "status_score": 1.0,
+  "grounded_confidence": 0.85
+}

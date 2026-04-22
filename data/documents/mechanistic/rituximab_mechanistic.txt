@@ -1,0 +1,7 @@
+Mechanistic pathway data for rituximab.
+Primary target pathway: CD20 B lymphocyte.
+Drug class biological mechanism relevant to disease modulation.
+Protein interaction pathways associated with rituximab therapeutic effects.
+Molecular target engagement data for rituximab.
+Pathway analysis: CD20 B lymphocyte signaling cascade.
+Biological plausibility of rituximab in neurological and metabolic disease contexts.

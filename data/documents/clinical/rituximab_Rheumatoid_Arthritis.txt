@@ -1,0 +1,134 @@
+Trial: NCT01965132
+Title: Korean College of Rheumatology Biologics and Targeted Therapy Registry
+Phase: NA
+Status: RECRUITING
+Summary: We established a nationwide biologics and targeted synthetic DMARDs registry (in the form of an inception cohort) to study the safety profiles in rheumatoid arthritis, ankylosing spondylitis and psoriatic arthritis patients receiving biologics or targeted synthetic DMARDs. As this registry is to observe the "real world" use of anti-rheumatic treatments under routine clinical practice, no hypothesi
+---
+Trial: NCT07037732
+Title: Circulating B-cell, Drug and Anti-drug Antibodies Monitoring in Patients Treated With Rituximab for Autoimmune Disorders
+Phase: NA
+Status: RECRUITING
+Summary: The MONIRITUX study aimed to evaluate whether monitoring (i) circulating B-cell reconstitution or (ii) serum rituximab levels could help identify relapse of autoimmune diseases in patients treated with rituximab. Retrospective data suggest that B-cell reconstitution or the appearance of anti-drug antibodies are associated with rituximab's failure to prevent relapses (i.e. rheumatoid arthritis, sys
+---
+Trial: NCT00462345
+Title: A Study of MabThera (Rituximab) in Combination With Methotrexate in Patients With Rheumatoid Arthritis Who Have Had an Inadequate Response to Anti-TNF Therapies.
+Phase: PHASE4
+Status: COMPLETED
+Summary: This single arm study will evaluate the efficacy and safety of MabThera in combination with methotrexate in patients with rheumatoid arthritis who have had an inadequate response to one or more anti-TNF therapies. Patients will receive MabThera 1000mg i.v. on days 1 and 15, and methotrexate (10-25mg/week p.o. or parenteral), together with methylprednisolone 100mg i.v. prior to infusion of MabThera
+---
+Trial: NCT01664117
+Title: An Observational Study in Clinical Practice Management of Patients With Biological Drugs in Monotherapy
+Phase: NA
+Status: COMPLETED
+Summary: This observational multicenter study will evaluate the management of disease and safety in clinical practice in patients with moderate to severe rheumatoid arthritis receiving any biological therapies in monotherapy.
+---
+Trial: NCT01021735
+Title: Optimal Management of Rheumatoid Arthritis Patients Requiring Biologic Therapy
+Phase: PHASE4
+Status: COMPLETED
+Summary: That anti-TNF therapy and rituximab therapy are equally effective in treating patients with rheumatoid arthritis who meet the eligibility criteria for biologic therapy in the British Society for Rheumatology guidelines, and have not previously been exposed to biologic therapy.
+---
+Trial: NCT00443443
+Title: A Study of the Safety of Rituxan in Patients With Rheumatoid Arthritis After an Inadequate Response to Previous Anti-TNF Therapy (SUNSTONE)
+Phase: NA
+Status: COMPLETED
+Summary: This is an observational study designed to follow patients with RA who have had an inadequate response to one or more anti-TNF therapies and who will receive Rituxan. Approximately 1000 patients in the United States with RA who have had an inadequate response to anti-TNF therapies and who will receive Rituxan therapy will be recruited. There is no protocol mandated treatment assignment in this stu
+---
+Trial: NCT01000441
+Title: Rotation or Change of Biotherapy After First Anti-TNF Treatment Failure for Rheumatoid Arthritis
+Phase: PHASE4
+Status: COMPLETED
+Summary: Approximately 30% of patients with rheumatoid arthritis have an inadequate response to anti-TNF (primarily or loss of response), leaving two alternatives: rotation to a second anti-TNF or change of biologic, with a different mechanism of action, such as abatacept, rituximab and tocilizumab. No controlled trial compared these two strategies face to face. The present objective is to investigate the 
+---
+Trial: NCT01212094
+Title: Double Blind Combination of Rituximab by Intravenous and Intrathecal Injection Versus Placebo in Patients With Low-Inflammatory Secondary Progressive Multiple Sclerosis (RIVITaLISe)
+Phase: PHASE1
+Status: TERMINATED
+Summary: Background:
+
+\- Secondary-progressive multiple sclerosis (SP-MS) is the chronic phase of multiple sclerosis (MS). The majority of people who have relapsing-remitting MS eventually develop SP-MS. There are currently no effective treatments for SP-MS. Researchers are interested in determining whether the drug rituximab, which is used to treat rheumatoid arthritis and some types of cancer, is able to
+---
+Trial: NCT04147026
+Title: Prediction Medical Device for Rheumatoid Arthritis (PREDIRA)
+Phase: NA
+Status: UNKNOWN
+Summary: Rheumatoid arthritis (RA) is one of the leading chronic inflammatory rheumatism, with a prevalence of about 0.4% of the population.
+
+First-line therapy with synthetic disease modifying anti-rheumatic drugs (including methotrexate) is insufficiently effective in 40% of cases. These patients are then treated with biotherapies. The use of these bio-drugs increases each year, becoming a public health 
+---
+Trial: NCT01593332
+Title: Low Dose Rituximab as a First Line Biologic Therapy for the Treatment of DMARD Resistant Patients With Rheumatoid Arthritis
+Phase: PHASE4
+Status: COMPLETED
+Summary: In this project the investigators decide to evaluate the efficacy and safety of half dose mabthera (it means 500 mg infusion two weeks apart) in conventional drug resistant cases of rheumatoid arthritis. The investigators choose this drug because the use of anti-TNF drugs limited in the investigators refractory patients as the first line drugs because of its cost.
+---
+Trial: NCT05659407
+Title: BAFF-var as a Biomarker of Response to B-depletive Treatment in Systemic Lupus Erythematosus and Rheumatoid Arthritis
+Phase: NA
+Status: UNKNOWN
+Summary: A variant of the TNFSF13B gene, commonly referred to as BAFF-var has been associated with an increased risk of developing immune-mediated diseases, such as Systemic Lupus Erythematosus (SLE) and Rheumatoid Arthritis (RA).
+
+This polymorphism leads to the production of higher levels of BAFFs, that in turns are associated with more severe disease, high anti-Sm and anti-dsDNA titre, complement consump
+---
+Trial: NCT01842386
+Title: Rituximab for Anti-cytokine Autoantibody-Associated Diseases
+Phase: PHASE1
+Status: COMPLETED
+Summary: Background:
+
+* Healthy people have white blood cells that protect them against bacteria, viruses, and fungi. However, some people have diseases which cause the body to make white blood cells that do not work properly. These white blood cells can attack the body s own proteins. These types of diseases are called anti-cytokine autoantibody-associated diseases. They can cause severe illnesses and eve
+---
+Trial: NCT03975790
+Title: Comparative Analysis of Outcomes Among Patients Initiating Xeljanz in Combination With Oral MTX Who Withdraw MTX Versus Continue MTX
+Phase: NA
+Status: COMPLETED
+Summary: To address the objectives, a retrospective cohort design will be employed to evaluate patient characteristics, treatment patterns, medication effectiveness, and health care cost and utilization in RA patients newly initiating tofacitinib in combination with oral methotrexate (MTX)
+---
+Trial: NCT00576433
+Title: A Study of MabThera (Rituximab) in Patients With Rheumatoid Arthritis Who Have Had an Inadequate Response to a Single Anti-TNF Inhibitor.
+Phase: PHASE4
+Status: COMPLETED
+Summary: This single arm study will evaluate the safety and efficacy of MabThera in patients with active rheumatoid arthritis who are receiving methotrexate treatment, and who have had an inadequate response to one anti-TNF alpha therapy. All patients will receive MabThera 1000mg i.v. on days 1 and 15, in addition to concomitant methotrexate. Patients who achieve a clinically relevant response to the first
+---
+Trial: NCT00845832
+Title: A Study of Combination Treatment With MabThera (Rituximab) and RoActemra (Tocilizumab) Versus RoActemra in Patients With Rheumatoid Arthritis With an Incomplete Response to Methotrexate
+Phase: PHASE2
+Status: TERMINATED
+Summary: This 2 part study will investigate the safety, tolerability and efficacy of MabT hera in combination with RoActemra in patients with active rheumatoid arthritis despite a stable dose of methotrexate. In Part 1 of the study, patients will be randomized to receive either MabThera 0.5g iv or placebo on days 1 and 15, follo wed by RoActemra at one of the ascending doses between 2mg/kg and 8mg/kg at we
+---
+Trial: NCT03949855
+Title: Belimumab With Rituximab for Primary Membranous Nephropathy
+Phase: PHASE2
+Status: RECRUITING
+Summary: The primary objective of this study is to evaluate the effectiveness of belimumab and intravenous rituximab co-administration at inducing a complete or partial remission (CR or PR) compared to rituximab alone in participants with primary membranous nephropathy.
+
+Background:
+
+Primary membranous nephropathy (MN) is among the most common causes of nephrotic syndrome in adults. MN affects individuals 
+---
+Trial: NCT01643928
+Title: Rheumatoid Arthritis Extension Trial For Subjects Who Have Participated In Other PF-05280586 Trials (REFLECTIONS B328-04)
+Phase: NA
+Status: COMPLETED
+Summary: This extension study will evaluate the safety (including immunogenicity) of treatment with rituximab-Pfizer, as well as the safety and immunogenicity after transitioning from rituximab-US or rituximab-EU to rituximab-Pfizer. This study will provide continued treatment access to subjects with active rheumatoid arthritis who have participated for at least 16 weeks in other studies in the rituximab P
+---
+Trial: NCT02714634
+Title: Clinical Trial Evaluating Methotrexate or Leflunomide + Targeted Therapy Versus Methotrexate or Leflunomide + Sulfasalazine + Hydroxychloroquine in Patients With Rheumatoid Arthritis and Insufficient Response to Methotrexate or Leflunomide
+Phase: PHASE4
+Status: RECRUITING
+Summary: Approximately, 40 to 50% of patients with rheumatoid arthritis (RA), the most frequent inflammatory arthritide, are non responders to the consensual 1st line of treatment : methotrexate. In these patients, it is well demonstrated that the addition of other immunomodulatory drug(s) often results in a significant improvement. However, the best option regarding the drug(s) to add remains unclear. Rhe
+---
+Trial: NCT00854321
+Title: Patients With Rheumatoid Arthritis (RA) Treated With Rituximab in Kuopio University Hospital
+Phase: NA
+Status: COMPLETED
+Summary: One centre follow-up study on safety and efficacy of treatment with rituximab among patients with RA during 4 year period. Basic data is collected for the national register of biologicals.
+---
+Trial: NCT02792699
+Title: Study to Assess if ABP 798 is Safe & Effective in Treating Moderate to Severe Rheumatoid Arthritis (RA) Compared to Rituximab
+Phase: PHASE3
+Status: COMPLETED
+Summary: This trial is designed to determine what effects the human body has on the investigational medicine, ABP 798, and what effects the body has on the investigational medicine after you have been given it, and if this is comparable to what is seen for the licensed medicine, rituximab, in patients with moderate or severe RA.
+
+This study will also assess if the investigational medicine is safe and effec
+---

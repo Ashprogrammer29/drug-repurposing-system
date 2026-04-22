@@ -1,0 +1,79 @@
+Reaction: Fluid overload | Outcome: 1
+Reaction: Infected cyst | Outcome: 1
+Reaction: Febrile neutropenia | Outcome: 1
+Reaction: Febrile neutropenia | Outcome: 1
+Reaction: Enterobacter pneumonia | Outcome: 1
+Reaction: Corynebacterium infection | Outcome: 1
+Reaction: Pharyngitis | Outcome: 1
+Reaction: Fall | Outcome: 2
+Reaction: Rhabdomyolysis | Outcome: 2
+Reaction: Somnolence | Outcome: 2
+Reaction: Thrombocytopenia | Outcome: 1
+Reaction: Petechiae | Outcome: 6
+Reaction: Pulmonary valve stenosis congenital | Outcome: 3
+Reaction: Atrial septal defect | Outcome: 2
+Reaction: Feeding disorder neonatal | Outcome: 1
+Reaction: Exposure during pregnancy | Outcome: 1
+Reaction: Abdominal pain upper | Outcome: 4
+Reaction: Sneezing | Outcome: 4
+Reaction: Rhinorrhoea | Outcome: 4
+Reaction: Nausea | Outcome: 4
+Reaction: Dyspepsia | Outcome: 4
+Reaction: Diarrhoea | Outcome: 4
+Reaction: Pain | Outcome: 4
+Reaction: Overdose | Outcome: 1
+Reaction: Bradycardia | Outcome: 1
+Reaction: Oxygen saturation decreased | Outcome: 1
+Reaction: Anticonvulsant drug level increased | Outcome: 1
+Reaction: Depressed level of consciousness | Outcome: 1
+Reaction: Hypertransaminasaemia | Outcome: 1
+Reaction: Hypofibrinogenaemia | Outcome: 1
+Reaction: Drug ineffective | Outcome: 6
+Reaction: Maternal drugs affecting foetus | Outcome: 
+Reaction: Caesarean section | Outcome: 
+Reaction: Pulmonary valve stenosis congenital | Outcome: 
+Reaction: Atrial septal defect | Outcome: 
+Reaction: Feeding disorder neonatal | Outcome: 
+Reaction: Acute myocardial infarction | Outcome: 5
+Reaction: Chronic obstructive pulmonary disease | Outcome: 5
+Reaction: Pneumonia streptococcal | Outcome: 6
+Reaction: Systemic lupus erythematosus | Outcome: 6
+Reaction: Diabetes mellitus | Outcome: 1
+Reaction: Drug-induced liver injury | Outcome: 1
+Reaction: Urinary tract infection | Outcome: 1
+Reaction: Chest pain | Outcome: 1
+Reaction: Rhabdomyolysis | Outcome: 1
+Reaction: Diarrhoea | Outcome: 6
+Reaction: Torsade de pointes | Outcome: 1
+Reaction: Myoglobinuria | Outcome: 1
+Reaction: Stress cardiomyopathy | Outcome: 4
+Reaction: Drug interaction | Outcome: 6
+Reaction: Intra-abdominal haematoma | Outcome: 1
+Reaction: Enterocolitis | Outcome: 1
+Reaction: Malabsorption | Outcome: 1
+Reaction: Renal failure acute | Outcome: 1
+Reaction: Diarrhoea | Outcome: 1
+Reaction: Toxicity to various agents | Outcome: 6
+Reaction: Polyneuropathy | Outcome: 6
+Reaction: Venous insufficiency | Outcome: 6
+Reaction: Vitamin D deficiency | Outcome: 6
+Reaction: Oedema | Outcome: 6
+Reaction: Blood glucose increased | Outcome: 6
+Reaction: Hypercholesterolaemia | Outcome: 6
+Reaction: Hyperuricaemia | Outcome: 6
+Reaction: Blood pressure increased | Outcome: 6
+Reaction: Blood creatinine increased | Outcome: 6
+Reaction: Malnutrition | Outcome: 1
+Reaction: Gastrointestinal inflammation | Outcome: 2
+Reaction: Intestinal polyp | Outcome: 2
+Reaction: Fistula | Outcome: 2
+Reaction: Weight decreased | Outcome: 3
+Reaction: Diarrhoea | Outcome: 3
+Reaction: Deep vein thrombosis | Outcome: 1
+Reaction: Pulmonary embolism | Outcome: 1
+Reaction: Impaired healing | Outcome: 6
+Reaction: Hypersensitivity | Outcome: 6
+Reaction: Diarrhoea | Outcome: 3
+Reaction: Hepatitis cholestatic | Outcome: 1
+Reaction: Pancreatitis | Outcome: 1
+Reaction: Lupus-like syndrome | Outcome: 1

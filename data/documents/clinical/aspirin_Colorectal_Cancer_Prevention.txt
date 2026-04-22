@@ -1,0 +1,132 @@
+Trial: NCT02497820
+Title: Finding the Best Dose of Aspirin to Prevent Lynch Syndrome Cancers
+Phase: PHASE3
+Status: NOT_YET_RECRUITING
+Summary: A randomised double blind dose non-inferiority trial of a daily dose of 600mg versus 300mg versus 100mg of enteric coated aspirin as a cancer preventive in carriers of a germline pathological mismatch repair gene defect, Lynch Syndrome. Project 3 in the Cancer Prevention Programme (CaPP3).
+---
+Trial: NCT04237883
+Title: Primary Care Clinical Excellence Incentive Study
+Phase: NA
+Status: COMPLETED
+Summary: As part of UCLA Health's commitment to developing a premier integrated health system built on a foundation of physician-led, team-based primary care, the Department of Medicine (DOM) recently implemented a new performance based incentive plan called the Primary Care Clinical Excellence (PCCE) Incentive Plan. This incentive plan was developed to motivate providers to improve health maintenance scre
+---
+Trial: NCT02804815
+Title: Add-Aspirin: A Trial Assessing the Effects of Aspirin on Disease Recurrence and Survival After Primary Therapy in Common Non Metastatic Solid Tumours
+Phase: PHASE3
+Status: ACTIVE_NOT_RECRUITING
+Summary: Add-Aspirin aims to assess whether regular aspirin use after standard curative therapy can prevent recurrence and improve survival in individuals with non-metastatic common tumours. The question will be assessed in four different tumour types (breast, colorectal, gastro-oesophageal and prostate) by means of parallel cohorts within an overarching trial protocol.
+
+Eligible participants will be rando
+---
+Trial: NCT00272324
+Title: Aspirin/Folate Prevention of Large Bowel Polyps
+Phase: PHASE2
+Status: COMPLETED
+Summary: This is a randomized controlled trial of aspirin and/or folate supplementation for the prevention of the recurrence of neoplastic polyps (adenomas) of the large bowel.
+---
+Trial: NCT03904732
+Title: Study to Develop a Prediction Model to Understand the Effect of Low-dose Aspirin on Cancer That Develops in the Colon and/or the Rectum, Diseases That Affects the Heart or Blood Vessels and Safety Outcomes in European Countries. The Study is Also Called PEACOS Model EU
+Phase: NA
+Status: COMPLETED
+Summary: In this study researchers want to learn more about the effect of low-dose Aspirin on cancer that develops in the colon (the longest part of the large intestine) and/or the rectum (the last several inches of the large intestine before the anus), diseases that affects the heart or blood vessels and safety outcomes. Study will focus on two groups of adults aged 50-59 and 60-69 years having an increas
+---
+Trial: NCT00706121
+Title: S0000D: Effect of Vitamin E and/or Selenium on Colorectal Polyps in Men Enrolled on SELECT Trial SWOG-S0000
+Phase: PHASE3
+Status: COMPLETED
+Summary: RATIONALE: Studying tissue samples in the laboratory from participants receiving treatment on the Selenium and Vitamin E Cancer Prevention Trial (SELECT) SWOG-S0000 may help doctors predict a participant's response to treatment and help plan the best treatment.
+
+PURPOSE: This phase III trial is studying the effect of vitamin E and/or selenium on colorectal polyps in men enrolled on SELECT Trial SW
+---
+Trial: NCT05402124
+Title: The Colorectal Cancer Chemoprevention Acceleration and Improvement Platform (CRC-CHAMP) Study
+Phase: PHASE2
+Status: UNKNOWN
+Summary: The overall goal of this study is to develop a platform for both large-scale chemoprevention trials and real-world chemoprevention studies for colorectal cancer (CRC) prevention. The specific objectives of this proof of concept study are to:
+
+1. Evaluate the feasibility of a real-world chemoprevention agent (CPA) intervention (3-months of daily low-dose acetylsalicylic (ASA)) in participants at in
+---
+Trial: NCT00005094
+Title: Celecoxib to Prevent Colorectal Cancer in Patients Who Have Undergone Surgery to Remove Polyps
+Phase: PHASE3
+Status: COMPLETED
+Summary: Chemoprevention therapy is the use of certain drugs to try to prevent the development of cancer. The use of celecoxib has been approved for use in reducing the number of adenomatous colorectal polyps in familial adenomatous polyposis (FAP). It is not known whether there is a clinical benefit from a reduction in the number of colorectal polyps in FAP patients. The use of celecoxib may be an effecti
+---
+Trial: NCT03326791
+Title: Aspirin in Colorectal Cancer Liver Metastases
+Phase: PHASE2
+Status: ACTIVE_NOT_RECRUITING
+Summary: The ASAC trial is a Scandinavian, multi-center, double-blinded, randomized, placebo-controlled study to determine whether adjuvant treatment with low-dose acetylsalicylic acid (ASA) can improve disease free survival in patients treated with resection for colorectal cancer liver metastases (CRCLM).
+
+Several studies have shown beneficial effect of ASA on primary prevention of CRC and the investigato
+---
+Trial: NCT02125409
+Title: Acetylsalicylic Acid and Colorectal Cancer Prevention: Exploring the Platelet Function of Its Mechanism of Action
+Phase: PHASE3
+Status: UNKNOWN
+Summary: In a preliminary study in healthy subjects, the investigators determined the pharmacokinetic and pharmacodynamic of enteric-coated acetylsalicylic acid (ASA) (Adiro 100 mg, Bayer), and the variability (coefficient of variation), accuracy and precision of a novel biomarker of ASA action, i.e., quantification of the extent of COX-1 acetylation at serine-529, using a stable isotope dilution liquid ch
+---
+Trial: NCT03047837
+Title: A Randomized, 2x2 Factorial Design Biomarker Prevention Trial of Low-dose ASA and Metformin in Stage I-III Crc Patients
+Phase: PHASE2
+Status: TERMINATED
+Summary: It has been shown that Aspirin (ASA) as well as Metformin (Met) can inhibit the incidence and mortality of colorectal cancer (CRC). In this randomized, placebo controlled clinical trial we compare the effect of these two drugs alone and their combination to prevent recurrent CRC after surgery.
+---
+Trial: NCT00224679
+Title: APACC Study:Prospective Study on Aspirin Efficacy in Reducing Colorectal Adenoma Recurrence
+Phase: PHASE3
+Status: TERMINATED
+Summary: Experimental and epidemiologic studies have suggested that aspirin intake reduces the risk for colorectal cancer. In the APACC study we randomly assigned 291 patients to daily Aspirin or Placebo for 4 years. However, the available data are not sufficient to serve as the basis for firm recommendations
+---
+Trial: NCT03070574
+Title: Mesalamine for Colorectal Cancer Prevention Program in Lynch Syndrome
+Phase: PHASE2
+Status: TERMINATED
+Summary: Multicenter, multinational, randomized, 3-arm, double-blind, phase II clinical study with 2400mg mesalamine, 1200mg mesalamine or placebo for prevention of colorectal neoplasia in Lynch Syndrome patients for 2 years.
+---
+Trial: NCT02607072
+Title: Aspirin for Prevention of Postsurgical Recurrence and Metastasis in Asian Colorectal Cancer Patients: a Multi-center Randomized Trial
+Phase: PHASE3
+Status: UNKNOWN
+Summary: Background: Evidence of high quality has suggested that acetylsalicylic acid (ASA)/aspirin effectively reduces colorectal adenoma incidence and recurrence rate, and several randomized controlled trials (RCTs) strongly indicate its potential to prevent colorectal cancer (CRC) initiation and progression and to decrease cancer-related mortality. However the role of aspirin supplied as an adjuvant age
+---
+Trial: NCT04081831
+Title: Effectiveness of Low Dose Aspirin in Decreasing the Chance Getting Stomach and Intestine Cancer
+Phase: NA
+Status: COMPLETED
+Summary: In this study, researchers wanted to learn more about the effect of Aspirin taken as low dose (75 - 300 mg) in preventing stomach, colorectal and esophagus cancer. The researchers were interested in the effect by duration of aspirin use and the effect on the time since aspirin intake has been stopped in preventing stomach, colorectal and esophagus cancer. In addition, the study also looked into th
+---
+Trial: NCT00062023
+Title: Comparison of Sulindac, Aspirin, and Ursodiol in Preventing Colorectal Cancer
+Phase: PHASE2
+Status: TERMINATED
+Summary: RATIONALE: Chemoprevention therapy is the use of certain drugs to try to prevent the development or recurrence of cancer. It is not yet known whether sulindac, aspirin, or ursodiol is more effective in preventing colorectal cancer.
+
+PURPOSE: This randomized phase II trial is studying how well sulindac works compared to aspirin or ursodiol in preventing colorectal cancer.
+---
+Trial: NCT00033319
+Title: Aspirin and/or Folic Acid in Preventing Recurrent Colorectal Polyps
+Phase: NA
+Status: UNKNOWN
+Summary: RATIONALE: Chemoprevention therapy is the use of certain drugs to try to prevent the development or recurrence of cancer. The use of aspirin and/or folic acid may be effective in preventing recurrent polyps in patients who have had polyps removed previously.
+
+PURPOSE: Randomized clinical trial to determine the effectiveness of aspirin and/or folic acid in preventing the recurrence of colorectal po
+---
+Trial: NCT01947985
+Title: Study of Rivaroxaban Use and Potential Adverse Outcomes in Routine Clinical Pratice (Netherlands)
+Phase: NA
+Status: COMPLETED
+Summary: This prospective cohort study will provide information about: characteristics of Rivaroxaban use in patients who are prescribed Rivaroxaban for the first time compared to patients who are prescribed Acenocoumarol for the first time, the occurrence of intracranial haemorrhage, gastrointestinal and urogenital bleeding, and the occurrence of non-infective liver disease.
+---
+Trial: NCT01947998
+Title: Study of Rivaroxaban Use and Potential Adverse Outcomes in Routine Clinical Pratice (UK)
+Phase: NA
+Status: COMPLETED
+Summary: This prospective cohort study will provide information about: characteristics of Rivaroxaban use in patients who are prescribed Rivaroxaban for the first time compared to patients who are prescribed Warfarin for the first time, the occurrence of intracranial haemorrhage, gastrointestinal and urogenital bleeding, and the occurrence of non-infective liver disease.
+---
+Trial: NCT03603366
+Title: Study to Evaluate How Patients Regard the Benefits and Risks of Low-dose Aspirin for the Prevention of Heart and Blood Vessels Disease and for the Prevention of Cancer of the Colon and Rectum
+Phase: NA
+Status: COMPLETED
+Summary: Research shows that low-dose Aspirin prevents diseases of heart and blood vessels as well as cancer of the colon and rectum and it is also associated with risk of bleeding. In this study, they want to learn how patients regard the benefits and risks of low-dose Aspirin for the prevention of these diseases. The researchers also want to learn how patients balance these risks and benefits.
+---

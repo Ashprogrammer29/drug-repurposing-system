@@ -1,0 +1,47 @@
+Reaction: Diverticulum intestinal haemorrhagic | Outcome: 1
+Reaction: Angioedema | Outcome: 1
+Reaction: Urticaria | Outcome: 1
+Reaction: Chest pain | Outcome: 3
+Reaction: Acute kidney injury | Outcome: 1
+Reaction: Septic shock | Outcome: 5
+Reaction: Transient ischaemic attack | Outcome: 5
+Reaction: Atelectasis | Outcome: 5
+Reaction: Diabetic ketoacidosis | Outcome: 5
+Reaction: Urosepsis | Outcome: 5
+Reaction: Loss of consciousness | Outcome: 1
+Reaction: Drug interaction | Outcome: 6
+Reaction: Hypotension | Outcome: 1
+Reaction: Loss of consciousness | Outcome: 1
+Reaction: Drug interaction | Outcome: 6
+Reaction: Hypotension | Outcome: 1
+Reaction: Loss of consciousness | Outcome: 
+Reaction: Drug interaction | Outcome: 
+Reaction: Blood pressure decreased | Outcome: 
+Reaction: Joint injury | Outcome: 
+Reaction: Loss of consciousness | Outcome: 1
+Reaction: Hypotension | Outcome: 1
+Reaction: Drug interaction | Outcome: 6
+Reaction: Gastric ulcer | Outcome: 1
+Reaction: Circumstance or information capable of leading to medication error | Outcome: 6
+Reaction: Confusional state | Outcome: 2
+Reaction: Hypertension | Outcome: 1
+Reaction: Pollakiuria | Outcome: 1
+Reaction: Urinary tract infection | Outcome: 6
+Reaction: Syncope | Outcome: 1
+Reaction: Rhabdomyolysis | Outcome: 6
+Reaction: Pyelonephritis | Outcome: 1
+Reaction: Ureteric stenosis | Outcome: 2
+Reaction: Hypoglycaemia | Outcome: 1
+Reaction: Plasma cell myeloma | Outcome: 2
+Reaction: Nocturia | Outcome: 1
+Reaction: Night sweats | Outcome: 1
+Reaction: Dry mouth | Outcome: 1
+Reaction: Malaise | Outcome: 1
+Reaction: Eye haemorrhage | Outcome: 2
+Reaction: Visual acuity reduced | Outcome: 2
+Reaction: Diabetic neuropathy | Outcome: 2
+Reaction: Urinary tract infection | Outcome: 1
+Reaction: Eczema | Outcome: 1
+Reaction: Colon cancer | Outcome: 1
+Reaction: Post procedural infection | Outcome: 1
+Reaction: Sinus bradycardia | Outcome: 3

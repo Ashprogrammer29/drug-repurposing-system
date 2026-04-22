@@ -1,0 +1,161 @@
+1. Am J Emerg Med. 2022 Aug;58:57-65. doi: 10.1016/j.ajem.2022.05.022. Epub 2022 
+May 22.
+
+Acute pain management in the Emergency Department: Use of multimodal and 
+non-opioid analgesic treatment strategies.
+
+Rech MA(1), Griggs C(2), Lovett S(3), Motov S(4).
+
+Author information:
+(1)Loyola University Chicago, Loyola University Medical Center, Stritch School 
+of Medicine, Department of Emergency Medicine, S 1st Ave, Maywood, IL 60153, 
+United States of America; Loyola University Medical Center, Department of 
+Pharmacy, S 1st Ave, Maywood, IL 60153, United States of America. Electronic 
+address: mrech@lumc.edu.
+(2)Atrium Health's Carolinas Medical Center, Department of Emergency Medicine, 
+1000 Blythe Blvd, Charlotte, NC 28210, United States of America.
+(3)Loyola University Chicago, Loyola University Medical Center, Stritch School 
+of Medicine, Department of Emergency Medicine, S 1st Ave, Maywood, IL 60153, 
+United States of America.
+(4)Department of Emergency Medicine, Maimonides Medical Center, 4802 Tenth 
+Avenue, Brooklyn, NY 11219, United States of America.
+
+Pain is a common complaint precipitating emergency department (ED) visit, 
+occurring in more than half of patient encounters. While opioids are effective 
+for acute pain management in the Emergency Department (ED), the associated 
+adverse effects, including respiratory and central nervous system depression, 
+nausea, vomiting, and constipation, and physical manifestations of use, 
+including tolerance, dependence and misuse leading to overdose and death, 
+accentuate the need for non-opioid alternatives and/or multi-modal pain control. 
+This review will provide examples of non-opioid pain management strategies and 
+multimodal regimens for treatment of acute pain in the ED.
+
+Copyright © 2022 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ajem.2022.05.022
+PMID: 35636044 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+have no conflicts of interest directly pertaining to this work. Megan Rech, 
+PharmD has investigator-initiated research funding from Spero Pharmaceuticals 
+unrelated to this subject.
+
+
+2. J Pain Res. 2025 May 31;18:2761-2773. doi: 10.2147/JPR.S511019. eCollection 
+2025.
+
+Postoperative Pain Management Strategies Following Peroral Endoscopic Myotomy 
+(POEM): A Review.
+
+Lu J(1), Ji W(1), Sang C(2), Wang Z(1), Bo L(1).
+
+Author information:
+(1)Department of Anesthesiology, Changhai Hospital, Naval Medical University, 
+Shanghai, 200433, People's Republic of China.
+(2)Department of Anesthesiology, Yueyang Hospital of Integrated Traditional and 
+Western Medicine, Shanghai University of Traditional Chinese Medicine, Shanghai, 
+200437, People's Republic of China.
+
+Peroral Endoscopic Myotomy (POEM) is a minimally invasive procedure for treating 
+esophageal achalasia, but effective postoperative pain management remains a 
+challenge. Pain following POEM is multifactorial, arising from mechanical, 
+chemical, and thermal stimuli that activate nociceptive and neuropathic pain 
+pathways. A multimodal analgesia approach, combining opioids, non-opioid 
+analgesics, and regional anesthesia, is currently the most effective strategy. 
+Opioids remain a cornerstone of pain management, but their side effects, such as 
+nausea and constipation, highlight the need for alternatives. Non-opioid 
+analgesics, including acetaminophen, COX-2 inhibitors, and magnesium, have shown 
+promise in reducing pain and opioid use. Regional anesthesia techniques, such as 
+thoracic paravertebral blocks and erector spinae plane blocks, have been 
+explored, though their efficacy in POEM remains inconclusive. Despite advances, 
+there are ongoing challenges in standardizing pain management protocols. 
+Variability in clinical practices and limited high-quality research with small 
+sample sizes complicate the development of universally applicable guidelines. 
+Additionally, while current research primarily focuses on acute postoperative 
+pain, long-term outcomes, such as chronic pain and quality of life, require 
+further investigation. Addressing these gaps in knowledge will be key to 
+improving pain management practices and optimizing recovery for POEM patients. 
+Future studies should focus on refining multimodal analgesia strategies, 
+exploring new analgesic agents, and evaluating long-term pain management 
+outcomes to enhance patient care and improve clinical results.
+
+© 2025 Lu et al.
+
+DOI: 10.2147/JPR.S511019
+PMCID: PMC12135955
+PMID: 40469755
+
+Conflict of interest statement: The authors report no conflicts of interest in 
+this work.
+
+
+3. Cochrane Database Syst Rev. 2015 Feb 26;2015(2):CD011404. doi: 
+10.1002/14651858.CD011404.pub2.
+
+As required versus fixed schedule analgesic administration for postoperative 
+pain in children.
+
+Hobson A(1), Wiffen PJ, Conlon JA.
+
+Author information:
+(1)Cochrane Pain, Palliative and Supportive Care Group, Pain Research Unit, The 
+Churchill Hospital, Old Road, Oxford, UK, OX3 7LE. anna.hobson@ndcn.ox.ac.uk.
+
+Update of
+    doi: 10.1002/14651858.CD011404.
+
+BACKGROUND: Acute postoperative pain occurs as a result of tissue damage 
+following surgery. Administering the appropriate analgesia to children is a 
+complex process and it is unclear whether children's postoperative pain is more 
+successfully treated by using 'as required' (when pain occurs) (termed 'pro re 
+nata' or PRN) or (irrespective of pain at the time of administration).
+OBJECTIVES: To assess the efficacy of as required versus fixed schedule 
+analgesic administration for the management of postoperative pain in children 
+under the age of 16 years.
+SEARCH METHODS: On 2 July 2014, we searched the Cochrane Central Register of 
+Controlled Trials (CENTRAL), MEDLINE, EMBASE, and CINAHL databases. We reviewed 
+the bibliographies of all included studies and of reviews, and searched two 
+clinical trial databases, ClinicalTrials.gov and the World Health Organization 
+(WHO) International Clinical Trials Registry Platform, to identify additional 
+published or unpublished data.
+SELECTION CRITERIA: We included randomised controlled trials (RCTs) comparing 
+PRN versus ATC analgesic administration for postoperative pain in children under 
+the age of 16 years who had undergone any surgical procedure requiring 
+postoperative pain relief, in any setting.
+DATA COLLECTION AND ANALYSIS: Two review authors (AH, PW) independently 
+extracted efficacy and adverse event data, examined issues of study quality, and 
+assessed risk of bias as recommended in the Cochrane Handbook for Systematic 
+Reviews of Interventions.
+MAIN RESULTS: We included three RCTs (four reports) of 246 children aged under 
+16 years undergoing tonsillectomy. Children were given weight-appropriate doses 
+of the study medication, either PRN or ATC, by a parent or carer at home for up 
+to four days following surgery. We did not identify any studies assessing the 
+management of postoperative pain in children in any other setting (i.e. as an 
+inpatient). All studies included in this review were based on the use of 
+paracetamol, and an opioid was added to paracetamol in two studies. Analgesics 
+were administered either orally (tablet or elixir) or rectally (suppository). 
+Reporting quality was poor and there were fewer than 50 children in each arm. 
+Mean pain intensity scores decreased over time, as did medication use. However, 
+children were still reporting pain at the final assessment, suggesting that no 
+administration schedule provided adequate analgesia. There were no significant 
+differences in pain intensity scores at any time point. The studies reported 
+adverse events that may have been related to the study medication, such as 
+nausea and vomiting, and constipation, but no statistically significant 
+differences were noted between the groups. There were too few data from only 
+three small studies and meta-analysis was not possible. One study reported that 
+a higher amount of analgesics was consumed in the ATC group compared with the 
+PRN group: it would have been helpful to show that the higher volume in the ATC 
+group led to better analgesia but we were not able to demonstrate this.
+AUTHORS' CONCLUSIONS: There was limited evidence available to draw any 
+conclusions about the efficacy of PRN versus ATC analgesic administration for 
+the management of postoperative pain in children.
+
+DOI: 10.1002/14651858.CD011404.pub2
+PMCID: PMC6464683
+PMID: 25719451 [Indexed for MEDLINE]
+
+Conflict of interest statement: AH is the Managing Editor of the PaPaS Group and 
+contribution to this review was solely as an author; the NIHR Incentive Grant 
+will be added to the Group's core infrastructure funding. PW received funding 
+from the Cochrane PaPaS Group for work on this review. JC has no known conflicts 
+of interest related to this review.

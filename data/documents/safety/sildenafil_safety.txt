@@ -1,0 +1,57 @@
+Reaction: Therapeutic response decreased | Outcome: 6
+Reaction: Drug ineffective | Outcome: 6
+Reaction: Pulmonary arterial hypertension | Outcome: 6
+Reaction: Somnolence | Outcome: 6
+Reaction: Drug dose omission | Outcome: 6
+Reaction: Splenomegaly | Outcome: 6
+Reaction: Dyspnoea | Outcome: 6
+Reaction: Insomnia | Outcome: 6
+Reaction: Death | Outcome: 5
+Reaction: Lung disorder | Outcome: 6
+Reaction: Splenomegaly | Outcome: 6
+Reaction: Confusional state | Outcome: 6
+Reaction: Hepatomegaly | Outcome: 6
+Reaction: Right ventricular failure | Outcome: 3
+Reaction: Nasopharyngitis | Outcome: 6
+Reaction: Fluid overload | Outcome: 2
+Reaction: Dyspnoea | Outcome: 2
+Reaction: Suffocation feeling | Outcome: 2
+Reaction: Oedema | Outcome: 2
+Reaction: Hypotension | Outcome: 2
+Reaction: Malaise | Outcome: 6
+Reaction: Hypoaesthesia | Outcome: 6
+Reaction: Muscular weakness | Outcome: 6
+Reaction: Tremor | Outcome: 6
+Reaction: Peripheral swelling | Outcome: 1
+Reaction: Dyspnoea | Outcome: 6
+Reaction: Deafness unilateral | Outcome: 6
+Reaction: Eustachian tube obstruction | Outcome: 6
+Reaction: Nasal congestion | Outcome: 6
+Reaction: Dyspnoea | Outcome: 6
+Reaction: Upper limb fracture | Outcome: 6
+Reaction: Hepatic enzyme increased | Outcome: 6
+Reaction: Exercise tolerance decreased | Outcome: 6
+Reaction: Dyspnoea | Outcome: 6
+Reaction: Arthralgia | Outcome: 6
+Reaction: Condition aggravated | Outcome: 6
+Reaction: Dyspnoea | Outcome: 6
+Reaction: Unevaluable event | Outcome: 6
+Reaction: Pulmonary arterial hypertension | Outcome: 6
+Reaction: Blood glucose decreased | Outcome: 6
+Reaction: Weight decreased | Outcome: 6
+Reaction: Dyspnoea | Outcome: 3
+Reaction: Drug dose omission | Outcome: 6
+Reaction: Fatigue | Outcome: 6
+Reaction: Throat irritation | Outcome: 6
+Reaction: Laryngeal pain | Outcome: 6
+Reaction: Cough | Outcome: 6
+Reaction: Bronchitis | Outcome: 6
+Reaction: Weight decreased | Outcome: 6
+Reaction: Dysuria | Outcome: 6
+Reaction: Nausea | Outcome: 6
+Reaction: Syncope | Outcome: 6
+Reaction: Gastrointestinal disorder | Outcome: 6
+Reaction: Malaise | Outcome: 6
+Reaction: Fatigue | Outcome: 6
+Reaction: Dizziness | Outcome: 6
+Reaction: Nausea | Outcome: 6

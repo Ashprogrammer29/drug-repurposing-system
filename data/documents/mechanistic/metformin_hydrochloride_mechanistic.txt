@@ -1,0 +1,7 @@
+Mechanistic pathway data for metformin hydrochloride.
+Primary target pathway: AMPK AMP-activated protein kinase.
+Drug class biological mechanism relevant to disease modulation.
+Protein interaction pathways associated with metformin hydrochloride therapeutic effects.
+Molecular target engagement data for metformin hydrochloride.
+Pathway analysis: AMPK AMP-activated protein kinase signaling cascade.
+Biological plausibility of metformin hydrochloride in neurological and metabolic disease contexts.

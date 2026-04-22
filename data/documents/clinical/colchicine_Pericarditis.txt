@@ -1,0 +1,139 @@
+Trial: NCT04160117
+Title: Impact of Short-course Colchicine Versus Placebo After Pulmonary Vein Isolation (IMPROVE-PVI Pilot)
+Phase: PHASE3
+Status: COMPLETED
+Summary: Recurrence is a common problem after catheter ablation for atrial fibrillation, affecting at least one out of three patients. Inflammation due to the procedure may contribute to pulmonary vein reconnection and, thus, failure of catheter ablation.
+
+This pilot study will assess whether a randomized, placebo-controlled, double-blind trial investigating a 10-day treatment with colchicine, a potent ant
+---
+Trial: NCT06411340
+Title: Inflammation in Acute Cardiovascular Diseases - the CArdiovascular Inflammation Registry (CAIR)
+Phase: NA
+Status: NOT_YET_RECRUITING
+Summary: Following acute cardiovascular injury, inflammation is vital to activate reparative mechanisms. However, there is compelling evidence implicating excessive inflammation and dysregulated resolution in fibrosis, ventricular remodelling, and heart failure (HF). Recently, the anti-inflammatory agent colchicine reduced cardiovascular events after myocardial infarction (MI) compared to placebo, indicati
+---
+Trial: NCT05459974
+Title: Use of Colchicine to Decrease Atrial Fibrillation Recurrence After Ablation
+Phase: PHASE3
+Status: UNKNOWN
+Summary: Ablation of atrial fibrillation (AFib) has been recommended as a therapeutic option when rhythm maintenance strategy is sought. One of the main objectives of an AFib ablation procedure is electrical isolation of the pulmonary veins, which have been identified as common triggering sites of the arrhythmia. The pathophysiology of AFib is not fully elucidated. Inflammation seems to play an important r
+---
+Trial: NCT05737680
+Title: Hydroxychloroquine in Colchicine-Resistant Glucocorticoid-Dependent Idiopathic Recurrent Pericarditis
+Phase: PHASE3
+Status: UNKNOWN
+Summary: Among patients with colchicine-resistant glucocorticoid-dependent idiopathic RP (idiopathic recurrent pericarditis during at least a second recurrence, having met the 2015 European Society of Cardiology criteria for pericarditis at least once), HCQ 400mg daily is associated with a reduce the risk of recurrence.
+
+The above hypothesis will be tested with a randomized, prospective, parallel, open lab
+---
+Trial: NCT05476991
+Title: Evaluation of Low Dose Colchicine and Ticagrelor in Prevention of Ischemic Stroke in Patients With Stroke Due to Atherosclerosis
+Phase: PHASE3
+Status: RECRUITING
+Summary: REDUCING INFLAMMATION IN ISCHEMIC STROKE WITH COLCHICINE, AND TICAGRELOR IN HIGH-RISK PATIENTS-EXTENDED TREATMENT IN ISCHEMIC STROKE.
+---
+Trial: NCT04303689
+Title: Repurposing Colchicine to Improve Vascular Function in Hypertension
+Phase: NA
+Status: COMPLETED
+Summary: In this project the potential beneficial effect of the drug colchicine on vascular reactivity and blood pressure will be assessed. Colchicine is a commonly used anti-inflammatory medication approved for the treatment of gout, Familial Mediterranean Fever and pericarditis in Denmark. The current project idea is based on accumulating evidence in the literature for a beneficial role of colchicine tre
+---
+Trial: NCT05805930
+Title: Therapeutic Approach in Colchicine-resistant Recurrent pEricarditis in Children
+Phase: PHASE3
+Status: NOT_YET_RECRUITING
+Summary: The purpose of this study is to demonstrate that anakinra provides more rapid disease control than steroids in the first month of treatment in the event of recurrent pericarditis and is more effective in preventing further exacerbations in patients aged between eight months and eighteen years of age with idiopathic or post-procedural pericarditis, unresponsive to first-line treatment with NSAIDs a
+---
+Trial: NCT03575572
+Title: Colchicine in Postoperative Fontan Patients
+Phase: PHASE2
+Status: TERMINATED
+Summary: The investigators found that there is inflammation in the chest drainage in patients after the Fontan operation. The investigators want to test the theory that Colchicine, an anti- inflammatory medication, can decrease the inflammation in the chest tube drainage after the Fontan operation, and can decrease the amount of time that patients having this surgery will have drainage.
+---
+Trial: NCT00128453
+Title: Study of Colchicine to Treat Acute Pericarditis and Prevent Recurrences
+Phase: PHASE3
+Status: COMPLETED
+Summary: The purpose of the study is to determine whether colchicine is safe and effective in the treatment of acute pericarditis and the prevention of subsequent recurrences.
+---
+Trial: NCT03919110
+Title: Immunome Project Consortium for Autoinflammatory Disorders
+Phase: NA
+Status: COMPLETED
+Summary: Rare systemic auto inflammatory diseases are a group of diseases that can be inherited and have non specific symptoms (fevers, rashes, joint pain, etc.). These diseases can be divided into two groups:
+
+* Diseases for which genetic mutations have been identified
+* The so-called genetically undetermined diseases for which no genetic mutation has been identified and for which the diagnosis is based o
+---
+Trial: NCT04906720
+Title: Post-Ablation Pericarditis Reduction Study
+Phase: PHASE2
+Status: COMPLETED
+Summary: There has not been a prospective, randomized controlled trial of colchicine to reduce post-AF ablation pericarditis in an era of newer AF ablation techniques. The hypothesis is that an empiric pre and post AF ablation treatment protocol with colchicine may reduce the incidence and symptom severity of post-AF ablation related pericarditis. Thus, the goal of this study is to
+
+1. Identify the inciden
+---
+Trial: NCT03737110
+Title: Study to Assess the Efficacy and Safety of Rilonacept Treatment in Participants With Recurrent Pericarditis
+Phase: PHASE3
+Status: COMPLETED
+Summary: The primary objective of this study was to assess the efficacy of rilonacept treatment in participants with recurrent pericarditis.
+---
+Trial: NCT00128414
+Title: Study of Colchicine to Treat and Prevent Recurrent Pericarditis (First Episode)
+Phase: PHASE3
+Status: COMPLETED
+Summary: The purpose of the study is to determine whether colchicine is safe and effective in the treatment and prevention of recurrent pericarditis (first episode).
+---
+Trial: NCT06765356
+Title: Pragmatic Evaluation of a Pentaspline Pulsed Field Ablation System to Treat Atrial Fibrillation and Related Arrhythmias
+Phase: PHASE4
+Status: RECRUITING
+Summary: The purpose of this pragmatic study is to evaluate the safety, performance and effectiveness of the FARAPULSE catheter system (FARAWAVE catheter used in combination with the FARASTAR generator), to treat patients with atrial fibrillation during clinically-indicated ablation procedures
+---
+Trial: NCT04323280
+Title: Dexamethasone Compared to Non-steroidal Anti-inflammatory Drugs in the Treatment of Acute Pericarditis
+Phase: PHASE4
+Status: TERMINATED
+Summary: The treatment of acute pericarditis is empiric and is based on treatment with medications with anti-inflammatory properties such as non-steroidal anti-inflammatory drugs (NSAID) and corticosteroids. However, this therapy is given as a relatively long course of therapy (≥ 3 weeks) and can be associated with substantial side effects.
+
+Dexamethasone is a potent corticosteroid that has not been invest
+---
+Trial: NCT04756128
+Title: Impact of Colchicine and Low-dose Naltrexone on COVID-19
+Phase: PHASE2
+Status: COMPLETED
+Summary: The purpose of this study is to explore the impact of two medications-colchicine and low-dose naltrexone (LDN)-relative to standard of care (SOC) on COVID-19 disease progression to severe/critical illness and/or intubation in patients hospitalized with moderate COVID-19. As researchers have learned, COVID-19's clinical course suggests that the hyperinflammatory response seen in severe/critical cas
+---
+Trial: NCT01709981
+Title: Anti-inflammatory Effects of Colchicine in PCI
+Phase: PHASE4
+Status: COMPLETED
+Summary: Peri-procedural inflammation is associated with increased rates of post-procedural myocardial infarction (MI), which occur in up to 35% of PCI patients and are themselves associated with increased risk of later MI and death. Statins suppress both inflammatory markers and MI rates during and after PCI, but ≥ 40% of PCI patients go statin-untreated, due in part to side effects such as myalgia. Moreo
+---
+Trial: NCT02363725
+Title: Interest of COLchicine in the Treatment of Patients With Acute Myocardial INfarction and With Inflammatory Response
+Phase: PHASE2
+Status: COMPLETED
+Summary: Background:
+
+Colchicine is an old well-known venerable drug routinely used in gout attacks for instance.
+
+More recnetly it is regularly use in the treatment of pericarditis. It couls exert antiiflammatory effects targeting the adverse inflammation occuring incase of acute myocardial infarction, which is involved in poor outcomes or longer stay at hospital.
+
+Endpoints:
+
+* Main endpoint: AUC CRP dur
+---
+Trial: NCT00235079
+Title: Study of Colchicine to Treat and Prevent Recurrent Pericarditis After Failure of Conventional Treatment.
+Phase: PHASE4
+Status: COMPLETED
+Summary: The purpose of the study is to determine whether colchicine is safe and effective in treatment and prevention of recurrent pericarditis after failure of conventional treatment.
+---
+Trial: NCT07128225
+Title: Health-related Quality of Life, Electrocardiographic and Holter Findings in Children With Familial Mediterranean Fever
+Phase: NA
+Status: ACTIVE_NOT_RECRUITING
+Summary: Familial Mediterranean fever (FMF) also known as 'periodic peritonitis,' 'familial paroxysmal polyserositis,' 'periodic disease,' 'Siegal-Cattan-Mamou disease,' 'Wolff periodic disease' or 'Reimann syndrome' is an autosomal recessive autoinflammatory disease that causes recurrent fevers and serositis. FMF is caused by a mutation in the Mediterranean fever (MEFV) gene located on the short arm of ch
+---

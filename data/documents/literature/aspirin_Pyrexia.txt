@@ -1,0 +1,879 @@
+1. Pediatr Rev. 2018 Feb;39(2):78-90. doi: 10.1542/pir.2016-0182.
+
+Kawasaki Disease.
+
+Son MBF(1), Newburger JW(2).
+
+Author information:
+(1)Division of Immunology.
+(2)Department of Cardiology, Boston Children's Hospital, Boston, MA.
+
+DOI: 10.1542/pir.2016-0182
+PMID: 29437127 [Indexed for MEDLINE]
+
+
+2. Cochrane Database Syst Rev. 2023 Jan 25;1(1):CD014884. doi: 
+10.1002/14651858.CD014884.pub2.
+
+Intravenous immunoglobulin for the treatment of Kawasaki disease.
+
+Broderick C(1), Kobayashi S(2), Suto M(3), Ito S(4), Kobayashi T(5).
+
+Author information:
+(1)Usher Institute, University of Edinburgh, Edinburgh, UK.
+(2)Department of Social Medicine, National Center for Child Health and 
+Development, Tokyo, Japan.
+(3)Department of Health Policy, National Center for Child Health and 
+Development, Tokyo, Japan.
+(4)Department of Pediatrics, Graduate School of Medicine, Yokohama City 
+University, Yokohama, Japan.
+(5)Department of Development Strategy, National Center for Child Health and 
+Development, Tokyo, Japan.
+
+Update of
+    doi: 10.1002/14651858.CD014884.
+
+BACKGROUND: Kawasaki disease (KD) is an acute systemic vasculitis (inflammation 
+of the blood vessels) that mainly affects children. Symptoms include fever, 
+chapped lips, strawberry tongue, red eyes (bulbar conjunctival injection), rash, 
+redness, swollen hands and feet or skin peeling; and enlarged cervical lymph 
+nodes. High fevers and systemic inflammation characterise the acute phase. 
+Inflammation of the coronary arteries causes the most serious complication of 
+the disease, coronary artery abnormalities (CAAs). The primary treatment is 
+intravenous immunoglobulin (IVIG) and acetylsalicylic acid (ASA/aspirin), with 
+doses and regimens differing between institutions. It is important to know which 
+regimens are the safest and most effective in preventing complications.
+OBJECTIVES: To evaluate the efficacy and safety of IVIG in treating and 
+preventing cardiac consequences of Kawasaki disease.
+SEARCH METHODS: The Cochrane Vascular Information Specialist searched the 
+Cochrane Vascular Specialised Register, CENTRAL, MEDLINE, Embase, and CINAHL 
+databases, and the World Health Organization International Clinical Trials 
+Registry Platform and ClinicalTrials.gov trials registers to 26 April 2022.
+SELECTION CRITERIA: We included randomised controlled trials (RCTs) 
+investigating the use of IVIG for the treatment of KD. We included studies 
+involving treatment for initial or refractory KD, or both.
+DATA COLLECTION AND ANALYSIS: We used standard Cochrane methods. Our primary 
+outcomes were incidence of CAAs and incidence of any adverse effects after 
+treatment. Our secondary outcomes were acute coronary syndromes, duration of 
+fever, need for additional treatment, length of hospital stay, and mortality. We 
+used GRADE to assess the certainty of the evidence for each outcome.
+MAIN RESULTS: We identified 31 RCTs involving a total of 4609 participants with 
+KD. Studies compared IVIG with ASA, another dose or regimen of IVIG, 
+prednisolone, or infliximab. The majority of studies reported on primary 
+treatment, so those results are reported below. A limited number of studies 
+investigated secondary or tertiary treatment in IVIG-resistant patients. Doses 
+and regimens of IVIG infusion varied between studies, and all studies had some 
+concerns related to risk of bias. Primary treatment with IVIG compared to ASA 
+for people with KD Compared to ASA treatment, IVIG probably reduces the 
+incidence of CAAs in people with KD up to 30 days (odds ratio (OR) 0.60, 95% 
+confidence interval (CI) 0.41 to 0.87; 11 studies, 1437 participants; 
+moderate-certainty evidence). The individual studies reported a range of adverse 
+effects, but there was little to no difference in numbers of adverse effects 
+between treatment groups (OR 0.57, 95% CI 0.17 to 1.89; 10 studies, 1376 
+participants; very low-certainty evidence). There was limited evidence for the 
+incidence of acute coronary syndromes, so we are uncertain of any effects. 
+Duration of fever days from treatment onset was probably shorter in the IVIG 
+group (mean difference (MD) -4.00 days, 95% CI -5.06 to -2.93; 3 studies, 307 
+participants; moderate-certainty evidence). There was little or no difference 
+between groups in need for additional treatment (OR 0.27, 95% CI 0.05 to 1.57; 3 
+studies, 272 participants; low-certainty evidence). No study reported length of 
+hospital stay, and no deaths were reported in either group. Primary treatment 
+with IVIG compared to different infusion regimens of IVIG for people with KD 
+Higher-dose regimens of IVIG probably reduce the incidence of CAAs compared to 
+medium- or lower-dose regimens of IVIG up to 30 days (OR 0.60, 95% CI 0.40 to 
+0.89; 8 studies, 1824 participants; moderate-certainty evidence). There was 
+little to no difference in the number of adverse effects between groups (OR 
+1.11, 95% CI 0.52 to 2.37; 6 studies, 1659 participants; low-certainty 
+evidence). No study reported on acute coronary syndromes. Higher-dose IVIG may 
+reduce the duration of fever compared to medium- or lower-dose regimens (MD 
+-0.71 days, 95% CI -1.36 to -0.06; 4 studies, 992 participants; low-certainty 
+evidence). Higher-dose regimens may reduce the need for additional treatment (OR 
+0.29, 95% CI 0.10 to 0.88; 4 studies, 1125 participants; low-certainty 
+evidence). We did not detect a clear difference in length of hospital stay 
+between infusion regimens (MD -0.24, 95% CI -0.78 to 0.30; 3 studies, 752 
+participants; low-certainty evidence). One study reported mortality, and there 
+was little to no difference detected between regimens (moderate-certainty 
+evidence). Primary treatment with IVIG compared to prednisolone for people with 
+KD The evidence comparing IVIG with prednisolone on incidence of CAA is very 
+uncertain (OR 0.60, 95% CI 0.24 to 1.48; 2 studies, 140 participants; very 
+low-certainty evidence), and there was little to no difference between groups in 
+adverse effects (OR 4.18, 95% CI 0.19 to 89.48; 1 study; 90 participants; 
+low-certainty evidence). We are very uncertain of the impact on duration of 
+fever, as two studies reported this outcome differently and showed conflicting 
+results. One study reported on acute coronary syndromes and mortality, finding 
+little or no difference between groups (low-certainty evidence). No study 
+reported the need for additional treatment or length of hospital stay.
+AUTHORS' CONCLUSIONS: The included RCTs investigated a variety of comparisons, 
+and the small number of events observed during the study periods limited 
+detection of effects. The certainty of the evidence ranged from moderate to very 
+low due to concerns related to risk of bias, imprecision, and inconsistency. The 
+available evidence indicated that high-dose IVIG regimens are probably 
+associated with a reduced risk of CAA formation compared to ASA or medium- or 
+low-dose IVIG regimens. There were no clinically significant differences in 
+incidence of adverse effects, which suggests there is little concern about the 
+safety of IVIG. Compared to ASA, high-dose IVIG probably reduced the duration of 
+fever, but there was little or no difference detected in the need for additional 
+treatment. Compared to medium- or low-dose IVIG, there may be reduced duration 
+of fever and reduced need for additional treatment. We were unable to draw any 
+conclusions regarding acute coronary syndromes, mortality, or length of hospital 
+stay, or for the comparison IVIG versus prednisolone. Our findings are in 
+keeping with current guideline recommendations and evidence from long-term 
+epidemiology studies.
+
+Copyright © 2023 The Authors. Cochrane Database of Systematic Reviews published 
+by John Wiley & Sons, Ltd. on behalf of The Cochrane Collaboration.
+
+DOI: 10.1002/14651858.CD014884.pub2
+PMCID: PMC9875364
+PMID: 36695415 [Indexed for MEDLINE]
+
+Conflict of interest statement: CB: none known. As CB is based within Cochrane 
+Vascular, editorial tasks for this review update were carried out by other 
+members of the Cochrane Vascular editorial team. SK: none known MS: none 
+known SI: none known TK: declares that his institution received a scholarship 
+grant from Japan Blood Products Organization (total amount JPY 300,000 in 2021). 
+This does not conflict with his work on this review. TK also reports payments 
+for lectures from Japan Blood Products Organization, Mitsubishi Tanabe Pharma 
+Corporation, Nihon Pharmaceutical, and Teijin Pharma.
+
+
+3. ScientificWorldJournal. 2010 Mar 16;10:490-503. doi: 10.1100/tsw.2010.50.
+
+Fever.
+
+Bartfai T(1), Conti B.
+
+Author information:
+(1)Molecular and Integrative Neurosciences Department, The Scripps Research 
+Institute, La Jolla, CA, USA. tbartfai@scripps.edu
+
+Measurement of body temperature remains one of the most common ways to assess 
+health. An increase in temperature above what is considered to be a normal value 
+is inevitably regarded as a sure sign of disease and referred to with one simple 
+word: fever. In this review, we summarize how research on fever allowed the 
+identification of the exogenous and endogenous molecules and pathways mediating 
+the fever response. We also show how temperature elevation is common to 
+different pathologies and how the molecular components of the fever-generation 
+pathway represent drug targets for antipyretics, such as acetylsalicylic acid, 
+the first "blockbuster drug". We also show how fever research provided new 
+insights into temperature and energy homeostasis, and into treatment of 
+infection and inflammation.
+
+DOI: 10.1100/tsw.2010.50
+PMCID: PMC2850202
+PMID: 20305990 [Indexed for MEDLINE]
+
+
+4. Clin Microbiol Rev. 1998 Jul;11(3):405-14. doi: 10.1128/CMR.11.3.405.
+
+Kawasaki syndrome.
+
+Rowley AH(1), Shulman ST.
+
+Author information:
+(1)Loyola University Stritch School of Medicine, Maywood, Illinois 60153, USA. 
+Arowley@wpo.it.luc.edu
+
+Kawasaki syndrome (KS) is an acute, sometimes fatal vasculitis of young 
+children. KS has replaced acute rheumatic fever as the most common cause of 
+acquired heart disease in children in the United States. The illness is 
+manifested by prolonged fever, conjunctival injection, enanthem, exanthem, 
+erythema and swelling of the hands and feet, and cervical adenopathy. These 
+acute features of illness are self-limiting, but coronary artery abnormalities 
+occur in 20% of untreated patients. The etiology of the illness is unknown, but 
+its clinical and epidemiologic features are most consistent with an infectious 
+cause. Common cardiovascular manifestations of the illness include myocarditis, 
+pericardial effusion, and coronary artery aneurysm formation. Treatment with 
+intravenous gamma globulin (IVGG) and aspirin within the first 10 days of 
+illness reduces the prevalence of coronary artery abnormalities from 20% in 
+those treated with aspirin alone to 4%. Patients who develop coronary artery 
+aneurysms, particularly those who develop giant coronary artery aneurysms, may 
+suffer myocardial infarction secondary to thrombosis or stenosis in the abnormal 
+vessel. Additional research to determine the cause of KS is urgently needed to 
+allow for improved diagnosis, more specific therapy, and prevention of the 
+disorder.
+
+DOI: 10.1128/CMR.11.3.405
+PMCID: PMC88887
+PMID: 9665974 [Indexed for MEDLINE]
+
+
+5. Bol Med Hosp Infant Mex. 2023;80(4):260-264. doi: 10.24875/BMHIM.23000078.
+
+Immunoglobulin-resistant Kawasaki disease.
+
+[Article in English]
+
+Marriaga-Núñez B(1), Arellano-Valdez A(2), Paz JPA(3), Bonal-Pérez MA(4), 
+Montaño-Durón JG(5)(6), Solórzano-Santos F(7).
+
+Author information:
+(1)Hospital General de Zapopan, Secretaría de Salud, Unidad de Nosocomiales 
+Hospital Arboledas, Guadalajara, Jalisco.
+(2)Servicio de Reumatología Pediátrica, Unidad Médica de Alta Especialidad, 
+Hospital de Pediatría, Centro Médico Nacional de Occidente, Instituto Mexicano 
+del Seguro Social, Guadalajara, Jalisco.
+(3)Servicio de Cardiología Pediátrica, Unidad Médica de Alta Especialidad, 
+Hospital de Pediatría, Centro Médico Nacional de Occidente, Instituto Mexicano 
+del Seguro Social, Guadalajara, Jalisco.
+(4)Servicio de la Unidad de Cuidados Intensivos Pediátricos, Unidad Médica de 
+Alta Especialidad, Hospital de Pediatría, Centro Médico Nacional de Occidente, 
+Instituto Mexicano del Seguro Social, Guadalajara, Jalisco.
+(5)Hospital General Tijuana, Secretaría de Salud, Tijuana, Baja California.
+(6)Facultad de Medicina Mexicali, Universidad Autónoma de Baja California.
+(7)Unidad de Investigación en Enfermedades Infecciosas, Hospital Infantil de 
+México Federico Gómez, Secretaría de Salud, Mexico City. Mexico.
+
+BACKGROUND: Kawasaki disease is a systemic vasculitis that affects small and 
+medium-sized vessels, primarily the coronary arteries. First-line treatment 
+includes intravenous immunoglobulin (IVIG) and acetylsalicylic acid; however, 
+20% do not respond adequately despite treatment. We describe a case treated with 
+etanercept after initial IVIG failure, showing a good response.
+CASE REPORT: A 5-year-old female was diagnosed with classic Kawasaki disease. 
+Echocardiography and angiotomography revealed giant and fusiform aneurysms in 
+the coronary arteries. A first dose of IVIG therapy was administered without 
+improvement; after the second dose, the fever persisted, so etanercept was 
+administered, and the fever subsided. There were no new lesions in 
+medium-caliber vessels and the previously identified coronary lesions did not 
+progress.
+CONCLUSIONS: The use of etanercept in Kawasaki disease has demonstrated a 
+clinically favorable response. Controlled clinical trials of this drug are 
+needed to establish it as a formal therapy in cases of initial IVIG failure.
+
+Publisher: INTRODUCCIÓN: La enfermedad de Kawasaki es una vasculitis sistémica 
+que afecta los vasos de pequeño y mediano calibre con predominio de las arterias 
+coronarias. El tratamiento de primera línea incluye inmunoglobulina intravenosa 
+(IGIV) y ácido acetilsalicílico; a pesar del tratamiento, el 20% de los 
+pacientes no responden adecuadamente. Se presenta un caso tratado con etanercept 
+debido a la falla inicial a IGIV, con buena respuesta.
+CASO CLÍNICO: Se trata de una paciente de 5 años de edad, a quien se diagnosticó 
+con enfermedad de Kawasaki clásica. En ecocardiografía y angiotomografía se 
+evidenciaron aneurismas gigantes y fusiformes en las coronarias. Se administró 
+una primera dosis con IGIV, sin mejoría; después de la segunda dosis, la 
+paciente persistió con fiebre, por lo que se administró etanercept, tras lo cual 
+esta cesó. No aparecieron nuevas lesiones en vasos de mediano calibre y las 
+lesiones coronarias previas no progresaron.
+CONCLUSIONES: Con el uso de etanercept se presentó una respuesta favorable 
+clínicamente en la enfermedad de Kawasaki. Se requieren ensayos clínicos 
+controlados con este fármaco para establecerlo como terapia formal en los casos 
+de falla inicial a IGIV.
+
+Copyright: © 2023 Permanyer.
+
+DOI: 10.24875/BMHIM.23000078
+PMID: 37703575 [Indexed for MEDLINE]
+
+
+6. Arch Pharm Res. 2018 Oct;41(10):967-976. doi: 10.1007/s12272-018-1045-z. Epub 
+2018 Jun 20.
+
+Aspirin-inspired acetyl-donating HDACs inhibitors.
+
+Lim J(1), Song Y(1), Jang JH(2), Jeong CH(1), Lee S(1), Park B(1), Seo YH(3).
+
+Author information:
+(1)College of Pharmacy, Keimyung University, Daegu, 42601, Republic of Korea.
+(2)Department of Pharmacology, School of Medicine, Keimyung University, Daegu, 
+42601, Republic of Korea.
+(3)College of Pharmacy, Keimyung University, Daegu, 42601, Republic of Korea. 
+seoyho@kmu.ac.kr.
+
+Aspirin is one of the oldest drugs for the treatment of inflammation, fever, and 
+pain. It is reported to covalently modify COX-2 enzyme by acetylating a serine 
+amino acid residue. By virtue of aspirin's acetylating potential, we for the 
+first time developed novel acetyl-donating HDAC inhibitors. In this study, we 
+report the design, synthesis, in silico docking study, and biological evaluation 
+of acetyl-donating HDAC inhibitors. The exposure of MDA-MB-231 cells with 
+compound 4c significantly promotes the acetylation of α-tubulin and histone H3, 
+which are substrates of HDAC6 and HDAC1, respectively. In silico docking 
+simulation also indicates that compound 4c tightly binds to the deep 
+substrate-binding pocket of HDAC6 by coordinating the active zinc ion in a 
+bidentate manner and forming hydrogen bond interactions with Ser531 and His573 
+amino acid residues. In particular, compound 4c (GI50 = 147 μM) affords the 
+significant enhancement of anti-proliferative effect on MDA-MB-231 cells, 
+compared with its parent compound 2c (GI50 > 1000 μM) and acetyl-donating group 
+deficient compound 6 (GI50 = 554 μM). Overall, compound 4c presents a novel 
+strategy for developing acetyl-donating HDAC inhibitors.
+
+DOI: 10.1007/s12272-018-1045-z
+PMID: 29922878 [Indexed for MEDLINE]
+
+
+7. Pediatr Infect Dis J. 2004 May;23(5):463-4. doi: 
+10.1097/01.inf.0000125893.66941.e0.
+
+Refractory Kawasaki disease.
+
+Freeman AF(1), Shulman ST.
+
+Author information:
+(1)Children's Memorial Hospital, Feinberg School of Medicine of Northwestern 
+University, Chicago, IL, USA.
+
+DOI: 10.1097/01.inf.0000125893.66941.e0
+PMID: 15131473 [Indexed for MEDLINE]
+
+
+8. Altern Med Rev. 2009 Dec;14(4):364-72.
+
+Did acetaminophen provoke the autism epidemic?
+
+Good P(1).
+
+Author information:
+(1)petergood1@mac.com
+
+Schultz et al (2008) raised the question whether regression into autism is 
+triggered, not by the measles-mumps-rubella (MMR) vaccine, but by acetaminophen 
+(Tylenol) given for its fever and pain. Considerable evidence supports this 
+contention, most notably the exponential rise in the incidence of autism since 
+1980, when acetaminophen began to replace aspirin for infants and young 
+children. The impetus for this shift - a Centers for Disease Control and 
+Prevention warning that aspirin was associated with Reye's syndrome - has since 
+been compellingly debunked. If aspirin is not to be feared as a cause of Reyes 
+syndrome, and acetaminophen is to be feared as a cause of autism, can the autism 
+epidemic be reversed by replacing acetaminophen with aspirin or other remedies?
+
+PMID: 20030462 [Indexed for MEDLINE]
+
+
+9. JAMA. 1976 Nov 22;236(21):2419-21.
+
+Extreme pyrexia.
+
+Simon HB.
+
+Twenty-eight cases of extreme pyrexia seen in a five-year period were analyzed 
+retrospectively. All of the patients had temperatures between 41.1 C (106 F) and 
+42.2 C (108 F) with a mean maximum temperature of 41.4 C (106.6 F). Infection, 
+thermoregulatory defects, or a combination thereof accounted for fever in these 
+patients. There was little evidence of direct tissue damage caused by fever, and 
+standard therapy with aspirin or acetaminophen, vigorous surface cooling, and 
+volume expansion was generally sucessful. Mortality could be related to the 
+extreme pyrexia in only 7% (2) but an additional 21% (6) of these patients later 
+died from serious underlying diseases.
+
+PMID: 989861 [Indexed for MEDLINE]
+
+
+10. Br Med J. 1970 Jul 11;3(5714):89-91.
+
+Aspirin and alternatives.
+
+[No authors listed]
+
+PMCID: PMC1701072
+PMID: 5310662 [Indexed for MEDLINE]
+
+
+11. Arch Dis Child. 2021 Jul;106(7):662-668. doi:
+10.1136/archdischild-2019-318245.  Epub 2020 Nov 10.
+
+Low-dose or no aspirin administration in acute-phase Kawasaki disease: a 
+meta-analysis and systematic review.
+
+Chiang MH(1), Liu HE(2), Wang JL(3)(4).
+
+Author information:
+(1)School of Medicine, Faculty of Medicine, Taipei Medical University, Taipei, 
+Taiwan.
+(2)Graduate Institute of Clinical Medicine, Collage of Medicine, Taipei Medical 
+University, Taipei, Taiwan.
+(3)Division of Hematology Oncology, Department of Pediatrics, Wan Fang Hospital, 
+Taipei Medical University, Taipei, Taiwan jlwang@w.tmu.edu.tw.
+(4)Department of Pediatrics, School of Medicine, College of Medicine, Taipei 
+Medical University, Taipei, Taiwan.
+
+OBJECTIVE: To compare the efficacy of low-dose or no aspirin with conventional 
+high-dose aspirin for the initial treatment in the acute-phase of Kawasaki 
+disease (KD).
+DESIGN: A meta-analysis and systematic review of randomised control trials and 
+cohort studies.
+METHODS: All available articles that compared different dosage of aspirin in the 
+acute-phase of KD published until 20 September 2019 were included from the 
+databases of PubMed, Embase and Cochrane Central Register of Controlled Trials 
+Central without language restrictions. Extracted data from eligible studies were 
+reviewed by two authors independently and analysed by using RStudio software.
+RESULTS: Nine cohorts with a total of 12 182 children were enrolled. We found 
+that low-dose (3-5 mg/kg/day) or no aspirin in the acute-phase KD was associated 
+with reducing the risk of coronary artery lesions (CALs, OR=0.81, 95% CI 0.69 to 
+0.95). No differences were observed in intravenous immunoglobulin resistance, 
+length of hospital stay and fever days after admission (OR=1.35, 95% CI 0.91 to 
+1.98; standard mean difference (SMD)=0.17, 95% CI -1.07 to 1.4; SMD=0.3, 95% CI 
+-1.51 to 2.11) in the low-dose/no aspirin subgroup compared with the high-dose 
+(≥30 mg/kg/day) aspirin subgroup. We did not identify any potential factors 
+affecting the homogeneity of CAL risk as well as clinical important effects in 
+all included studies.
+CONCLUSIONS: Prescribing low-dose or no aspirin in the acute-phase of KD might 
+be associated with a decreased incidence of CAL. However, additional 
+well-designed prospective trials are required to support the theory.
+
+© Author(s) (or their employer(s)) 2021. No commercial re-use. See rights and 
+permissions. Published by BMJ.
+
+DOI: 10.1136/archdischild-2019-318245
+PMID: 33172886 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+12. Best Pract Res Clin Gastroenterol. 2012 Apr;26(2):101-12. doi: 
+10.1016/j.bpg.2012.01.008.
+
+Efficacy and gastrointestinal risk of aspirin used for the treatment of pain and 
+cold.
+
+McCarthy DM(1).
+
+Author information:
+(1)Division of Gastroenterology and Hepatology, University of New Mexico, School 
+of Medicine, USA. denis.mccarthy2@va.gov
+
+AIMS: To analyse major sources of evidence-based information on the efficacy and 
+gastrointestinal tolerability of aspirin, used short-term, in over-the-counter 
+(OTC) doses, to relieve acute pain and cold symptoms, including associated 
+feverishness.
+METHODS: Evidence was largely collected from published meta-analyses and 
+systematic reviews that focused on randomised, controlled, double-blind clinical 
+trials, in which aspirin was compared to placebo and, in some cases also, to 
+active comparators such as OTC doses of paracetamol or ibuprofen.
+RESULTS: Across a large number of comparisons, aspirin was superior to placebo 
+in treating pain, cold or fever. Efficacy was essentially similar to that of 
+comparators used in equivalent doses. There was no serious GI adverse event 
+attributed to ASA in any study, but mild-to-moderate dyspepsia in small 
+percentages of cases was commonly reported.
+CONCLUSION: OTC aspirin is safe and effective. Safety concerns should not limit 
+brief use to relieve acute pain, cold or fever.
+
+Copyright © 2012. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.bpg.2012.01.008
+PMCID: PMC7185399
+PMID: 22542149 [Indexed for MEDLINE]
+
+
+13. Tex Heart Inst J. 2007;34(2):179-86.
+
+The discovery of aspirin's antithrombotic effects.
+
+Miner J(1), Hoffhines A.
+
+Author information:
+(1)University of Oklahoma College of Medicine and Oklahoma Medical Research 
+Foundation, Oklahoma City, Oklahoma 73104, USA. jonathan-miner@ouhsc.edu
+
+Comment in
+    Tex Heart Inst J. 2007;34(3):392.
+    Tex Heart Inst J. 2007;34(3):392-3.
+
+Aspirin has long been established as a useful analgesic and antipyretic. Even in 
+ancient times, salicylate-containing plants such as the willow were commonly 
+used to relieve pain and fever. In the 20th century, scientists discovered many 
+details of aspirin's anti-inflammatory and analgesic properties, including its 
+molecular mechanism of action. In addition, the latter half of the century 
+brought reports that daily, low doses of aspirin could prevent myocardial 
+infarction and stroke. This finding was first reported by Lawrence Craven, a 
+suburban general practitioner in Glendale, California. Unfortunately, Craven's 
+work went largely unnoticed, and decades passed before his observations were 
+verified by clinical trial. We present Craven's story, which demonstrates the 
+value of a single physician's commitment to lifelong learning. In addition, we 
+summarize the work of the physicians and scientists who discovered the molecular 
+mechanisms by which aspirin exerts its antiplatelet effects. Collectively, these 
+discoveries exemplify the complementary roles of basic science and clinical 
+observation in advancing medicine.
+
+PMCID: PMC1894700
+PMID: 17622365 [Indexed for MEDLINE]
+
+
+14. Drugs R D. 2011 Sep 1;11(3):277-88. doi: 10.2165/11593880-000000000-00000.
+
+Short-term acetylsalicylic acid (aspirin) use for pain, fever, or colds - 
+gastrointestinal adverse effects: a meta-analysis of randomized clinical trials.
+
+Lanas A(1), McCarthy D, Voelker M, Brueckner A, Senn S, Baron JA.
+
+Author information:
+(1)University of Zaragoza Medical School, Aragn Health Research Institute (IIS 
+Aragn), CIBERehd, Zaragoza, Spain. alanas@unizar.es
+
+BACKGROUND AND AIM: Acetylsalicylic acid (ASA [aspirin]) is a commonly used 
+over-the-counter drug for the treatment of pain, fever, or colds, but data on 
+the safety of this use are very limited. The aim of this study was to provide 
+data on the safety of this treatment pattern, which is of interest to 
+clinicians, regulators, and the public.
+METHODS: A meta-analysis of individual patient data from 67 studies sponsored by 
+Bayer HealthCare was completed. The primary endpoints were patient-reported 
+gastrointestinal (GI) adverse events (AEs); the secondary endpoints were the 
+incidence of patient-reported non-GI AEs. Event incidence and odds ratios (ORs) 
+based on Cochran-Mantel-Haenszel estimates are reported. In total, 6181 patients 
+were treated with ASA, 3515 with placebo, 1145 with acetaminophen (paracetamol), 
+and 754 with ibuprofen. Exposure to ASA was short term (82.5% of patients had a 
+single dose).
+RESULTS: GI AEs were more frequent with ASA (9.9%) than with placebo (9.0%).[OR 
+1.3; 95% CI 1.1, 1.5]. Dyspeptic symptoms were infrequent (4.6% in placebo 
+subjects). The ORs for ASA were 1.3 (95% CI 1.1, 1.6) versus placebo; 1.55 (95% 
+CI 0.7, 3.3) versus ibuprofen; and 1.04 (95% CI 0.8, 1.4) versus acetaminophen. 
+There were very few serious GI AEs (one ASA case; three placebo cases). No 
+differences were found for non-GI AEs and no cases of cerebral hemorrhage were 
+reported.
+CONCLUSION: Short-term, mostly single-dose exposure to ASA for the treatment of 
+pain, fever, or colds was associated with a small but significant increase in 
+the risk of dyspepsia relative to placebo. No serious GI complications were 
+reported.
+
+DOI: 10.2165/11593880-000000000-00000
+PMCID: PMC3586117
+PMID: 21902288 [Indexed for MEDLINE]
+
+
+15. Br J Cancer. 2014 Jul 8;111(1):61-7. doi: 10.1038/bjc.2014.271. Epub 2014 May
+ 29.
+
+Molecular targets of aspirin and cancer prevention.
+
+Alfonso L(1), Ai G(2), Spitale RC(3), Bhat GJ(2).
+
+Author information:
+(1)DYouville College School of Pharmacy, Buffalo, NY, USA.
+(2)Department of Pharmaceutical Sciences, South Dakota State University College 
+of Pharmacy, Brookings, SD, USA.
+(3)Department of Pharmaceutical Sciences, University of California, Irvine, CA, 
+USA.
+
+Salicylates from plant sources have been used for centuries by different 
+cultures to treat a variety of ailments such as inflammation, fever and pain. A 
+chemical derivative of salicylic acid, aspirin, was synthesised and mass 
+produced by the end of the 19th century and is one of the most widely used drugs 
+in the world. Its cardioprotective properties are well established; however, 
+recent evidence shows that it can also act as a chemopreventive agent. Its 
+antithrombotic and anti-inflammatory actions occur through the inhibition of 
+cyclooxygenases. The precise mechanisms leading to its anticancer effects are 
+not clearly established, although multiple mechanisms affecting enzyme activity, 
+transcription factors, cellular signalling and mitochondrial functions have been 
+proposed. This review presents a brief account of the major COX-dependent and 
+independent pathways described in connection with aspirin's anticancer effects. 
+Aspirin's unique ability to acetylate biomolecules besides COX has not been 
+thoroughly investigated nor have all the targets of its primary metabolite, 
+salicylic acid been identified. Recent reports on the ability of aspirin to 
+acetylate multiple cellular proteins warrant a comprehensive study to 
+investigate the role of this posttranslational modification in its anticancer 
+effects. In this review, we also raise the intriguing possibility that aspirin 
+may interact and acetylate cellular molecules such as RNA, and metabolites such 
+as CoA, leading to a change in their function. Research in this area will 
+provide a greater understanding of the mechanisms of action of this drug.
+
+DOI: 10.1038/bjc.2014.271
+PMCID: PMC4090734
+PMID: 24874482 [Indexed for MEDLINE]
+
+
+16. Crit Care Update. 1981 Jan;8(1):36-7.
+
+Aspirin update!
+
+[No authors listed]
+
+PMID: 6904275 [Indexed for MEDLINE]
+
+
+17. Nurs Clin North Am. 2021 Mar;56(1):91-107. doi: 10.1016/j.cnur.2020.10.008.
+Epub  2020 Dec 28.
+
+Herbal Medications Used to Treat Fever.
+
+Hines CB(1).
+
+Author information:
+(1)Capstone College of Nursing, The University of Alabama Tuscaloosa, 650 
+University Boulevard, Box 870358, Tuscaloosa, AL 35487, USA. Electronic address: 
+cbhines@ua.edu.
+
+Fever is a natural body defense and a common symptom of disease. Herbs have been 
+used for thousands of years to treat fever. Many herbs have anti-inflammatory 
+properties. Some are useful in reducing the release of cytokines and mediators 
+of inflammation, whereas others work as natural aspirins to inhibit 
+cyclooxygenase. In addition, herbs have known antipathogenic properties and can 
+be effective in the treatment of infection from numerous microorganisms. Last, 
+in traditional Chinese medicine, herbs are used to restore imbalances between 
+the nonpathogenic and the pathogenic clearing interior heat and treating heat 
+patterns in a variety of ways.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cnur.2020.10.008
+PMID: 33549289 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure The author has nothing to disclose.
+
+
+18. Lancet. 1988 Feb 27;1(8583):482-3. doi: 10.1016/s0140-6736(88)91285-8.
+
+Aspirin and rheumatic fever.
+
+Sepkowitz S.
+
+DOI: 10.1016/s0140-6736(88)91285-8
+PMID: 2893912 [Indexed for MEDLINE]
+
+
+19. Adv Pharmacol Chemother. 1969;7:333-405.
+
+A pharmacological analysis of aspirin.
+
+Collier HO.
+
+PMID: 4986224 [Indexed for MEDLINE]
+
+
+20. Turk J Pediatr. 2021;63(2):193-199. doi: 10.24953/turkjped.2021.02.002.
+
+Aspirin-induced hepatotoxicity and anemia in children with acute rheumatic 
+fever.
+
+Altay D(1), Pamukçu Ö(2), Baykan A(2), Üzüm K(2), Arslan D(1).
+
+Author information:
+(1)Departments of Pediatric Gastroenterology, Hepatology and Nutrition, Erciyes 
+University Faculty of Medicine, Kayseri, Turkey.
+(2)Departments of Pediatric Cardiology, Erciyes University Faculty of Medicine, 
+Kayseri, Turkey.
+
+BACKGROUND: The aim of this study was to investigate the frequency of anemia and 
+hepatotoxicity associated with aspirin use in patients with acute rheumatic 
+fever.
+METHODS: Patients with acute rheumatic fever followed at Erciyes University, 
+Faculty of Medicine, Department of Pediatric Cardiology between 2015-2018 were 
+reviewed retrospectively.
+RESULTS: A total of 286 patients with acute rheumatic fever were analysed. 
+Aspirin treatment was started in 53 of the 286 patients (18.5%) due to 
+arthritis. The mean age of the patients who used aspirin was 10.7 ± 2.5 years. 
+Aspirin-induced hepatotoxicity developed in 9 (17%) of the 53 patients. Naproxen 
+or ibuprofen was given to these patients as an alternative to aspirin. No side 
+effects occurred in patients receiving naproxen or ibuprofen. In addition, 30% 
+of 53 patients were initially anemic. The mean duration of aspirin use in the 
+hepatotoxic patients who had anemia was longer than patients without anemia 
+(p=0.02).
+CONCLUSIONS: Patients with acute rheumatic fever should be closely monitored for 
+aspirin hepatotoxicity. When aspirin hepatotoxicity develops, naproxen or 
+ibuprofen treatment can be used safely.
+
+DOI: 10.24953/turkjped.2021.02.002
+PMID: 33929108 [Indexed for MEDLINE]
+
+
+21. Sports Med. 1985 Jan-Feb;2(1):1-7. doi: 10.2165/00007256-198502010-00001.
+
+Aspirin in exercise-induced hyperthermia. Evidence for and against its role.
+
+Johnson SC, Ruhling RO.
+
+DOI: 10.2165/00007256-198502010-00001
+PMID: 3883456 [Indexed for MEDLINE]
+
+
+22. Soins. 1982 Dec;(395-396):53-5.
+
+[Aspegic].
+
+[Article in French]
+
+Csech J, Gervais C.
+
+PMID: 6820190 [Indexed for MEDLINE]
+
+
+23. N Engl J Med. 2009 Jul 30;361(5):526-8. doi: 10.1056/NEJMcibr0903050.
+
+Platelets, pyrexia, and plasmodia.
+
+Greenbaum DC(1), FitzGerald GA.
+
+Author information:
+(1)Department of Pharmacology and the Institute for Translational Medicine and 
+Therapeutics, University of Pennsylvania, Philadelphia, USA.
+
+DOI: 10.1056/NEJMcibr0903050
+PMID: 19641212 [Indexed for MEDLINE]
+
+
+24. Indian J Pediatr. 2002 Jan;69(1):69-74. doi: 10.1007/BF02723780.
+
+Antipyretics in children.
+
+Chandra J(1), Bhatnagar SK.
+
+Author information:
+(1)Department of Pediatrics, Kalawati Saran Children's Hospital, Lady Hardinge 
+Medical College, New Delhi, India. bshishir@rediffmail.com
+
+Fever is an important symptom of underlying disease condition and in general is 
+considered harmful in pediatric age group as it may lead to febrile seizures, 
+stupor, dehydration increase work of breathing, discomfort and tachycardia. The 
+increase metabolic demands stress the patient with marginal cardiac and cerebral 
+vascular supply. The hypothalamus controls the body temperature. The fever 
+results due to resetting of the hypothalamus that occur from the prostaglandins 
+produced by the pyrogens. Fever is treated variedly by the pediatricians. The 
+physical therapy offers a simple and cost effective way of lowering the body 
+temperature. The drugs as paracetamol, nimesulide and ibuprofen lower the 
+temperature by inhibiting the prostaglandin synthesis. Paracetamol is considered 
+the safest of all the antipyretic drugs. It is recommended that a combination of 
+physical therapy such as tepid sponging and paracetamol is best way of 
+controlling temperature.
+
+DOI: 10.1007/BF02723780
+PMID: 11876124 [Indexed for MEDLINE]
+
+
+25. Thromb Res. 2003 Jun 15;110(5-6):269-72. doi: 10.1016/s0049-3848(03)00411-0.
+
+COX-1 and COX-3 inhibitors.
+
+Botting R(1).
+
+Author information:
+(1)The William Harvey Research Institute, St. Bartholomew's and the Royal London 
+School of Medicine, Charterhouse Square, London EC1M 6BQ, UK.
+
+Low doses of aspirin reduce both pain and fever, whereas the anti-inflammatory 
+action of aspirin requires a much higher dose. It is possible that inhibition of 
+cyclooxygenase (COX)-1 is the major action of aspirin involved in its analgesic 
+and antipyretic effects, and inhibition of COX-2 is responsible for its 
+anti-inflammatory action. We compared the analgesic effects of an aspirin-like 
+drug (diclofenac) and a centrally acting analgesic (paracetamol) in the mouse 
+stretching test and confirmed that the analgesic action of the aspirin-like drug 
+was peripheral. Two possible sites have been postulated for the antipyretic 
+action of non-steroid anti-inflammatory drugs; (a) inhibition of COX in 
+endothelial cells of hypothalamic blood vessels or (b) inhibition of COX 
+synthesising prostaglandins near sensory receptors of sub-diaphragmatic vagal 
+afferents. The antipyretic action of aspirin may be mediated by inhibition of 
+COX-3 in hypothalamic endothelial cells or by inhibition of COX-1 localised 
+close to sensory receptors of peripheral vagal afferents. It is also possible 
+that both enzymes are involved in the antipyretic action of aspirin. Whereas 
+lipopolysaccharide (LPS)-induced fever is attenuated in COX-2 gene-deleted mice, 
+suggesting that COX-2 is responsible for this type of fever, the COX-1 gene may 
+also be important in temperature regulation and in mediating the pyresis that 
+occurs in the absence of infection.
+
+DOI: 10.1016/s0049-3848(03)00411-0
+PMID: 14592546 [Indexed for MEDLINE]
+
+
+26. Can Med Assoc J. 1964 Sep 19;91(12):659-60.
+
+NON-STEROID ANTIRHEUMATIC DRUGS.
+
+FORD DK.
+
+PMCID: PMC1927521
+PMID: 14201254 [Indexed for MEDLINE]
+
+
+27. Int J Mol Sci. 2020 Nov 27;21(23):9018. doi: 10.3390/ijms21239018.
+
+Mechanisms of Colorectal Cancer Prevention by Aspirin-A Literature Review and 
+Perspective on the Role of COX-Dependent and -Independent Pathways.
+
+Sankaranarayanan R(1), Kumar DR(2), Altinoz MA(3), Bhat GJ(1).
+
+Author information:
+(1)Department of Pharmaceutical Sciences and Translational Cancer Research 
+Center, College of Pharmacy and Allied Health Professions, South Dakota State 
+University, Brookings, SD 57007, USA.
+(2)Department of Entomology, University of Kentucky, Lexington, KY 40506, USA.
+(3)Department of Biochemistry, Acibadem M.A.A. University, Istanbul, Turkey.
+
+Aspirin, synthesized and marketed in 1897 by Bayer, is one of the most widely 
+used drugs in the world. It has a well-recognized role in decreasing 
+inflammation, pain and fever, and in the prevention of thrombotic cardiovascular 
+diseases. Its anti-inflammatory and cardio-protective actions have been well 
+studied and occur through inhibition of cyclooxygenases (COX). Interestingly, a 
+vast amount of epidemiological, preclinical and clinical studies have revealed 
+aspirin as a promising chemopreventive agent, particularly against colorectal 
+cancers (CRC); however, the primary mechanism by which it decreases the 
+occurrences of CRC has still not been established. Numerous mechanisms have been 
+proposed for aspirin's chemopreventive properties among which the inhibition of 
+COX enzymes has been widely discussed. Despite the wide attention COX-inhibition 
+has received as the most probable mechanism of cancer prevention by aspirin, it 
+is clear that aspirin targets many other proteins and pathways, suggesting that 
+these extra-COX targets may also be equally important in preventing CRC. In this 
+review, we discuss the COX-dependent and -independent pathways described in 
+literature for aspirin's anti-cancer effects and highlight the strengths and 
+limitations of the proposed mechanisms. Additionally, we emphasize the potential 
+role of the metabolites of aspirin and salicylic acid (generated in the gut 
+through microbial biotransformation) in contributing to aspirin's 
+chemopreventive actions. We suggest that the preferential chemopreventive effect 
+of aspirin against CRC may be related to direct exposure of aspirin/salicylic 
+acid or its metabolites to the colorectal tissues. Future investigations should 
+shed light on the role of aspirin, its metabolites and the role of the gut 
+microbiota in cancer prevention against CRC.
+
+DOI: 10.3390/ijms21239018
+PMCID: PMC7729916
+PMID: 33260951 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or 
+interpretation of data; in the writing of the manuscript, or in the decision to 
+publish the results.
+
+
+28. Pediatrics. 1978 Nov;62(5 Pt 2 Suppl):904-9.
+
+Aspirin and acetaminophen: a comparative view of their antipyretic and analgesic 
+activity.
+
+Lovejoy FH Jr.
+
+Aspirin and acetaminophen have excellent and essentially similar antipyretic 
+activity. For the child, lowering of temperature will be indicated for 
+excessively high temperature and when there is a history of febrile seizures. 
+Specific clinical contraindications will often dictate the selection of one drug 
+over the other. Aspirin has some advantage over acetaminophen for analgesia. The 
+need for either drug for analgesia in the pediatric patient, however, will be 
+infrequent; when required, a drug with greater analgesic activity than either 
+aspirin or acetaminophen may be indicated.
+
+PMID: 364400 [Indexed for MEDLINE]
+
+
+29. Am J Med. 1983 Jun 14;74(6A):2-9. doi: 10.1016/0002-9343(83)90522-3.
+
+The biologic background to some therapeutic uses of aspirin.
+
+Born GV, Görög P, Begent NA.
+
+The therapeutic success of aspirin as an effective analgesic, antipyretic, and 
+anti-inflammatory drug had been universally established for many decades before 
+its mode of action was discovered in 1971. This mode of action is the 
+prevention, or diminution, of prostaglandin biosynthesis through the inhibition 
+of the enzyme, cyclo-oxygenase. Demonstrations of the major contributions of 
+prostaglandins to pain, fever, and other cardinal features of inflammation 
+provided rational explanations for the well-established therapeutic uses of 
+aspirin. It had been shown earlier that aspirin antagonized two mediators of 
+inflammation by an indirect process. While aspirin's mode of action was being 
+discovered, research on platelets in hemostasis and thrombosis was also being 
+done. It was shown that aspirin inhibited an exocytotic reaction (the release 
+reaction) of platelets. This reaction was regarded as essential for their 
+aggregation as thrombi in, most importantly, coronary and cerebral arteries. 
+This observation was the starting point of an enormous effort, still going on to 
+determine through both fundamental and clinical investigations, the therapeutic 
+potential of aspirin as an antithrombotic drug. Costly clinical trials have 
+provided evidence in favor of aspirin preventing thrombotic events affecting the 
+brain; its effectiveness against coronary thrombosis is not yet definitely 
+established. Possible explanations for this situation will be considered on the 
+basis of rapidly advancing biologic knowledge about the mechanism of thrombosis.
+
+DOI: 10.1016/0002-9343(83)90522-3
+PMID: 6344623 [Indexed for MEDLINE]
+
+
+30. Arch Fr Pediatr. 1993 Mar;50(3):187-9.
+
+[Fever in children: what to do?].
+
+[Article in French]
+
+Guignard JP.
+
+PMID: 8338409 [Indexed for MEDLINE]

@@ -1,0 +1,1273 @@
+1. BioDrugs. 2007;21(5):333-41: discussion 342. doi: 
+10.2165/00063030-200721050-00005.
+
+Rituximab: in rheumatoid arthritis.
+
+Frampton JE(1), Scott LJ.
+
+Author information:
+(1)Wolters Kluwer Health | Adis, Auckland, New Zealand. demail@adis.co.nz
+
+An important role for B cells in the immunopathogenesis of rheumatoid arthritis 
+(RA) is recognized. Rituximab is a chimeric murine/human anti-CD20 monoclonal 
+antibody that transiently depletes CD20+ B cells. A single course of rituximab 
+(two intravenous infusions of 1,000mg given two weeks apart) with a stable dose 
+of methotrexate significantly improved all measures of disease activity, 
+fatigue, and health-related quality of life relative to placebo with 
+methotrexate. This was demonstrated in the REFLEX trial, a 24-week, randomized, 
+double-blind, double-dummy, international, phase III study in 520 patients who 
+had active RA despite ongoing treatment with methotrexate and had experienced an 
+inadequate response to anti-tumor necrosis factor (TNF) therapy. Patients in 
+REFLEX (or other studies) who responded to, and required further treatment 
+after, an initial course of rituximab continued to respond to subsequent courses 
+of the drug. A small subgroup of patients in REFLEX continued to respond to 
+their first course of rituximab through 48 weeks of follow-up. Long-term 
+treatment (up to 56 weeks) with one or more courses of rituximab in REFLEX 
+significantly inhibited joint structural damage, the first time this effect has 
+been reported in patients with an inadequate response to TNF inhibitors. 
+Rituximab was generally well tolerated; the majority of adverse events were 
+related to the first infusion of the drug, were mild to moderate in severity, 
+and were easily managed. The adverse event profile of rituximab was unchanged 
+after repeat courses.
+
+DOI: 10.2165/00063030-200721050-00005
+PMID: 17896839 [Indexed for MEDLINE]
+
+
+2. Rheumatol Int. 2022 Oct;42(10):1843-1847. doi: 10.1007/s00296-021-05080-2.
+Epub  2022 Jan 5.
+
+Rituximab therapy in pericarditis associated with rheumatoid arthritis.
+
+Taylan A(1).
+
+Author information:
+(1)Department of Rheumatology, Saglik Bilimleri University, Tepecik Teaching and 
+Research Hospital, Izmir, Rheumatology Section, Yenisehir, Turkey. 
+taylanally@yahoo.com.
+
+In rheumatoid arthritis, pericarditis is commonly asymptomatic, but rarely, it 
+progresses to a morbid complication, like cardiac tamponade or restrictive 
+pericarditis. Current studies have indicated that conventional drugs have 
+limited ability to reverse these lethal conditions. To date, invasive surgical 
+measures remain the only definitive therapy for patients who are unresponsive to 
+drugs. Recently, anti-tumor necrosis factor-α and anti-interleukin-1 
+antibody-based drugs have shown limited success. Consequently, given the 
+importance of pericarditis, we need new treatment methods. Here, we describe a 
+patient with rheumatoid arthritis and effusive pericarditis, which progressed to 
+life-threatening cardiac tamponade. The patient responded very well to 
+rituximab. Thus, rituximab represents a potential new therapy for this rarely 
+treated complication of rheumatoid arthritis.
+
+© 2022. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00296-021-05080-2
+PMID: 34988646 [Indexed for MEDLINE]
+
+
+3. Clin Rheumatol. 2019 Nov;38(11):2977-2994. doi: 10.1007/s10067-019-04699-8.
+Epub  2019 Aug 1.
+
+A comprehensive review of rituximab therapy in rheumatoid arthritis patients.
+
+Tavakolpour S(1)(2), Alesaeidi S(3), Darvishi M(4), GhasemiAdl M(3), 
+Darabi-Monadi S(5), Akhlaghdoust M(6), Elikaei Behjati S(7), Jafarieh A(8).
+
+Author information:
+(1)Pharmaceutical Sciences Research Center, Shahid Beheshti University of 
+Medical Sciences, Tehran, Iran. soheil.tavakolpour@gmail.com.
+(2)Rheumatology and Internal Medicine, Rheumatology Research Center, Tehran 
+University of Medical Sciences, Tehran, Iran. soheil.tavakolpour@gmail.com.
+(3)Rheumatology and Internal Medicine, Rheumatology Research Center, Tehran 
+University of Medical Sciences, Tehran, Iran.
+(4)Infectious Diseases and Tropical Medicine Research Center (IDTMRC), 
+department of aerospace and subaquatic medicine, AJA University of Medical 
+Sciences, Tehran, Iran.
+(5)School of Medicine, Mashhad University of Medical Sciences, Mashhad, Iran.
+(6)Pars Advanced and Minimally Invasive Medical Manners Research Center, Pars 
+Hospital, Iran University of Medical Sciences, Tehran, Iran.
+(7)Department of Biology, Science and Research Branch, Islamic Azad University, 
+Tehran, Iran.
+(8)Amir'Alam Hospital, Tehran University of Medical Sciences, Tehran, Iran.
+
+Rituximab (RTX) is an approved treatment for rheumatoid arthritis (RA) patients 
+that do not respond adequately to disease-modifying antirheumatic drugs. 
+However, different new concerns, such as efficacy, optimum dose, safety issues, 
+prediction of response to RTX, and pregnancy outcomes have attracted a lot of 
+attention. The PubMed database was systematically reviewed for the last 
+published articles, new findings, and controversial issues regarding RTX therapy 
+in RA using "Rheumatoid arthritis" AND "rituximab" keywords, last updated on 
+June 18, 2019. From 1812 initial recorders, 162 studies met the criteria. 
+Regarding the optimum dose, low-dose RTX therapy (2 × 500 mg) seems as effective 
+as standard dose (2 × 1000 mg), safer, and more cost-effective. The most common 
+reported safety challenges included de novo infections, false negative serologic 
+tests of viral infections, reactivation of chronic infections, interfering with 
+vaccination outcome, and development of de novo psoriasis. Other less reported 
+side effects are infusion reactions, nervous system disorders, and 
+gastrointestinal disorders. Lower exposure to other biologics, presence of some 
+serological markers (e.g., anti-RF, anti-CCP, IL-33, ESR), specific variations 
+in FCGR3A, FCGR2A, TGFβ1, IL6, IRF5, BAFF genes, and also EBV-positivity could 
+be used to predict response to RTX. Although there is no evidence of the 
+teratogenic effect of RTX, it is recommended that women do not expose themselves 
+to RTX at least 6 months before the conception. Only a reversible reduction of B 
+cell-count in the offspring may be the pregnancy-related outcome. Although RTX 
+is an effective therapeutic option for RA, more studies on optimum doses, 
+prevention of RTX-related side effects, prediction of RTX response, and safety 
+during the pregnancy are required.
+
+DOI: 10.1007/s10067-019-04699-8
+PMID: 31367943 [Indexed for MEDLINE]
+
+
+4. J Pak Med Assoc. 2022 May;72(5):839-842. doi: 10.47391/JPMA.01373.
+
+Efficacy of rituximab in patients with rheumatoid arthritis.
+
+Bilal M(1), Ullah A(2), Khattak S(3).
+
+Author information:
+(1)Department of Medicine, Lady Reading Hospital, Peshawar, Pakistan.
+(2)Department of Medicine, DHQ Hospital, Charsada, Pakistan.
+(3)Department of Gynaecology, Lady Reading Hospital, Peshawar, Pakistan.
+
+Comment in
+    J Pak Med Assoc. 2023 May;73(5):1156.
+
+OBJECTIVE: To determine the efficacy of rituximab 2×500mg in rheumatoid 
+arthritis patients.
+METHODS: The descriptive case series was conducted at the Department of General 
+Medicine, Lady Reading Hospital, Peshawar, Pakistan, from November 25, 2018, to 
+May 24, 2019, and comprised patients of either gender aged 30-60 years with 
+rheumatoid arthritis diagnosis for >6 months. The patients received 2 doses of 
+rituximab 2×500mg through intravenous infusion with pre-medications as a 
+standard protocol. A follow-up visit was recommended for each patient after 24 
+weeks. The efficacy of the treatment in terms of disease progression and 
+improvement were observed using the Disease Activity Score-28 scale at the 
+baseline and on follow-up. Data was analysed using SPSS 20.
+RESULTS: Of the 97 patients, 83(85.6%) were female and 14(14.4%) were male. The 
+overall mean age was 50.68±14.27 years. The baseline score was 6.68±1.14 while 
+the follow-up score was 4.62±0.93 (p<0.05). In terms of efficacy, 25(25.8%) 
+patients showed no improvement, while 72(74.2%) had improvement.
+CONCLUSIONS: Rituximab 2×500mgI was found to be an effective treatment option 
+for rheumatoid arthritis patients.
+
+DOI: 10.47391/JPMA.01373
+PMID: 35713041 [Indexed for MEDLINE]
+
+
+5. Autoimmun Rev. 2023 Jan;22(1):103217. doi: 10.1016/j.autrev.2022.103217. Epub 
+2022 Oct 22.
+
+Prevention of rheumatoid arthritis: A systematic literature review of preventive 
+strategies in at-risk individuals.
+
+Frazzei G(1), Musters A(1), de Vries N(1), Tas SW(2), van Vollenhoven RF(1).
+
+Author information:
+(1)Department of Experimental Immunology, Amsterdam University Medical Centers, 
+University of Amsterdam, Meibergdreef 9, 1105 AZ Amsterdam, Netherlands; 
+Department of Rheumatology and Clinical Immunology, Amsterdam Rheumatology and 
+immunology Center, Amsterdam University Medical Centers, University of 
+Amsterdam, Meibergdreef 9, 1105 AZ Amsterdam, Netherlands.
+(2)Department of Experimental Immunology, Amsterdam University Medical Centers, 
+University of Amsterdam, Meibergdreef 9, 1105 AZ Amsterdam, Netherlands; 
+Department of Rheumatology and Clinical Immunology, Amsterdam Rheumatology and 
+immunology Center, Amsterdam University Medical Centers, University of 
+Amsterdam, Meibergdreef 9, 1105 AZ Amsterdam, Netherlands. Electronic address: 
+s.w.tas@amsterdamumc.nl.
+
+Comment in
+    Autoimmun Rev. 2023 Mar;22(3):103267. doi: 10.1016/j.autrev.2023.103267.
+
+BACKGROUND: Rheumatoid arthritis (RA) is an autoimmune disease characterized by 
+symmetrical peripheral polyarthritis in the hands and/or feet, leading to 
+long-term disability if not treated effectively. RA is preceded by a preclinical 
+phase, in which genetically predisposed individuals accumulate environmental 
+risk factors, and during which autoimmunity develops, followed by the emergence 
+of non-specific signs and symptoms before arthritis becomes manifest. Early 
+treatment in at-risk individuals - i.e. before the disease is fully established 
+- has the theoretical potential to delay or prevent disease onset, with a 
+positive impact on both patients' life and society.
+OBJECTIVES: We aimed to understand the feasibility of preventive treatment in 
+at-risk individuals, taking into account recently performed studies and ongoing 
+clinical trials, as well as patient perspectives.
+METHODS: We performed a systematic literature review (SLR) on Medline and 
+Embase, searching articles published between 2010 and 2021 with the following 
+key-words: "Rheumatoid arthritis", "arthralgia", "pre-treatment" or "prevent".
+RESULTS: Our SLR identified a total of 1821 articles. Articles were 
+independently screened by two researchers. A total of 14 articles were included 
+after screening, and an additional 8 reports were manually included. We 
+identified ten relevant clinical trials performed in at-risk individuals, or in 
+individuals with undifferentiated inflammatory arthritis. Although no treatment 
+was shown to prevent RA onset, early treatment with rituximab and abatacept 
+delayed onset of full-blown RA, and both conventional and biological 
+disease-modifying anti-rheumatic drugs (DMARDs) decreased disease-related 
+physical limitations and increased DAS28-defined remission, at least 
+temporarily.
+CONCLUSIONS: This SLR demonstrates that early treatment of at-risk individuals 
+may be effective in delaying RA onset, thereby decreasing disease-related 
+limitations in individuals in the pre-clinical phase of RA. Whether this may 
+ultimately lead to prevention of RA remains to be determined.
+
+Copyright © 2022 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.autrev.2022.103217
+PMID: 36280095 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest SWT and NdV 
+were involved in the PRAIRI trial and are co-authors on the publication.
+
+
+6. Arthritis Rheumatol. 2026 Mar;78(3):592-602. doi: 10.1002/art.43332. Epub 2025
+ Dec 2.
+
+Association of Abatacept With Lower Mortality Risk Compared to Rituximab in 
+Rheumatoid Arthritis-Associated Interstitial Lung Disease: An Emulated Target 
+Trial.
+
+Shih PC(1)(2), Wang SI(3)(4), Wei JCC(1)(5)(6)(7).
+
+Author information:
+(1)Institute of Medicine, Chung Shan Medical University, Taichung, Taiwan.
+(2)Division of Allergy, Immunology and Rheumatology, Department of Internal 
+Medicine, Changhua Christian Hospital, Changhua, Taiwan.
+(3)Center for Health Data Science, Department of Medical Research, Chung Shan 
+Medical University Hospital, Taichung, Taiwan.
+(4)Department of Health Policy and Management, College of Health Care and 
+Management, Chung Shan Medical University, Taichung, Taiwan.
+(5)Department of Allergy, Immunology and Rheumatology, Chung Shan Medical 
+University Hospital, Taichung, Taiwan.
+(6)Office of Research and Development, Asia University, Taichung, Taiwan.
+(7)Graduate Institute of Integrated Medicine, China Medical University, 
+Taichung, Taiwan.
+
+OBJECTIVE: The optimal treatment strategy for rheumatoid arthritis-associated 
+interstitial lung disease (RA-ILD) remains uncertain, and direct comparative 
+data between biologics are limited. This study aimed to evaluate the 
+effectiveness and safety of abatacept compared with rituximab in patients with 
+RA-ILD.
+METHODS: An emulated target trial was designed using the TriNetX US 
+Collaborative Network database, including patients with RA-ILD, diagnosed 
+between 2007 and 2024. Propensity score matching was used to balance baseline 
+characteristics between the two treatment groups (abatacept and rituximab). The 
+primary outcome was all-cause mortality, and secondary outcomes included 
+respiratory events, medical utilization, and infection-related adverse events. 
+Hazard ratios (HRs) with 95% confidence intervals (CIs) were estimated to use 
+Cox proportional hazards models.
+RESULTS: In total, 1,615 patients per group were identified after matching for 
+analysis. Abatacept was associated with a significantly lower risk of all-cause 
+mortality compared with rituximab (HR, 0.689; 95% CI, 0.581-0.818) and a reduced 
+risk of mechanical ventilation (HR, 0.698; 95% CI, 0.521-0.934). The subgroup 
+analyses yielded consistent findings. Sensitivity analyses excluding patients 
+with concomitant connective tissue diseases also demonstrated consistent results 
+(mortality: HR, 0.679; 95% CI, 0.570-0.810), reinforcing the robustness of the 
+findings.
+CONCLUSION: Abatacept was associated with a lower risk of mortality compared 
+with rituximab in patients with RA-ILD. Because clinicians may preferentially 
+reserve abatacept for less aggressive RA-ILD, residual confounding by indication 
+cannot be excluded; thus, the association should not be interpreted as proof of 
+causality. Prospective randomized trials are needed to confirm whether abatacept 
+confers a true survival advantage.
+
+© 2025 The Author(s). Arthritis & Rheumatology published by Wiley Periodicals 
+LLC on behalf of American College of Rheumatology.
+
+DOI: 10.1002/art.43332
+PMCID: PMC12991919
+PMID: 40693411 [Indexed for MEDLINE]
+
+
+7. Drug Des Devel Ther. 2013 Dec 27;8:87-100. doi: 10.2147/DDDT.S41645.
+
+Rituximab for the treatment of rheumatoid arthritis: an update.
+
+Mok CC(1).
+
+Author information:
+(1)Department of Medicine, Tuen Mun Hospital, Hong Kong, Special Administrative 
+Region of the People's Republic of China.
+
+Rituximab is a chimeric monoclonal antibody that targets the CD20 molecule 
+expressed on the surface of B cells. It was first used in the treatment of 
+non-Hodgkin's lymphoma and later approved for the treatment of rheumatoid 
+arthritis (RA) that does not respond adequately to disease-modifying 
+antirheumatic drugs, including the anti-tumor-necrosis-factor (TNF) biologics. 
+Sustained efficacy in RA can be achieved by repeated courses of rituximab. 
+However, the optimal dose and retreatment schedule of rituximab in RA remains to 
+be established. Seropositivity, complete B cell depletion shortly after 
+treatment, and previous failure to no more than one anti-TNF agent are three 
+factors associated with greater clinical benefits to rituximab. Infusion 
+reaction to the first dose of rituximab occurs in approximately 25% of RA 
+patients, and the incidence reduces with subsequent exposure. Immunogenicity to 
+the chimeric compound occurs in 11% of RA patients, but this does not correlate 
+with its efficacy in B cell depletion. Extended observation of randomized 
+controlled trials in RA does not reveal a significant increase in the incidence 
+of serious infections related to rituximab compared to placebo groups, and the 
+infection rate remains static over time. Repeated treatment with rituximab is 
+associated with hypogammaglobulinemia, which may increase the risk of serious, 
+but rarely opportunistic, infections. Reactivation of occult hepatitis B 
+infection has been reported in RA patients receiving rituximab, but no increase 
+in the incidence of tuberculosis was observed. Screening for baseline serum 
+immunoglobulin G level and hepatitis B status (including occult infection) is 
+important, especially in Asian countries where hepatitis B infection is 
+prevalent. The rare but fatal progressive multifocal leukoencephalopathy linked 
+to the use of rituximab has to be noted. Postmarketing surveillance and registry 
+data, particularly in Asia, are necessary to establish the long-term efficacy 
+and safety of rituximab in the treatment of RA.
+
+DOI: 10.2147/DDDT.S41645
+PMCID: PMC3883598
+PMID: 24403823 [Indexed for MEDLINE]
+
+
+8. Expert Opin Drug Metab Toxicol. 2020 Dec;16(12):1125-1132. doi: 
+10.1080/17425255.2020.1832082. Epub 2020 Nov 3.
+
+A pharmacokinetic evaluation of the rituximab biosimilar CT-P10 in the treatment 
+of rheumatoid arthritis.
+
+Yoo DH(1), Suh CH(2), Shim SC(3), Lee SJ(4), Kim SH(4), Park W(5).
+
+Author information:
+(1)Hanyang University Hospital for Rheumatic Diseases, Hanyang University , 
+Seoul, Republic of Korea.
+(2)Department of Rheumatology, Ajou University School of Medicine , Suwon, 
+Republic of Korea.
+(3)Division of Rheumatology, Regional Rheumatoid & Degenerative Arthritis 
+Center, Chungnam National University Hospital , Daejeon, Republic of Korea.
+(4)Clinical Development, Celltrion, Co. Ltd , Incheon, Republic of Korea.
+(5)Division of Rheumatology, Inha University, School of Medicine , Incheon, 
+Republic of Korea.
+
+INTRODUCTION: CT-P10 is the first biosimilar of rituximab (RTX) for the 
+treatment of rheumatoid arthritis (RA). The application of valuable biosimilar 
+for the treatment of RA may decrease economic burden of society, and disease 
+activity of RA. Thus, it is worthwhile to identify the economic advantage and 
+further requirement for the proper use of CT-P10 in real world.
+AREAS COVERED: Literature searching was performed to identify suitable 
+references written in English for this review article. Rituximab, biosimilar, 
+CT-P10, and rheumatoid arthritis were used as keywords. Current state of RA 
+treatment, position of RTX in the recommendations for the treatment of RA, 
+current status of RTX biosimilar development were assessed before evaluating 
+CT-P10 itself. Physicochemical property, pharmacokinetic profile through phase I 
+to phase III studies, pharmacodynamics, toxicology data, clinical efficacy, and 
+safety were reviewed.
+EXPERT OPINION: As the first biosimilar to originator RTX, CT-P10 may be a 
+useful alternative for the treatment of RA in all indications for originator 
+RTX. In addition, more studies are required to identify long-term effectiveness 
+and safety of CT-P10 in real world. It is also important to find out new 
+indications of CT-P10 and effective mechanisms to lessen nocebo effect against 
+biosimilar including CT-P10.
+
+DOI: 10.1080/17425255.2020.1832082
+PMID: 33012214 [Indexed for MEDLINE]
+
+
+9. Fundam Clin Pharmacol. 2021 Dec;35(6):1090-1099. doi: 10.1111/fcp.12662. Epub 
+2021 Mar 15.
+
+Variability of rituximab and tocilizumab trough concentrations in patients with 
+rheumatoid arthritis.
+
+Truffot A(1), Gautier-Veyret E(2), Baillet A(3), Jourdil JF(1), Stanke-Labesque 
+F(2), Gottenberg JE(4).
+
+Author information:
+(1)Laboratoire de Pharmacologie, Pharmacogénétique et Toxicologie, CHU Grenoble 
+Alpes, Grenoble, France.
+(2)Inserm, CHU Grenoble Alpes, Univ. Grenoble Alpes, HP2, 38000, Grenoble, 
+France.
+(3)GREPI TIMC, CNRS UMR 5525, Univ. Grenoble Alpes, Grenoble, France.
+(4)Department of Rheumatology, National Reference Centre For Rare Systemic 
+Auto-Immune Diseases, Strasbourg University Hospital, University of Strasbourg, 
+IBMC, CNRS UPR 3572, Strasbourg, France.
+
+Patients with rheumatoid arthritis (RA) are eligible for treatment with 
+therapeutic monoclonal antibodies (mAbs) that target tumor necrosis factor α 
+(TNFα), as well as others, such as rituximab (RTX) and tocilizumab (TCZ). 
+Although pharmacokinetic variability and the link between concentration-clinical 
+response of anti-TNFα mAbs have been well-described, little is known about RTX 
+and TCZ. We aimed to evaluate the variability of RTX and TCZ serum 
+concentrations in RA patients treated in second-line and the relationship 
+between RTX/TCZ concentrations and the clinical response. Serum mAb trough 
+concentrations of RA patients treated with RTX (n = 35) or TCZ (n = 46) were 
+determined at week 24 by liquid chromatography-tandem mass spectrometry. The 
+clinical response was assessed at week 24 by the change in the disease activity 
+score in the 28 joints-erythrocyte sedimentation rate from baseline 
+(ΔDAS28-Erythrocyte Sedimentation Rate) and according to the European League 
+Against Rheumatism (EULAR) recommendations. RTX and TCZ trough concentrations 
+were highly variable, with a coefficient of variation of 171.3% for RTX (median 
+[10th-90th percentiles]: <1.0 µg/mL [<1.0-5.1]) and 132.6% for TCZ (median 
+[10th-90th percentiles]: 5.4 µg/mL [<1.0-27.8]). Univariate analysis did not 
+identify any determinants of such variability, except cotreatment with 
+methotrexate, which was associated with lower RTX concentrations (P = 0.03). The 
+response to treatment was not related to the RTX or TCZ trough concentration. 
+RTX and TCZ trough concentrations at 24 weeks were highly variable in RA 
+patients treated in the second line, without any link concentration-clinical 
+response having been demonstrated.
+
+© 2021 Société Française de Pharmacologie et de Thérapeutique.
+
+DOI: 10.1111/fcp.12662
+PMID: 33638167 [Indexed for MEDLINE]
+
+
+10. Expert Opin Biol Ther. 2025 Oct;25(10):1087-1099. doi: 
+10.1080/14712598.2025.2567868. Epub 2025 Sep 29.
+
+Efficacy and safety of rituximab in rheumatoid arthritis-associated interstitial 
+lung disease: a systematic review and meta-analysis.
+
+Ines M(1)(2), Zeineb Z(2)(3), Selma B(1)(2), Olfa S(1)(2), Leila R(1)(2), Rawdha 
+T(1)(2), Aicha BT(1)(2), Chadli D(2), Leila A(1)(2).
+
+Author information:
+(1)Department of Rheumatology, Charles Nicolle Hospital, Tunis, Tunisia.
+(2)University of Tunis El Manar, Tunis, Tunisia.
+(3)Department of Internal Medicine, Medenine Hospital, Medenine, Tunisia.
+
+OBJECTIVES: To assess the effectiveness and safety of Rituximab (RTX) treatment 
+among patients diagnosed with rheumatoid arthritis-associated interstitial lung 
+disease (RA-ILD).
+METHODS: We performed a systematic review with meta-analysis of studies 
+involving patients with RA-ILD who were treated with RTX. Two investigators 
+independently conducted the research.
+RESULTS: Twenty studies met the criteria for data extraction for the systematic 
+review with a good quality assessment according to an 18-criteria checklist 
+using a modified Delphi method. The total number of patients was 14,523, 
+including 1,619 who received RTX. Stabilization or improvement was observed in 
+more than half of the patients in all studies. Evaluation based on pulmonary 
+function tests (PFTs) noted disease progression in fewer than 20% of 7 out of 11 
+studies. Meta-analysis results revealed that, based on PFTs, the proportion of 
+patients showing functional decline was 14.5% (95%CI, 7.6-25.8%) (95%PI, 2-69%); 
+and according to the pulmonary high-resolution computed tomography (HRCT) 
+evaluation, the proportion of worsening was 19.5% (95%CI, 8.1-40%) (95%PI, 
+1-84%). An overall acceptable safety profile was noted, with respiratory 
+mortality ranging from 4% to 14%.
+CONCLUSION: Our review suggests that RTX appears to be an effective therapy in 
+patients with RA-ILD, with a satisfactory safety profile.
+PROTOCOL REGISTRATION: https://www.crd.york.ac.uk/prospero identifier is 
+CRD420251049957.
+
+DOI: 10.1080/14712598.2025.2567868
+PMID: 41004196 [Indexed for MEDLINE]
+
+
+11. Ann Pharmacother. 2005 Dec;39(12):2091-5. doi: 10.1345/aph.1G311. Epub 2005
+Oct  25.
+
+Rituximab treatment of refractory rheumatoid arthritis.
+
+Summers KM(1), Kockler DR.
+
+Author information:
+(1)Adult Internal Medicine Pharmacy Resident, Virginia Commonwealth University 
+Medical Center/Medical College of Virginia Hospitals, Richmond, 23298, USA.
+
+OBJECTIVE: To review published literature using rituximab for treatment of 
+refractory rheumatoid arthritis (RA).
+DATA SOURCES: An English-language literature search was conducted using MEDLINE 
+(1966-May 2005) and EMBASE (1980-May 2005). References of identified articles 
+were subsequently reviewed for additional data.
+DATA SYNTHESIS: Evidence suggests that B lymphocyte depletion in patients 
+suffering from refractory RA may be a key component in the interruption of the 
+disease pathogenesis. Successful depletion of B lymphocytes with rituximab in 
+patients with RA has been reported in case reports, open-label pilot studies, 
+and a randomized, double-blind, placebo-controlled trial.
+CONCLUSIONS: Based on the limited published data, rituximab, when used in 
+combination with other agents (ie, cyclophosphamide or methotrexate), appears to 
+be a reasonable treatment option for refractory RA. However, additional 
+controlled trials need to be conducted to further define optimal dosing, 
+response rates, comparative long-term efficacy, and RA treatment algorithm 
+placement of rituximab in this patient population.
+
+DOI: 10.1345/aph.1G311
+PMID: 16249269 [Indexed for MEDLINE]
+
+
+12. Reumatismo. 2010 Apr-Jun;62(2):101-6. doi: 10.4081/reumatismo.2010.101.
+
+Safety of rituximab in rheumatoid arthritis.
+
+Covelli M(1), Sarzi-Puttini P, Atzeni F, Macchioni P.
+
+Author information:
+(1)Azienda Ospedaliera Universitaria Policlinico, DIMIMP-Sezione di 
+Reumatologia, Università degli Studi di Bari, Italy. michelecovelli@virgilio.it
+
+Rheumatoid arthritis (RA) is a chronic disease that requires long-term 
+administration of immunomodulatory drugs with a greater risk of side effects 
+like malignancies, serious infections and cardiovascular diseases. Furthermore, 
+patients with RA are more prone than the general population to these 
+manifestations. Safety of rituximab has been evaluated in the short-term (6 
+months) and in the medium-term (up to 10 years) in patients who had been 
+previously treated with antagonists of tumor necrosis factor (a-TNF) and/or with 
+methotrexate (MTX) and in patients who were not. Data obtained from clinical 
+trials demonstrated that rituximab is well tolerated either after a single 
+course or after multiple courses. The overall rate of adverse events (AEs) was 
+stable after the first three courses. The most frequent adverse event was 
+infusion-related reactions (IRR). Serious infections did not increase after 
+multiple courses. Data from "real life" confirm that treatment with rituximab is 
+well tolerated.
+
+DOI: 10.4081/reumatismo.2010.101
+PMID: 20657886 [Indexed for MEDLINE]
+
+
+13. Rheumatol Int. 2022 Oct;42(10):1849-1854. doi: 10.1007/s00296-022-05166-5.
+Epub  2022 Jul 18.
+
+Methotrexate induced neurotoxicity in a patient with rheumatoid arthritis on 
+rituximab therapy: a case-based review.
+
+Kougkas N(1), Dara A(2), Pagkopoulou E(2), Dimitriadou A(3), Papadimitriou E(2), 
+Avdelidou E(3), Garyfallos A(2), Dimitroulas T(2).
+
+Author information:
+(1)Fourth Department of Internal Medicine, Medical School, Hippokration 
+University Hospital, Aristotle University of Thessaloniki, Thessaloniki, Greece. 
+nkougas@yahoo.gr.
+(2)Fourth Department of Internal Medicine, Medical School, Hippokration 
+University Hospital, Aristotle University of Thessaloniki, Thessaloniki, Greece.
+(3)Department of Neurology, Hippokration University Hospital, Thessaloniki, 
+Greece.
+
+Rheumatoid arthritis (RA) is a systemic inflammatory disease treated with 
+conventional and biologic disease-modifying drugs. Methotrexate is the anchor 
+drug for the treatment of RA and is also frequently used for various autoimmune 
+diseases. Adverse events are common and generally easy to manage, involving 
+mainly the gastrointestinal tract and the liver function. However, neurotoxicity 
+is very uncommon in adults with rheumatic diseases. B cell depletion with 
+rituximab is another therapy approach particularly in patients with refractory 
+RA. Whistle leukoencephalopathy - namely progressive multifocal 
+leukoencephalopathy-is an infrequent but well-described side effect of 
+rituximab. In contrast, central nervous system toxicity due to methotrexate is 
+extremely rare especially in RA individuals under oral or subcutaneous low dose 
+on weekly basis. We present a challenging case of a RA patient on treatment with 
+methotrexate and rituximab presenting with leukoencephalopathy. The patient was 
+diagnosed with methotrexate-induced leukoencephalopathy which reversed after 
+treatment discontinuation. We comment on the symptoms and diagnostic workout and 
+we review the available literature on this issue based on recommendations for 
+narrative reviews.
+
+© 2022. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00296-022-05166-5
+PMID: 35849191 [Indexed for MEDLINE]
+
+
+14. Ann N Y Acad Sci. 2009 Sep;1173:692-700. doi:
+10.1111/j.1749-6632.2009.04668.x.
+
+Long-term effects of rituximab in rheumatoid arthritis: clinical, biologic, and 
+pharmacogenetic aspects.
+
+Quartuccio L(1), Lombardi S, Fabris M, Masolini P, Saracco M, Pellerito R, De 
+Vita S.
+
+Author information:
+(1)Rheumatology Clinic, Azienda Ospedaliero-Universitaria S. Maria della 
+Misericordia, University of Udine, Udine, Italy. lucaquartuccio@interfree.it
+
+Rituximab selectively targets the B-cell compartment, including rheumatoid 
+factor-positive B cells. Short-term efficacy and safety of rituximab in 
+rheumatoid arthritis (RA) has been established by multicenter randomized 
+placebo-controlled studies. Results of long-term follow-up of the phase II/III 
+clinical trials have confirmed the efficacy and safety of repeated courses of 
+rituximab in the responders. However, mechanisms of action in humans, 
+retreatment regimens, biologic effects on memory B cells and on immunoglobulin 
+levels of prolonged exposure of the immune system to B-cell depletion over time, 
+and pharmacogenetic aspects remain open and intriguing issues of rituximab 
+therapy. Several studies are ongoing to clarify possible clinical and biologic 
+predictors of response to rituximab in RA and in other autoimmune diseases where 
+rituximab has been proven to be effective. Preliminary clinical and 
+pharmacogenetic results of our cohort of RA patients managed with rituximab from 
+the year 2000 are presented.
+
+DOI: 10.1111/j.1749-6632.2009.04668.x
+PMID: 19758217 [Indexed for MEDLINE]
+
+
+15. Rheumatol Int. 2024 Dec 18;45(1):2. doi: 10.1007/s00296-024-05759-2.
+
+Successful rituximab treatment in a seronegative rheumatoid arthritis patient 
+with concurrent cold agglutinin syndrome and immune thrombocytopenia.
+
+Suzuki K(1), Akiyama M(2), Takei H(2), Kaneko Y(2).
+
+Author information:
+(1)Division of Rheumatology, Department of Internal Medicine, Keio University 
+School of Medicine, 35 Shinanomachi, Shinjuku-ku, Tokyo, 160-8582, Japan. 
+ksuzuki0418@keio.jp.
+(2)Division of Rheumatology, Department of Internal Medicine, Keio University 
+School of Medicine, 35 Shinanomachi, Shinjuku-ku, Tokyo, 160-8582, Japan.
+
+Cold agglutinin disease, a subtype of cold-type autoimmune hemolytic anemia, is 
+referred to as cold agglutinin syndrome (CAS) when it develops secondary to 
+other conditions. Immune thrombocytopenia (ITP) is an autoimmune disorder 
+characterized by the peripheral destruction of platelets. While both CAS and ITP 
+can occur in patients with rheumatoid arthritis (RA), their concurrent 
+manifestation in a single patient has not been reported, leaving the optimal 
+treatment strategy for such a complex case unclear. Given that rituximab has 
+been reported to be effective in treating RA, CAS, and ITP, it may be a 
+promising treatment option for cases where these three conditions co-occur. We 
+present the first case of RA complicated by both CAS and ITP, where the patient 
+achieved complete remission with rituximab therapy. Furthermore, our review of 
+the literature identified three cases of CAS and three cases of ITP in RA 
+patients, all successfully treated with rituximab. These findings highlight the 
+potential efficacy of rituximab in managing this challenging and potentially 
+life-threatening combination of autoimmune diseases.
+
+© 2024. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00296-024-05759-2
+PMID: 39692788 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflict of interest: The authors 
+declare that they have no conflict of interest. Patient consent: The authors 
+obtained written informed consent from the patient for his medical information 
+to be published by this report. Patient consent form is retained by the authors.
+
+
+16. Z Rheumatol. 2023 Jan;82(Suppl 1):44-50. doi: 10.1007/s00393-021-01126-9.
+Epub  2021 Nov 10.
+
+The lessebo effect in randomized controlled trials of rituximab in patients with 
+rheumatoid arthritis: a meta-analysis.
+
+[Article in English]
+
+Sung YK(1), Lee YH(2)(3).
+
+Author information:
+(1)Department of Rheumatology, Hanyang University Hospital for Rheumatic 
+Diseases, Seoul, Korea (Republic of).
+(2)Department of Rheumatology, Korea University College of Medicine, Seoul, 
+Korea (Republic of). lyhcgh@korea.ac.kr.
+(3)Division of Rheumatology, Department of Internal Medicine, Korea University 
+Anam Hospital, Korea University College of Medicine, 73, Goryeodae-ro, 02841, 
+Seongbuk-gu, Seoul, Korea (Republic of). lyhcgh@korea.ac.kr.
+
+OBJECTIVE: The goal of this study was to assess the impact of negative 
+expectations associated with receiving a placebo (the lessebo effect) on 
+efficacy outcomes in randomized clinical trials (RCTs) of rituximab in patients 
+with rheumatoid arthritis (RA).
+METHODS: We performed a meta-analysis on the American College of Rheumatology 
+20%, 50%, and 70% (ACR20, 50, 70) response rates in the placebo and active 
+(biosimilar)-controlled groups (reference-pbo and reference-bs) of rituximab 
+showing an insufficient response to methotrexate or tumor necrosis factor. We 
+evaluated the difference in ACR20, 50, 70 response rates between the two groups 
+(reference-bs vs. reference-pbo).
+RESULTS: Nine RCTs included a total of 2734 patients with RA. The pooled 
+incidence of ACR20 response rate in the placebo- and active-controlled groups of 
+the rituximab RCTs for RA was 53.1% (95% confidence interval [CI] 49.9-56.3%) 
+and 75.0% (95% CI 71.2-78.4%), respectively. The difference in the ACR20 
+response rate between the placebo- and active-controlled groups was -20.9% (95% 
+CI -26.9 to 61.9%, p < 0.001). The pooled incidence of ACR50 response rate in 
+the placebo- and active-controlled groups of the rituximab RCTs for RA was 29.0% 
+(95% CI 26.2-32.0%) and 47.4% (95% CI 43.2-51.6%), respectively. The ACR50 
+response rates were significantly higher in the active-controlled groups than in 
+the placebo-controlled groups (-18.4%; 95% CI -18.4 to -13.4%, p < 0.001). The 
+difference in the ACR70 response rate between the placebo- and active-controlled 
+groups was -14.9% (95% CI -22.2 to -7.6%, p < 0.001). The ACR20, 50, 70 response 
+rates were significantly higher in the active-controlled groups than in the 
+placebo-controlled group.
+CONCLUSION: This study shows that the use of a placebo can be associated with 
+a clinically significant reduction in the magnitude of change of the ACR20, 50, 
+70 response rates in rituximab RCTs for RA. The lessebo effect has potential 
+implications for the development of new treatments and appraisal of current 
+treatment options for RA.
+
+Publisher: ZUSAMMENFASSUNG: ZIELSETZUNG: Ziel dieser Studie war es, den Einfluss 
+negativer Erwartungen, die mit dem Erhalt eines Placebos verbunden sind 
+(Lessebo-Effekt), auf die Ergebnisse von randomisierten klinischen Studien 
+(RCTs) zur Wirksamkeit von Rituximab bei Patienten mit rheumatoider Arthritis 
+(RA) zu untersuchen.
+METHODEN: Wir führten eine Metaanalyse der 20-, 50- und 70-prozentigen 
+ACR(American College of Rheumatology)-Ansprechraten (ACR20, 50, 70) in den 
+Placebo- und den aktiven (Biosimilar-)kontrollierten Gruppen (Referenz-pbo und 
+Referenz-bs) von Rituximab durch, die nicht ausreichend auf Methotrexat oder 
+Tumornekrosefaktor ansprachen. Wir bewerteten den Unterschied in den ACR20-, 
+-50- und -70-Ansprechraten zwischen den beiden Gruppen (Referenz-bs vs. 
+Referenz-pbo).
+ERGEBNISSE: Neun RCTs umfassten insgesamt 2734 RA-Patienten. Die gepoolte 
+Inzidenz der ACR20-Ansprechrate in den placebo- und aktiv kontrollierten Gruppen 
+der Rituximab-RCTs bei RA betrug 53,1% (95 %-Konfidenzintervall [95 %-KI] 
+49,9-56,3 %%) bzw. 75,0% (95 %-KI 71,2-78,4 %). Der Unterschied in der 
+ACR20-Ansprechrate zwischen der placebo- und der aktiv kontrollierten Gruppe 
+betrug -20,9 % (95 %-KI -26,9 bis 61,9 %, p < 0,001). Die gepoolte Inzidenz der 
+ACR50-Ansprechrate in der Placebo- und der aktiv kontrollierten Gruppe der 
+Rituximab-RCTs zur RA betrug 29,0 % (95 %-KI 26,2-32,0%) bzw. 47,4 % (95 %-KI 
+43,2–51,6 %). Die ACR50-Ansprechraten waren in den aktiv kontrollierten Gruppen 
+signifikant höher als in den placebokontrollierten Gruppen (‑18,4 %; 95 %-KI 
+-18,4 bis -13,4 %, p < 0,001). Der Unterschied bei der ACR70-Ansprechrate 
+zwischen der Placebo- und der aktiv kontrollierten Gruppe betrug -14,9 % 
+(95 %-KI -22,2 bis -7,6 %, p < 0,001). Die ACR20-, -50- und -70-Ansprechraten 
+waren in den aktiv kontrollierten Gruppen signifikant höher als in der 
+placebokontrollierten Gruppe.
+SCHLUSSFOLGERUNG: Diese Studie zeigt, dass die Verwendung eines Placebos mit 
+einer klinisch signifikanten Verringerung des Ausmaßes der Veränderung der 
+ACR20-, 50- und 70-Ansprechraten in Rituximab-RCTs bei RA verbunden sein kann. 
+Der Lessebo-Effekt hat potenzielle Implikationen für die Entwicklung neuer 
+Therapien und für die Bewertung aktueller Behandlungsoptionen für RA.
+
+© 2021. The Author(s), under exclusive licence to Springer Medizin Verlag GmbH, 
+ein Teil von Springer Nature.
+
+DOI: 10.1007/s00393-021-01126-9
+PMID: 34761312 [Indexed for MEDLINE]
+
+
+17. Int J Rheum Dis. 2019 Aug;22(8):1361-1370. doi: 10.1111/1756-185X.13596. Epub
+ 2019 May 17.
+
+Infection risks of rituximab versus non-rituximab treatment for rheumatoid 
+arthritis: A systematic review and meta-analysis.
+
+Shi Y(1)(2), Wu Y(1), Ren Y(2), Jiang Y(2), Chen Y(1).
+
+Author information:
+(1)Department of Respiration, The First Affiliated Hospital of Guangxi Medical 
+University, Nanning, China.
+(2)Department of Rheumatology, The Affiliated Hospital of Guilin Medical 
+University, Guilin, China.
+
+OBJECTIVE: The aim of this study was to assess the differences in infection 
+rates between rituximab (RTX) and non-RTX treatment in patients with rheumatoid 
+arthritis (RA).
+METHODS: A systematic review and meta-analysis was conducted by searching 
+databases of PubMed, MEDLINE, EMBASE, Web of Science and Cochrane Library 
+through to June 2018. We included studies that compared RTX and non-RTX 
+treatment for patients with RA. Outcome measures were overall infections and 
+serious infections between RTX and non-RTX treatments.
+RESULTS: A total of 11 articles, including 9502 patients (4595 with RTX 
+treatment and 4907 with non-RTX treatment) met our inclusion criteria. The 
+results demonstrated that RTX-related all infections and serious infections in 
+RA patients were 43.8% and 4.4%, respectively. Pooled analysis showed no 
+significant differences between RTX and non-RTX treatment groups in overall 
+infections rate (43.3% vs 44.9%; odds ratio [OR] = 0.87; 95% CI = 0.70-1.08) and 
+serious infections rate (4.1% vs 4.6%; OR = 1.05; 95% CI = 0.84-1.31). Subgroup 
+analysis also showed no significant differences in overall infections between 
+RTX versus placebo (OR = 0.98, 95% CI = 0.71-1.33); RTX versus tumor necrosis 
+factor inhibitors (TNFi) (OR = 0.47, 95% CI = 0.30-1.73); RTX plus methotrexate 
+(MTX) versus placebo plus MTX (OR = 0.98, 95% CI = 0.77-1.24), and in serious 
+infections between RTX versus placebo (OR = 1.06, 95% CI = 0.36-3.07); RTX 
+versus TNFi (OR = 1.25, 95% CI = 0.96-1.63); RTX plus MTX versus placebo plus 
+MTX (OR = 0.69, 95% CI = 0.39-1.20).
+CONCLUSION: In patients with RA, RTX treatment has no additional risks for 
+infections over non-RTX treatment.
+
+© 2019 Asia Pacific League of Associations for Rheumatology and John Wiley & 
+Sons Australia, Ltd.
+
+DOI: 10.1111/1756-185X.13596
+PMID: 31099191 [Indexed for MEDLINE]
+
+
+18. Autoimmun Rev. 2006 Aug;5(7):443-8. doi: 10.1016/j.autrev.2006.02.007. Epub
+2006  Mar 15.
+
+Treatment of rheumatoid arthritis with rituximab: an update and possible 
+indications.
+
+De Vita S(1), Quartuccio L.
+
+Author information:
+(1)Rheumatology Clinic, DPMSC, University of Udine, 33100 Udine, Italy. 
+salvatore.devita@med.uniud.it
+
+Based on new biologic and clinical insights, the number of drugs blocking 
+different biologic targets in rheumatoid arthritis (RA) [e.g., tumor necrosis 
+factor alpha (TNFalpha), CTLA4, interleukin (IL)-1, IL-6, IL-15, IL-18, B 
+lymphocyte stimulator (BLyS), CD20] has increased considerably over the last 
+decade. Rituximab, a chimeric monoclonal antibody that was developed for the 
+treatment of B-cell lymphomas, has been used in different autoimmune diseases 
+where B-cells are thought to play a pivotal role. However, blinded randomised 
+controlled trials have been completed only for RA so far, indicating the clear 
+efficacy of B-cell blockade in RA and highlighting the pathogenetic B-cell in 
+rheumatoid synovitis. The use of rituximab in RA is herein updated, from early 
+preliminary studies to more recent presentations in International Conferences. 
+Key clinical and biologic issues are discussed, i.e., efficacy and safety of 
+rituximab, role of concomitant therapies, use in the long term and retreatment 
+strategies, differences with anti-TNFalpha therapy. The possible indications in 
+RA are finally discussed, also on the ground of personal experience with 
+rituximab in RA and other rheumatic diseases associated with B-cell 
+lymphoproliferation. Further clinical research should go hand in hand with 
+laboratory research, and tissue studies are now needed.
+
+DOI: 10.1016/j.autrev.2006.02.007
+PMID: 16920570 [Indexed for MEDLINE]
+
+
+19. Orv Hetil. 2007 Oct 7;148(40):1883-93. doi: 10.1556/OH.2007.28080.
+
+[Rituximab in patients with rheumatoid arthritis: systematic review].
+
+[Article in Hungarian]
+
+Brodszky V(1), Czirják L, Géher P, Hodinka L, Kárpáti K, Péntek M, Poór G, 
+Szekanecz Z, Gulácsi L.
+
+Author information:
+(1)Budapesti Corvinus Egyetem, Közszolgálati Tanszék, Egészségügyi Gazdaságtani 
+és Technológiaelemzési Kutatóközpont, Budapest. 
+valentin.brodszky@uni-corvinus.hu
+
+INTRODUCTION: Biologic treatments are newly used in rheumatoid arthritis. Three 
+tumornecrosis factor alfa (TNF-alpha) inhibitors--adalimumab, etanercept and 
+infliximab--have been licensed for rheumatoid arthritis in Hungary. B-cell 
+targeted treatment with rituximab is the next biologic treatment. Rituximab was 
+used earlier for the treatment of non-Hodgkin's lymphoma. Rituximab was 
+registered to be used in patients with rheumatoid arthritis who have had an 
+inadequate response or an intolerance to one or more TNF-alpha blocking agents.
+AIM: Systematic review in the literature of efficacy of rituximab in rheumatoid 
+arthritis. To assess the efficacy and safety of rituximab treatment in patients 
+with rheumatoid arthritis.
+METHODS: MEDLINE and Cochrane database were searched for randomized controlled 
+trials with rituximab in rheumatoid arthritis. A meta-analysis of trial data was 
+conducted.
+RESULTS: Three randomized controlled trials were identified including 1145 
+patients. 54% of patients with inadequate response to TNF-alfa inhibitors and 
+severe disease-activity have reached American College of Rheumatology 20 
+criteria. This ratio is larger with 33% (95% CI, 25-41%) than without treatment, 
+and patients have almost five times (relative risk = 4.77 95% CI, 3.12-7.31) 
+chance to improve. Functional status represented by Health Assessment 
+Questionnaire score improves significantly (p < 0.001) in rituximab arms (-0.4 
+scores) compared with placebo arms (-0.1 scores). EULAR moderate and good 
+responses in the rituximab group were significant (p < 0.00001) compared with 
+the placebo group, rate difference is 38% (95% CI, 32-44%). Rituximab improves 
+also radiological symptoms of rheumatoid arthritis.
+CONCLUSIONS: New therapeutic options, rituximab is efficacious in patients with 
+rheumatoid arthritis. Rituximab can improve symptoms of patients with inadequate 
+response to or intolerance of TNF-alpha inhibitors.
+
+DOI: 10.1556/OH.2007.28080
+PMID: 17905683 [Indexed for MEDLINE]
+
+
+20. BioDrugs. 2019 Oct;33(5):469-483. doi: 10.1007/s40259-019-00376-z.
+
+Comparative Efficacy and Safety of Biosimilar Rituximab and Originator Rituximab 
+in Rheumatoid Arthritis and Non-Hodgkin's Lymphoma: A Systematic Review and 
+Meta-analysis.
+
+Lee S(1), Lee H(2), Kim E(3).
+
+Author information:
+(1)Department of Health, Social and Clinical Pharmacy, College of Pharmacy, 
+Chung-Ang University, 84, Heukseokro, Dongjak-gu, Seoul, 156-756, South Korea.
+(2)College of Pharmacy, Gachon University, Inchon, South Korea.
+(3)Department of Health, Social and Clinical Pharmacy, College of Pharmacy, 
+Chung-Ang University, 84, Heukseokro, Dongjak-gu, Seoul, 156-756, South Korea. 
+eykimjcb777@cau.ac.kr.
+
+BACKGROUND: Rituximab is a biologic medicine widely used for the treatment of 
+autoimmune diseases and lymphoma. Several biosimilars of rituximab have been 
+developed and marketed with the expiration of the originator rituximab's patent; 
+thus, systematic combination and analysis of the latest data on the efficacy and 
+safety of biosimilars and the demonstration of the interchangeability of 
+biosimilar agents are required.
+OBJECTIVE: The objective of this study was to collate available data from 
+head-to-head randomized controlled trials (RCTs) and evaluate the efficacy and 
+safety of biosimilar rituximab compared with the reference drug in patients with 
+rheumatoid arthritis (RA) and non-Hodgkin's lymphoma (NHL).
+METHODS: The PubMed, EMBASE, Cochrane Library, and Google Scholar databases were 
+searched to identify head-to-head RCTs that directly compare the efficacy and 
+safety of biosimilar rituximab and its originator. The efficacy outcome for RA 
+was the American College of Rheumatology (ACR) response rates and the outcome 
+for NHL was the response rate. The occurrence of adverse events (AEs) and 
+anti-drug antibodies (ADAs) were evaluated for the safety outcome. Data on the 
+pharmacokinetic profile were also included as a secondary outcome.
+RESULTS: Eleven head-to-head RCTs with 3163 patients were included (1744 
+patients with RA and 1419 patients with NHL). Biosimilars of rituximab showed 
+similar efficacy in the clinical response in both RA and NHL. The pooled risk 
+ratio (RR) of the ACR 20% response rate (ACR20) response in patients with RA at 
+weeks 24 and 48 was 0.99 (p = 0.70, 95% confidence interval [CI] 0.92-1.06) and 
+1.04 (p = 0.73, 95% CI 0.83-1.31), respectively. The pooled RR of the overall 
+response at week 24 in NHL patients was 1.02 (p = 0.31, 95% CI 0.98-1.07). No 
+significant differences were found in the formation of ADAs (RR 0.86, p = 0.20, 
+95% CI 0.68-1.08) or AEs (RR 1.04, p = 0.30, 95% CI 0.97-1.12).
+CONCLUSION: This systematic review and conventional meta-analysis demonstrated 
+the overall similarity of the long-term efficacy and safety of biosimilar 
+rituximab to those of originator rituximab in RA and NHL patients by combining 
+direct evidence from head-to-head trials. PROSPERO registration No. 
+CRD42019125138.
+
+DOI: 10.1007/s40259-019-00376-z
+PMID: 31446557 [Indexed for MEDLINE]
+
+
+21. Pharmacotherapy. 2007 Dec;27(12):1702-10. doi: 10.1592/phco.27.12.1702.
+
+Rituximab for the treatment of rheumatoid arthritis.
+
+Schuna AA(1).
+
+Author information:
+(1)Pharmacy Services, William S. Middleton VA Medical Center, University of 
+Wisconsin School of Pharmacy, Madison, Wisconsin 53705, USA. aaschuna@wisc.edu
+
+Rituximab has been approved by the United States Food and Drug Administration in 
+combination with methotrexate for the treatment of rheumatoid arthritis in 
+patients who failed to achieve adequate benefit from tumor necrosis factor-alpha 
+inhibitors. Rituximab is a biologic agent that depletes peripheral B cells--an 
+action thought to reduce rheumatoid arthritis activity--and induces prolonged 
+clinical improvement. Two 1000-mg infusions administered 2 weeks apart can 
+result in a response that lasts for months. Most patients will require 
+retreatment, but the effect of repeated dosing on patient outcomes has not yet 
+been determined. Combination therapy with methotrexate is recommended as this 
+appears to achieve the best outcomes. Rituximab also has been shown to be safe, 
+although the lack of long-term efficacy and safety data limit its use. More 
+studies are needed, but this agent has been demonstrated to be safe and 
+effective in patients who fail to achieve adequate clinical response to 
+methotrexate and tumor necrosis factor-alpha inhibitors.
+
+DOI: 10.1592/phco.27.12.1702
+PMID: 18041890 [Indexed for MEDLINE]
+
+
+22. Semin Arthritis Rheum. 2020 Oct;50(5):1109-1113. doi: 
+10.1016/j.semarthrit.2020.05.020. Epub 2020 Jun 16.
+
+Rituximab for rheumatoid arthritis-associated large granular lymphocytic 
+leukemia, a retrospective case series.
+
+Lobbes H(1), Dervout C(2), Toussirot E(3), Felten R(4), Sibilia J(5), Wendling 
+D(6), Gombert B(7), Ruivard M(8), Grobost V(8), Saraux A(9), Cornec D(9), 
+Verhoeven F(6), Soubrier M(10).
+
+Author information:
+(1)Internal medicine department, Estaing University Hospital, 1 place Lucie et 
+Raymond Aubrac, Clermont-Ferrand, France.. Electronic address: 
+hervelobbes@gmail.com.
+(2)Rheumatology Unit, Centre National de Référence des Maladies Auto-immunes 
+(CERAINO), Boulevard Tanguy Prigent, University Hospital, Brest, France.
+(3)INSERM Clinical Investigation Center Biotherapy CIC-1431, FHU INCREASE, 
+Rheumatology, University Hospital, 2 Place Saint Jacques, Besançon, France.
+(4)Rheumatology Department, University Hospital of Strasbourg, National 
+Reference Centre for Rare Systemic and Autoimmune Diseases East South-West 
+(RESO), Avenue Molière, Strasbourg, France.
+(5)Rheumatology Department, University Hospital of Strasbourg, National 
+Reference Centre for Rare Systemic and Autoimmune Diseases East South-West 
+(RESO), Avenue Molière, Strasbourg, France.; UMR 1109 INSERM, Strasbourg 
+University, 1 Place de l'hôpital, Strasbourg, France.
+(6)Rheumatology Department, University Hospital, 3 Boulevard A. Fleming, 
+Besançon, France; EA 4266, Université de Franche-Comté, Boulevard A. Fleming, 
+Besançon, France.
+(7)Department of Rheumatology, La Rochelle Hospital, La Rochelle, France.
+(8)Internal medicine department, Estaing University Hospital, 1 place Lucie et 
+Raymond Aubrac, Clermont-Ferrand, France.
+(9)Rheumatology Unit, Centre National de Référence des Maladies Auto-immunes 
+(CERAINO), Boulevard Tanguy Prigent, University Hospital, Brest, France.; UMR 
+1227, Lymphocytes B et auto-immunité, Université de Brest, Inserm, CHU Brest, 
+LabEx IGO, Boulevard Tanguy Prigent, Brest, France.
+(10)Rheumatology Department, University Hospital, 58 Rue Montalembert, 
+Clermont-Ferrand, France.
+
+OBJECTIVES: To assess the efficacy and tolerance profile of rituximab in 
+rheumatoid arthritis (RA)-associated large granular lymphocyte leukemia (LGLL).
+METHODS: Multicenter retrospective case series. Inclusion criteria were RA 
+defined by the ACR/EULAR 2010 criteria and LGLL defined by absolute LGL count ≥ 
+0.3 × 109/L with evidence of an expanded clonal LGL population (flow cytometry, 
+TCR-γ polymerase chain reaction, or Stat3 mutation).
+RESULTS: Fourteen patients (10 women, mean age 55.2 ± 14.2 years) included; 13 
+were seropositive for anti-cyclic citrullinated peptides (n = 11) or rheumatoid 
+factor (n = 10). LGLL diagnosis was made 9.5 [IQR: 3.25;15.5] years after RA 
+diagnosis. Thirteen patients had T-LGLL. Rituximab was the first-line therapy 
+for LGLL for 4 patients. Previous treatment lines included methotrexate (n = 7), 
+cyclophosphamide (n = 2), cyclosporin A (n = 1), or granulocyte 
+colony-stimulating factor (n = 4). Rituximab was used in monotherapy (n = 8) or 
+associated to methotrexate (n = 3), granulocyte colony-stimulating factor 
+(n = 2), or alkylating agents (n = 1). The number of rituximab cycles ranged 
+from 1 to 11 (median 6), with high heterogeneity in dosing regimens. Median 
+duration response after rituximab initiation was 35 [IQR: 23.5;41] months. The 
+overall response rate was 100%: 8 patients experienced complete response 
+(normalization of blood count and LGL ≤ 0.3 × 109/L) and 6 experienced partial 
+responses (improvement in blood counts without complete normalization). The 
+tolerance profile was good, with no infectious complications.
+CONCLUSION: rituximab appears as a valuable therapeutic option for RA-associated 
+LGLL.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.semarthrit.2020.05.020
+PMID: 32920324 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+reports no conflict of interest.
+
+
+23. Rheumatology (Oxford). 2024 Jan 4;63(1):e1-e2. doi: 
+10.1093/rheumatology/kead326.
+
+Hypogammaglobulinemia in rheumatoid arthritis patients on rituximab: prevalence 
+and risk factors.
+
+Opdam MAA(1)(2), Campisi LM(1), de Leijer JH(1), Ten Cate D(1), den Broeder 
+AA(1)(3).
+
+Author information:
+(1)Department of Rheumatology, Sint Maartenskliniek, Nijmegen, The Netherlands.
+(2)Radboud University Medical Center, Radboud Institute for Health Sciences, 
+Nijmegen, The Netherlands.
+(3)Department of Rheumatology, Radboudumc, Nijmegen, The Netherlands.
+
+DOI: 10.1093/rheumatology/kead326
+PMID: 37410082 [Indexed for MEDLINE]
+
+
+24. J Infect Dis. 2021 Aug 2;224(3):557-559. doi: 10.1093/infdis/jiab248.
+
+Prolonged Coronavirus Disease 2019 in a Patient With Rheumatoid Arthritis on 
+Rituximab Therapy.
+
+Aviv R(1), Weber A(1), Anzum T(2), Federbush M(2), Horowitz D(3)(4), Singas 
+E(1)(4).
+
+Author information:
+(1)Division of Pulmonary, Critical Care, and Sleep Medicine, Department of 
+Medicine, Northwell Health, Manhasset, New York, USA.
+(2)Department of Medicine, Northwell Health, Manhasset, New York, USA.
+(3)Division of Rheumatology, Department of Medicine, Northwell Health, 
+Manhasset, New York, USA.
+(4)Donald and Barbara Zucker School of Medicine at Hofstra/Northwell Health, 
+Hempstead, New York, USA.
+
+Comment in
+    J Infect Dis. 2021 Aug 2;224(3):559-561. doi: 10.1093/infdis/jiab249.
+
+Comment on
+    J Infect Dis. 2021 Aug 2;224(3):559-561. doi: 10.1093/infdis/jiab249.
+
+DOI: 10.1093/infdis/jiab248
+PMCID: PMC8135965
+PMID: 33964153 [Indexed for MEDLINE]
+
+
+25. Rheumatol Int. 2016 Sep;36(9):1291-300. doi: 10.1007/s00296-016-3484-5. Epub 
+2016 Apr 30.
+
+Rituximab as first choice for patients with refractory rheumatoid arthritis: 
+cost-effectiveness analysis in Iran based on a systematic review and 
+meta-analysis.
+
+Ahmadiani S(1), Nikfar S(2)(3), Karimi S(4), Jamshidi AR(5), Akbari-Sari A(6), 
+Kebriaeezadeh A(1).
+
+Author information:
+(1)Department of Pharmacoeconomics and Pharmaceutical Administration, and 
+Pharmaceutical Policy Research Center, School of Pharmacy, Tehran University of 
+Medical Sciences, Tehran, Iran.
+(2)Department of Pharmacoeconomics and Pharmaceutical Administration, and 
+Pharmaceutical Policy Research Center, School of Pharmacy, Tehran University of 
+Medical Sciences, Tehran, Iran. nikfar_sh@razi.tums.ac.ir.
+(3)Iran Food and Drug Administration, Fakhre-Razi St., Enghelab St, Tehran, 
+Iran. nikfar_sh@razi.tums.ac.ir.
+(4)Imam Khomeini Hospital, Tehran University of Medical Sciences, Tehran, Iran.
+(5)Rheumatology Research Center, Shariati Hospital, Tehran University of Medical 
+Sciences, Tehran, Iran.
+(6)Department of Health Management and Economics, School of Public Health, 
+Tehran University of Medical Sciences, Tehran, Iran.
+
+The aim of this study was to evaluate the effectiveness and cost-effectiveness 
+of using rituximab as first line for patients with refractory rheumatoid 
+arthritis in comparison with continuing conventional DMARDs, from a perspective 
+of health service governors. A systematic review was implemented through 
+searching PubMed, Scopus and Cochrane Library. Quality assessment was performed 
+by Jadad scale. After meta-analysis of ACR index results, QALY gain was 
+calculated through mapping ACR index to HAQ and utility index. To measure the 
+direct and indirect medical costs, a set of interviews with patients were 
+applied. Thirty-two patients were selected from three referral rheumatology 
+clinics in Tehran with definite diagnosis of refractory rheumatoid arthritis in 
+the year before and treatment regimen of either rituximab or DMARDs within last 
+year. Incremental cost-effectiveness ratio was calculated for base case and 
+scenario of generic rituximab. Threefold of GDP per capita was considered as 
+threshold of cost-effectiveness. Four studies were eligible to be considered in 
+this systematic review. Total risk differences of 0.3 for achieving ACR20 
+criteria, 0.21 for ACR50 and 0.1 for ACR70 were calculated. Also mean of total 
+medical costs of patients for 24 weeks were $3985 in rituximab group and $932 
+for DMARDs group. Thus, the incremental cost per QALY ratio will be 
+$45,900-$70,223 in base case and $32,386-$49,550 for generic scenario. Rituximab 
+for treatment of patients with refractory rheumatoid arthritis is not considered 
+as cost-effective in Iran in none of the scenarios.
+
+DOI: 10.1007/s00296-016-3484-5
+PMID: 27136919 [Indexed for MEDLINE]
+
+
+26. Rev Bras Reumatol Engl Ed. 2016 Nov-Dec;56(6):543-550. doi: 
+10.1016/j.rbre.2016.10.001. Epub 2016 Oct 27.
+
+Severe infection in patients with rheumatoid arthritis taking anakinra, 
+rituximab, or abatacept: a systematic review of observational studies.
+
+[Article in English, Portuguese]
+
+Cabral VP(1), Andrade CA(2), Passos SR(3), Martins MF(4), Hökerberg YH(3).
+
+Author information:
+(1)Fundação Oswaldo Cruz (Fiocruz), Instituto Nacional de Infectologia Evandro 
+Chagas (INI), Comissão de Controle de Infecção Hospitalar, Rio de Janeiro, RJ, 
+Brazil.
+(2)Fundação Oswaldo Cruz (Fiocruz), Instituto Nacional de Infectologia Evandro 
+Chagas (INI), Laboratório de Epidemiologia Clínica, Rio de Janeiro, RJ, Brazil. 
+Electronic address: carlosandrade07@gmail.com.
+(3)Fundação Oswaldo Cruz (Fiocruz), Instituto Nacional de Infectologia Evandro 
+Chagas (INI), Laboratório de Epidemiologia Clínica, Rio de Janeiro, RJ, Brazil.
+(4)Fundação Oswaldo Cruz (Fiocruz), Instituto de Comunicação e Informação 
+Científica e Tecnológica em Saúde, Rio de Janeiro, RJ, Brazil.
+
+A question is raised about an increased risk of severe infection from the use of 
+biological drugs in patients with rheumatoid arthritis. This systematic review 
+of observational studies aimed at assessing the risk of severe infection 
+associated with the use of anakinra, rituximab, and abatacept in patients with 
+rheumatoid arthritis. The following databases were searched: PubMed, Science 
+Direct, Scopus, Web of Knowledge, Scirus, Cochrane, Exerpta Medica Database, 
+Scielo, and Lilacs up to July 2010. Severe infections were defined as those 
+life-threatening ones in need of the use of parenteral antibiotics or of 
+hospitalization. Longitudinal observational studies were selected without 
+language restriction, involving adult patients diagnosed with rheumatoid 
+arthritis and who used anakinra, rituximab, or abatacept. In four studies 
+related to anakinra, 129 (5.1%) severe infections were related in 2896 patients, 
+of which three died. With respect to rituximab, two studies reported 72 (5.9%) 
+severe infections in 1224 patients, of which two died. Abatacept was evaluated 
+in only one study in which 25 (2.4%) severe infections were reported in 1046 
+patients. The main site of infection for these three drugs was the respiratory 
+tract. One possible explanation for the high frequency of severe infections 
+associated with anakinra may be the longer follow-up time in the selected 
+studies. The high frequency of severe infections associated with rituximab could 
+be credited to the less strict inclusion criteria for the patients studied. 
+Therefore, infection monitoring should be cautious in patients with rheumatoid 
+arthritis in use of these three drugs.
+
+Copyright Â© 2016. Published by Elsevier Editora Ltda.
+
+DOI: 10.1016/j.rbre.2016.10.001
+PMID: 27914602 [Indexed for MEDLINE]
+
+
+27. N Engl J Med. 2004 Oct 28;351(18):1909; author reply 1909. doi: 
+10.1056/NEJM200410283511820.
+
+Rituximab for rheumatoid arthritis.
+
+Okamoto H, Kamatani N.
+
+Comment on
+    N Engl J Med. 2004 Jun 17;350(25):2572-81. doi: 10.1056/NEJMoa032534.
+
+DOI: 10.1056/NEJM200410283511820
+PMID: 15509828 [Indexed for MEDLINE]
+
+
+28. Int J Rheum Dis. 2023 Nov;26(11):2240-2247. doi: 10.1111/1756-185X.14920.
+Epub  2023 Sep 13.
+
+Effectiveness and safety of rituximab in special types of rheumatoid arthritis.
+
+Takanashi S(1), Kondo Y(1), Saito S(1), Kikuchi J(1), Hanaoka H(1), Takeuchi 
+T(1), Kaneko Y(1).
+
+Author information:
+(1)Division of Rheumatology, Department of Internal Medicine, Keio University 
+School of Medicine, Tokyo, Japan.
+
+OBJECTIVES: To elucidate the efficacy and safety of rituximab in special types 
+of rheumatoid arthritis.
+METHODS: We retrospectively reviewed all patients with rheumatoid arthritis with 
+lymphoproliferative disorder or vasculitis treated with rituximab between April 
+2010 and June 2022 at Keio University Hospital. We assessed the effectiveness of 
+rituximab using the Disease Activity Score for 28 joints-erythrocyte 
+sedimentation rate (DAS28-ESR), Clinical Disease Activity Index (CDAI), and 
+safety of rituximab during the disease course. We also assessed the 
+glucocorticoid-sparing effects of rituximab.
+RESULTS: We included eight patients with a history of lymphoproliferative 
+disorder and five patients with rheumatoid vasculitis. They were treated with 
+rituximab without high-dose glucocorticoid. The mean DAS28-ESR and CDAI scores 
+significantly improved 12 months after rituximab administration (DAS28-ESR, 4.7 
+vs. 2.7, p < .001; CDAI, 16.0 vs. 5.1, p = .006, respectively), and the dose of 
+prednisolone was reduced from a mean of 7.4 mg/day to 4.0 mg/day at 12 months 
+(p = .05) and 3.2 mg/day at the last visit (p = .04). During the mean follow-up 
+period of 52 months, we recorded one recurrence of lymphoproliferative disorder 
+(not B-cell type) in patients with a history of lymphoproliferative disorder and 
+remarkable improvement of skin ulcers in patients with vasculitis.
+CONCLUSION: B-cell depletion by rituximab may be a useful treatment option for 
+patients with lymphoproliferative disorder and rheumatoid vasculitis.
+
+© 2023 The Authors. International Journal of Rheumatic Diseases published by 
+Asia Pacific League of Associations for Rheumatology and John Wiley & Sons 
+Australia, Ltd.
+
+DOI: 10.1111/1756-185X.14920
+PMID: 37705311 [Indexed for MEDLINE]
+
+
+29. Joint Bone Spine. 2008 Oct;75(5):526-32. doi: 10.1016/j.jbspin.2008.02.009.
+Epub  2008 Jun 20.
+
+Rituximab: a new therapeutic alternative in rheumatoid arthritis.
+
+Sibilia J(1), Gottenberg JE, Mariette X.
+
+Author information:
+(1)Service de Rhumatologie, CHU Strasbourg, Centre National de Référence des 
+Maladies Auto-immunes Systémiques Rares, Strasbourg, France. 
+jean.sibilia@wanadoo.fr
+
+Rituximab is a chimeric anti-CD20 monoclonal antibody targeting B cells, which 
+play numerous pathogenic roles in rheumatoid arthritis (RA). This review 
+summarises the results of three controlled studies using rituximab in RA and the 
+data regarding tolerance and repeated treatment in 1053 patients included in the 
+clinical studies. These studies demonstrated the efficacy of rituximab in 
+patients with RA, including those who had been unresponsive or intolerant to one 
+or more TNF inhibitor therapies. Rituximab was globally well-tolerated. The 
+current informations on the efficacy and the tolerance of rituximab led us to 
+propose recommendations for the screening of patients, the use of rituximab, and 
+the follow-up of patients. A longer follow-up duration and data from off-trial 
+patients, included in registries, are now required.
+
+DOI: 10.1016/j.jbspin.2008.02.009
+PMID: 18571968 [Indexed for MEDLINE]
+
+
+30. Rheumatol Int. 2021 Feb;41(2):463-468. doi: 10.1007/s00296-020-04706-1. Epub 
+2020 Oct 1.
+
+Rituximab as a treatment option in a patient with rheumatoid arthritis and a 
+history of malignancy-intracranial chondrosarcoma/osteochondroma-case based 
+review.
+
+Barešić M(1), Ježić I(2), Simetić L(3), Herceg D(3), Anić B(1).
+
+Author information:
+(1)Division of Clinical Immunology and Rheumatology, Department of Internal 
+Medicine, University of Zagreb, School of Medicine, University Hospital Center 
+Zagreb, Zagreb, Croatia.
+(2)Division of Clinical Immunology and Rheumatology, Department of Internal 
+Medicine, University of Zagreb, School of Medicine, University Hospital Center 
+Zagreb, Zagreb, Croatia. jezic.ivana02@gmail.com.
+(3)Department of Oncology, University of Zagreb, School of Medicine, University 
+Hospital Center Zagreb, Zagreb, Croatia.
+
+When compared to general population, patients with rheumatoid arthritis are at 
+higher risk of some malignancies (especially lymphomas and lung cancer). Genetic 
+predisposition, chronic inflammatory stimuli and viral infections are some of 
+the reasons untreated patients are at higher risk. Clinical studies and 
+national/international registries collect the data about the malignancies with 
+higher incidence (such as lung, skin and breast cancer) but on the other hand, 
+malignancies with lower incidence (such as sarcomas) are rarely reported. We 
+report a case of a 47-year-old male with a history of a malignant intracranial 
+chondrosarcoma/osteochondroma who developed seropositive rheumatoid arthritis. 
+Due to progression of erosions, the patient was initialy treated with 
+conventional synthetic Disease-Modifying Antirheumatic Drugs (csDMARDs) and 
+later on with rituximab. The patient's rheumatoid arthritis went and remained in 
+remission on maintenance therapy with rituximab (every 6-8 months) and low-dose 
+methotrexate with no relapse of malignant intracranial 
+chondrosarcoma/osteochondroma. Rituximab should be considered as a treatment 
+option in patients with rare and agressive malignancies, such as sarcomas.
+
+DOI: 10.1007/s00296-020-04706-1
+PMID: 33001390 [Indexed for MEDLINE]

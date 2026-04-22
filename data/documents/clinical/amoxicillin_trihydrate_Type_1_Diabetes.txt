@@ -1,0 +1,68 @@
+Trial: NCT01654549
+Title: Helicobacter Pylori Eradication in Non-diabetic Non-alcoholic Steatohepatitis
+Phase: PHASE2
+Status: COMPLETED
+Summary: The aim of study was to evaluate the effect of helicobacter pylori eradication on liver fat content, liver function tests, lipid profile, homeostasis model assessment-IR (HOMA-IR) index, and anthropometric measurements (body mass index and waist circumference)in non-diabetic subjects with non-alcoholic fatty liver disease.
+---
+Trial: NCT03975790
+Title: Comparative Analysis of Outcomes Among Patients Initiating Xeljanz in Combination With Oral MTX Who Withdraw MTX Versus Continue MTX
+Phase: NA
+Status: COMPLETED
+Summary: To address the objectives, a retrospective cohort design will be employed to evaluate patient characteristics, treatment patterns, medication effectiveness, and health care cost and utilization in RA patients newly initiating tofacitinib in combination with oral methotrexate (MTX)
+---
+Trial: NCT01712711
+Title: Helicobacter Pylori Eradication in Diabetic Subjects With Non-alcoholic Fatty Liver Disease
+Phase: PHASE2
+Status: COMPLETED
+Summary: The aim of study was to evaluate the effect of helicobacter pylori eradication on liver fat content, liver function tests, lipid profile, homeostasis model assessment-IR (HOMA-IR) index, and anthropometric measurements (body mass index and waist circumference)in diabetic subjects with non-alcoholic fatty liver disease.
+---
+Trial: NCT00402727
+Title: Comparison of Sequential IV/PO Moxifloxacin With IV Piperacillin/Tazobactam Followed by PO Amoxicillin/Clavulanic Acid in Patients With a Complicated Skin and Skin Structure Infection
+Phase: PHASE3
+Status: COMPLETED
+Summary: Patients, who are considered suitable by their physicians to take part in this research, will have a physical examination (including an Electrocardiogram (ECG)), blood and urine samples taken, as well as a sample of the secretions or tissue around their infection site. In addition, the site of the infection will be photographed. The patients will be randomly assigned one of the treatments: intrave
+---
+Trial: NCT03273296
+Title: Effect of Antibiotics on Gut Microbiome and Plasma Metabolome
+Phase: PHASE4
+Status: COMPLETED
+Summary: In recent years it has been observed that the gut microbiome can produce metabolites into systemic circulation and thus have important health effects even outside the gastrointestinal system. These metabolites may play a role in the pathogenesis of common public health problems such as diabetes, obesity and cardiovascular disorders. Modern techniques of mass spectrometry-based metabolomics from pe
+---
+Trial: NCT01046435
+Title: Effects of Periodontal Therapy on Systemic Inflammation
+Phase: NA
+Status: COMPLETED
+Summary: The purpose of this study is to determine if treating periodontal infections (gum disease) will reduce markers of systemic inflammation in patients at risk of cardiovascular diseases.
+---
+Trial: NCT02018094
+Title: The Amputation Surgical Site Infection Trial (ASSIT)
+Phase: PHASE4
+Status: COMPLETED
+Summary: * Lower limb amputations are performed usually as a last resort in patients with acute and chronic limb ischaemia (CLI) caused by vascular disease, poorly controlled diabetes or, infection.
+* In the period 2003-2008 there were approximately 5,000 amputations per year in the UK.
+* The Centre for Disease Control defines a Surgical Site Infection (SSI) as an infection within 30 days of an operation o
+---
+Trial: NCT04613375
+Title: PCV13 Effectiveness Study Against Hospitalised VT Pneumococcal CAP in Adults 60 Years and Older
+Phase: NA
+Status: COMPLETED
+Summary: Low interventional, prospective, multicentre, hospital-based study involving adults 60 years of age and older hospitalised with CAP at participating sites.
+---
+Trial: NCT02135952
+Title: Metronidazole and Amoxicillin for the Treatment of Type 2 Diabetic Subjects With Periodontitis
+Phase: PHASE4
+Status: UNKNOWN
+Summary: Diabetes mellitus (DM) is a widely prevalent disease associated with several major systemic and oral complications, such as periodontitis. The use of adjunctive local and/or systemic antimicrobials has been proposed to improve the clinical and glycemic outcomes of the scaling and root planing (SRP) in diabetic subjects. The combination of metronidazole (MTZ) and amoxicillin (AMX) has been largely 
+---
+Trial: NCT01951768
+Title: Efficacy and Safety of Garamycin® Sponge in Diabetic Patients With a Moderate or Severe Foot Ulcer Infection
+Phase: PHASE4
+Status: COMPLETED
+Summary: The purpose of this study is to determine whether Garamycin Sponge (Gentamicin-Collagen sponge) in combination with antibiotics is safe and effective in treating moderate and severe diabetic foot infections.
+---
+Trial: NCT03374176
+Title: Efficacy of Amoxicillin-metronidazole Compared to Clindamycin in Patients With Periodontitis and Diabetes
+Phase: PHASE3
+Status: COMPLETED
+Summary: Periodontitis is an inﬂammation of the supporting structures of the teeth, usually caused by speciﬁc or groups of microorganisms that results in the progressive destruction of the periodontal ligament and alveolar bone. the objective of periodontitis treatment is to reduce the number of periodontal pathogens. However, there is not an agreement in the use of systemic antibiotics in patients with di
+---

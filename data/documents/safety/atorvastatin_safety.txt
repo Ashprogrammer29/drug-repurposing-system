@@ -1,0 +1,62 @@
+Reaction: Chronic obstructive pulmonary disease | Outcome: 6
+Reaction: Emphysema | Outcome: 6
+Reaction: Bronchitis | Outcome: 6
+Reaction: Dyspnoea | Outcome: 6
+Reaction: Stress | Outcome: 6
+Reaction: Anxiety | Outcome: 6
+Reaction: Rash | Outcome: 6
+Reaction: Dyspnoea | Outcome: 6
+Reaction: Blood count abnormal | Outcome: 6
+Reaction: Platelet count decreased | Outcome: 1
+Reaction: Headache | Outcome: 3
+Reaction: Drug effect incomplete | Outcome: 3
+Reaction: Skin discolouration | Outcome: 1
+Reaction: Rash | Outcome: 1
+Reaction: Thrombotic microangiopathy | Outcome: 5
+Reaction: Renal impairment | Outcome: 5
+Reaction: Hepatic failure | Outcome: 5
+Reaction: Mental status changes | Outcome: 5
+Reaction: Stem cell transplant | Outcome: 5
+Reaction: Graft versus host disease | Outcome: 5
+Reaction: Fatigue | Outcome: 3
+Reaction: Drug administration error | Outcome: 6
+Reaction: Renal impairment | Outcome: 1
+Reaction: Hyperkalaemia | Outcome: 1
+Reaction: Iron deficiency anaemia | Outcome: 6
+Reaction: Chronic gastritis | Outcome: 6
+Reaction: Mental status changes | Outcome: 1
+Reaction: Grand mal convulsion | Outcome: 1
+Reaction: Postictal state | Outcome: 1
+Reaction: Neuropathy peripheral | Outcome: 4
+Reaction: Muscle spasms | Outcome: 4
+Reaction: Myopathy | Outcome: 4
+Reaction: Sleep disorder | Outcome: 4
+Reaction: Blood glucose increased | Outcome: 4
+Reaction: Dyspnoea | Outcome: 1
+Reaction: Throat tightness | Outcome: 2
+Reaction: Cerebrovascular accident | Outcome: 6
+Reaction: Weight increased | Outcome: 2
+Reaction: Withdrawal syndrome | Outcome: 6
+Reaction: Drug hypersensitivity | Outcome: 6
+Reaction: Rash | Outcome: 6
+Reaction: Haematuria | Outcome: 6
+Reaction: Pyrexia | Outcome: 6
+Reaction: Myalgia | Outcome: 6
+Reaction: Urinary tract infection | Outcome: 6
+Reaction: Angiopathy | Outcome: 6
+Reaction: Hearing impaired | Outcome: 6
+Reaction: Cardiac stress test abnormal | Outcome: 2
+Reaction: Arteriogram coronary abnormal | Outcome: 2
+Reaction: Weight decreased | Outcome: 3
+Reaction: Dysgeusia | Outcome: 3
+Reaction: Vomiting | Outcome: 1
+Reaction: Diplopia | Outcome: 1
+Reaction: Gait disturbance | Outcome: 1
+Reaction: Balance disorder | Outcome: 1
+Reaction: Dyspnoea | Outcome: 1
+Reaction: Gastroenteritis | Outcome: 1
+Reaction: Dizziness | Outcome: 1
+Reaction: Glucose tolerance impaired | Outcome: 3
+Reaction: Type 2 diabetes mellitus | Outcome: 3
+Reaction: Cataract | Outcome: 6
+Reaction: Type 2 diabetes mellitus | Outcome: 6

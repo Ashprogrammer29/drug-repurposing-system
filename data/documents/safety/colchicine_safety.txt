@@ -1,0 +1,96 @@
+Reaction: Weight increased | Outcome: 6
+Reaction: Oedema peripheral | Outcome: 6
+Reaction: Fluid retention | Outcome: 6
+Reaction: Malaise | Outcome: 6
+Reaction: Night sweats | Outcome: 6
+Reaction: Abdominal pain | Outcome: 6
+Reaction: Disease progression | Outcome: 
+Reaction: No therapeutic response | Outcome: 6
+Reaction: Thrombocytopenia | Outcome: 1
+Reaction: Petechiae | Outcome: 6
+Reaction: Petechiae | Outcome: 6
+Reaction: Thrombocytopenia | Outcome: 1
+Reaction: Intra-abdominal haematoma | Outcome: 6
+Reaction: Cough | Outcome: 3
+Reaction: Muscle spasms | Outcome: 3
+Reaction: Muscle twitching | Outcome: 3
+Reaction: Diarrhoea | Outcome: 3
+Reaction: Dizziness | Outcome: 3
+Reaction: Feeling abnormal | Outcome: 3
+Reaction: Arthralgia | Outcome: 3
+Reaction: Myalgia | Outcome: 3
+Reaction: Asthenia | Outcome: 3
+Reaction: Nausea | Outcome: 3
+Reaction: Fatigue | Outcome: 3
+Reaction: Depression | Outcome: 3
+Reaction: Drug prescribing error | Outcome: 6
+Reaction: Intentional overdose | Outcome: 5
+Reaction: Multi-organ failure | Outcome: 5
+Reaction: Suicide attempt | Outcome: 5
+Reaction: Gastrointestinal haemorrhage | Outcome: 6
+Reaction: Drug interaction | Outcome: 6
+Reaction: Rash | Outcome: 1
+Reaction: Insomnia | Outcome: 6
+Reaction: Hypersomnia | Outcome: 3
+Reaction: Bone pain | Outcome: 6
+Reaction: Anaemia | Outcome: 6
+Reaction: Neck pain | Outcome: 3
+Reaction: Musculoskeletal stiffness | Outcome: 3
+Reaction: Bone pain | Outcome: 3
+Reaction: Platelet count decreased | Outcome: 2
+Reaction: Anaemia | Outcome: 2
+Reaction: Insomnia | Outcome: 6
+Reaction: Dyspnoea | Outcome: 
+Reaction: Cyanosis | Outcome: 6
+Reaction: Fatigue | Outcome: 6
+Reaction: Haemorrhage | Outcome: 2
+Reaction: Cystitis | Outcome: 1
+Reaction: Kidney infection | Outcome: 1
+Reaction: Nephrolithiasis | Outcome: 1
+Reaction: Ear infection | Outcome: 3
+Reaction: Drug ineffective | Outcome: 1
+Reaction: Anaemia | Outcome: 
+Reaction: Melaena | Outcome: 
+Reaction: Renal failure acute | Outcome: 
+Reaction: Hypoglycaemia | Outcome: 
+Reaction: Hepatic failure | Outcome: 
+Reaction: Metabolic acidosis | Outcome: 
+Reaction: Hepatitis acute | Outcome: 
+Reaction: Pancreatitis | Outcome: 
+Reaction: Gastrointestinal haemorrhage | Outcome: 
+Reaction: Pancytopenia | Outcome: 
+Reaction: Coagulopathy | Outcome: 
+Reaction: Multi-organ failure | Outcome: 
+Reaction: Overdose | Outcome: 
+Reaction: Poisoning | Outcome: 
+Reaction: Vomiting | Outcome: 
+Reaction: Diarrhoea | Outcome: 
+Reaction: Abdominal pain | Outcome: 
+Reaction: Headache | Outcome: 
+Reaction: Exposure via ingestion | Outcome: 
+Reaction: Completed suicide | Outcome: 
+Reaction: Intentional self-injury | Outcome: 
+Reaction: Nausea | Outcome: 3
+Reaction: Depression | Outcome: 3
+Reaction: Cough | Outcome: 3
+Reaction: Arthralgia | Outcome: 3
+Reaction: Fatigue | Outcome: 3
+Reaction: Asthenia | Outcome: 3
+Reaction: Diarrhoea | Outcome: 3
+Reaction: Muscle spasms | Outcome: 3
+Reaction: Dizziness | Outcome: 3
+Reaction: Feeling abnormal | Outcome: 3
+Reaction: Drug prescribing error | Outcome: 6
+Reaction: Myalgia | Outcome: 3
+Reaction: Muscle twitching | Outcome: 3
+Reaction: Cardiac failure congestive | Outcome: 1
+Reaction: Cardiac failure congestive | Outcome: 1
+Reaction: Cardiac failure congestive | Outcome: 2
+Reaction: Tuberculosis | Outcome: 2
+Reaction: Joint tuberculosis | Outcome: 2
+Reaction: Hepatic failure | Outcome: 5
+Reaction: Tuberculosis | Outcome: 6
+Reaction: Liver disorder | Outcome: 6
+Reaction: Drug abuse | Outcome: 6
+Reaction: Hepatitis cholestatic | Outcome: 1
+Reaction: Pancreatitis | Outcome: 1

@@ -1,0 +1,1430 @@
+1. Urologiia. 2023 Sep;(4):46-52.
+
+[Efficacy of Sildenafil oral spray for the treatment of erectile dysfunction in 
+patients with type 2 diabetes mellitus and prediabetes].
+
+[Article in Russian]
+
+Korenkov DG(1)(2)(3)(4), Tumanov DV(1)(2)(3)(4), Kuprin NI(1)(2)(3)(4).
+
+Author information:
+(1)FGBOU VO North-Western State Medical University named after I.I. Mechnikov, 
+Saint Petersburg, Russia.
+(2)Clinic Medexpert, Saint Petersburg, Russia.
+(3)Network of Clinics Medica, Saint Petersburg, Russia.
+(4)North-West Public Health Research Center, Saint-Petersburg, Russia.
+
+AIM: To evaluate the results of using Sildenafil in the form of an oral spray 
+(Gent) for the treatment of erectile dysfunction (ED) in men with type 2 
+diabetes mellitus (DM) and prediabetes.
+MATERIAL AND METHODS: A total of 60 patients were divided into two groups of 30 
+people. The group 1 included patients with prediabetes, while group 2 consisted 
+of patients with type 2 DM. All men had proven ED. The severity of ED was 
+assessed using the International Index of Erectile Function (IIEF-5). To assess 
+the state of penile blood flow, all patients underwent Doppler ultrasound before 
+and after treatment. Patients with prediabetes used Sildenafil in the form of 
+oral spray (Gent) 25 mg (2 doses) 1 time per day for 1 month, patients with type 
+2 diabetes received 50 mg (4 injections) every other day for 1 month. In 
+addition, most of the subjects took metformin and followed diet therapy.
+RESULTS: In patients of both groups, the administration of Sildenafil oral spray 
+led to a decrease in body weight, waist circumference, a decrease in insulin and 
+Hemoglobin A1C level without changing of hypoglycemic therapy in those with type 
+2 DM. In men with prediabetes, a decrease in fasting insulin levels was found. 
+During treatment, half of the persons with impaired glucose metabolism had an 
+increase in the testosterone level. According to IIEF-5, a decrease in the 
+severity of ED in both groups of patients was seen. In men with prediabetes, the 
+average IIEF-5 score increased from 15.98 to 21.57 points (p<0.05), while in 
+patients with type 2 DM it improved from 12.18 to 18.44 points (p<0.05). Doppler 
+ultrasound indicated a significant increase in the maximum systolic blood flow 
+velocity and arterial resistivity index after treatment with Sildenafil oral 
+spray in patients with both prediabetes and type 2 diabetes.
+CONCLUSION: Sildenafil oral spray can be effectively used for the treatment of 
+ED in men with type 2 DM and prediabetes.
+
+PMID: 37850280 [Indexed for MEDLINE]
+
+
+2. Heart Rhythm. 2026 Jan;23(1):e49-e61. doi: 10.1016/j.hrthm.2025.08.032. Epub 
+2025 Aug 25.
+
+Myocardial PKG1α dysregulation contributes to ventricular tachycardia 
+pathogenesis in type 2 diabetes and metabolic syndrome.
+
+Cao X(1), Zhang Y(1), Tripp A(1), Steinhauer R(2), Liu PW(3), Aronovitz MJ(4), 
+Martin GL(4), Wang B(4), Alissa A(5), Aljuaid M(5), Ho J(6), Phan T(6), Madias 
+C(7), Blanton RM(8), Galper JB(9).
+
+Author information:
+(1)Molecular Cardiology Research Institute, Tufts Medical Center, Boston, 
+Massachusetts; Tufts University School of Medicine, Boston, Massachusetts.
+(2)Department of Medicine, Tufts Medical Center, Boston, Massachusetts.
+(3)Molecular Cardiology Research Institute, Tufts Medical Center, Boston, 
+Massachusetts; Graduate School of Biomedical Sciences, Tufts University, Boston, 
+Massachusetts.
+(4)Molecular Cardiology Research Institute, Tufts Medical Center, Boston, 
+Massachusetts.
+(5)Division of Cardiology, Department of Medicine, Tufts Medical Center, Boston, 
+Massachusetts.
+(6)Tufts University School of Medicine, Boston, Massachusetts.
+(7)Tufts University School of Medicine, Boston, Massachusetts; Department of 
+Medicine, Tufts Medical Center, Boston, Massachusetts; Division of Cardiology, 
+Department of Medicine, Tufts Medical Center, Boston, Massachusetts.
+(8)Molecular Cardiology Research Institute, Tufts Medical Center, Boston, 
+Massachusetts; Tufts University School of Medicine, Boston, Massachusetts; 
+Department of Medicine, Tufts Medical Center, Boston, Massachusetts; Graduate 
+School of Biomedical Sciences, Tufts University, Boston, Massachusetts; Division 
+of Cardiology, Department of Medicine, Tufts Medical Center, Boston, 
+Massachusetts. Electronic address: robert.blanton@tuftsmedicine.org.
+(9)Molecular Cardiology Research Institute, Tufts Medical Center, Boston, 
+Massachusetts; Tufts University School of Medicine, Boston, Massachusetts; 
+Department of Medicine, Tufts Medical Center, Boston, Massachusetts; Division of 
+Cardiology, Department of Medicine, Tufts Medical Center, Boston, Massachusetts. 
+Electronic address: jonas.galper@tuftsmedicine.org.
+
+Update of
+    bioRxiv. 2025 Feb 17:2025.02.12.638003. doi: 10.1101/2025.02.12.638003.
+
+BACKGROUND: Type 2 diabetes mellitus (DMII) and metabolic syndrome (MBS) 
+increase ventricular arrhythmia and sudden cardiac death risk.
+OBJECTIVE: This study aimed to identify mechanisms through which DMII and MBS 
+promote ventricular tachycardia (VT).
+METHODS: We performed programmed ventricular stimulation on leptin receptor 
+mutant (Db/Db) mice with DMII; high-fat, high-sucrose (HFHS) diet-fed mice with 
+MBS; and cyclic guanosine monophosphate (cGMP)-dependent protein kinase 1 alpha 
+(PKG1α) leucine zipper mutant (LZM) mice, which have neither DMII nor MBS but 
+have disrupted PKG1α signaling.
+RESULTS: Programmed ventricular stimulation induced VT in Db/Db and HFHS 
+diet-fed mice. Both models demonstrated autonomic dysfunction and decreased cGMP 
+owing to decreased cardiac parasympathetic responsiveness. Conversely, cGMP 
+augmentation with soluble guanylate cyclase stimulation (riociguat) or 
+phosphodiesterase 5 inhibition (sildenafil) reduced VT inducibility. PKG1α LZM 
+mice had normal autonomic responsiveness, but excess VT. Left ventricular tissue 
+from HFHS diet-fed and LZM mice demonstrated hyperactivated glycogen synthase 
+kinase-3 beta (GSK3β). GSK3β inhibition with TWS119 abolished inducible VT in 
+all 3 models. Sarcoplasmic reticulum Ca2+ reuptake was delayed in cardiomyocytes 
+(CMs) from all 3 models, reflected by increased time constant of cytoplasmic 
+Ca2+ decline, tau. TWS119 reversed this effect. Phospholamban, which when 
+unphosphorylated inhibits sarcoplasmic/endoplasmic reticulum Ca2+ ATPase 
+2a-mediated Ca2+ reuptake from the cytosol, was hypophosphorylated in HFHS 
+diet-fed and LZM mice, which was reversed by TWS119. CMs from HFHS diet-fed mice 
+displayed increased frequency of early afterdepolarizations, further supporting 
+Ca2+ dyshomeostasis. cGMP augmentation with riociguat/sildenafil prevented 
+afterdepolarizations in HFHS CMs.
+CONCLUSION: In DMII and MBS, reduced PKG1α signaling drives GSK3β 
+hyperstimulation, calcium dyshomeostasis, and VT. Pharmacologic modulation of 
+these pathways opposes VT pathogenesis.
+
+Copyright © 2025 Heart Rhythm Society. Published by Elsevier Inc. All rights 
+reserved.
+
+DOI: 10.1016/j.hrthm.2025.08.032
+PMCID: PMC12503768
+PMID: 40865594 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosures Dr Blanton has received research 
+funding from Cardurion Pharmaceuticals to test a cGMP-specific phosphodiesterase 
+9 inhibitor in an animal model of heart failure. No other authors have conflicts 
+of interest to disclose.
+
+
+3. SAGE Open Med. 2013 Aug 20;1:2050312113495195. doi: 10.1177/2050312113495195. 
+eCollection 2013.
+
+Sildenafil dilates ophthalmic artery in type 2 diabetic patients.
+
+Zwain AA(1), Hadi NR(2), Al-Mudhaffer AM(3).
+
+Author information:
+(1)Department of Clinical Physiology, Faculty of Medicine, University of Kufa, 
+Najaf, Iraq.
+(2)Department of Pharmacology and Therapeutics, Faculty of Medicine, University 
+of Kufa, Najaf, Iraq.
+(3)Department of Pharmacology, University of Kufa, Najaf, Iraq.
+
+BACKGROUND: Conflicting reports exist on the effect of sildenafil on ophthalmic 
+artery blood flow; many visual disturbances due to vascular insult were reported 
+with the use of sildenafil in diabetic patients like nonarteritic ischemic optic 
+neuropathy.
+OBJECTIVES: The present work aimed to investigate whether sildenafil modulates 
+ophthalmic artery vasoreactivity in patients with type 2 diabetes mellitus. 
+Literature reports on this aspect are lacking.
+METHODS: A total of 35 male subjects were enrolled in this study, 18 with type 2 
+diabetes mellitus matched with 17 normal individuals. Ophthalmic artery was 
+insonated through a transorbital window using colored Doppler equipment with 
+transcranial Doppler facility. Ophthalmic artery reactivity was assessed using 
+breath holding/hyperventilation test, before and after giving 50 mg oral 
+sildenafil.
+RESULTS: It was found that in both normal subjects and diabetic patients, 
+sildenafil increased baseline control of mean flow velocity of ophthalmic artery 
+significantly (p < 0.05), breath holding caused a decrease of MFVopa (p < 0.05), 
+and subsequent hyperventilation caused increase of MFVopa (p < 0.05). There was 
+no statistically significant change in breath holding index and full range of 
+vasodilatation of ophthalmic artery (p > 0.05) after sildenafil, in normal and 
+diabetic groups. There was a significant increase of resistive index of 
+ophthalmic artery flow in diabetic patients compared with that of normal subject 
+(p < 0.05). Sildenafil decreased resistive index of ophthalmic artery flow 
+significantly only in diabetic patients (p < 0.05).
+CONCLUSION: Sildenafil increased MFVopa, but had no significant effect on 
+vasoreactivity of ophthalmic artery; sildenafil decreased resistive index only 
+in type 2 diabetic patients.
+
+DOI: 10.1177/2050312113495195
+PMCID: PMC4687761
+PMID: 26770675
+
+Conflict of interest statement: Declaration of conflicting interests: The 
+authors declare that they have no competing interests.
+
+
+4. Diabetes Care. 2002 Aug;25(8):1336-9. doi: 10.2337/diacare.25.8.1336.
+
+Acute and prolonged effects of sildenafil on brachial artery flow-mediated 
+dilatation in type 2 diabetes.
+
+Desouza C(1), Parulkar A, Lumpkin D, Akers D, Fonseca VA.
+
+Author information:
+(1)Tulane University Health Sciences Center, New Orleans, Louisiana 70112, USA.
+
+Comment in
+    Diabetes Care. 2003 Mar;26(3):962-3; author reply 963. doi: 
+10.2337/diacare.26.3.962.
+
+OBJECTIVE: Flow-mediated dilatation (FMD), induced by occlusion of the brachial 
+artery, is an index of nitric oxide-dependent endothelial function that is 
+impaired in patients with type 2 diabetes. Sildenafil (Viagra) is an inhibitor 
+of phosphodiesterase 5 (PDE-5), which is used for management of erectile 
+dysfunction in a broad range of patients, including those with type 2 diabetes. 
+Its effects on endothelial function in these patients have not been previously 
+assessed.
+RESEARCH DESIGN AND METHODS: We assessed the acute and prolonged effects of a 
+low dose of sildenafil (25 mg) on FMD in patients with type 2 diabetes. We 
+performed a double-blind, placebo-controlled cross-over trial in 16 patients (14 
+of whom completed the study) with type 2 diabetes who had erectile dysfunction 
+without overt clinical heart disease.
+RESULTS: In these patients, the mean +/- SD brachial artery diameter (BAD) 
+measured by ultrasound was 4.33 +/- 0.6 mm. After inducing FMD, the BAD 
+increased 8% to 4.66 +/- 0.6 mm (P = 0.2). One hour after oral administration of 
+sildenafil 25 mg, FMD increased the BAD significantly by 15% to 4.99 +/- 0.5 mm 
+(P < or = 0.01), whereas it did not change with placebo (4.6 +/- 0.6 mm, P = 
+0.1). After treatment with sildenafil 25 mg daily for 2 weeks and testing 24 h 
+after the last dose, the mean FMD was 14% (P = 0.01). In contrast, the mean FMD 
+with placebo was 9% (P = 0.45).
+CONCLUSIONS: We conclude that acute and prolonged sildenafil treatment has a 
+favorable effect on brachial artery flow-mediated dilatation that persists for 
+at least 24 h after the last dose. Further investigation is needed to determine 
+whether this prolonged effect has clinical implications in patients with type 2 
+diabetes.
+
+DOI: 10.2337/diacare.25.8.1336
+PMID: 12145231 [Indexed for MEDLINE]
+
+
+5. Eur Urol. 2004 Oct;46(4):503-9. doi: 10.1016/j.eururo.2004.06.005.
+
+Efficacy of sildenafil citrate in treatment of erectile dysfunction: effect of 
+type 2 diabetes.
+
+El-Sakka AI(1).
+
+Author information:
+(1)Department of Urology, Suez Canal University, Ismailia, Egypt. 
+aielsakka@yahoo.com
+
+PURPOSE: To assess efficacy of sildenafil citrate in treatment of erectile 
+dysfunction: effect of type 2 diabetes.
+MATERIALS AND METHODS: A total of 466 male patients with erectile dysfunction 
+(ED) were enrolled in this study. Of them 382 were diabetic and 84 were 
+non-diabetic. Patients were screened for ED using the erectile function domain 
+of the International Index for Erectile Function (IIEF). Patients underwent 
+routine laboratory investigations, in addition to total testosterone and 
+prolactin assessment. To assess the effect of diabetes on efficacy of 
+sildenafil, we compared the pre and post sildenafil responses to erectile 
+function domain, Q3, Q4. Overall satisfaction and global efficacy question (GEQ) 
+were also assessed.
+RESULTS: Mean age +/- S.D. was 53 +/- 8.4 and 49.7 +/- 10.6 years for patients 
+with and without diabetes respectively. There were significant associations 
+between increased severity of ED and longer duration, poor metabolic control and 
+presence of more than one diabetes-related complication (p < 0.05 for each). 
+Differences were significant between pre and post sildenafil administration 
+regarding erectile function domain, Q3, Q4 (p < 0.05 for each). In the 
+non-diabetic patients the GEQ and the overall satisfaction were significantly 
+higher than in diabetics (p < 0.05 for each). Global efficacy question was 
+significantly low in patients with fair and poor metabolic control, longer 
+duration of diabetes, and patients with diabetic complications (p < 0.05 for 
+each).
+CONCLUSIONS: Sildenafil is an effective treatment for diabetic patients with ED. 
+Although the efficacy of sildenafil was negatively affected by factors as poor 
+control and longer duration of diabetes and presence of more than one 
+diabetes-related complication, however, the global efficacy and the overall 
+patients' satisfaction were high.
+
+DOI: 10.1016/j.eururo.2004.06.005
+PMID: 15363568 [Indexed for MEDLINE]
+
+
+6. Aging Male. 2015;18(4):244-8. doi: 10.3109/13685538.2015.1072154. Epub 2015
+Aug  6.
+
+The effect of lifestyle modification and glycemic control on the efficiency of 
+sildenafil citrate in patients with erectile dysfunction due to type-2 diabetes 
+mellitus.
+
+Kirilmaz U(1), Guzel O(1), Aslan Y(1), Balci M(1), Tuncel A(1), Atan A(1).
+
+Author information:
+(1)a Department of Urology , Ankara Numune Research and Training Hospital , 
+Ankara , Turkey.
+
+OBJECTIVES: We evaluated the effect of lifestyle modifications and glycemic 
+control on the efficiency of sildenafil citrate in patients with type-2 diabetes 
+(T2DM) and erectile dysfunction (ED).
+METHODS: Eighty-three men with ED due to T2DM were included in the study. The 
+Group 1 (n = 41) patients received lifestyle modifications (diet and exercise), 
+and medical treatment for intensive glycemic control. In Group 2 (n = 42), in 
+addition to the intensive glycemic control, the patients were given sildenafil 
+citrate® 100 mg for 2-3 per weeks. The changes in ED were compared between the 
+two groups after three months of treatment.
+RESULTS: The mean age was 54.9 ± 9.1 (26-75) years. An increase in the IIEF-5 
+scores was observed in 23 of 41 patients in Group 1 (44.2%) and 29 of 42 in 
+Group 2 (55.8%). When the changes of the IIEF-5 scores were evaluated, the mean 
+increase was 2.5 in Group 1, and 5.0 in Group 2 (p = 0.012). The mean IIEF 
+changes according to the duration of diabetes were 4.8 in <5 years, 3.6 in 5-10 
+years and 1.6 in >10 years (p = 0.021).
+CONCLUSIONS: Glycemic control and lifestyle changes are not solely adequate for 
+a better sexual function in ED due to diabetes, and sildenafil citrate should be 
+used additionally.
+
+DOI: 10.3109/13685538.2015.1072154
+PMID: 26248034 [Indexed for MEDLINE]
+
+
+7. Int J Impot Res. 2010 Sep-Oct;22(5):310-7. doi: 10.1038/ijir.2010.21. Epub
+2010  Sep 2.
+
+Prevalence of erectile dysfunction among Chinese men with type 2 diabetes 
+mellitus.
+
+Yang G(1), Pan C, Lu J.
+
+Author information:
+(1)Department of Endocrinology, Chinese PLA General Hospital, Beijing, China.
+
+The aims of this study were to investigate the prevalence of ED in Chinese men 
+with type 2 diabetes mellitus, and evaluate the efficacy and safety of 
+sildenafil citrate in these patients. Patients from 42 outpatient diabetes 
+clinics with type 2 diabetes mellitus and ED as defined by the International 
+Index of Erectile Function (IIEF)-5 were studied. Participants with ED received 
+three doses (100 mg each) of sildenafil citrate for use over 3 months. Efficacy 
+of sildenafil citrate was assessed using the IIEF-5 and the Global Efficacy 
+Questionnaire (GEQ). Adverse events were recorded by patients in a daily diary. 
+A total of 5477 participants were evaluated, and 75.2% had ED. Age, duration of 
+diabetes and glycosylated hemoglobin (HbA(1)c) >6.5% were independently and 
+significantly associated with the presence and degree of ED. Patients who 
+received pharmacotherapy (N=389) reported significant improvements. The rate of 
+erections as determined by the GEQ was also significantly improved following 
+treatment. ED is a common complication in Chinese men with type 2 diabetes 
+mellitus, and certain risk factors are associated with the presence of ED and 
+severity. Sildenafil citrate is a safe and effective treatment for these 
+patients.
+
+DOI: 10.1038/ijir.2010.21
+PMID: 20811390 [Indexed for MEDLINE]
+
+
+8. J Androl. 2012 Mar-Apr;33(2):176-80. doi: 10.2164/jandrol.111.013367. Epub
+2011  Jun 16.
+
+Daily use of sildenafil improves endothelial function in men with type 2 
+diabetes.
+
+Deyoung L(1), Chung E, Kovac JR, Romano W, Brock GB.
+
+Author information:
+(1)Department of Urology, University of Western Ontario, St Joseph's Hospital, 
+268 Grosvenor Street, London, Ontario, N6A 4V2, Canada.
+
+Diminished vascular endothelial function results in decreased vasodilator 
+capacity and is associated with erectile dysfunction (ED) in patients afflicted 
+with type 2 diabetes. The current study was designed to evaluate whether daily 
+use of sildenafil could alter endothelial function and improve penile rigidity 
+in a group of patients with diabetic ED. A double-blind, placebo-controlled, 
+prospective trial was conducted with 24 men with type 2 diabetes who were 
+randomized into 2 groups: one receiving daily sildenafil (50 mg, n = 12) and the 
+other placebo (n = 12) for 10 weeks. Erectile function was captured subjectively 
+using the International Index of Erectile Function (IIEF-5), and endothelial 
+function was objectively monitored via brachial artery flow-mediated dilation. 
+Among the placebo and sildenafil groups, there were no significant differences 
+in average patient age, time from type 2 diabetes diagnosis, duration of ED, or 
+baseline IIEF-5 scores. Past medical histories, including smoking, alcohol 
+consumption, hypertension, and hyperlipidemia, were also similar. At the 
+conclusion of the 10-week trial, patients who received daily sildenafil had 
+significantly improved erectile rigidity as captured by IIEF-5 (P < .001) and 
+increased endothelial function via brachial artery flow-mediated dilation (P < 
+.01). Endothelial function in men with type 2 diabetes was enhanced with daily 
+sildenafil. Improved erectile rigidity and enhanced vascular circulation was 
+noted after 10 weeks of daily sildenafil use.
+
+DOI: 10.2164/jandrol.111.013367
+PMID: 21680809 [Indexed for MEDLINE]
+
+
+9. Expert Opin Ther Targets. 2015;19(12):1617-22. doi: 
+10.1517/14728222.2015.1066337. Epub 2015 Jul 15.
+
+Endothelial dysfunction markers as a therapeutic target for Sildenafil treatment 
+and effects on metabolic control in type 2 diabetes.
+
+Mandosi E(1), Giannetta E(1), Filardi T(1), Lococo M(1), Bertolini C(1), 
+Fallarino M(1), Gianfrilli D(1), Venneri MA(2), Lenti L(1), Lenzi A(1), Morano 
+S(1).
+
+Author information:
+(1)a 1 Sapienza University of Rome, Policlinico Umberto I, Department of 
+Experimental Medicine , Viale del Policlinico 155, 00161, Rome, Italy +390 649 
+978 381 ; +390 649 978 381 ; susanna.morano@uniroma1.it.
+(2)b 2 Sapienza University, Departement of Histology and Embryology , Rome, 
+Italy.
+
+OBJECTIVE: Endothelial dysfunction (ED) plays a role in diabetic cardiovascular 
+complications. Hyperglycemia increases cytockines involved in vascular 
+inflammation. Inhibition of phosphodiesterase type 5 (PDE5) exerts a relaxation 
+on corpora cavernosa and has cardioprotective properties. The effect of chronic 
+sildenafil treatment, on ED markers and metabolic parameters in a non-randomized 
+study on men with type 2 diabetes (T2DM), was investigated.
+RESEARCH DESIGN AND METHODS: Twenty-eight T2DM patients (61.2 ± 7.8 years, 
+hemoglobin A1c (HbA1c) 7.9 ± 1.3%, duration of diabetes 11.5 ± 7.8 years) were 
+treated with sildenafil 100 mg/d for 3 months. Baseline and postprandial 
+glycemia, insulin, HbA1c, HOMA index, lipids, glomerular filtration rate, 
+homocysteine were assessed at each visit. P-selectin (CD62P), CD14/42b, CD14/41, 
+ICAM (CD54), PECAM (CD31) and CD11b/CD18, were evaluated, after monocyte 
+isolation with flow-cytometry, before and after treatment.
+RESULTS: After 3 months, sildenafil decreased P-selectin (p < 0.05), 
+post-prandial glycemia (p < 0.01), HbA1c (p < 0.01), low-density lipoprotein 
+cholesterol (p < 0.01) and increased high-density lipoprotein (p < 0.05).
+CONCLUSIONS: PDE5 inhibition, in T2DM patients, reduces the endothelial function 
+marker P-selectin and exerts a beneficial effect on glycometabolic control.
+
+DOI: 10.1517/14728222.2015.1066337
+PMID: 26178526 [Indexed for MEDLINE]
+
+
+10. Br J Clin Pharmacol. 2021 May;87(5):2303-2320. doi: 10.1111/bcp.14632. Epub
+2020  Nov 26.
+
+Endothelial-protective effects of a G-protein-biased sphingosine-1 phosphate 
+receptor-1 agonist, SAR247799, in type-2 diabetes rats and a randomized 
+placebo-controlled patient trial.
+
+Bergougnan L(1), Andersen G(2), Plum-Mörschel L(3), Evaristi MF(1), Poirier 
+B(1), Tardat A(4), Ermer M(3), Herbrand T(2), Arrubla J(2), Coester HV(2), 
+Sansone R(5), Heiss C(6), Vitse O(4), Hurbin F(4), Boiron R(1), Benain X(4), 
+Radzik D(1), Janiak P(1), Muslin AJ(7), Hovsepian L(1), Kirkesseli S(1), Deutsch 
+P(8), Parkar AA(8).
+
+Author information:
+(1)Sanofi R&D, 1 Avenue Pierre Brossolette, Chilly Mazarin, France.
+(2)Profil, Neuss, Germany.
+(3)Profil, Mainz, Germany.
+(4)Sanofi R&D, 371 Rue du Professeur Blayac, Montpellier, France.
+(5)Division of Cardiology, Pulmonary diseases and Vascular medicine, University 
+Hospital Düsseldorf, Düsseldorf, Germany.
+(6)Department of Clinical and Experimental Medicine, University of Surrey, Stag 
+Hill, Guildford, UK.
+(7)Sanofi US Services, Cambridge, MA, USA.
+(8)Sanofi US Services, Bridgewater, NJ, USA.
+
+AIMS: SAR247799 is a G-protein-biased sphingosine-1 phosphate receptor-1 (S1P1 ) 
+agonist designed to activate endothelial S1P1 and provide endothelial-protective 
+properties, while limiting S1P1 desensitization and consequent lymphocyte-count 
+reduction associated with higher doses. The aim was to show whether S1P1 
+activation can promote endothelial effects in patients and, if so, select 
+SAR247799 doses for further clinical investigation.
+METHODS: Type-2 diabetes patients, enriched for endothelial dysfunction 
+(flow-mediated dilation, FMD <7%; n = 54), were randomized, in 2 sequential 
+cohorts, to 28-day once-daily treatment with SAR247799 (1 or 5 mg in ascending 
+cohorts), placebo or 50 mg sildenafil (positive control) in a 5:2:2 ratio per 
+cohort. Endothelial function was assessed by brachial artery FMD. Renal 
+function, biomarkers and lymphocytes were measured following 5-week SAR247799 
+treatment (3 doses) to Zucker diabetic fatty rats and the data used to select 
+the doses for human testing.
+RESULTS: The maximum FMD change from baseline vs placebo for all treatments was 
+reached on day 35; mean differences vs placebo were 0.60% (95% confidence 
+interval [CI] -0.34 to 1.53%; P = .203) for 1 mg SAR247799, 1.07% (95% CI 0.13 
+to 2.01%; P = .026) for 5 mg SAR247799 and 0.88% (95% CI -0.15 to 1.91%; P = 
+.093) for 50 mg sildenafil. Both doses of SAR247799 were well tolerated, did not 
+affect blood pressure, and were associated with minimal-to-no lymphocyte 
+reduction and small-to-moderate heart rate decrease.
+CONCLUSION: These data provide the first human evidence suggesting 
+endothelial-protective properties of S1P1 activation, with SAR247799 being as 
+effective as the clinical benchmark, sildenafil. Further clinical testing of 
+SAR247799, at sub-lymphocyte-reducing doses (≤5 mg), is warranted in vascular 
+diseases associated with endothelial dysfunction.
+
+© 2020 The Authors. British Journal of Clinical Pharmacology published by John 
+Wiley & Sons Ltd on behalf of British Pharmacological Society.
+
+DOI: 10.1111/bcp.14632
+PMCID: PMC8247405
+PMID: 33125753 [Indexed for MEDLINE]
+
+Conflict of interest statement: At the time of conduct of the studies, L.B., 
+M.F.E., B.P., A.T., O.V., F.H., R.B., X.B., D.R., P.J., A.J.M., L.H., S.K., P.D. 
+and A.A.P. were employees of Sanofi; G.A., L.P., M.E., T.H., J.A. and H.C. were 
+employees of Profil Institute; R.S. and C.H. received personal fees from Profil 
+Institute. Authors affiliated with Sanofi may have equity interest in Sanofi. 
+A.A.P., B.P. and P.J. are inventors of US patent number 9 782 411. C.H. received 
+grants from Deutsche Forschungsgemeinschaft, Mitsubishi Cleansui, Wild Blueberry 
+Association of North America, University of Surrey, Philips, National Processed 
+Raspberry Council, Cranberry Institute and Rheacell, and personal fees from 
+Bayer and Novo Nordisk, all outside of the submitted work.
+
+
+11. Curr Pharm Des. 2026 Feb 19. doi: 10.2174/0113816128415070251009170250.
+Online  ahead of print.
+
+Type 2 Diabetes and Vascular Complications: Current Perspectives on 
+Pathophysiology and Management Strategies.
+
+Singh H(1), Kumar R(1), Singh A(1), Agarwal BK(2), Das R(3), Mehta DK(3).
+
+Author information:
+(1)Department of Pharmacy Practice, MM College of Pharmacy, Maharishi 
+Markandeshwar (Deemed to be University), Mullana, Ambala, 133207, India.
+(2)Department of Medicines, Maharishi Markandeshwar Institute of Medical Science 
+and Research, Maharishi Markandeshwar (Deemed to be University), Mullana, 
+133207, Ambala, Haryana, India.
+(3)Department of Pharmaceutical Chemistry, MM College of Pharmacy, Maharishi 
+Markandeshwar (Deemed to be University), Mullana, Ambala, 133207, India.
+
+OBJECTIVES: Type 2 diabetes mellitus (T2DM) is a major global public health 
+challenge, currently affecting over 537 million adults, with projections 
+reaching 783 million by 2045. India contributes over 17% of global T2DM cases, 
+significantly adding to the disease burden. Hyperglycemia-induced oxidative 
+stress plays a crucial role in T2DM pathogenesis by disrupting the balance 
+between reactive oxygen species (ROS) production and antioxidant defence 
+mechanisms. This imbalance activates pathological pathways, including polyol and 
+hexosamine biosynthesis, promotes advanced glycation end-products (AGEs) 
+formation, increases protein kinase C (PKC) activity, and triggers inflammation, 
+leading to vascular complications.
+METHODS: This study systematically examines literature reviews published between 
+2010 and 2024 in peerreviewed journals indexed in databases such as PubMed, Web 
+of Science, Scopus, ScienceDirect, and Google Scholar. The research utilizes 
+search terms about diabetic microvascular and macrovascular complications, their 
+pathogenesis, and therapeutic management.
+RESULTS: Microvascular complications, arising from damage to small blood 
+vessels, encompass diabetic nephropathy, retinopathy, neuropathy, and sexual 
+dysfunction. Macrovascular complications, resulting from large blood vessel 
+impairment, increase the risk of cardiovascular diseases, including coronary 
+artery disease, peripheral arterial disease, stroke, and heart failure.
+CONCLUSION: The effective management of vascular complications necessitates a 
+comprehensive approach, incorporating strict glycaemic control, lifestyle 
+modifications, and pharmacological interventions such as Renin- 
+Angiotensin-Aldosterone System (RAAS) blockers, Sodium-Glucose Cotransporter-2 
+(SGLT2) inhibitors (e.g., dapagliflozin), phosphodiesterase-5 inhibitors (PDE5i) 
+(e.g., sildenafil citrate), glucagon-like peptide-1 receptor agonists, and anti- 
+vascular endothelial growth factor (VEGF) therapies (e.g., aflibercept). Early 
+diagnosis, risk factor management, and targeted treatment strategies are crucial 
+for improving patient outcomes and mitigating disease progression.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/0113816128415070251009170250
+PMID: 41735213
+
+
+12. Am J Physiol Heart Circ Physiol. 2015 Jul 15;309(2):H297-304. doi: 
+10.1152/ajpheart.00079.2015. Epub 2015 May 8.
+
+Reduced vascular responses to soluble guanylyl cyclase but increased sensitivity 
+to sildenafil in female rats with type 2 diabetes.
+
+Goulopoulou S(1), Hannan JL(2), Matsumoto T(3), Ogbi S(2), Ergul A(2), Webb 
+RC(2).
+
+Author information:
+(1)Department of Physiology, Georgia Regents University, Augusta, Georgia; 
+styliani.goulopoulou@unthsc.edu.
+(2)Department of Physiology, Georgia Regents University, Augusta, Georgia;
+(3)Department of Physiology and Morphology, Institute of Medicinal Chemistry, 
+Hoshi University, Shinagawa-ku, Tokyo, Japan.
+
+Impaired nitric oxide (NO), soluble guanylyl cyclase (sGC), and cyclic guanosine 
+monophosphate (cGMP) signaling (NO-sGC-cGMP) has been implicated in the 
+pathogenesis of diabetic vascular dysfunction. Efforts to directly target this 
+signaling have led to the development of sGC agonists that activate the heme 
+group of sGC (stimulators) or preferentially activate sGC when the heme is 
+oxidized (activators). In this study, we hypothesized that resistance arteries 
+from female rats with spontaneous type 2 diabetes (Goto-Kakizaki rats, GK) would 
+have reduced vasodilatory responses to heme-dependent sGC activation and 
+increased responses to heme-independent sGC activation compared with control 
+rats (Wistar). Endothelium-dependent and -independent relaxation was assessed in 
+isolated segments from mesenteric resistance arteries (MA) mounted in a wire 
+myograph. GK MA had reduced responses to acetylcholine (pEC50: 7.96 ± 0.06 vs. 
+7.66 ± 0.05, P < 0.05) and sodium nitroprusside (pEC50: 8.34 ± 0.05 vs. 7.77 ± 
+0.04, P < 0.05). There were no group differences in 8-bromoguanosine 
+cGMP-induced relaxation and protein kinase G1 expression (P > 0.05). GK MA had 
+attenuated responses to BAY 41-2272 (heme-dependent sGC stimulator; pEC50: 7.56 
+± 0.05 vs. 6.93 ± 0.06, P < 0.05) and BAY 58-2667 (heme-independent sGC 
+activator; pEC50: 10.82 ± 0.07 vs. 10.27 ± 0.08, P < 0.05) and increased 
+sensitivity to sildenafil [phosphodiesterase 5 (PDE5) inhibitor; pEC50: 7.89 ± 
+0.14 vs. 8.25 ± 0.13, P < 0.05]. Isolated resistance arteries from female rats 
+of reproductive age that spontaneously develop type 2 diabetes have increased 
+sensitivity to PDE5 inhibition and reduced responsiveness to sGC activators and 
+stimulators.
+
+Copyright © 2015 the American Physiological Society.
+
+DOI: 10.1152/ajpheart.00079.2015
+PMCID: PMC4504970
+PMID: 25957216 [Indexed for MEDLINE]
+
+
+13. Diabetologia. 2001 Oct;44(10):1296-301. doi: 10.1007/s001250100656.
+
+Sildenafil citrate for the treatment of erectile dysfunction in men with Type II 
+diabetes mellitus.
+
+Boulton AJ(1), Selam JL, Sweeney M, Ziegler D.
+
+Author information:
+(1)University of Manchester, Manchester, United Kingdom. ajmb@fs1.nwest.nhs.uk
+
+AIMS/HYPOTHESIS: Ninety percent of all men with diabetes have Type II 
+(non-insulin-dependent) diabetes mellitus, and erectile dysfunction (ED) is 
+common in this patient group. This study evaluated the effects of sildenafil on 
+men with erectile dysfunction and Type II diabetes and compared the results with 
+glycated haemoglobin concentrations and chronic diabetic complications.
+METHODS: Patients (mean age, 59 years) in this double-blind, placebo-controlled 
+trial were randomised to sildenafil (25-100 mg; n = 110) or matching placebo (n 
+= 109) for 12 weeks. Primary criteria for efficacy included questions 3 
+(achieving an erection) and 4 (maintaining an erection) from the International 
+Index of Erectile Function (IIEF, score range, 0-5). Secondary outcome measures 
+included a global efficacy question (GEQ), patient event logs, a life 
+satisfaction checklist, and the remaining IIEF questions.
+RESULTS: After 12 weeks, the mean scores for questions 3 and 4 had improved 
+significantly in patients receiving sildenafil (3.42 +/- 0.23 and 3.35 +/- 0.24) 
+compared with placebo (1.86 +/- 0.22 and 1.84 +/- 0.23; p < 0.0001). Similarly, 
+the GEQ score was higher in the sildenafil (64.6 %) than the placebo group (10.5 
+%). Even when correlating efficacy with glycated haemoglobin concentrations ( < 
+or = 8.3 % or > 8.3 %, the median concentration found in this study) or the 
+number of diabetic complications (0 or > or = 1), the mean scores for the GEQ 
+and questions 3 and 4 from the IIEF remained higher for all the sildenafil 
+groups compared with the placebo groups (p < 0.0001).
+CONCLUSION/INTERPRETATION: Sildenafil was well-tolerated and effective in 
+improving erectile dysfunction in men with Type II diabetes, even in patients 
+with poor glycaemic control and chronic complications.
+
+DOI: 10.1007/s001250100656
+PMID: 11692178 [Indexed for MEDLINE]
+
+
+14. Oman Med J. 2014 Jan;29(1):46-50. doi: 10.5001/omj.2014.10.
+
+Total testosterone levels and the effect of sildenafil on type 2 diabetics with 
+erectile dysfunction.
+
+Hadeed NN(1), Thanoon IA(2), Al-Mukhtar SB(3).
+
+Author information:
+(1)Department of Medicine Nineveh College of Medicine, University of Mosul, 
+Mosul, Iraq.
+(2)Department of Pharmacology, Mosul College of Medicine, University of Mosul, 
+Mosul, Iraq.
+(3)Department of Biochemistry, Nineveh College of Medicine, University of Mosul, 
+Mosul, Iraq.
+
+OBJECTIVES: Hypotestosteronemia has been reported in approximately half of type 
+2 diabetic men in general. This study aims to assess serum total testosterone 
+levels in type 2 diabetics with erectile dysfunction and to correlate the degree 
+of improvement between sildenafil citrate and testosterone levels.
+METHODS: A cross sectional and prospective comparative interventional study was 
+conducted at the Diabetic Clinic of Assalam Teaching Hospital in Mosul, during 
+the period from January 1, 2009 through to December 31, 2011. The study enrolled 
+120 type 2 diabetic males with erectile dysfunction who were analyzed with 
+regard to age, duration of diabetes, duration and severity of erectile 
+dysfunction, serum total testosteron levels and the degree of response to 
+sildenafil citrate in terms of testosterone levels. The data were statistically 
+analyzed using the independent two-sample Student t test, χ (2) test and Pearson 
+correlation test. A p-value of <0.05 was considered statistically significant.
+RESULTS: Thirty six percent of type 2 diabetic males with erectile dysfunction 
+were found to have low serum testosterone levels. The hypotestosteronemic and 
+normotestosteronemic subgroups were not significantly different in terms of mean 
+age, duration of diabetes, reduction of libido, and reduction in erectile 
+function. The rate and the degree of improvement of erection by sildenafil in 
+the normo-and-hypotestosteronemic respondents were not significantly different, 
+but the degree of improvement by sildenafil was significantly correlated to 
+testosterone levels among the hypotestosteronemic group.
+CONCLUSION: Hypotestosteronemia was found in 36% of type 2 diabetic males with 
+erectile dysfunction. The degree of improvement of erectile dysfunction by 
+sildenafil was directly proportional to the serum testosterone levels among the 
+hypotestosteronemic group. Therapeutic supplement with testosterone preparation 
+in the hypotestosteronemic diabetics with erectile dysfunction may improve their 
+response to sildenafil.
+
+DOI: 10.5001/omj.2014.10
+PMCID: PMC3910416
+PMID: 24498482
+
+
+15. Diabet Med. 2008 Jan;25(1):37-44. doi: 10.1111/j.1464-5491.2007.02298.x.
+
+Chronic administration of Sildenafil improves markers of endothelial function in 
+men with Type 2 diabetes.
+
+Aversa A(1), Vitale C, Volterrani M, Fabbri A, Spera G, Fini M, Rosano GM.
+
+Author information:
+(1)Department of Medical Pathophysiology, Sapienza University of Rome, Rome, 
+Italy. antonio.aversa@uniroma1.it
+
+OBJECTIVE: Diabetic patients have a reduced endothelial response to 
+phosphodiesterase-5 inhibitors. The aim of this study was to determine the 
+effects of chronic therapy with sildenafil on endothelial function in patients 
+with Type 2 diabetes mellitus (DM2).
+METHODS: In a double-blind, placebo-controlled parallel design, 20 patients 
+without erectile dysfunction randomly received a loading dose of sildenafil (100 
+mg) for 3 days, followed by either sildenafil 25 mg three times a day (t.d.s.) 
+for 4 weeks or sildenafil 25 mg t.d.s. for 4 days followed by placebo t.d.s. for 
+3 weeks.
+RESULTS: After 1 week, flow-mediated dilatation (FMD) improved significantly (> 
+50% compared with baseline) in patients allocated to both sildenafil arms (62 
+and 64%, respectively). In patients allocated to chronic sildenafil, a 
+progressive increase in percentage of patients with FMD improvement was noted 
+(78, 86 and 94% at 2, 3 and 4 weeks, respectively) while a progressive decrease 
+in the placebo group occurred (45, 18 and 6% at 2, 3 and 4 weeks, respectively). 
+At the end of the study, a significant improvement in FMD compared with baseline 
+was noted after chronic sildenafil (FMD from 6.8 +/- 0.5 to 12.5 +/- 0.7%, P = 
+0.01 vs. baseline). A decrease in endothelin-1 levels and an increase in 
+nitrite/nitrate levels were found after chronic sildenafil; significant changes 
+from baseline in C-reactive protein, interleukin 6, intercellular adhesion 
+molecule and vascular adhesion molecule levels were also found.
+CONCLUSIONS: In DM2 patients, daily sildenafil administration improves 
+endothelial function and reduces markers of vascular inflammation, suggesting 
+that the diabetes-induced impairment of endothelial function may be improved by 
+prolonged phosphodiesterase-5 inhibition.
+
+DOI: 10.1111/j.1464-5491.2007.02298.x
+PMID: 18199130 [Indexed for MEDLINE]
+
+
+16. J Sex Med. 2018 Sep;15(9):1224-1234. doi: 10.1016/j.jsxm.2018.07.002. Epub
+2018  Aug 23.
+
+The Favorable Effect of Empagliflozin on Erectile Function in an Experimental 
+Model of Type 2 Diabetes.
+
+Assaly R(1), Gorny D(1), Compagnie S(1), Mayoux E(2), Bernabe J(1), Alexandre 
+L(3), Giuliano F(4), Behr-Roussel D(5).
+
+Author information:
+(1)Pelvipharm, Montigny-le-Bretonneux, France; UMR1179, Université Versailles 
+Saint Quentin en Yvelines, Montigny-le-Bretonneux, France.
+(2)Boehringer Ingelheim Pharma, Cardiometabolic Diseases Research, Biberach an 
+der Riss, Germany.
+(3)Pelvipharm, Montigny-le-Bretonneux, France.
+(4)Pelvipharm, Montigny-le-Bretonneux, France; UMR1179, Université Versailles 
+Saint Quentin en Yvelines, Montigny-le-Bretonneux, France; AP-HP, 
+Neuro-Uro-Andrology, Department of Physical Medicine and Rehabilitation, Raymond 
+Poincaré Hospital, Garches, France.
+(5)Pelvipharm, Montigny-le-Bretonneux, France; UMR1179, Université Versailles 
+Saint Quentin en Yvelines, Montigny-le-Bretonneux, France. Electronic address: 
+d.behr.roussel@pelvipharm.com.
+
+INTRODUCTION: Following the results of the EMPA-REG Outcome trial, we 
+hypothesized that empagliflozin, a highly potent and specific sodium/glucose 
+cotransporteur 2 inhibitor, could improve type 2 diabetes mellitus 
+(T2DM)-associated erectile dysfunction (ED), a highly prevalent complication of 
+T2DM, very often coexisting with cardiovascular complications and considered as 
+a prognostic factor of cardiovascular disease in men with diabetes.
+AIM: To investigate the effects of chronic treatment with empagliflozin on ED in 
+a T2DM rat model in the presence or absence of sildenafil.
+METHODS: Male Goto-Kakizaki (GK), a model of T2DM, and age-matched Wistar rats 
+received placebo or empagliflozin treatment at 25.3 ± 0.9 mg/kg/d for 4 weeks. 
+Then, the in vivo effect of empagliflozin on erectile function was assessed by 
+electrical stimulation of the cavernous nerve at different frequencies under 
+anesthesia in the presence or absence of acute intravenous injection of 
+sildenafil. Endothelium-dependent, -independent, and nitrergic relaxations of 
+cavernosal strips from the rats were studied.
+MAIN OUTCOME MEASURES: Body weight, food consumption, metabolic parameters, 
+plasma inflammation biomarkers, and in vivo erectile responses elicited by 
+electrical stimulation of the cavernous nerve in empagliflozin-treated and 
+untreated GK rats and control Wistar rats were assessed and followed by 
+concentration or frequency response curves to endothelium-dependent, 
+-independent, and nitrergic relaxations of cavernosal strips from these rats.
+RESULTS: Chronic empagliflozin followed by acute sildenafil significantly 
+improved erectile responses in adult GK rats (n = 12-15/group). Ratios of 
+intracavernous pressure and area under the curve/mean arterial pressure during 
+the electrical stimulation were significantly increased in empagliflozin-treated 
+vs untreated GK rats. Nitrergic relaxations of cavernosal strips from GK rats 
+were significantly increased with empagliflozin compared with placebo. Moreover, 
+the effect of sildenafil on erectile function was not altered by empagliflozin 
+treatment.
+CLINICAL IMPLICATIONS: Empagliflozin may benefit T2DM patient with ED.
+STRENGTHS & LIMITATIONS: The mechanism(s) by which empagliflozin shows favorable 
+effect on erectile function in GK rats needs to be further elucidated.
+CONCLUSION: Empagliflozin shows favorable effect on erectile function in 
+diabetic GK rats mediated by an improvement of nitrergic relaxation of erectile 
+tissue. Whether this favorable effect on ED in the experimental context of T2DM 
+is due to better glycemic control or to another effect of empagliflozin deserves 
+further investigation. Assaly R, Gorny D, Compagnie S, et al. The Favorable 
+Effect of Empagliflozin on Erectile Function in an Experimental Model of Type 2 
+Diabetes. J Sex Med 2018;15:1224-1234.
+
+Copyright © 2018 International Society for Sexual Medicine. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jsxm.2018.07.002
+PMID: 30145094 [Indexed for MEDLINE]
+
+
+17. Eur J Endocrinol. 2015 Mar;172(3):R103-14. doi: 10.1530/EJE-14-0700. Epub
+2014  Oct 2.
+
+Therapy of endocrine disease. Effects of chronic use of phosphodiesterase 
+inhibitors on endothelial markers in type 2 diabetes mellitus: a meta-analysis.
+
+Santi D(1), Giannetta E(2), Isidori AM(2), Vitale C(2), Aversa A(2), Simoni 
+M(3).
+
+Author information:
+(1)Unit of EndocrinologyDepartment of Biomedical Metabolic and Neural Sciences. 
+University of Modena and Reggio Emilia, ItalyAzienda USL of ModenaItalySapienza 
+University of RomeDepartment of Experimental MedicineDepartment of Medical 
+SciencesIRCSS San Raffaele, Rome, Italy Unit of EndocrinologyDepartment of 
+Biomedical Metabolic and Neural Sciences. University of Modena and Reggio 
+Emilia, ItalyAzienda USL of ModenaItalySapienza University of RomeDepartment of 
+Experimental MedicineDepartment of Medical SciencesIRCSS San Raffaele, Rome, 
+Italy.
+(2)Unit of EndocrinologyDepartment of Biomedical Metabolic and Neural Sciences. 
+University of Modena and Reggio Emilia, ItalyAzienda USL of ModenaItalySapienza 
+University of RomeDepartment of Experimental MedicineDepartment of Medical 
+SciencesIRCSS San Raffaele, Rome, Italy.
+(3)Unit of EndocrinologyDepartment of Biomedical Metabolic and Neural Sciences. 
+University of Modena and Reggio Emilia, ItalyAzienda USL of ModenaItalySapienza 
+University of RomeDepartment of Experimental MedicineDepartment of Medical 
+SciencesIRCSS San Raffaele, Rome, Italy Unit of EndocrinologyDepartment of 
+Biomedical Metabolic and Neural Sciences. University of Modena and Reggio 
+Emilia, ItalyAzienda USL of ModenaItalySapienza University of RomeDepartment of 
+Experimental MedicineDepartment of Medical SciencesIRCSS San Raffaele, Rome, 
+Italy manuela.simoni@unimore.it.
+
+OBJECTIVE: Diabetes mellitus (DM) is associated with endothelial dysfunction, 
+reducing nitric oxide-dependent vasodilation, and increasing production of 
+pro-inflammatory factors, leading to an increased risk of long-term 
+cardiovascular disease. As the effects of phosphodiesterase 5 inhibitors (PDE5i) 
+on endothelial function have not been systematically investigated, we conducted 
+a meta-analysis of available randomized clinical trials (RCTs).
+DESIGN: A thorough search of the literature was carried out. Relevant studies 
+were considered according to RCT study design, enrollment of men with type 2 DM, 
+chronic administration of PDE5i, and evaluation of endothelial function through 
+both hemodynamic and endothelial inflammation-related parameters.
+RESULTS: Fifteen studies fulfilled the eligibility criteria but only six RCTs 
+met the inclusion criteria and were analyzed for 476 diabetic men, 239 
+randomized to Sildenafil, and 237 to placebo respectively. Four RCTs evaluated 
+flow-mediated dilation (FMD), demonstrating a weighted mean increase of 2.19% 
+(95% CI 0.48 to 3.90). This result showed a high heterogeneity (I(2): 98%). 
+Thus, a further sub-group meta-analysis was performed and this analysis 
+confirmed a significant, Sildenafil-related FMD improvement. Sildenafil improved 
+endothelin 1 and high sensitivity C-reactive protein by ∼-0.94 pg/ml and 
+-0.36 mg/l, respectively, not reaching statistical significance (P=0.69 and 
+P=0.22 respectively). Finally, Sildenafil administration significantly reduced 
+serum levels of interleukin 6 (IL6, -0.82 pg/ml; 95% CI -1.58 to -0.07).
+CONCLUSION: This meta-analysis suggests a beneficial effect of chronic PDE5i 
+administration on endothelial function. Chronic Sildenafil administration seems 
+to improve hemodynamic (FMD) and serum pro-inflammatory makers (IL6) in diabetic 
+men. Larger studies are needed to confirm the effects of chronic PDE5i on 
+endothelial function.
+
+© 2015 European Society of Endocrinology.
+
+DOI: 10.1530/EJE-14-0700
+PMID: 25277671 [Indexed for MEDLINE]
+
+
+18. PLoS One. 2015 Feb 17;10(2):e0118134. doi: 10.1371/journal.pone.0118134. 
+eCollection 2015.
+
+Sildenafil ameliorates long term peripheral neuropathy in type II diabetic mice.
+
+Wang L(1), Chopp M(2), Szalad A(1), Jia L(1), Lu X(1), Lu M(1), Zhang L(1), 
+Zhang Y(1), Zhang R(1), Zhang ZG(1).
+
+Author information:
+(1)Department of Neurology, Henry Ford Hospital, 2799 W. Grand Boulevard, 
+Detroit, Michigan, 48202, United States of America.
+(2)Department of Neurology, Henry Ford Hospital, 2799 W. Grand Boulevard, 
+Detroit, Michigan, 48202, United States of America; Department of Physics, 
+Oakland University, Rochester, Michigan, 48309, United States of America.
+
+Diabetic peripheral neuropathy is a common complication of long-standing 
+diabetes mellitus. To mimic clinical trials in which patients with diabetes 
+enrolled have advanced peripheral neuropathy, we investigated the effect of 
+sildenafil, a specific inhibitor of phosphodiesterase type 5 enzyme, on long 
+term peripheral neuropathy in middle aged male mice with type II diabetes. 
+Treatment of diabetic mice (BKS.Cg-m+/+Leprdb/J, db/db) at age 36 weeks with 
+sildenafil significantly increased functional blood vessels and regional blood 
+flow in the sciatic nerve, concurrently with augmentation of intra-epidermal 
+nerve fiber density in the skin and myelinated axons in the sciatic nerve. 
+Functional analysis showed that the sildenafil treatment considerably improved 
+motor and sensory conduction velocities in the sciatic nerve and peripheral 
+thermal stimulus sensitivity compared with the saline treatment. In vitro 
+studies showed that mouse dermal endothelial cells (MDE) cultured under high 
+glucose levels exhibited significant down regulation of angiopoietin 1 (Ang1) 
+expression and reduction of capillary-like tube formation, which were completely 
+reversed by sildenafil. In addition, incubation of dorsal root ganglia (DRG) 
+neurons with conditioned medium harvested from MDE under high glucose levels 
+suppressed neurite outgrowth, where as conditional medium harvested from MDE 
+treated with sildenafil under high glucose levels did not inhibit neurite 
+outgrowth of DRG neurons. Moreover, blockage of the Ang1 receptor, Tie2, with a 
+neutralized antibody against Tie2 abolished the beneficial effect of sildenafil 
+on tube formation and neurite outgrowth. Collectively, our data indicate that 
+sildenafil has a therapeutic effect on long term peripheral neuropathy of middle 
+aged diabetic mice and that improvement of neurovascular dysfunction by 
+sildenafil likely contributes to the amelioration of nerve function. The 
+Ang1/Tie2 signaling pathway may play an important role in these restorative 
+processes.
+
+DOI: 10.1371/journal.pone.0118134
+PMCID: PMC4331563
+PMID: 25689401 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+19. J Urol. 2009 Jan;181(1):245-51. doi: 10.1016/j.juro.2008.09.005. Epub 2008
+Nov  14.
+
+Serum biomarker measurements of endothelial function and oxidative stress after 
+daily dosing of sildenafil in type 2 diabetic men with erectile dysfunction.
+
+Burnett AL(1), Strong TD, Trock BJ, Jin L, Bivalacqua TJ, Musicki B.
+
+Author information:
+(1)Department of Urology, The James Buchanan Brady Urological Institute, The 
+Johns Hopkins Medical Institutions, Baltimore, Maryland, USA.
+
+PURPOSE: We investigated changes in serum biomarkers of vascular function after 
+short-term, continuous sildenafil dosing in men with type 2 diabetes with 
+erectile dysfunction.
+MATERIALS AND METHODS: Men with erectile dysfunction associated with type 2 
+diabetes mellitus were randomized to receive continuous, daily sildenafil (50 mg 
+for 1 week run-in and 100 mg for 3 weeks) (148), or placebo (144) for 4 weeks 
+(phase I) and then sildenafil (25, 50 or 100 mg) on demand for 12 weeks (phase 
+II). Blood draws at baseline and after phases I and II were analyzed for cyclic 
+guanosine monophosphate (endothelial function marker), 8-isoprostane (oxidative 
+stress marker), and interleukin-6 and interleukin-8 (inflammatory cytokines). 
+Primary and secondary erectile function outcome variables were affirmative 
+responses on Sexual Encounter Profile question 3 (ability to maintain erection 
+sufficient for sexual intercourse) and Erection Hardness Score, respectively.
+RESULTS: Serum cyclic guanosine monophosphate levels were increased in the 
+sildenafil group relative to the placebo group at 4 (p <0.01) and 16 (p <0.05) 
+weeks, correlating with affirmative responses to Sexual Encounter Profile 
+question 3 at the 4-week interval only (p <0.05). Serum 8-isoprostane levels 
+were decreased to a nonsignificant degree in the sildenafil group at 4 weeks 
+with no further change at 16 weeks, whereas interleukin-6 and interleukin-8 
+levels were unchanged at either interval, and these levels were unassociated 
+with erectile function outcomes.
+CONCLUSIONS: These data suggest that short-term, continuous sildenafil treatment 
+causes systemic endothelial function to be enhanced and remain so for a duration 
+after its discontinuation. However, they do not indicate any influence of this 
+treatment on systemic oxidative stress or inflammation, or an effect on 
+long-term erectile function improvement.
+
+DOI: 10.1016/j.juro.2008.09.005
+PMID: 19013603 [Indexed for MEDLINE]
+
+
+20. Med Clin (Barc). 2002 Jun 29;119(4):121-4. doi:
+10.1016/s0025-7753(02)73339-3.
+
+[Efficacy and safety of sildenafil in men with type 2 diabetes mellitus and 
+erectile dysfunction].
+
+[Article in Spanish]
+
+Escobar-Jiménez F(1); Grupo de Estuido Español sobre Sildenafilo.
+
+Author information:
+(1)Servicio de Endocrinología, Hospital Universitario San Cecilio. Granada, 
+España. fescobarjimenez@yahoo.com
+
+BACKGROUND: Erectile dysfunction is a common complication in patients with 
+diabetes mellitus, which impairs quality of life, decreases self-esteem and can 
+affect partners relationships. Sildenafil improves nitric oxide-dependent 
+relaxation of smooth muscle in corpora cavernosa--induced by an increase in cGMP 
+via inhibition of phosphodiesterase 5.
+PATIENTS AND METHOD: Multicenter, randomized, double-blind, placebo-controlled 
+study with flexible doses of sildenafil. The study was performed in 16 centers 
+and recruited a total of 112 subjects with diabetes mellitus who had erectile 
+dysfunction. At the start and end of the study, the following questionnaires 
+were administered: International Index of Erectile Function (IIEF), Global 
+Efficacy Assessment Question and Quality of Life Questionnaire (Fugl-Meyer). Of 
+the 112 initially recruited patients, 92 received treatment, sildenafil in 44 
+and placebo in 48.
+RESULTS: A clear improvement was observed in the capacity to achieve and 
+maintain an erection; 55.3% diabetic patients receiving sildenafil had at least 
+one successful sexual intercourse (15.6% in the placebo group). In addition, 
+significant improvements were seen in other aspects of the sexual activity of 
+treated subjects. Among those treated with sildenafil, 46.3% reported a clear 
+improvement of erections as compared to their baseline conditions (i.e, prior to 
+treatment) vs only 14.9% in the placebo group. The percentage of a successful 
+intercourse clearly increased, from 6 to 49%. Sildenafil was well-tolerated. 
+Side effects were mild and transient.
+CONCLUSIONS: Sildenafil is an effective, safe treatment for erectile dysfunction 
+in diabetic patients.
+
+DOI: 10.1016/s0025-7753(02)73339-3
+PMID: 12106522 [Indexed for MEDLINE]
+
+
+21. Diabetes Res Clin Pract. 2007 Oct;78(1):136-40. doi: 
+10.1016/j.diabres.2007.02.006. Epub 2007 Mar 19.
+
+Sildenafil citrate diminishes microalbuminuria and the percentage of A1c in male 
+patients with type 2 diabetes.
+
+Grover-Páez F(1), Villegas Rivera G, Guillén Ortíz R.
+
+Author information:
+(1)Health Research Division, Gynecology and Obstetrics Hospital, Centro Medico 
+Nacional de Occidente, Instituto Mexicano del Seguro Social, Avenida Eulogio 
+Parra 3022, Colonia Prados Providencia, CP 44670 Guadalajara, Jalisco, Mexico. 
+fgroverp@hotmail.com
+
+Sildenafil citrate has shown to display beneficial cardiovascular effects, 
+suggesting that it may have other systemic benefits involving the endothelium. 
+There is little data regarding the long-term use of this drug and the effects of 
+this on different organs.
+OBJECTIVE: The primary aim of this study was to determine whether sildenafil 
+citrate diminishes concentrations of microalbuminuria and percentage of A1c in 
+patients with type 2 diabetes.
+DESIGN: A double-blind, randomized, controlled trial in 40 male patients, age 
+35-50, with type 2 diabetes. Subjects received sildenafil citrate 50 mg daily 
+(n=20) or placebo (n=20) for 30 days. Levels of hs-CRP, microalbuminuria, 
+homocysteine, A1c and erectile function were measured at baseline and to the end 
+of the study.
+RESULTS: Men that received sildenafil citrate displayed a significant decrease 
+in the microalbuminuria concentrations (p<0.01) versus baseline, (p=0.02) versus 
+placebo and A1c (p<0.01) versus baseline, (p=0.01) versus placebo. In addition, 
+we observed a significant increase in the total IIEF score after 30 days of 
+treatment (p<0.01) versus baseline, (p<0.01) versus placebo.
+CONCLUSIONS: The administration of 50mg of sildenafil citrate for 30 consecutive 
+days diminishes microalbuminuria and the percentage of A1c in patients with type 
+2 diabetes.
+
+DOI: 10.1016/j.diabres.2007.02.006
+PMID: 17374416 [Indexed for MEDLINE]
+
+
+22. RETRACTED ARTICLE
+
+PLoS One. 2024 Sep 3;19(9):e0304485. doi: 10.1371/journal.pone.0304485. 
+eCollection 2024.
+
+Nesfatin-1 regulates the phenotype transition of cavernous smooth muscle cells 
+by activating PI3K/AKT/mTOR signaling pathway to improve diabetic erectile 
+dysfunction.
+
+Chen K(1)(2), Huang B(1), Feng J(1), Hu Z(1), Fan S(2), Ren S(1), Tian H(1), 
+Abdulkarem M M AM(1), Wang X(1), Tuo Y(1), Liang X(2), Xie H(2), He R(2), Li 
+G(1).
+
+Author information:
+(1)Urology Department of General Hospital, Ningxia Medical University, Ningxia, 
+China.
+(2)Key Laboratory of Fertility Preservation and Maintenance of Ministry of 
+Education, Ningxia Medical University, Yinchuan, China.
+
+Retraction in
+    PLoS One. 2024 Dec 2;19(12):e0314890. doi: 10.1371/journal.pone.0314890.
+
+OBJECTIVE: This study aims to explore the impact of Nesfatin-1 on type 2 
+diabetic erectile dysfunction (T2DMED) and its underlying mechanism in 
+regulating the phenotypic switching of corpus cavernosum smooth muscle cells 
+(CCSMCs).
+METHODS: Twenty-four 4-week-old male C57 wild-type mice were randomly assigned 
+to the control group, model group, and Nesfatin-1 treatment group. Monitoring 
+included body weight, blood glucose levels, and penile cavernous pressure (ICP). 
+Histochemistry and Western blot analyses were conducted to assess the 
+expressions of α-SMA, OPN, and factors related to the PI3K/AKT/mTOR signaling 
+pathway. CCSMCs were categorized into the control group, high glucose and high 
+oleic acid group (GO group), Nesfatin-1 treatment group (GO+N group), sildenafil 
+positive control group (GO+S group), and PI3K inhibitor group (GO+N+E group). 
+Changes in phenotypic markers, cell morphology, and the PI3K/AKT/mTOR signaling 
+pathway were observed in each group.
+RESULTS: (1) Nesfatin-1 significantly ameliorated the body size, body weight, 
+blood glucose, glucose tolerance, and insulin resistance in T2DMED mice. (2) 
+Following Nesfatin-1 treatment, the ICP/MSBP ratio and the peak of the ICP curve 
+demonstrated a significant increase. (3) Nesfatin-1 significantly enhanced 
+smooth muscle and reduced collagen fibers in the corpus cavernosum. (4) 
+Nesfatin-1 notably increased α-SMA expression and decreased OPN expression in 
+CCSMCs. (5) Nesfatin-1 elevated PI3K, p-AKT/AKT, and p-mTOR/mTOR levels in 
+penile cavernous tissue.
+CONCLUSIONS: Nesfatin-1 not only effectively improves body weight and blood 
+glucose levels in diabetic mice but also enhances erectile function and 
+regulates the phenotypic switching of corpus cavernosum smooth muscle. The 
+potential mechanism involves Nesfatin-1 activating the PI3K/AKT/mTOR signaling 
+pathway to induce the conversion of CCSMCs to a contractile phenotype.
+
+Copyright: © 2024 Chen et al. This is an open access article distributed under 
+the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0304485
+PMCID: PMC11371211
+PMID: 39226294 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+23. Diabetes Care. 2003 Mar;26(3):962-3; author reply 963. doi: 
+10.2337/diacare.26.3.962.
+
+Acute and prolonged effects of sildenafil on brachial artery flow-mediated 
+dilatation in type 2 diabetes.
+
+Khaodhiar L, Veves A.
+
+Comment on
+    Diabetes Care. 2002 Aug;25(8):1336-9. doi: 10.2337/diacare.25.8.1336.
+
+DOI: 10.2337/diacare.26.3.962
+PMID: 12610082 [Indexed for MEDLINE]
+
+
+24. Diabetes Metab Res Rev. 2009 Feb;25(2):136-43. doi: 10.1002/dmrr.921.
+
+Acute effects of sildenafil on flow mediated dilatation and cardiovascular 
+autonomic nerve function in type 2 diabetic patients.
+
+Stirban A(1), Laude D, Elghozi JL, Sander D, Agelink MW, Hilz MJ, Ziegler D.
+
+Author information:
+(1)Diabetes Clinic, Heart and Diabetes Center North Rhine-Westphalia, 
+Ruhr-University of Bochum, Germany. astirban@hdz-nrw.de
+
+BACKGROUND: Sildenafil, frequently used as on demand medication for the 
+treatment of erectile dysfunction (ED), has been suggested to improve 
+endothelial function but also to alter blood pressure (BP) and induce 
+sympathetic activation. In people with type 2 diabetes mellitus (T2DM), a 
+high-risk population, the safety profile and the effects on endothelial function 
+of a maximal sildenafil dose (100 mg) have not been investigated and therefore 
+constituted the aim of our study.
+METHODS: A double-blind, placebo-controlled, cross-over trial using a single 
+dose of 100 mg sildenafil or placebo has been conducted in 40 subjects with T2DM 
+without known CVD. Haemodynamic parameters, flow mediated dilatation (FMD) in 
+brachial artery, cardiovascular autonomic function tests and spontaneous 
+baroreflex sensitivity (BRS) were measured.
+RESULTS: Sixty minutes after administration of sildenafil but not placebo, a 
+fall of supine systolic blood pressure (SBP) (-5.41 +/- 1.87 vs. + 0.54 +/- 1.71 
+mmHg) and diastolic blood pressure (DBP) (-4.46 +/- 1.13 vs. + 0.89 +/- 0.94 
+mmHg), as well as orthostatic SBP (-7.41 +/- 2.35 vs. + 0.94 +/- 2.06 mmHg) and 
+DBP (-5.65 +/- 1.45 vs. + 1.76 +/- 1.00 mmHg) during standing occurred, 
+accompanied by an increase in heart rate (+1.98 +/- 0.69 vs. - 2.42 +/- 0.59 
+beats/min) (all p < 0.01 vs. placebo). Changes in BP to standing up, FMD, time 
+domain and frequency domain indices of heart rate variability (HRV) and BRS were 
+comparable between sildenafil and placebo.
+CONCLUSIONS: Sildenafil administered at a maximum single dose to T2DM men 
+results in a mild increase in heart rate and decrease in BP, but it induces 
+neither an acute improvement of FMD nor any adverse effects on orthostatic BP 
+regulation, HRV and BRS.
+
+Copyright (c) 2008 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/dmrr.921
+PMID: 19116943 [Indexed for MEDLINE]
+
+
+25. Andrology. 2021 Jan;9(1):33-38. doi: 10.1111/andr.12837. Epub 2020 Jul 3.
+
+Targeting the NO-cGMP-PDE5 pathway in COVID-19 infection. The DEDALO project.
+
+Isidori AM(1), Giannetta E(1), Pofi R(1), Venneri MA(1), Gianfrilli D(1), 
+Campolo F(1), Mastroianni CM(2), Lenzi A(1), d'Ettorre G(2).
+
+Author information:
+(1)Department of Experimental Medicine, Sapienza" University of Rome, Rome, 
+Italy.
+(2)Department of Public Health and Infectious Diseases, "Sapienza" University of 
+Rome, Policlinico Umberto I of Rome, Rome, Italy.
+
+BACKGROUND: A pandemic outbreak of COVID-19 has been sweeping the world since 
+December. It begins as a respiratory infection that, mainly in men with diabetes 
+or renal impairment, evolves into a systemic disease, with SARDS, progressive 
+endothelial cell damage, abnormal clotting and impaired cardiovascular and liver 
+function. Some clinical trials are testing biological drugs to limit the immune 
+system dysregulation, "cytokines storm," that causes the systemic complications 
+of COVID-19. The contraindications of these drugs and their cost raise concerns 
+over the implications of their widespread availability.
+OBJECTIVES: Numerous clinical and experimental studies have revealed a role for 
+the nitric oxide (NO)-cyclic GMP-phosphodiesterase type 5 (PDE5) pathway in 
+modulating low-grade inflammation in patients with metabolic diseases, offering 
+cardiovascular protection. PDE5 inhibition favors an anti-inflammatory response 
+by modulating activated T cells, reducing cytokine release, lowering fibrosis, 
+increasing oxygen diffusion, stimulating vascular repair. PDE5 is highly 
+expressed in the lungs, where its inhibition improves pulmonary fibrosis, a 
+complication of severe COVID-19 disease.
+MATERIALS AND METHODS: We performed a systematic review of all evidence 
+documenting any involvement of the NO-cGMP-PDE5 axis in the pathophysiology of 
+COVID-19, presenting the ongoing clinical trials aimed at modulating this axis, 
+including our own "silDEnafil administration in DiAbetic and dysmetaboLic 
+patients with COVID-19 (DEDALO trial)."
+RESULTS: The reviewed evidence suggests that PDE5 inhibitors could offer a new 
+strategy in managing COVID-19 by (i) counteracting the Ang-II-mediated 
+downregulation of AT-1 receptor; (ii) acting on monocyte switching, thus 
+reducing pro-inflammatory cytokines, interstitial infiltration and the vessel 
+damage responsible for alveolar hemorrhage-necrosis; (iii) inhibiting the 
+transition of endothelial and smooth muscle cells to mesenchymal cells in the 
+pulmonary artery, preventing clotting and thrombotic complications.
+DISCUSSION AND CONCLUSION: If the ongoing trials presented herein should provide 
+positive findings, the low cost, wide availability and temperature stability of 
+PDE5 inhibitors could make them a major resource to combat COVID-19 in 
+developing countries.
+
+© 2020 American Society of Andrology and European Academy of Andrology.
+
+DOI: 10.1111/andr.12837
+PMCID: PMC7307129
+PMID: 32526061 [Indexed for MEDLINE]
+
+Conflict of interest statement: Nothing.
+
+
+26. Am J Physiol Endocrinol Metab. 2025 May 1;328(5):E711-E722. doi: 
+10.1152/ajpendo.00368.2024. Epub 2025 Apr 9.
+
+Increased cGMP improves microvascular exercise training adaptations in 
+diet-induced obesity.
+
+Winn NC(1)(2), Cappel DA(1), Pollack ED(1), Lantier L(1)(3), Riveros JK(1), 
+Bracy DP(1), Beckman JA(4), Wasserman DH(1)(3).
+
+Author information:
+(1)Department of Molecular Physiology and Biophysics, Vanderbilt University, 
+Nashville, Tennessee, United States.
+(2)Department of Medicine, Vanderbilt University Medical Center, Nashville, 
+Tennessee, United States.
+(3)Vanderbilt Mouse Metabolic Phenotyping Center, Vanderbilt University, 
+Nashville, Tennessee, United States.
+(4)Division of Vascular Medicine, UT Southwestern Medical Center, Dallas, Texas, 
+United States.
+
+Update of
+    bioRxiv. 2024 Sep 22:2024.09.18.612717. doi: 10.1101/2024.09.18.612717.
+
+With the development of atherosclerosis, impaired microvascular function can 
+result in diminished capacity for ambulation and is a risk factor for type 2 
+diabetes. Dynamic changes in vascular tone are determined, in large part, by the 
+endothelial nitric oxide synthase (eNOS)/nitric oxide (NO)/cGMP axis. We used 
+pharmacological gain of function of the eNOS/NO/cGMP axis in diet-induced obese 
+(DIO) mice and reduced function in lean mice to test the hypothesis that 
+functionality of this vascular control mechanism parallels the benefits of an 
+exercise training regimen. DIO mice have 50% lower exercise capacity (P < 
+0.0001) than lean mice and were used for pharmacological gain of function. The 
+phosphodiesterase-5a (PDE-5a) inhibitor, sildenafil, increases cGMP and was 
+administered to DIO mice daily. In sedentary mice, neither acute nor chronic 
+sildenafil improves exercise capacity. In contrast, chronic sildenafil 
+synergizes with exercise training to improve performance during an incremental 
+exercise test. Improved exercise performance was accompanied by a 40% increase 
+in basal skeletal muscle capillary flow velocity and ∼20% increase in 
+plasma-perfused capillary density measured via intravital microscopy. Loss of 
+function was tested in lean mice hemizygous for endothelial cell (EC) specific 
+eNOS creating an EC-eNOS knockdown (KD). EC-eNOS KD decreases capillary density 
+and exercise tolerance in sedentary mice; however, it did not prevent 
+exercise-training-induced improvements in endurance capacity. These data show 
+that 1) increasing cGMP with sildenafil enhances microcirculatory function and 
+exercise work tolerance that results from training; 2) eNOS KD does not prevent 
+the microcirculatory or improvements in exercise tolerance with training. PDE-5a 
+inhibitors combined with physical exercise are a potential mechanism for 
+improving ambulation in patients with circulatory limitations.NEW & NOTEWORTHY 
+This study used pharmacological gain-of-function and genetic loss-of-function 
+approaches to test the hypothesis that the eNOS/NO/cGMP axis is central to 
+exercise training adaptations in microcirculatory function and exercise 
+capacity. Chronic but not acute treatment with the PDE5 inhibitor, sildenafil, 
+synergizes with exercise training to improve performance with incremental 
+exercise in obese mice; whereas endothelium-specific knockdown in eNOS does not 
+blunt the microcirculatory adaptations and improvements in exercise tolerance 
+with training.
+
+DOI: 10.1152/ajpendo.00368.2024
+PMCID: PMC12070609
+PMID: 40204283 [Indexed for MEDLINE]
+
+
+27. J Cell Physiol. 2018 Nov;233(11):8411-8417. doi: 10.1002/jcp.26796. Epub 2018
+ May 24.
+
+Chronic phosphodiesterase type 5 inhibition has beneficial effects on 
+subcutaneous adipose tissue plasticity in type 2 diabetic mice.
+
+Fiore D(1), Gianfrilli D(1), Cardarelli S(1), Naro F(2), Lenzi A(1), Isidori 
+AM(1), Venneri MA(1).
+
+Author information:
+(1)Department of Experimental Medicine, Sapienza University, Rome, Italy.
+(2)Department of Anatomical, Histological, Forensic, and Orthopaedic Sciences, 
+Sapienza University, Rome, Italy.
+
+Different adipose tissue (AT) depots are associated with multiple metabolic 
+risks. Phosphodiesterase type 5 (PDE5) is involved in adipocyte physiology and 
+PDE5 inhibition may affect adipogenesis and ameliorate white AT quality. The aim 
+of this study is to investigate the distribution of AT and the composition of 
+the stroma-vascular fraction (SVF) of subcutaneous AT (SAT) in type 2 diabetic 
+mice after prolonged treatment with a PDE5 inhibitor, Sildenafil. 18 db/db mice 
+were treated with Sildenafil or vehicle for 12 weeks. AT distribution was 
+monitored and SAT was processed for isolation of SVF by flow cytometry. 
+Sildenafil induced an overall reduction in AT, mainly in visceral AT (VAT), 
+compared with SAT. In Sildenafil-treated mice, the mean change in body weight 
+from baseline positively correlated with VAT, but not with SAT. Characterization 
+of SVF of SAT showed an increase in the frequency of M2 macrophages and 
+endothelial cells in treated mice. Sildenafil improved the maintenance of SAT 
+homeostasis and distribution.
+
+© 2018 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jcp.26796
+PMID: 29797572 [Indexed for MEDLINE]
+
+
+28. Zhonghua Nan Ke Xue. 2017 Oct;23(10):878-882.
+
+[Clinical treatment of erectile dysfunction in type 2 diabeticpatients in the 
+high-altitude area].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Li FD(1)(2), Zhang B(2), Wang YM(2).
+
+Author information:
+(1)The Second School of Clinical Medicine, Lanzhou University, Lanzhou, Gansu 
+730030, China.
+(2)Department of Urology, Lanzhou General Hospital of PLA, Lanzhou, Gansu 
+730050, China.
+
+OBJECTIVE: To investigate the safety and efficacy of pancreatic kininogenase 
+combined with sildenafil in the treatment of erectile dysfunction(ED) in type 2 
+diabetes mellitus (DM) patients in the high-altitude area.
+METHODS: This study included 93 ED patients with type 2 DM, all residents of the 
+Xining area 1500 meters above sea level. We randomly divided them into an 
+experimental group (n = 48) and a control group (n = 45), the former treated 
+with pancreatic kininogenase(120 u, tid) and sildenafil (25 mg, qd at bedtime), 
+while the latter with sildenafil only (25 mg, qd at bedtime).After 4 and 8 weeks 
+of medication, we obtained the penile hemodynamic parameters,IIEF-5 scores, and 
+sexual intercourse satisfaction(SIS) scores and compared them between the two 
+groups of patients.
+RESULTS: There were no statistically significant differences in age or DM course 
+between the two groups of patients (P >0.05).Compared with the baseline, both 
+the experimental and control groups showed remarkably improvement inthe IIEF-5 
+score (8.81 ± 2.06 vs 11.54 ± 7.72 and 8.29 ± 1.91 vs 9.37± 1.65, P <0.05), SIS 
+score (3.35 ± 2.43vs6.83± 2.61and 3.41 ± 2.38 vs 4.92± 2.49, P <0.05), and 
+penile hemodynamic parameters obtained by color duplex Doppler ultrasonography(P 
+<0.05), with significant differences between the two groups in the IIEF-5 score 
+(11.54 ± 7.72 vs 9.37± 1.65, P <0.05) and SIS score (6.83± 2.61 vs 4.92± 2.49, P 
+<0.05) but not in the penile hemodynamic parameters (P >0.05). Even more 
+remarkable improvement was observed at 8 weeks in the experimental and control 
+groups in the IIEF-5 score (19.29± 1.85 and 15.43± 1.74)(P <0.05), SIS score 
+(11.73 ± 2.57 and 6.55± 2.71) (P <0.05), and penile hemodynamic parameters(P 
+<0.05), all with significant differences between the two groups (P <0.05).
+CONCLUSIONS: Pancreatic kininogenase combined with sildenafil has a better 
+clinical effect than sildenafil alone on ED in type 2 DM patientsin the 
+high-altitude area.
+
+Publisher: 目的： 探讨胰激肽原酶肠溶片联合西地那非治疗高海拔地区2型糖尿病合并勃起功能障碍(ED)患者的安全性及疗效。方法： 
+选择青海西宁地区糖尿病合并ED患者93例，随机分成两组，试验组(48例)服用胰激肽原酶肠溶片（120 u，3次/d）联合小剂量西地那非规律服用（25 
+mg，每晚1次），对照组(45例) 小剂量西地那非规律服用（25 
+mg，每晚1次），两组治疗4、8周后评价两组阴茎彩色多普勒超声（CDDU）检查、国际勃起功能指数(IIEF-5)、性交满意度。结果： 
+患者年龄及糖尿病病程两组间均无显著差异(P>0.05)。治疗4周：试验组和对照组治疗前后IIEF-5评分［(8.81±2.06)分 vs 
+(11.54±7.72)分和(8.29±1.91)分 vs (9.37±1.65)分］、SIS［(3.35±2.43)分 vs 
+(6.83±2.61)分和(3.41±2.38)分 vs 
+(4.92±2.49)分］、CDDU均有显著差异(P<0.05)，两组间IIEF-5评分［(11.54±7.72)分 vs 
+(9.37±1.65)分］和SIS［(6.83±2.61)分 vs 
+(4.92±2.49)分］有显著差异(P<0.05)，而CDDU参数无差异(P>0.05)。治疗8周：试验组和对照组治疗前后IIEF-5评分［(8.81±2.06)分 
+vs (19.29±1.85)分和(8.29±1.91)分 vs (15.43±1.74)分］均有显著差异 
+(P<0.05)，两组间IIEF-5评分［(19.29±1.85)分 vs (15.43±1.74)分］、SIS［(11.73±2.57)分 vs 
+(6.55±2.71)分］、CDDU参数均有显著差异(P<0.05)。结论： 
+胰激肽原酶肠溶片联合西地那非治疗高海拔地区2型糖尿病合并ED患者具有一定临床疗效，且较单一西地那非治疗更为有效。.
+
+PMID: 29727535 [Indexed for MEDLINE]
+
+
+29. Am J Physiol Regul Integr Comp Physiol. 2014 Jan 15;306(2):R108-17. doi: 
+10.1152/ajpregu.00033.2013. Epub 2013 Dec 4.
+
+Bladder and erectile dysfunctions in the Type 2 diabetic Goto-Kakizaki rat.
+
+Oger-Roussel S(1), Behr-Roussel D, Caisey S, Kergoat M, Charon C, Audet A, 
+Bernabé J, Alexandre L, Giuliano F.
+
+Author information:
+(1)Pelvipharm, Montigny-le-Bretonneux, France;
+
+Despite the fact that urogenito-sexual complications significantly impact the 
+quality of life of diabetic patients, a robust in vivo experimental model is 
+lacking. Bladder and erectile function in the Type 2 diabetic Goto-Kakizaki (GK) 
+rat and responses to standard-of-care treatments for each disorder have been 
+assessed. GK rats (n = 25, 18-wk-old, GK/Par colony) and age-matched Wistar rats 
+(n = 23), characterized for their metabolic parameters, were used. Bladder 
+function was assessed by cystometry in conscious rats treated by intravenous 
+solifenacin (1 mg/kg). Subsequently, erectile function was assessed under 
+anesthesia following electrical stimulation of the cavernous nerve in presence 
+of intravenous sildenafil (0.3 mg/kg). GK rats displayed detrusor overactivity 
+with a significant increase in frequency/amplitude of nonvoiding contractions 
+during the filling phase, together with an increase in bladder capacity, 
+intercontraction interval, voided volume, and maximal pressure of voiding 
+contraction. Solifenacin significantly decreased parameters characterizing 
+voiding contractions without modifying voiding efficiency. Erectile function in 
+GK rats was markedly impaired and remained so after sildenafil treatment despite 
+a significant improvement. GK rats display both bladder and erectile 
+dysfunctions and respond at least partially to standard-of-care treatments for 
+each disorder, thus representing a suitable model to investigate the 
+pathophysiology and assess the efficacy of new therapeutic agents for Type 2 
+diabetes-associated bladder and erectile complications.
+
+DOI: 10.1152/ajpregu.00033.2013
+PMID: 24305064 [Indexed for MEDLINE]
+
+
+30. J Clin Transl Endocrinol. 2016 Nov 25;6:50-55. doi:
+10.1016/j.jcte.2016.11.003.  eCollection 2016 Dec.
+
+Effect of phosphodiesterase-5 inhibitors on glycemic control in person with type 
+2 diabetes mellitus: A systematic review and meta-analysis.
+
+Poolsup N(1), Suksomboon N(2), Aung N(2).
+
+Author information:
+(1)Department of Pharmacy, Faculty of Pharmacy, Silpakorn University, Nakhon 
+Pathom 73000, Thailand.
+(2)Department of Pharmacy, Faculty of Pharmacy, Mahidol University, Bangkok 
+10400, Thailand.
+
+Chronic use of phosphodiesterase-5 inhibitors (PDE-5i) has been shown to improve 
+insulin action on muscle glucose uptake by the prolongation of nitric oxide 
+(NO)/cyclic guanosine monophosphate (cGMP)/protein kinase (PKG) signalling.
+AIMS: As the effects of PDE-5i on glycemic control in person with type 2 
+diabetes mellitus (T2DM) have not been systematically explored, we conducted a 
+meta-analysis of available randomized controlled trials (RCTs).
+METHODS: A literature search was performed through electronic databases 
+including MEDLINE (Pubmed), The Cochrane Library, SCOPUS, Web of Science, 
+CINAHL, www.clinicaltrials.gov and www.clinicaltrialresults.org until April 2016 
+without language restriction. Studies were included if they met the following 
+criteria: (i) RCTs of the chronic use of PDE-5i compared with placebo or no 
+active treatment in T2DM patients (ii) reporting of HbA1c or glycated 
+haemoglobin or fasting plasma glucose (FPG).
+RESULTS: Four studies involving a total of 198 patients fit into the inclusion 
+criteria. All included studies used the same PDE-5i, sildenafil. Reports of 
+HbA1c were analysed as only one study reported FPG. PDE-5i had no beneficial 
+effect on HbA1c with weighted mean difference (WMD) of 0.17% (95% CI, -0.64 to 
+0.97).
+CONCLUSION: This meta-analysis suggests that large and well-controlled studies 
+are warranted to shed light on the effect of PDE-5i on glycemic control in 
+people with type 2 diabetes mellitus.
+
+DOI: 10.1016/j.jcte.2016.11.003
+PMCID: PMC5644434
+PMID: 29067241

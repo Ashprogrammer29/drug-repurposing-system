@@ -1,0 +1,39 @@
+Reaction: Disease progression | Outcome: 5
+Reaction: Disease progression | Outcome: 5
+Reaction: Disease progression | Outcome: 5
+Reaction: Disease progression | Outcome: 5
+Reaction: Disease progression | Outcome: 5
+Reaction: Disease progression | Outcome: 5
+Reaction: Disease progression | Outcome: 5
+Reaction: Disease progression | Outcome: 5
+Reaction: Disease progression | Outcome: 5
+Reaction: Disease progression | Outcome: 5
+Reaction: Disease progression | Outcome: 5
+Reaction: Disease progression | Outcome: 5
+Reaction: Neurological decompensation | Outcome: 5
+Reaction: Disease progression | Outcome: 5
+Reaction: Malignant neoplasm progression | Outcome: 6
+Reaction: Pancytopenia | Outcome: 6
+Reaction: Neurological decompensation | Outcome: 5
+Reaction: Disease progression | Outcome: 5
+Reaction: Bronchopulmonary aspergillosis | Outcome: 5
+Reaction: Circulatory collapse | Outcome: 1
+Reaction: Lung disorder | Outcome: 1
+Reaction: Cholelithiasis | Outcome: 1
+Reaction: Cholecystitis | Outcome: 1
+Reaction: Hypertension | Outcome: 3
+Reaction: Bronchitis | Outcome: 1
+Reaction: Asthenia | Outcome: 1
+Reaction: Pterygium | Outcome: 6
+Reaction: Gastroenteritis | Outcome: 1
+Reaction: Vasculitis | Outcome: 1
+Reaction: Pancytopenia | Outcome: 1
+Reaction: Thrombocytopenia | Outcome: 1
+Reaction: Femoral neck fracture | Outcome: 1
+Reaction: Localised infection | Outcome: 1
+Reaction: Bronchopneumonia | Outcome: 1
+Reaction: Pharyngitis | Outcome: 1
+Reaction: Erysipelas | Outcome: 1
+Reaction: Cardiac failure | Outcome: 1
+Reaction: Fall | Outcome: 6
+Reaction: Respiratory distress | Outcome: 5

@@ -1,0 +1,18 @@
+Trial: NCT03068260
+Title: Ultrasound-guided Transmuscular Quadratus Lumborum Block for Elective Caesarean Section.
+Phase: PHASE4
+Status: COMPLETED
+Summary: ECS is a very common procedure. A 1-year retrospective survey revealed a vast opioid consumption among the new mothers of approximately (mean±SD) 35±25 mg of oral morphine in the first 24 postoperative hours despite a multimodal analgesic regimen. The adverse effects of morphine are well known and include postoperative nausea and vomiting (PONV), itching, fatigue, constipation, confusion, respirat
+---
+Trial: NCT00442546
+Title: Efficacy And Safety Of Pregabalin For Pain Following Total Knee Replacement
+Phase: PHASE3
+Status: COMPLETED
+Summary: Pregabalin added to the standard of care with dosing starting preoperatively and continuing for up to 6 weeks post surgery will decrease the intensity of post-operative pain following total knee replacement.
+---
+Trial: NCT03478423
+Title: Opioid Analgesics for Acute Fracture Pain in Adults Discharged From the ED
+Phase: NA
+Status: TERMINATED
+Summary: Background: Emergency department (ED) providers are frequently challenged with how best to treat acute pain, specifically when non-opioid analgesics are insufficient or contraindicated. Studies have documented older patients presenting to the ED with painful conditions are less likely to receive pain medications than younger patients, and this inadequate pain control has been associated with incre
+---

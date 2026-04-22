@@ -1,0 +1,811 @@
+1. Headache. 2021 Jan;61(1):11-43. doi: 10.1111/head.14041. Epub 2021 Jan 12.
+
+Management of primary headaches during pregnancy, postpartum, and breastfeeding: 
+A systematic review.
+
+Saldanha IJ(1), Cao W(1), Bhuma MR(1), Konnyu KJ(1), Adam GP(1), Mehta S(1), 
+Zullo AR(1)(2), Chen KK(3)(4), Roth JL(5), Balk EM(1).
+
+Author information:
+(1)Center for Evidence Synthesis in Health, Department of Health Services, 
+Policy, and Practice, Department of Epidemiology, Brown University School of 
+Public Health, Providence, RI, USA.
+(2)Center for Gerontology and Healthcare Research, Department of Health 
+Services, Policy, and Practice, Department of Epidemiology, Brown University 
+School of Public Health, Providence, RI, USA.
+(3)Department of Medicine, Warren Alpert Medical School, Brown University, 
+Providence, RI, USA.
+(4)Department of Obstetrics and Gynecology, Warren Alpert Medical School, Brown 
+University, Providence, RI, USA.
+(5)Department of Neurology, Brown University Warren Alpert Medical School, 
+Providence, RI, USA.
+
+Comment in
+    Headache. 2021 Jan;61(1):9-10. doi: 10.1111/head.14047.
+
+BACKGROUND: Primary headaches (migraine, tension headache, cluster headache, and 
+other trigeminal autonomic cephalgias) are common in pregnancy and postpartum. 
+It is unclear how to best and most safely manage them.
+OBJECTIVE: We conducted a systematic review (SR) of interventions to prevent or 
+treat primary headaches in women who are pregnant, attempting to become 
+pregnant, postpartum, or breastfeeding.
+METHODS: We searched Medline, Embase, Cochrane CENTRAL, CINAHL, 
+ClinicalTrials.gov, Cochrane Database of SRs, and Epistemonikos for primary 
+studies of pregnant women with primary headache and existing SRs of harms in 
+pregnant women regardless of indication. No date or language restrictions were 
+applied. We assessed strength of evidence (SoE) using standard methods.
+RESULTS: We screened 8549 citations for studies and 2788 citations for SRs. 
+Sixteen studies (mostly high risk of bias) comprising 14,185 patients (total) 
+and 26 SRs met the criteria. For prevention, we found no evidence addressing 
+effectiveness. Antiepileptics, venlafaxine, tricyclic antidepressants, 
+benzodiazepines, β-blockers, prednisolone, and oral magnesium may be associated 
+with fetal/child adverse effects, but calcium channel blockers and 
+antihistamines may not be (1 single-group study and 11 SRs; low-to-moderate 
+SoE). For treatment, combination metoclopramide and diphenhydramine may be more 
+effective than codeine for migraine or tension headache (1 randomized controlled 
+trial; low SoE). Triptans may not be associated with fetal/child adverse effects 
+(8 nonrandomized comparative studies; low SoE). Acetaminophen, prednisolone, 
+indomethacin, ondansetron, antipsychotics, and intravenous magnesium may be 
+associated with fetal/child adverse effects, but low-dose aspirin may not be 
+(indirect evidence; low-to-moderate SoE). We found insufficient evidence 
+regarding non-pharmacologic treatments.
+CONCLUSIONS: For prevention of primary headache, calcium channel blockers and 
+antihistamines may not be associated with fetal/child adverse effects. For 
+treatment, combination metoclopramide and diphenhydramine may be more effective 
+than codeine. Triptans and low-dose aspirin may not be associated with 
+fetal/child adverse effects. Future research should identify effective and safe 
+interventions in pregnancy and postpartum.
+
+© 2021 American Headache Society.
+
+DOI: 10.1111/head.14041
+PMID: 33433020 [Indexed for MEDLINE]
+
+
+2. Management of Primary Headaches in Pregnancy [Internet].
+
+Saldanha IJ, Roth JL, Chen KK, Zullo AR, Adam GP, Konnyu KJ, Cao W, Bhuma MR, 
+Kimmel HJ, Mehta S, Riester MR, Sorial MN, Balk EM.
+
+Rockville (MD): Agency for Healthcare Research and Quality (US); 2020 Nov. 
+Report No.: 20(21)-EHC026.
+AHRQ Comparative Effectiveness Reviews.
+
+OBJECTIVES: This systematic review (SR) evaluates the literature on 
+pharmacologic and nonpharmacologic interventions to prevent or treat attacks of 
+primary headaches (migraine, tension headache, cluster headache, and other 
+trigeminal autonomic cephalgias) in women who are pregnant (or attempting to 
+become pregnant), postpartum, or breastfeeding.
+DATA SOURCES: We searched Medline®, Embase®, Cochrane CENTRAL, CINAHL®, and 
+ClinicalTrials.gov to identify primary studies (comparative studies and 
+single-group studies) in women who are pregnant (or attempting to become 
+pregnant), postpartum, or breastfeeding with primary headache (direct evidence). 
+We searched Medline, the Cochrane Database of Systematic Reviews, and 
+Epistemonikos for existing SRs of harms of interventions in pregnant women 
+regardless of indication (indirect evidence).
+REVIEW METHODS: We extracted study data into the Systematic Review Data 
+Repository. We assessed the risk of bias and evaluated the strength of evidence 
+(SoE) using standard methods. The PROSPERO protocol registration number is 
+CRD42020158310.
+RESULTS: Our searches for direct and indirect evidence yielded 8,549 citations 
+and 2,788 citations, respectively. Sixteen primary studies comprising 14,185 
+patients in total and 26 SRs met criteria. Risk of bias was high for most 
+primary studies. We found no evidence addressing effectiveness of any 
+intervention for prevention of primary headaches. We found one single-group 
+study (of topiramate) and 11 SRs reporting potential harms of various 
+interventions used for primary headache prevention during pregnancy. 
+Antiepileptics (except lamotrigine), venlafaxine, tricyclic antidepressants, 
+benzodiazepines, beta blockers, prednisolone, and oral magnesium may be 
+associated with increased risk of fetal/child adverse effects, but calcium 
+channel blockers and antihistamines may have low risk of adverse effects 
+(indirect evidence; low to moderate SoE). For treatment of acute attacks of 
+primary headache, we found three randomized controlled trials (RCTs), eight 
+nonrandomized comparative studies (NRCSs), and four single-group studies. 
+Combination metoclopramide and diphenhydramine may be more effective than 
+codeine in reducing severity of migraine or tension headache; adverse effect 
+profiles were similar (1 RCT; low SoE). Triptans used for migraine during 
+pregnancy were not associated with spontaneous abortions or congenital anomalies 
+(8 NRCSs; low SoE). Acetaminophen, prednisolone, indomethacin, ondansetron, 
+antipsychotics, and intravenous magnesium may be associated with increased risk 
+of fetal/child adverse effects, but low-dose aspirin (either during pregnancy or 
+postpartum) may not be associated with increased risk (indirect evidence; low to 
+moderate SoE). There is insufficient evidence to make conclusions about the 
+benefits or harms of nonpharmacologic treatments used during pregnancy, 
+including acupuncture (1 RCT); biofeedback, relaxation therapy, and physical 
+therapy (1 RCT and 2 single-group studies); nerve blocks (1 single-group study); 
+and transcranial magnetic stimulation (1 single-group study).
+CONCLUSIONS: Evidence regarding the benefits and harms of all interventions in 
+women who are pregnant (or attempting to become pregnant), postpartum, or 
+breastfeeding is insufficient, or at best of low strength of evidence. Future 
+research is needed to identify the most effective and safe interventions for 
+preventing or treating primary headaches in these populations of women.
+
+PMID: 33263968
+
+
+3. Drugs. 1994 Apr;47(4):622-51. doi: 10.2165/00003495-199447040-00006.
+
+Sumatriptan. A reappraisal of its pharmacology and therapeutic efficacy in the 
+acute treatment of migraine and cluster headache.
+
+Plosker GL(1), McTavish D.
+
+Author information:
+(1)Adis International Limited, Auckland, New Zealand.
+
+Sumatriptan is a potent and selective agonist at a vascular serotonin1 
+(5-hydroxytryptamine1; 5-HT1) receptor subtype (similar to 5-HT1D) and is used 
+in acute treatment of migraine and cluster headache. Following administration of 
+sumatriptan 100mg orally, relief of migraine headache (at 2 hours) was achieved 
+in 50 to 67% of patients compared with 10 to 31% with placebo in controlled 
+clinical trials. In a comparative study, oral administration of sumatriptan 
+100mg consistently achieved significantly greater response rates than a fixed 
+combination of ergotamine 2mg plus caffeine 200mg during 3 consecutive migraine 
+attacks (66 vs 48% for first attack). Oral sumatriptan 100mg was also more 
+effective than aspirin 900mg plus metoclopramide 10mg orally in a similar study. 
+In the majority of controlled clinical trials, headache relief (at 1 hour after 
+administration) was achieved in 70 to 80% of patients with migraine receiving 
+sumatriptan 6mg subcutaneously compared with 18 to 26% of placebo recipients. 
+Approximately 40% of patients who initially responded to oral or subcutaneous 
+sumatriptan experienced recurrence of their headache, usually within 24 hours, 
+but the majority of these patients responded well to a further dose of 
+sumatriptan. Patients with cluster headache were treated for acute attacks with 
+sumatriptan 6mg subcutaneously or placebo in 2 crossover trials. Headache relief 
+was achieved within 15 minutes in 74 and 75% of patients receiving sumatriptan 
+in these studies compared with 26 and 35%, respectively, with placebo. Patients 
+receiving sumatriptan 12mg had a similar response rate as those receiving 6mg, 
+but the higher dose was associated with an increased incidence of adverse 
+events. Based on extensive safety data pooled from controlled clinical trials, 
+sumatriptan is generally well tolerated and most adverse events are transient. 
+The most frequently reported adverse events following oral administration 
+include nausea, vomiting, malaise, fatigue and dizziness. Injection site 
+reactions (minor pain and redness of brief duration) occur in approximately 40% 
+of patients receiving subcutaneous sumatriptan, although the incidence appears 
+to be markedly reduced when patients self-administer the drug with an 
+auto-injector. Chest symptoms (mainly tightness and pressure) occur in 3 to 5% 
+of sumatriptan recipients, but have not been associated with myocardial 
+ischaemia except in a few isolated cases. Sumatriptan is contraindicated in 
+patients with ischaemic heart disease, angina pectoris including Prinzmetal 
+(variant) angina, previous myocardial infarction and uncontrolled hypertension, 
+but is not contraindicated in patients with migraine and asthma. Data from long 
+term studies in acute treatment of migraine and cluster headache suggest that 
+sumatriptan remains effective and well tolerated over several months.(ABSTRACT 
+TRUNCATED AT 400 WORDS)
+
+DOI: 10.2165/00003495-199447040-00006
+PMID: 7516861 [Indexed for MEDLINE]
+
+
+4. Case Rep Neurol. 2020 Jun 10;12(2):184-188. doi: 10.1159/000508356.
+eCollection  2020 May-Aug.
+
+Cluster-Like Headache Revealing Polycythemia Vera: A Case Report.
+
+Popescu C(1).
+
+Author information:
+(1)Victor Pauchet Clinic, Amiens, France.
+
+Herein, we report on a 44-year-old man who presented with cluster headache 
+(CH)-like pain triggered by polycythemia vera (PV). He had severe unilateral 
+head pain attacks lasting about 30 min not associated with cranial autonomic 
+symptoms. After the exclusion of secondary etiologies, the patient was screened 
+for a neoplastic process through biological markers, and the diagnosis of PV was 
+established. The results of the initial laboratory examination showed hemoglobin 
+at 18.1 g/L and Hct at 54%. JAK2 mutation analysis was positive at 54%, and 
+marrow biopsy confirmed the hematopoietic clonal expansion, without 
+myelofibrosis. He was treated with aspirin and ruxolitinib due to intolerance to 
+interferon and the ineffectiveness of hydroxyurea. The treatment by venesection 
+improved substantially the headaches. Oxygen inhalation was very effective in 
+treating the CH attacks. In contrast, sumatriptan was inefficient at the very 
+beginning of the disease. Among the pathophysiological mechanisms that we can 
+propose to explain these cluster-like headaches are the prolonged hypoxia 
+involving nitric oxide and calcitonin gene-related peptide release.
+
+Copyright © 2020 by S. Karger AG, Basel.
+
+DOI: 10.1159/000508356
+PMCID: PMC7315213
+PMID: 32595481
+
+Conflict of interest statement: The author has no conflicts of interest to 
+declare.
+
+
+5. Cephalalgia. 1995 Oct;15(5):337-57. doi: 10.1046/j.1468-2982.1995.1505337.x.
+
+Migraine and cluster headache--their management with sumatriptan: a critical 
+review of the current clinical experience.
+
+Wilkinson M(1), Pfaffenrath V, Schoenen J, Diener HC, Steiner TJ.
+
+Author information:
+(1)City of London Migraine Clinic, UK.
+
+Sumatriptan is a potent and selective agonist at the vascular 5HT1 receptor 
+which mediates constriction of certain large cranial blood vessels and/or 
+inhibits the release of vasoactive neuropeptides from perivascular trigeminal 
+axons in the dura mater following activation of the trigeminovascular system. 
+The mode of action of this drug in migraine and cluster headache is discussed. 
+On the basis of a detailed review of all published trials and available data 
+from post-marketing studies, the efficacy, safety, tolerability and the place of 
+oral and subcutaneous sumatriptan in the treatment of both conditions are 
+assessed. A number of double-blind clinical trials have demonstrated that 
+sumatriptan 100 mg administered orally is clearly superior to placebo in the 
+acute treatment of migraine headache and achieves significantly greater response 
+rates than ergotamine or aspirin. In other studies, 70 to 80% of patients 
+receiving sumatriptan 6 mg sc experienced relief of migraine headaches by 1 or 2 
+h after administration, and patients consistently required less rescue 
+medication for unresolved symptoms. Sumatriptan was also effective in relieving 
+associated migraine symptoms like nausea and vomiting. Sumatriptan was equally 
+effective regardless of migraine type or duration of migraine symptoms. Overall, 
+approximately 40% of patients who initially responded to oral or subcutaneous 
+sumatriptan experienced recurrence of their headache usually within 24 h, 
+effectively treated by a further dose of this drug. In 75% of patients with 
+cluster headache treated with sumatriptan 6 mg sc, relief was achieved within 15 
+min. Based on pooled study data, sumatriptan is generally well tolerated and 
+most adverse events are transient. Adverse events following oral administration 
+include nausea, vomiting, malaise, fatigue and dizziness. With the subcutaneous 
+injection, injection site reactions occur in approximately 30%. Chest syumptoms 
+are reported in 3 to 5% but have been associated with myocardial ischaemia only 
+in rare isolated cases. The recommended dosage of sumatriptan at the onset of 
+migraine symptoms is 100 mg orally or 6 mg subcutaneously. The recommended 
+dosage for cluster headache is 6 mg sumatriptan sc. Sumatriptan must not be 
+given together with vasoconstrictive substances, e.g., ergotamines, or with 
+migraine prophylactics with similar properties, e.g., methysergide. Sumatriptan 
+should not be given during the migraine aura. It is contraindicated in patients 
+with ischaemic heart disease, previous myocardial infarction, Prinzmetal 
+(variant) angina and uncontrolled hypertension.
+
+DOI: 10.1046/j.1468-2982.1995.1505337.x
+PMID: 8536293 [Indexed for MEDLINE]
+
+
+6. Drugs. 1992 May;43(5):776-98. doi: 10.2165/00003495-199243050-00010.
+
+Sumatriptan. A review of its pharmacodynamic and pharmacokinetic properties, and 
+therapeutic efficacy in the acute treatment of migraine and cluster headache.
+
+Dechant KL(1), Clissold SP.
+
+Author information:
+(1)Adis International Limited, Auckland, New Zealand.
+
+Sumatriptan is a serotonin1 (5-HT1) receptor agonist, which is effective in the 
+acute treatment of migraine headache. Its antimigraine activity is believed to 
+derive from selective vasoconstriction of cranial blood vessels which are 
+dilated and distended during migraine headache and/or from inhibition of 
+neurogenically mediated inflammation in the dura mater. In placebo-controlled 
+comparative studies, sumatriptan reduced migraine headache from 'moderate or 
+severe' to 'mild or none' within 2 hours in 50 to 73% of patients following oral 
+administration of 100 or 200 mg, and within 1 hour in 70 to 80% of patients 
+following subcutaneous doses of 6 to 8 mg or intranasal doses 20 mg into each 
+nostril. In addition, sumatriptan alleviated the accompanying symptoms of 
+nausea, vomiting, and photophobia/phonophobia more effectively than placebo, and 
+permitted higher percentages of patients to resume normal daily activities. 
+Sumatriptan 100 mg orally was more effective in the acute treatment of migraine 
+than oral combination therapy consisting of ergotamine 2 mg plus caffeine 200 mg 
+or aspirin 900 mg plus metoclopramide 10 mg. Pooled data from nearly 5000 
+patients treated with either oral or subcutaneous sumatriptan in clinical trials 
+indicate that it is well tolerated. However, migraine recurrence within 24 or 48 
+hours of initial symptom resolution developed in approximately 40% of patients 
+treated with sumatriptan, irrespective of route of administration. It is likely 
+that migraine recurrence is related to the short half-life of the drug 
+(approximately 2 hours). Future studies should attempt to ascertain whether 
+additional doses of sumatriptan will help prevent migraine recurrence in 
+patients with attacks of long duration and if so, should determine the optimum 
+interval between dosages. In conclusion, sumatriptan is an important addition to 
+the range of drugs currently available for acute treatment of migraine. It 
+provides rapid relief from debilitating symptoms in a high percentage of 
+patients, particularly after subcutaneous administration. At this stage in its 
+development a number of questions remain to be answered - most notably whether 
+repeat doses will help prevent recurrent attacks and which patients are most 
+likely to respond to therapy. Nevertheless, sumatriptan presently offers a 
+combination of efficacy and tolerability that is unique in this particular 
+clinical setting.
+
+DOI: 10.2165/00003495-199243050-00010
+PMID: 1379152 [Indexed for MEDLINE]
+
+
+7. Eur J Neurol. 2025 Oct;32(10):e70316. doi: 10.1111/ene.70316.
+
+The Spectrum of Headaches in Moyamoya Angiopathy: From Mechanisms to Management 
+Strategies-A Consensus Review From the NEUROVASC Working Group.
+
+Rifino N(1), Aamodt AH(2), Wiedmann M(3), Kramer M(4), Becker J(4), Guey S(5), 
+Acerbi F(6), Herve D(5), Bersano A(1).
+
+Author information:
+(1)Cerebrovascular Unit, Fondazione IRCCS Istituto Neurologico Carlo Besta, 
+Milan, Italy.
+(2)Department of Neurology, Oslo University Hospital, Oslo, Norway.
+(3)Department of Neurosurgery, Oslo University Hospital, Oslo, Norway.
+(4)Department of Neurology, Alfried Krupp Hospital, Essen, Germany.
+(5)CNVT-CERVCO et Département de Neurologie, Hôpital Lariboisière, APHP Nord, 
+Paris, France.
+(6)Department of Neurosurgery, Fondazione IRCCS Istituto Neurologico Carlo 
+Besta, Milan, Italy.
+
+BACKGROUND: Moyamoya angiopathy (MMA) is a rare, progressive cerebrovascular 
+disorder characterized by stenosis or occlusion of the terminal internal carotid 
+arteries, leading to the development of fragile collateral vessels. Headache is 
+a common but understudied symptom of MMA, reported in up to 75% of patients. The 
+headache phenotype often mimics migraine or tension-type headache, although 
+cluster headache-like episodes have also been described. Aims to summarize 
+current evidence on the clinical characteristics, underlying mechanisms, and 
+treatment strategies for headache in MMA.
+MATERIALS AND METHODS: A narrative review of the literature was conducted, 
+focusing on the prevalence, phenotype, pathophysiological mechanisms, and 
+therapeutic options for headache in MMA.
+RESULTS: The pathogenesis of headache in MMA remains unclear but is likely 
+multifactorial, involving impaired cerebrovascular autoregulation, microvascular 
+ischemia, and collateral vessel development. No standardized treatment exists 
+for MMA-related headache. Antiplatelet therapy, particularly aspirin, may offer 
+some benefit, whereas NSAIDs and triptans require caution due to cerebrovascular 
+risks. Emerging therapies such as calcitonin gene-related peptide (CGRP) 
+inhibitors and Lasmiditan show potential but lack specific data in MMA patients. 
+Surgical revascularization, mainly through direct or combined bypass, is an 
+established intervention for stroke prevention and may also reduce headache 
+burden. However, postoperative outcomes are heterogeneous, with reports of both 
+headache improvement and new-onset headache.
+DISCUSSION AND CONCLUSION: Headache is a frequent and clinically relevant 
+manifestation of MMA that significantly impacts quality of life. Evidence on 
+optimal management remains scarce, and current strategies are largely empirical. 
+Further studies are needed to clarify pathogenic mechanisms, refine patient 
+selection for surgical interventions, and evaluate pharmacological treatments, 
+including novel agents, to improve clinical outcomes.
+
+© 2025 The Author(s). European Journal of Neurology published by John Wiley & 
+Sons Ltd on behalf of European Academy of Neurology.
+
+DOI: 10.1111/ene.70316
+PMCID: PMC12491649
+PMID: 41039799 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+8. Int J Clin Pract. 2018 Jul;72(7):e13203. doi: 10.1111/ijcp.13203. Epub 2018
+May  24.
+
+Melatonin for preventing primary headache: A systematic review.
+
+Leite Pacheco R(1)(2), de Oliveira Cruz Latorraca C(1)(2), Adriano Leal Freitas 
+da Costa A(1), Luiza Cabrera Martimbianco A(2), Vianna Pachito D(1)(2), Riera 
+R(1)(2).
+
+Author information:
+(1)Discipline of Evidence-Based Health, Escola Paulista de Medicina (EPM), 
+Universidade Federal de São Paulo (Unifesp), São Paulo, SP, Brazil.
+(2)Cochrane Brazil, São Paulo (SP), Brazil.
+
+BACKGROUND: The aim of this study was to assess the effectiveness and safety of 
+melatonin for primary headache.
+METHODS: This systematic review following the Cochrane Handbook for Systematic 
+Reviews of Interventions recommendations and PRISMA Statement.
+RESULTS: Four randomized controlled trials were included (351 participants). 
+According to the GRADE approach the quality of evidence was very low. The use of 
+melatonin for migraine showed that (i) reduced the number of days with pain and 
+the analgesic consumption when compared with placebo, (ii) no benefits on 
+headache intensity, number of headache days and analgesics consumption when 
+compared with amitriptyline, (iii) reduced the number of analgesic consumption, 
+the attack frequency and the headache intensity when associated with propranolol 
+plus nortriptyline vs placebo plus propranolol plus nortriptyline, and (iv) no 
+difference for any of the interest outcomes when associated with propranolol 
+plus nortriptyline vs sodium valproate plus propranolol plus nortriptyline. The 
+use of melatonin for cluster headache when compared with placebo showed a 
+reduction in the daily number of analgesic consumption and no difference in the 
+number of daily attacks. Adverse events were poorly reported by all of the 
+studies.
+CONCLUSION: This review found that so far there are few clinical trials, with 
+poor methodological quality about melatonin for primary headaches. The available 
+evidence is not sufficient to support the use of melatonin in clinical practice 
+for this population. Further research is still necessary for assess its effects 
+(benefits and harms) for primary headaches patients. Number of Protocol 
+registration in PROSPERO database: CRD42017067105 (available at 
+https://www.crd.york.ac.uk/PROSPERO/display_record.asp?ID=CRD42017067105) .
+
+© 2018 John Wiley & Sons Ltd.
+
+DOI: 10.1111/ijcp.13203
+PMID: 29799148 [Indexed for MEDLINE]
+
+
+9. Panminerva Med. 1982 Apr-Jun;24(2):85-7.
+
+Treatment of migraine and cluster headache.
+
+Rose FC, Peatfield RC.
+
+PMID: 7145460 [Indexed for MEDLINE]
+
+
+10. Rev Stomatol Chir Maxillofac. 2000 Jun;101(3):119-28.
+
+[Neurologic diagnosis and therapy of headaches].
+
+[Article in French]
+
+Besson G(1), Dananchet Y.
+
+Author information:
+(1)Service de Neurologie du CHRU de Grenoble. Gerard.besson@ujf-grenoble.fr
+
+Headaches are a very common complaint for general practitioners and 
+neurologists. When a regional cause has been excluded, the neurologist will 
+class headaches according to the criteria of the International Headache Society. 
+An estimate of the 1-year prevalence of migraine in adults is about 10-15%. 
+First line treatment of migraine attacks consists in aspirin (1 g) with or 
+without metoclopramide or nonsteroidal antiinflammatory drugs. Second line 
+treatment consists in vasoconstrictors, ergotamine or triptans. Beta-blockers 
+are used for first line prophylactic treatment of migraine. Tension-type 
+headache is by far the most common form of headache with a prevalence ranging 
+from 30% to 80% and is more prevalent in women than in men. Nonsteroidal 
+antiinflammatory drugs and muscle relaxants are used for tension-type headache. 
+The prevalence of cluster headache is about 0.1%. Acute treatment consists in 
+inhalation of 100% oxygen at 7 liters/min using a facial mask for 15 minutes or 
+subcutaneous sumatriptan (6 mg), at most twice daily. Chronic paroxysmal 
+hemicrania is a rare type of cluster headache with an absolute effectiveness of 
+indomethacin. Trigeminal neuralgia is rare. However, it is probably the most 
+intense facial pain. Pharmacological treatment is based on carbamazepin. 
+Surgical treatment may be proposed secondarily. In conclusion, the right 
+diagnosis leads to the right treatment. Thus, daily chronic headaches due to 
+drug overuse can be avoided.
+
+PMID: 10981295 [Indexed for MEDLINE]
+
+
+11. Cephalalgia. 1985 Mar;5(1):45-54. doi: 10.1046/j.1468-2982.1985.0501045.x.
+
+Concentration and uptake of 5-hydroxytryptamine in platelets from cluster 
+headache and migraine patients.
+
+Waldenlind E, Ross SB, Sääf J, Ekbom K, Wetterberg L.
+
+Concentrations of 5-hydroxytryptamine (5-HT) in platelets were determined in 33 
+cluster headache patients (17 males) and in 34 migraine patients (16 males) 
+outside attacks. The 5-HT uptake into platelets was measured and the kinetic 
+constants Vmax and Km determined in 26 cluster patients (14 males) and in 30 
+migraine patients (13 males). Significantly lower 5-HT concentrations in whole 
+blood were found in cluster headache and migraine patients than in 50 healthy 
+controls (19 males). The Vmax and Km values of the 5-HT uptake were 
+significantly lower in cluster headache and migraine patients compared with 22 
+healthy controls (9 males). The 5-HT concentrations and the kinetics of the 5-HT 
+uptake did not differ between cluster headache and migraine. In healthy controls 
+a significant positive correlation was found between the 5-HT uptake rate at 
+0.25 microM and Km but not in cluster headache and migraine patients. The 5-HT 
+concentrations in whole blood correlated positively with Vmax and Km, 
+respectively, in cluster headache and with Km in healthy controls but not with 
+Vmax nor with Km in migraine. There was no obvious relation between the kinetics 
+of platelet monoamine oxidase (MAO) and the 5-HT uptake except for an increased 
+incidence of low Vmax of MAO and low Km of the 5-HT uptake in cluster headache. 
+The kinetics of the 5-HT uptake was apparently not related to the state of 
+migraine. The results indicate a possible constitutional trait in cluster 
+headache and migraine expressed as low 5-HT concentrations in whole blood and 
+low Vmax and Km of the 5-HT uptake into platelets.
+
+DOI: 10.1046/j.1468-2982.1985.0501045.x
+PMID: 3921257 [Indexed for MEDLINE]
+
+
+12. West J Med. 1984 Jun;140(6):957-60.
+
+Headache--diagnosis and effective management.
+
+Peters KS.
+
+PMCID: PMC1011156
+PMID: 6741135 [Indexed for MEDLINE]
+
+
+13. J Neurol Sci. 1993 Jan;114(1):109-16. doi: 10.1016/0022-510x(93)90057-6.
+
+Sumatriptan in the acute treatment of migraine.
+
+Tansey MJ(1), Pilgrim AJ, Lloyd K.
+
+Author information:
+(1)Glaxo Group Research, Greenford, Middlesex, UK.
+
+Sumatriptan is a selective 5-HT1-like agonist, which is effective in the 
+treatment of migraine and cluster headache. It has been rigorously assessed in 
+clinical trials involving over 7000 patients who have treated over 35,000 
+migraine attacks. Both subcutaneous and oral sumatriptan provide a high level of 
+efficacy with 86% of patients obtaining relief after a single 6 mg injection (at 
+2 h) and 75% after 100 mg oral sumatriptan (4 h), compared with up to 37% in the 
+placebo-treated group (P < 0.001). The onset of effect is rapid, occurring 10 
+min after injection and 30 min after the tablet. Oral sumatriptan (100 mg) has 
+been evaluated against ergotamine, 2 mg, plus caffeine, 200 mg (as Cafergot); 
+and against aspirin, 900 mg, plus metoclopramide, 10 mg. Headache relief was 
+superior in sumatriptan-treated patients; 66% obtaining relief at 2 h, compared 
+with 48% on Cafergot (P < 0.001). The percentage of patients obtaining complete 
+relief of headache (Grade 0, no pain) was significantly higher with sumatriptan 
+(40%) than with Cafergot (14%) at 2 h. Associated symptoms such as nausea, 
+vomiting and photophobia are effectively relieved by sumatriptan, whereas 
+Cafergot provoked nausea and vomiting in a proportion of patients. Headache 
+relief with sumatriptan was also superior to that seen with aspirin plus 
+metoclopramide. Sumatriptan was as effective in the relief of accompanying 
+nausea and vomiting as aspirin plus metoclopramide. The efficacy of sumatriptan 
+is maintained after repeated long-term use; over a six-month period efficacy was 
+comparable in the first and last attacks, regardless of how many attacks were 
+treated.(ABSTRACT TRUNCATED AT 250 WORDS)
+
+DOI: 10.1016/0022-510x(93)90057-6
+PMID: 8381852 [Indexed for MEDLINE]
+
+
+14. Acta Neurol Scand. 1976 Aug;54(2):140-59. doi: 
+10.1111/j.1600-0404.1976.tb04788.x.
+
+A new (?) Clinical headache entity "chronic paroxysmal hemicrania" 2.
+
+Sjaastad O, Dale I.
+
+A headache disorder with shortlasting, frequently occurring (6-18/24 hours) head 
+pain attacks is reported. The pain is excruciatingly severe, unilateral (always 
+on the same side), unaccompanied by visual phenomena, nausea/vomiting, but 
+accompanied by nasal congestion and lacrimation on the symptomatic side. The 
+maximum pain is felt in the temporal region, although during severe attacks the 
+entire hemicranium is involved through the neck, shoulder and homolateral arm in 
+a diffuse way. The attack pattern differs clearly from that of cluster headache 
+both with regard to atrack frequency and the long term temporal pattern. In 
+addition to blood and urine parameters and supplementary 
+neurological/neuroradiological investigations, the following parameters were 
+studied: Urinary histamine excretion (partly increased), kinin parameters 
+(occasionally increased blood kinin and reduced blood kininogen), and corneal 
+indentation pulse amplitudes (attack-induced increase, as in regular cluster 
+headache). The following parameters rendered normal results: prostaglandins, 
+cerebral blood flow, fluorescein appearance time, intrathecal pressure during 
+and between attacks, and muscle biopsy with immunological investigation. The 
+pain attacks can be abolished by continuous indomethacin medication. In spite of 
+the ocular findings it has in common with cluster headache, this headache seems 
+to differ from cluster headache.
+
+DOI: 10.1111/j.1600-0404.1976.tb04788.x
+PMID: 782140 [Indexed for MEDLINE]
+
+
+15. J Neurol. 2007 Feb;254(2):253-4. doi: 10.1007/s00415-006-0337-2. Epub 2007
+Mar  2.
+
+Dissection of the internal carotid artery mimicking episodic cluster headache.
+
+Hardmeier M, Gobbi C, Buitrago C, Steck A, Lyrer P, Engelter S.
+
+DOI: 10.1007/s00415-006-0337-2
+PMID: 17334959 [Indexed for MEDLINE]
+
+
+16. Clin Pharm. 1992 Nov;11(11):919-29.
+
+Sumatriptan: a new drug for vascular headache.
+
+Hsu VD(1).
+
+Author information:
+(1)Department of Pharmacy Services, University of Maryland Medical System, 
+Baltimore 21201.
+
+Comment in
+    Clin Pharm. 1993 Apr;12(4):258.
+
+The role of serotonin in the pathogenesis of migraine is discussed, and the 
+chemistry, pharmacology, pharmacokinetics, efficacy, adverse effects, and dosage 
+and administration of sumatriptan are reviewed. Sumatriptan, which is 
+structurally related to the neurotransmitter serotonin, is a serotonin 
+type-1-like-receptor agonist that has a selective but heterogeneous effect on 
+the carotid arterial system. Sumatriptan has a rapid onset of action and a large 
+volume of distribution. Its subcutaneous bioavailability approaches 100%, and 
+its mean terminal half-life is two hours. Studies have shown that both 
+subcutaneous sumatriptan and oral sumatriptan are superior to placebo in 
+relieving migraine and cluster headaches. Studies comparing oral sumatriptan 
+with either ergotamine tartrate plus caffeine (Cafergot) or aspirin plus 
+metoclopramide indicated that sumatriptan relieved headache more quickly and 
+effectively; however, the dosages of these other agents may have been 
+suboptimal. Sumatriptan is generally well tolerated by patients, and most 
+dose-related effects are mild and transient. The most common adverse effect is 
+pain at the injection site. No drug interactions have been identified so far. 
+Subcutaneous sumatriptan 6 mg and oral sumatriptan 100 mg seem to offer the best 
+benefit-to-risk ratio, although dosage and administration information is 
+limited. Subcutaneous and oral sumatriptan are effective in aborting moderate to 
+severe migraine and cluster headaches and their associated symtpoms. However, 
+more studies are necessary to compare sumatriptan's efficacy with that of other 
+treatments before it can be recommended as first-line therapy for migraine.
+
+PMID: 1334452 [Indexed for MEDLINE]
+
+
+17. Headache. 2017 Feb;57(2):298-301. doi: 10.1111/head.12977. Epub 2016 Nov 11.
+
+Hemicrania Continua: Beneficial Effect of Non-Invasive Vagus Nerve Stimulation 
+in a Patient With a Contraindication for Indomethacin.
+
+Eren O(1), Straube A(1), Schöberl F(1), Schankin C(1)(2).
+
+Author information:
+(1)Klinikum der Universität München - Neurologische Klinik und Poliklinik & 
+Deutsches Schwindel- und Gleichgewichtszentrum DSGZ, Munich, Germany.
+(2)Department of Neurology, University of Bern, Inselspital, Bern, Switzerland.
+
+Hemicrania continua (HC) is a primary chronic headache disorder, characterized 
+by a continuous and strictly unilateral headache, with possible cranial 
+autonomic symptoms during episodes of pain exacerbation. The unilateral headache 
+generally responds well to indomethacin; however, continuous indomethacin intake 
+is often not tolerated due to severe adverse effects, like hypertension, 
+gastrointestinal discomfort (especially if combined with aspirin), slightly 
+increased risk of vascular events, and bronchial spasms. Therefore, alternative 
+treatment options are desperately needed. Non-invasive vagus nerve stimulation 
+(nVNS) has been shown to be effective in patients with cluster headache, another 
+trigeminal autonomic cephalalgia (TAC), with cranial parasympathetic autonomic 
+activation during the attacks.
+
+© 2016 American Headache Society.
+
+DOI: 10.1111/head.12977
+PMID: 27861830 [Indexed for MEDLINE]
+
+
+18. Cephalalgia. 1986 Mar;6(1):55-7. doi: 10.1046/j.1468-2982.1986.0601055.x.
+
+Chronic paroxysmal hemicrania: the first possible bilateral case.
+
+Pöllmann W, Pfaffenrath V.
+
+There are three headaches syndromes that are typically characterized by strictly 
+unilateral and always same-sided attacks: cluster headache, "cervicogenic" 
+headache, and chronic paroxysmal hemicrania (CPH). In rare cases, cluster 
+headache also occurs bilaterally; "cervicogenic" headaches probably as well. We 
+present a patient with a probable bilateral CPH. To our knowledge no such case 
+has previously been described.
+
+DOI: 10.1046/j.1468-2982.1986.0601055.x
+PMID: 3698094 [Indexed for MEDLINE]
+
+
+19. Headache. 1992 Nov;32(10):475-9. doi: 10.1111/j.1526-4610.1992.hed3210475.x.
+
+Low concentrations of lithium and cyclooxygenase inhibitors enhance endothelin-1 
+(ET-1)-induced contractions in human temporal artery, but not in porcine 
+ophthalmic artery.
+
+Bakken IJ(1), Vincent MB, White LR, Cappelen J, Skaanes KO, Sjaastad O.
+
+Author information:
+(1)Department of Neurology, Trondheim University Hospital, Norway.
+
+Endothelins are a recently discovered group of potent vasoconstrictor peptides 
+synthesized by endothelial cells and other tissues in various species, which 
+seem to participate in the regulation of vascular tonus. Abnormalities in 
+vasoactivity in the head may be an important event in headache pathophysiology, 
+although the mechanisms responsible for such constrictions and/or dilations are 
+not known. The endothelium and its constrictor peptide, endothelin, may play a 
+key role in such mechanisms. Of the various drugs used in the treatment of 
+headache, lithium is an accepted treatment for cluster headache, and 
+indomethacin is the drug of choice for the associated condition chronic 
+paroxysmal hemicrania. The mechanism of action of these drugs in these headaches 
+is not known. Due to the possible involvement of endothelin in headache 
+disorders, the objective of this study was to verify the effects of lithium and 
+cyclooxygenase inhibitors (indomethacin, acetylsalicylic acid and naproxen) on 
+endothelin-1 (ET-1)-induced contractions in isolated human temporal arteries and 
+porcine ophthalmic arteries. It was found that all drugs increased the 
+(ET-1)-induced contractions in human temporal arteries. Conversely, there were 
+no significant changes induced by the drugs in porcine ophthalmic arteries. 
+These results are consistent with the variation of activity often seen in 
+different vascular beds and between species. The potential importance of such 
+reactions for the understanding of vascular changes putatively involved in 
+headache development and treatment is discussed.
+
+DOI: 10.1111/j.1526-4610.1992.hed3210475.x
+PMID: 1468903 [Indexed for MEDLINE]
+
+
+20. Postgrad Med. 1980 Jul;68(1):125-9, 133-4, 137-8 passim. doi: 
+10.1080/00325481.1980.11715494.
+
+Newer drug therapies for headache.
+
+Diamond S, Medina JL.
+
+DOI: 10.1080/00325481.1980.11715494
+PMID: 7393781 [Indexed for MEDLINE]
+
+
+21. MMW Munch Med Wochenschr. 1975 Sep 19;117(38):1497-1500.
+
+[Therapeutic possibilities in idiopathic headaches. Analysis of 1000 cases 
+(author's transl)].
+
+[Article in German]
+
+Nattero G, Agostoni A, Brandi G, Cottino A, Gai V, Gastaldi L, Lisino F.
+
+According to Pearson's method (correlation coefficient) the group of improved 
+patients is 16.88% of the expected total result (frequency of attacks regressed 
+to 50%, 25% or 0%): for cyproheptadine, pizotifene, methysergide, methergoline, 
+histamine, clonidine, allylpropylmalonyl urea 'p' is less than 0.001, for 
+cinnarizine less than 0.02. For hemicrania we used cinnarizine, cyproheptadine, 
+clonidine, histamine, pizotifene and reserpine; for cluster headache, 
+cinnarizine, cyproheptadine, clonidine, histamine and reserpine; for tension 
+headache, cyproheptadine; for psychogenic headache, allylpropylmalonylurea. In 
+attacks of hemicrania or paroxysmal crises with undulant headache or persistent 
+headache, positive statistically significant results were obtained with a 
+combination of indomethacin, prochlorperazine and caffeine.
+
+PMID: 810675 [Indexed for MEDLINE]
+
+
+22. Clin Ther. 2008 Feb;30(2):249-59. doi: 10.1016/j.clinthera.2008.02.006.
+
+Antiplatelet profiles of the fixed-dose combination of extended-release 
+dipyridamole and low-dose aspirin compared with clopidogrel with or without 
+aspirin in patients with type 2 diabetes and a history of transient ischemic 
+attack: a randomized, single-blind, 30-day trial.
+
+Serebruany VL(1), Malinin AI, Pokov AN, Hanley DF.
+
+Author information:
+(1)Heart Drug Research Laboratories, Towson, Maryland, USA. heartdrug@aol.com
+
+BACKGROUND: Clopidogrel, aspirin (ASA), and the fixed-dose combination of 
+extended-release dipyridamole and ASA (ER-DP+ASA) are widely used in post-stroke 
+regimens.
+OBJECTIVE: This study compared serial changes in multiple biomarkers of platelet 
+activation with ER-DP+ASA and clopidogrel with or without ASA in patients with 
+type 2 diabetes mellitus and a history of transient ischemic attack (TIA).
+METHODS: This was a randomized, single-blind pilot study conducted at an 
+outpatient center in the United States. Eligible patients were aged 40 years and 
+had a diagnosis of type 2 diabetes and a history of TIA. Patients were allocated 
+to receive ER-DP+ASA 200/25 mg BID, clopidogrel 75 mg/d, or clopidogrel 75 mg/d 
+plus ASA 81 mg/d. Multiple platelet bio-markers were assessed at baseline, day 
+15, and day 30 using aggregometry, cartridge-based platelet function analyzers, 
+and flow cytometry. The primary end point was the change in platelet receptor 
+expression after 30 days of therapy. Compliance and tolerability were monitored 
+by measuring plasma dipyridamole levels and recording all episodes of headache 
+and vomiting.
+RESULTS: The study enrolled 60 consecutive patients (20 per treatment arm), all 
+of whom completed the study. There were no significant differences between 
+treatment arms, although the ER-DP+ASA group had a numerically greater mean age, 
+higher proportion of men, and a greater prevalence of vascular disease and 
+smoking compared with the other groups. There were no deaths or serious adverse 
+events during the study, including symptoms attributable to cerebral ischemia, 
+worsening of diabetes, or cerebral or systemic bleeding. Three patients in the 
+ER-DP+ASA group and 1 in the clopidogrel plus ASA group reported headache during 
+the first several days of therapy; 1 patient in the clopidogrel monotherapy 
+group experienced transitory nausea and vomiting. ER-DP+ASA was associated with 
+a significantly delayed (day 30) reduction in expression of glyco-protein (GP) 
+Ilb/IIIa activity (P = 0.02), platelet-endothelial cell adhesion molecule 1 
+(PECAM-1) (P = 0.03), GP Ib (P = 0.001), vitronectin (P = 0.001), P-selectin (P 
+= 0.001), lysosome-associated membrane protein 1 (P = 0.001), and cluster of 
+differentiation 40 ligand (P = 0.01), as well as significant inhibition of the 
+intact (P = 0.01) and cleaved (P = 0.01) epitopes of protease-activated receptor 
+1. Clopidogrel monotherapy, on the other hand, was associated with significant 
+inhibition of adenosine diphosphate-induced platelet aggregation (P = 0.001), 
+closure-time prolongation (P = 0.01), and reduction in measurements on the rapid 
+platelet function assay-ASA at day 15 (P = 0.001). Expression of PECAM-1 (P = 
+0.03) and GP IIb/IIIa activity (P = 0.01) was reduced at day 15 in 
+clopidogrel-treated patients. The addition of ASA to clopidogrel was associated 
+with significant inhibition of collagen-induced platelet aggregation (P = 0.001) 
+and diminished formation of platelet-monocyte microparticles at days 15 (P = 
+0.02) and 30 (P = 0.03).
+CONCLUSIONS: In these patients with type 2 diabetes and a history of TIA, 
+patterns of platelet inhibition differed significantly according to whether 
+treatment was with ER-DP+ASA or clopidogrel with or without ASA. The 
+antiplatelet activity of clopidogrel was more potent and occurred earlier (15 
+days), whereas ER-DP+ASA was associated with moderate downregulation of multiple 
+activation-dependent platelet receptors that occurred later (30 days).
+
+DOI: 10.1016/j.clinthera.2008.02.006
+PMID: 18343263 [Indexed for MEDLINE]
+
+
+23. MMW Fortschr Med. 2001 Apr 19;143(16):6.
+
+[Aspirin, triptan tablet, nasal spray, injection. Even the most severe migraine 
+capitulates].
+
+[Article in German]
+
+Wiedemann B.
+
+PMID: 11368000 [Indexed for MEDLINE]

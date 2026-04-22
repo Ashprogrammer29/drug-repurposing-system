@@ -1,0 +1,7 @@
+Mechanistic pathway data for gabapentin.
+Primary target pathway: calcium channel alpha2delta.
+Drug class biological mechanism relevant to disease modulation.
+Protein interaction pathways associated with gabapentin therapeutic effects.
+Molecular target engagement data for gabapentin.
+Pathway analysis: calcium channel alpha2delta signaling cascade.
+Biological plausibility of gabapentin in neurological and metabolic disease contexts.

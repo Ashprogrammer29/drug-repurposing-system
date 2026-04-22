@@ -1,0 +1,147 @@
+Trial: NCT02614339
+Title: Effect of Adjunctive Metformin on Recurrence of Non-DM Colorectal Cancer Stage II High-risk/ III Colorectal Cancer
+Phase: PHASE3
+Status: UNKNOWN
+Summary: The aim of this study is to identify the effect of adjunctive metformin on recurrence of non-DM Stage II High-risk/ III colorectal cancer. This study is open-label randomized controlled study.
+
+The primary endpoint is to compare the 3-year disease free survival between metformin group and non-metformin group. The secondary endpoint is to compare the 5-year overall survival and disease specific sur
+---
+Trial: NCT01941953
+Title: Metformin and 5-fluorouracil for Refractory Colorectal Cancer.
+Phase: PHASE2
+Status: COMPLETED
+Summary: This is a phase II trial to evaluate efficacy and safety of Metformin and Fluorouracil in patients with metastatic colorectal cancer (CRC) who have progressed after Oxaliplatin and Irinotecan based chemotherapy.
+---
+Trial: NCT01816659
+Title: An Open-Labeled Pilot Study of Biomarker Response Following Short-Term Exposure to Metformin
+Phase: PHASE1
+Status: TERMINATED
+Summary: The goal of this clinical research study is to learn more about the possible effects of metformin extended release (ER) in patients with colon cancer or adenomas who are about to have surgery. The safety of this drug will also be studied.
+
+Metformin-ER is commonly used to control blood sugar levels in patients with diabetes. It is also designed to block a protein in tumor cells that is important i
+---
+Trial: NCT02431676
+Title: Survivorship Promotion In Reducing IGF-1 Trial
+Phase: PHASE2
+Status: COMPLETED
+Summary: This is a prospective, single-center randomized trial with three arms, and an allocation ratio of 1:1:1. The study design is an efficacy study to evaluate the effect of metformin and coach-directed behavioral weight loss versus self-directed weight loss on insulin-like growth factor (IGF)-1 and IGF-1 to THE IGFBP-III ratio blood levels after 6 and 12 months of intervention. The coach-directed Beha
+---
+Trial: NCT05158374
+Title: Molecular Effects of Aspirin & Metformin on Colonic Epithelium
+Phase: NA
+Status: WITHDRAWN
+Summary: Bowel cancer, a significant problem in the United Kingdom (UK) with \~ 41,000 diagnoses and \~ 16,000 deaths annually, has a large preventable component (\~54%). It is, in part, due to energy imbalance within bowel cells as suggested by associated risk factors: high-fat diet, obesity, physical inactivity and type 2 diabetes mellitus. Drugs that decrease bowel cancer risk, like aspirin and metformi
+---
+Trial: NCT05921942
+Title: The Impact of Metformin Administration on the Clinical Outcome of Stage IV Colon Cancer
+Phase: PHASE3
+Status: COMPLETED
+Summary: Design: Prospective, randomized controlled trial Setting: Clinical Oncology and Nuclear Medicine, Ain Shams University Condition: Colorectal cancer
+
+Patients will be randomized into one of two groups:
+
+Group A: Patients will receive standard therapy FOLFOX PROTOCOL Group B: Patients will receive metformin (500 mg twice daily or 1000 mg once daily) on top of standard therapy
+
+Assessment:
+
+Baseline 
+---
+Trial: NCT01926769
+Title: A Phase II Study to Determine the Safety and Efficacy of Second-line Treatment With Metformin and Chemotherapy (FOLFOX6 or FOFIRI) in the Second Line Threatment of Advanced Colorectal Cancer
+Phase: PHASE2
+Status: TERMINATED
+Summary: To determine the safety and efficacy of second-line treatment with Metformin and Chemotherapy (FOLFOX6 or FOFIRI) in the second line treatment of advanced colorectal cancer
+---
+Trial: NCT03047837
+Title: A Randomized, 2x2 Factorial Design Biomarker Prevention Trial of Low-dose ASA and Metformin in Stage I-III Crc Patients
+Phase: PHASE2
+Status: TERMINATED
+Summary: It has been shown that Aspirin (ASA) as well as Metformin (Met) can inhibit the incidence and mortality of colorectal cancer (CRC). In this randomized, placebo controlled clinical trial we compare the effect of these two drugs alone and their combination to prevent recurrent CRC after surgery.
+---
+Trial: NCT01312467
+Title: Trial of Metformin for Colorectal Cancer Risk Reduction for History of Colorectal Adenomas and Elevated BMI
+Phase: PHASE2
+Status: COMPLETED
+Summary: The purpose of this study is to find out whether METFORMIN decreases protein markers in colorectal tissue. This is a phase IIA study of the pharmacodynamics, safety and tolerability of Metformin in decreasing colorectal mucosa in patients with a history of colorectal adenomas in the past 3 years and a BMI \>= 30, with decimals rounded to the nearest whole integer. Metformin as a potential chemopre
+---
+Trial: NCT01523639
+Title: A Randomized, Placebo-controlled, Double-blind Phase II Study Evaluating if Glucophage Can Avoid Liver Injury Due to Chemotherapy Associated Steatosis
+Phase: PHASE2
+Status: TERMINATED
+Summary: This multicenter randomized, placebo-controlled phase II study will enroll 132 first-line palliative treated subjects with metastatic KRAS wild type CRC. Subjects with histologically confirmed, KRAS wild-type CRC without previous chemo-therapy for metastatic disease will be screened for this study.
+
+Approximately 10 sites in Austria will participate in the study. Subjects will be randomized in a r
+---
+Trial: NCT06545526
+Title: Chemopreventive Effect of Combination of Celecoxib and Metformin in Patients With Familial Adenomatous Polyposis
+Phase: PHASE3
+Status: RECRUITING
+Summary: Familial adenomatous polyposis (FAP) leads to adenomas and eventual adenocarcinomas in colon and less frequently, duodenum. Chemopreventive strategies have been studied in FAP patients to delay the development of adenomas and cancers. The non-steroidal anti-inflammatory drugs (NSAIDs) and selective cyclooxygenase-2 inhibitor have shown the regression of colorectal and duodenal adenomas in FAP pati
+---
+Trial: NCT01725490
+Title: The Chemopreventive Effect of Metformin in Patients With Familial Adenomatous Polyposis: Double Blinded Randomized Controlled Study
+Phase: PHASE2
+Status: COMPLETED
+Summary: Familial adenomatous polyposis (FAP) leads to adenomas and eventual adenocarcinomas in colon and less frequently, duodenum. Chemopreventive strategies have been studied in FAP patients to delay the development of adenomas and cancers. The non-steroidal anti-inflammatory drugs (NSAIDs) and selective cyclooxygenase-2 inhibitor have shown the regression of colorectal and duodenal adenomas in FAP pati
+---
+Trial: NCT02473094
+Title: Neoadjuvant Metformin in Association to Chemoradiotherapy for Locally Advanced Rectal Cancer
+Phase: PHASE2
+Status: TERMINATED
+Summary: A phase II, randomized study of placebo versus metformin in association to chemotherapy with capecitabine and radiation in the neoadjuvant treatment of locally advanced (T3-4N0M0 or TxN1-2M0) rectal carcinomas.
+---
+Trial: NCT01796028
+Title: Metformin-Docetaxel Association in Metastatic Hormone-refractory Prostate Cancer
+Phase: PHASE2
+Status: COMPLETED
+Summary: Prostate cancer is the second leading cause of mortality in men, representing 10 deaths about of 100 cancers (INVS 2009). Treatment for metastatic prostate cancer, when becoming resistant to hormone-treatment, is mostly resumed to a relatively ineffective chemotherapy (Docetaxel/TAXOTERE®) (1). Recently, numerous clinical and preclinical works showed that Metformin could represent an excellent can
+---
+Trial: NCT03053544
+Title: Metformin With Neoadjuvant Chemoradiation to Improve Pathologic Responses in Rectal Cancer
+Phase: PHASE2
+Status: COMPLETED
+Summary: This study is a phase II, single arm, controlled, open label internal pilot.
+---
+Trial: NCT04885426
+Title: Metformin for the Prevention of CRA Recurrence
+Phase: NA
+Status: UNKNOWN
+Summary: Most of the sporadic colorectal cancer (CRC )develop from colorectal adenoma (CRA), patients with CRA have a high risk of recurrence and development of metachronous CRA or CRC after removal, therefore, the investigators conducted this clinical trial to explore the chemoprevetion effect of metformin for CRA recurrence after removal.
+---
+Trial: NCT04947020
+Title: DataBase for Analysis of Rectal Cancer Oncological Results
+Phase: NA
+Status: COMPLETED
+Summary: The data will be obtained from 10 tertiary centers located in Poland (Cracow - coordinating center, Warsaw - 3 centers, Sosnowiec, Szczecin, Bydgoszcz, Lublin, Gdansk, Poznan) and 5 foreign centers.
+
+The analyses will include patients with rectal cancer operated on between 2013-2019. A database in MS Excel is prepared that consists of following data:
+
+* Type of neoadjuvant treatment (if any)
+* Tim
+---
+Trial: NCT02437656
+Title: Combination of Metformin to Neoadjuvant Radiochemotherapy in the Treatment of Locally Advanced Rectal Cancer.
+Phase: PHASE2
+Status: COMPLETED
+Summary: Metformin is an oral antidiabetic of the biguanide class derived from galega officinalis. Historical cohort of patients with diabetes have shown that diabetics on Metformin had a better chance of survival than diabetics not on Metformin. These observations have led to in vitro studies of metformin on cancer cells. It was thus demonstrated that Metformin has anti-proliferative properties.
+
+The aim 
+---
+Trial: NCT06728982
+Title: Impact Of Metformin In Rectal Cancer Patients
+Phase: PHASE2
+Status: COMPLETED
+Summary: Design: Prospective, randomized controlled clinical trial Setting: at Minia University Hospital and Minia Oncology Institute. Condition: Colorectal cancer.
+
+To be eligible for participation, patients must meet the following criteria:
+
+1. Histologically confirmed diagnosis of rectal adenocarcinoma.
+2. Age starting from 18 and older.
+3. Eastern Cooperative Oncology Group (ECOG) performance status of
+---
+Trial: NCT01930864
+Title: Metformin Plus Irinotecan for Refractory Colorectal Cancer
+Phase: PHASE2
+Status: UNKNOWN
+Summary: MetIri seeks to identify if metformin combined to irinotecan can improve tumor control.
+---

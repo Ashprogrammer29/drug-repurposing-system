@@ -1,0 +1,129 @@
+Trial: NCT01194232
+Title: Sildenafil Trial in Children and Young Adults With CF
+Phase: PHASE1
+Status: WITHDRAWN
+Summary: Cystic Fibrosis (CF), the most common inherited disease in Caucasians, is characterized by chronic pulmonary inflammation and progressive loss of gas exchange units that eventually results in respiratory failure. There is strong evidence that, in CF, abnormally low perfusion carries a high risk of death independent from the presence of pulmonary hypertension. However, the evolution of pulmonary va
+---
+Trial: NCT01365585
+Title: Evaluate The Clinical Effectiveness, Safety And Tolerability Of Sildenafil Used In Doses ≥20mg TID For The Treatment Of Pulmonary Arterial Hypertension
+Phase: NA
+Status: COMPLETED
+Summary: The objective of this observational study is to gain clinical insight on the actual use of sildenafil citrate (Revatio™) for the treatment of pulmonary arterial hypertension (PAH). The primary objective is to assess effectiveness and safety of sildenafil at doses ≥20mg three times daily for the treatment of PAH.
+---
+Trial: NCT01801982
+Title: A Non-Interventional Follow Up Study For Subjects Who Received Sildenafil for Persistent Pulmonary Hypertension of the Newborn (PPHN)
+Phase: NA
+Status: COMPLETED
+Summary: This single center study will monitor the developmental progress of PPHN patients who received iv sildenafil in study A1481276. Two visits will be conducted, at 12 and 24 months following the end of study drug infusion.
+---
+Trial: NCT01966302
+Title: Compassionate Use of Beraprost Sodium 314d Modified Release for Patients With Pulmonary Arterial Hypertension (PAH)
+Phase: PHASE2
+Status: COMPLETED
+Summary: The purpose of this study is to see if Lung LLC's new experimental formulation of the medicine Beraprost Sodium, called Beraprost Sodium 314d Modified Release (BPS-314d-MR), can improve the symptoms of pulmonary arterial hypertension (PAH) in patients. An experimental drug is one that has not been approved by the U.S. Food and Drug Administration for use in the general public. This research study 
+---
+Trial: NCT05546125
+Title: a Non-interventional Study of Sildenafil in the Treatment of Pulmonary Arterial Hypertension (PAH) in Adults From China
+Phase: NA
+Status: COMPLETED
+Summary: This observational study will involve analysis of data collected by the National Rare Disease Registry or medical records .The study will describe outcomes only in PAH(Pulmonary arterial hypertension) patients treated with sildenafil; there will be no comparison with another treatment group.
+
+Approximately 100 adults with PAH will be recruited in China hospitals This NIS(non-interventional study) 
+---
+Trial: NCT03610217
+Title: Pragmatic Clinical Trials in Scleroderma
+Phase: NA
+Status: UNKNOWN
+Summary: Systemic Sclerosis (SSc) is an autoimmune connective tissue disease characterized by autoantibodies, fibrosis and microvascular injury and endothelial cell activation that results in vascular damage. Vascular injury induces both innate and acquired immune responses resulting in fibroblast activation and organ fibrosis. SSc may target multiple organs, including: skin, lungs, heart, vascularization,
+---
+Trial: NCT04994860
+Title: Effect of BIA 5-1058 400 mg on the Steady State Pharmacokinetics of Sildenafil
+Phase: PHASE1
+Status: COMPLETED
+Summary: The purpose of this study is:
+
+* To assess the effect of BIA 5 1058 400 mg on the pharmacokinetics (PK) of sildenafil.
+* To assess the effect of sildenafil on the PK of BIA 5-1058.
+---
+Trial: NCT00352482
+Title: Sildenafil to Increase Exercise Capacity in Individuals With Idiopathic Pulmonary Fibrosis and Pulmonary Hypertension
+Phase: PHASE2
+Status: COMPLETED
+Summary: Idiopathic pulmonary fibrosis (IPF) is a chronic lung disease that affects an individual's ability to breathe. Currently, no medications can reverse the damage to the lungs caused by IPF, but individuals are encouraged to engage in moderate exercise to strengthen lung function. This study will evaluate the effectiveness of sildenafil at improving exercise tolerance and breathing difficulties in in
+---
+Trial: NCT01517854
+Title: Revatio Portal-Pulmonary Arterial Hypertension Trial
+Phase: PHASE2
+Status: TERMINATED
+Summary: The investigators propose the first prospective, double blind, randomized controlled trial of treatment for pulmonary arterial hypertension (PAH) related to underlying portal hypertension. Specifically the investigators will evaluate the potential efficacy and safety of sildenafil (Revatio) in a 16 week blinded, multicentre study.
+---
+Trial: NCT00492531
+Title: Sildenafil Therapy for Pulmonary Hypertension and Sickle Cell Disease
+Phase: PHASE2
+Status: TERMINATED
+Summary: This study will examine whether the drug sildenafil can lower blood pressure in the pulmonary artery (the blood vessel that leads from the heart to the lungs) in patients with sickle cell disease and pulmonary hypertension (high blood pressure in the lungs). It will see if this treatment can reduce disease complications, such as shortness of breath, pain crisis, pneumonia, and increase survival.
+
+
+---
+Trial: NCT00452218
+Title: Sorafenib Study: Dosing in Patients With Pulmonary Arterial Hypertension (PAH)
+Phase: PHASE1
+Status: COMPLETED
+Summary: The purpose of this study is to assess the safety and tolerability of sorafenib in patients with PAH already on existing therapy with a prostacyclin \[epoprostenol (Flolan)\], treprostinil (Remodulin), or iloprost alone, or with or without sildenafil (Viagra/Revatio).
+---
+Trial: NCT00430716
+Title: To Assess The Efficacy and Safety Of Oral Sildenafil in the Treatment of Pulmonary Arterial Hypertension.
+Phase: PHASE4
+Status: TERMINATED
+Summary: To demonstrate a dose response for 1 mg, 5 mg and 20 mg TID oral sildenafil for the treatment of subjects with PAH.
+---
+Trial: NCT00352430
+Title: Cardiopulmonary Function Assessment and NO-Based Therapies for Patients With Hemolysis-Associated Pulmonary Hypertension
+Phase: PHASE1
+Status: COMPLETED
+Summary: This study will evaluate new treatments for people who have pulmonary hypertension, or high blood pressure in the lungs, caused by sickle cell anemia or thalassemia.
+
+Patients ages 18 and older with a diagnosis of sickle cell disease or thalassemia, who have mild to severe pulmonary hypertension, and who are not pregnant or breastfeeding may be eligible for this study. There are three stages in th
+---
+Trial: NCT04697862
+Title: Effects of Normobaric Hypoxia During Exercise in Patients With Pulmonary Hypertension Receiving Sildenafil
+Phase: NA
+Status: COMPLETED
+Summary: To study the effect of acute normobaric hypoxia during exercise in patients with pulmonary hypertension with/without Sildenafil
+---
+Trial: NCT02007629
+Title: Riociguat Clinical Effects Studied in Patients With Insufficient Treatment Response to Phosphodiesterase-5 Inhibitor
+Phase: PHASE3
+Status: COMPLETED
+Summary: BAY63-2521 Riociguat leads to the relaxation of smooth muscle cells in pulmonary arteria and may also inhibit abnormal remodeling of lung blood vessels. In patients with pulmonary arterial hypertension Riociguat showed to reduce the pulmonary blood pressure and improved the right heart function without unacceptable side effects. Here dose of Riociguat will be adjusted over 8 weeks then a Maintenan
+---
+Trial: NCT01392469
+Title: Pharmacokinetic Effects of QTI571 on Sildenafil and Bosentan in Pulmonary Arterial Hypertension Participants
+Phase: PHASE3
+Status: COMPLETED
+Summary: The purpose of this study was to investigate the effects of QTI571 (imatinib) on pharmacokinetics of bosentan and sildenafil at steady state when co-administered to participants with pulmonary arterial hypertension.
+---
+Trial: NCT00159887
+Title: Study to Assess the Longterm Safety of Sildenafil Citrate in Patients With Pulmonary Arterial Hypertension
+Phase: PHASE3
+Status: COMPLETED
+Summary: Open label extension study to the pivotal efficacy study to assess the safety of sildenafil citrate in patients with pulmonary arterial hypertension
+---
+Trial: NCT06778330
+Title: The Effect of Combination of Dapagliflozin and Sildenafil in Treatment of Heart Failure Patients With Secondary Pulmonary Hypertension
+Phase: NA
+Status: COMPLETED
+Summary: This study aims to determine the efficacy of sildenafil (improve PAH) as an add-on therapy to dapagliflozin in the treatment of heart failure patients with secondary pulmonary arterial hypertension and compare the result with monotherapy dapagliflozin
+---
+Trial: NCT00946114
+Title: To Provide Sildenafil Therapy To Eligible Adult Patients With Pulmonary Arterial Hypertension For 112 Weeks
+Phase: NA
+Status: COMPLETED
+Summary: The purpose of this study is to provide sildenafil therapy to eligible adult patients with pulmonary arterial hypertension (PAH) and to the patients who completed the A1481142 study for the treatment of PAH in Poland. Only safety and tolerability data will be collected in these patients.
+---
+Trial: NCT00666198
+Title: Special Investigation For Long-Term Use Of Sildenafil (Regulatory Post Marketing Commitment Plan)
+Phase: NA
+Status: COMPLETED
+Summary: The objective of this surveillance is to collect information about 1) adverse drug reaction not expected from the LPD (unknown adverse drug reaction), 2) the incidence of adverse drug reactions in this surveillance, and 3)factors considered to affect the safety and/or efficacy of this drug.
+---

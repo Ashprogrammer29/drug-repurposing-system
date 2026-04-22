@@ -1,0 +1,1301 @@
+1. Cochrane Database Syst Rev. 2019 Aug 10;8(8):CD012116. doi: 
+10.1002/14651858.CD012116.pub2.
+
+Acetylsalicylic acid (aspirin) for schizophrenia.
+
+Schmidt L(1), Phelps E, Friedel J, Shokraneh F.
+
+Author information:
+(1)Bristol Medical School, University of Bristol, 39 Whatley Road, Bristol, UK, 
+BS8 2PL.
+
+Update of
+    doi: 10.1002/14651858.CD012116.
+
+BACKGROUND: Schizophrenia is a serious chronic mental illness affecting an 
+estimated 21 million people worldwide and there is increasing evidence linking 
+inflammation in the brain to the pathophysiology of schizophrenia. Antipsychotic 
+drugs are the conventional treatment for people with schizophrenia but are not 
+always fully effective. Acetylsalicylic acid (aspirin) is a non-steroidal 
+anti-inflammatory drug (NSAID) with properties that inhibit the proinflammatory 
+status of the brain. Using aspirin as an adjunct (add-on) treatment to 
+antipsychotics or as a stand-alone treatment could be a novel, relatively 
+inexpensive option for people with schizophrenia.
+OBJECTIVES: To review the effects of acetylsalicylic acid (aspirin) as adjunct 
+(add-on) or as stand-alone treatment for people with schizophrenia.
+SEARCH METHODS: We searched the Cochrane Schizophrenia Group's Trials Register 
+(last search 8 March 2018) which is based on regular searches of MEDLINE, 
+Embase, PubMed, CINAHL, BIOSIS, AMED, PsycINFO and registries of Clinical 
+Trials. There are no language, date, document type, or publication status 
+limitations for inclusion of records in the register.
+SELECTION CRITERIA: Randomised clinical trials focusing on aspirin for people 
+with schizophrenia.
+DATA COLLECTION AND ANALYSIS: We extracted data independently. For binary 
+outcomes, we calculated risk ratio (RR) and its 95% confidence interval (CI), on 
+an intention-to-treat (ITT) basis. For continuous data, we estimated the mean 
+difference (MD) between groups and its 95% CI. We employed a fixed-effect model 
+for analyses. We assessed risk of bias for included studies and created a 
+'Summary of findings' table using GRADE.
+MAIN RESULTS: We included two studies, both comparing the effects of adding 
+aspirin to standard antipsychotic treatment with adding placebo to standard 
+antipsychotic treatment. We were hoping to find high-quality data for seven main 
+outcomes of importance: clinically important change in global state, mental 
+state, cognitive functioning and quality of life, numbers leaving the study 
+early, incidence of gastrointestinal adverse events and hospital admission. 
+Clinically important change data were not reported. Global state data were 
+reported by one study as 'unspecified problem necessitating change in dose or 
+type of antipsychotics'; there was no clear difference between treatment groups 
+for this outcome (RR 0.75, 95% CI 0.30 to 1.88; studies = 1; participants = 70; 
+very low-quality evidence). Both trials measured mental state using the Positive 
+and Negative Symptom Scale (PANSS), and mean total PANSS endpoint scores 
+favoured the adjunct aspirin group in the medium term (MD -6.56, 95% CI -12.04 
+to -1.08; studies = 2; participants = 130; very low-quality evidence). Less than 
+10% of each group's participants left the studies early (for any reason) and by 
+around three months there was no clear difference between numbers leaving early 
+from the aspirin group compared to numbers leaving early from the placebo group 
+suggesting aspirin is acceptable (RR 1.12, 95% CI 0.40 to 3.14; studies = 2; 
+participants = 130; very low-quality evidence). There was some gastric upset in 
+both groups but rates were not clearly different between the treatment groups 
+(RR 1.03, 95% CI 0.55 to 1.94; studies = 1; participants = 70; very low-quality 
+evidence). We are unclear if 'change in hospital status' is an unfavourable 
+outcome or not as one study reported equivocal data (RR 0.56, 95% CI 0.05 to 
+5.90; studies = 1; participants = 70; very low-quality evidence). It should be 
+noted that all the above results were based on data of very low-quality and were 
+difficult to interpret for clinicians or patients, and that the two studies, 
+completed in the last decade, failed to report any usable outcomes on cognitive 
+functioning or quality of life.
+AUTHORS' CONCLUSIONS: We highlighted the evidence that some pioneering 
+researchers feel this question is important enough to merit testing in 
+randomised trials. However, we also highlighted that the evidence produced from 
+these trials was weak and inconclusive. It was impossible to draw clear 
+conclusions on the therapeutic value of aspirin for schizophrenia from these 
+short, small and limited trials.
+
+DOI: 10.1002/14651858.CD012116.pub2
+PMCID: PMC6699651
+PMID: 31425623 [Indexed for MEDLINE]
+
+Conflict of interest statement: LS: none. EP: none. JF: none. FS: none.
+
+
+2. Brain Sci. 2023 Feb 20;13(2):368. doi: 10.3390/brainsci13020368.
+
+A Systematic Review on the Potential of Aspirin to Reduce Cardiovascular Risk in 
+Schizophrenia.
+
+Dao J(1), Saran S(1), Wang M(1), Michael C(1), Phan NY(1), Bellon A(2).
+
+Author information:
+(1)College of Medicine, The Pennsylvania State University, Hershey, PA 17033, 
+USA.
+(2)Department of Psychiatry and Behavioral Health, Penn State Milton S. Hershey 
+Medical Center, Hershey, PA 17033, USA.
+
+Cardiovascular disease (CVD), including heart disease and stroke, continues to 
+be the leading cause of death worldwide. Patients with mental health disorders, 
+including schizophrenia (SCZ) are known to have an increased risk for CVD. Given 
+the association with metabolic syndrome, patients with SCZ are often prescribed 
+metformin and statins but its impact remains unsatisfactory. The use of aspirin 
+(ASA) to decrease cardiovascular risk in the general population has been 
+thoroughly investigated and clear guidelines are currently in place. Since 
+adjuvant treatment with ASA could possibly decrease CVD risk and mortality in 
+SCZ, we conducted a systematic review of the literature to determine the state 
+of the current literature on this subject. Our systematic review points to gaps 
+in the literature on CVD prevention in SCZ and illustrates an obvious need for 
+further research. Although several studies have shown increased CVD risk in SCZ, 
+to date, no research has been conducted on the utilization of CVD preventative 
+treatment such as ASA for SCZ.
+
+DOI: 10.3390/brainsci13020368
+PMCID: PMC9954190
+PMID: 36831911
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funder had no role in the design of the study; in the collection, analyses, or 
+interpretation of data; in the writing of the manuscript; or in the decision to 
+publish the results.
+
+
+3. Schizophr Bull. 2021 Jul 8;47(4):1077-1087. doi: 10.1093/schbul/sbaa198.
+
+Adjunctive Aspirin vs Placebo in Patients With Schizophrenia: Results of Two 
+Randomized Controlled Trials.
+
+Weiser M(1)(2), Zamora D(3), Levi L(1), Nastas I(4), Gonen I(5), Radu P(5), 
+Matei V(6), Nacu A(4), Boronin L(4), Davidson M(7), Davis JM(8).
+
+Author information:
+(1)Department of Psychiatry, Sheba Medical Center, Tel Hashomer, Israel.
+(2)Sackler School of Medicine, Tel Aviv University, Tel Aviv, Israel.
+(3)Department of Psychiatry, University of North Carolina, Chapel Hill, NC.
+(4)Department of Psychiatry, Narcology and Medical Psychology, State University 
+of Medicine and Pharmacy Nicolae Testemitanu, Chisinau, Moldova.
+(5)Tangent Alzheimer Care, Breaza, Romania.
+(6)Department of Psychiatry, Obrejia Hospital, Bucharest, Romania.
+(7)Nicosia School of Medicine, Nicosia, Cyprus.
+(8)Department of Psychiatry, University of Illinois, Chicago, IL.
+
+Two previous randomized controlled trials (RCTs) suggested that adjunctive 
+aspirin is efficacious in treating schizophrenia. We conducted two 16-week 
+double-blind randomized placebo-controlled RCTs of adjunctive 1000 mg aspirin vs 
+placebo in schizophrenia. Study 1 included 200 patients, with Positive and 
+Negative Syndrome Scale (PANSS) total score as the primary outcome. Study 2 
+included 160 patients with C-reactive protein (CRP) >1 mg/L at baseline; the 
+primary outcome was PANSS-positive score. Dropout rates for aspirin/placebo were 
+12% in study 1 and 20% in study 2. Differences in outcome between aspirin and 
+placebo were calculated with linear regression, adjusting for the baseline value 
+of the outcome. No statistically significant between-group differences were 
+found in primary or secondary outcomes in either study. Study 1: mean difference 
+in PANSS at 16 weeks was -3.9 (95% CI: -8.4 to 0.5, P = .10, effect size (ES) = 
+-0.25) and at 8 weeks was -3.5 (95% CI: -7.5 to 0.5, P = .11, ES = -0.22). Study 
+2: mean difference in PANSS at 16 weeks was 0.3 (95% CI: -4.1 to 4.7, P = .90, 
+ES = 0.02) and in positive PANSS was 0.5 (95% CI: -1.0 to 2.1, P = .50, ES = 
+0.11). A meta-analysis of these data with the existing studies, excluding one 
+with large baseline differences in total PANSS, found that the overall estimate 
+of the effect of adjunctive aspirin on the PANSS total score comparing group 
+means at the end of the study was -2.9 (95% CI: -6.6 to 0.7; P = .21), favoring 
+aspirin. Our studies and meta-analysis failed to find a statistically 
+significant improvement in the symptoms of schizophrenia from adjunctive aspirin 
+therapy in comparison to placebo in schizophrenia. Trial registration: study 1: 
+Clinicaltrials.gov: NCT01320982; study 2 (high CRP): EudraCT Number: 
+2014-000757-36.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of the 
+Maryland Psychiatric Research Center.All rights reserved. For permissions, 
+please email: journals.permissions@oup.com.
+
+DOI: 10.1093/schbul/sbaa198
+PMCID: PMC8266648
+PMID: 33479775 [Indexed for MEDLINE]
+
+
+4. J Clin Psychopharmacol. 2012 Oct;32(5):583-4. doi:
+10.1097/JCP.0b013e31826c448b.
+
+Too good to be true? Aspirin and schizophrenia.
+
+Shader RI.
+
+DOI: 10.1097/JCP.0b013e31826c448b
+PMID: 22926589 [Indexed for MEDLINE]
+
+
+5. Psychol Med. 2019 Oct;49(14):2307-2319. doi: 10.1017/S0033291719001995. Epub 
+2019 Aug 23.
+
+An update on the efficacy of anti-inflammatory agents for patients with 
+schizophrenia: a meta-analysis.
+
+Çakici N(1)(2), van Beveren NJM(2)(3)(4), Judge-Hundal G(2)(5), Koola MM(6), 
+Sommer IEC(5).
+
+Author information:
+(1)Department of Psychiatry and Amsterdam Neuroscience, Academic Medical Center, 
+Meibergdreef 9, 1105 AZ Amsterdam, the Netherlands.
+(2)Antes Center for Mental Health Care, Albrandswaardsedijk 74, 3172 AA, 
+Poortugaal, the Netherlands.
+(3)Department of Psychiatry, Erasmus Medical Center, Doctor Molewaterplein 40, 
+3015 GD Rotterdam, the Netherlands.
+(4)Department of Neuroscience, Erasmus Medical Center, Doctor Molewaterplein 40, 
+3015 GD Rotterdam, the Netherlands.
+(5)Department of Psychiatry and Biomedical Sciences of Cells and Systems, 
+University Medical Center Groningen, Deusinglaan 2, 9713AW Groningen, the 
+Netherlands.
+(6)Department of Psychiatry and Behavioral Sciences, George Washington 
+University School of Medicine and Health Sciences, 2300I St NW, Washington, DC 
+20052, USA.
+
+BACKGROUND: Accumulating evidence shows that a propensity towards a 
+pro-inflammatory status in the brain plays an important role in schizophrenia. 
+Anti-inflammatory drugs might compensate this propensity. This study provides an 
+update regarding the efficacy of agents with some anti-inflammatory actions for 
+schizophrenia symptoms tested in randomized controlled trials (RCTs).
+METHODS: PubMed, Embase, the National Institutes of Health website 
+(http://www.clinicaltrials.gov), and the Cochrane Database of Systematic Reviews 
+were systematically searched for RCTs that investigated clinical outcomes.
+RESULTS: Our search yielded 56 studies that provided information on the efficacy 
+of the following components on symptom severity: aspirin, bexarotene, celecoxib, 
+davunetide, dextromethorphan, estrogens, fatty acids, melatonin, minocycline, 
+N-acetylcysteine (NAC), pioglitazone, piracetam, pregnenolone, statins, 
+varenicline, and withania somnifera extract. The results of aspirin [mean 
+weighted effect size (ES): 0.30; n = 270; 95% CI (CI) 0.06-0.54], estrogens (ES: 
+0.78; n = 723; CI 0.36-1.19), minocycline (ES: 0.40; n = 946; CI 0.11-0.68), and 
+NAC (ES: 1.00; n = 442; CI 0.60-1.41) were significant in meta-analysis of at 
+least two studies. Subgroup analysis yielded larger positive effects for 
+first-episode psychosis (FEP) or early-phase schizophrenia studies. Bexarotene, 
+celecoxib, davunetide, dextromethorphan, fatty acids, pregnenolone, statins, and 
+varenicline showed no significant effect.
+CONCLUSIONS: Some, but not all agents with anti-inflammatory properties showed 
+efficacy. Effective agents were aspirin, estrogens, minocycline, and NAC. We 
+observed greater beneficial results on symptom severity in FEP or early-phase 
+schizophrenia.
+
+DOI: 10.1017/S0033291719001995
+PMCID: PMC6763537
+PMID: 31439071 [Indexed for MEDLINE]
+
+
+6. Expert Rev Clin Pharmacol. 2016;9(2):161-3. doi:
+10.1586/17512433.2016.1095086.  Epub 2015 Oct 1.
+
+Anti-inflammatory strategies in the treatment of schizophrenia.
+
+Andrade C(1).
+
+Author information:
+(1)a Department of Psychopharmacology, National Institute of Mental Health and 
+Neurosciences, Bangalore 560 029, India.
+
+Schizophrenia is a major mental illness with a lifetime prevalence of about 1%. 
+Antipsychotic drugs, with a primary mechanism of action that involves dopamine 
+receptor blockade, are the mainstay in the treatment of the disorder. However, 
+despite optimum antipsychotic treatment, few patients return to pre-morbid 
+levels; the treatment deficit includes refractory positive symptoms, negative 
+symptoms, mood impairments, cognitive impairments, social impairments, and/or a 
+variety of medication-related adverse effects, including extrapyramidal 
+symptoms, metabolic disturbances, hyperprolactinemia, and others. To address 
+these, antipsychotic treatment has been augmented with psychosocial 
+interventions, cognitive rehabilitation, different kinds of electrical and 
+magnetic brain stimulation, and a large range of drugs from the neuropsychiatric 
+as well as, surprise, the general medical pharmacopeia. The pleomorphic 
+pathophysiology of schizophrenia includes abnormalities in immunological and 
+inflammatory pathways, and so it is not surprising that anti-inflammatory drugs 
+have also been trialed as augmentation agents in schizophrenia. This article 
+critically examines the outcomes after augmentation with conventional 
+anti-inflammatory interventions; results from randomized controlled trials do 
+not encourage the use of either aspirin (1000 mg/day) or celecoxib (400 mg/day), 
+both of which have been studied for this indication during the past decade and a 
+half.
+
+DOI: 10.1586/17512433.2016.1095086
+PMID: 26427750 [Indexed for MEDLINE]
+
+
+7. Front Psychiatry. 2020 Mar 18;11:160. doi: 10.3389/fpsyt.2020.00160.
+eCollection  2020.
+
+The Role of Inflammation in the Treatment of Schizophrenia.
+
+Fond G(1), Lançon C(1), Korchia T(1), Auquier P(1), Boyer L(1).
+
+Author information:
+(1)Hôpitaux Universitaires de Marseille (HUM), Aix-Marseille University, School 
+of Medicine - La Timone Medical Campus, EA 3279: CEReSS - Health Service 
+Research and Quality of Life Center, Marseille, France.
+
+Background: Inflammation plays a major role in the onset and maintenance of 
+schizophrenia. The objective of the present work was to synthetize in a 
+narrative review the recent findings in the field of inflammation in 
+schizophrenia and their application in daily practice. Method: This review was 
+based on the most recent meta-analyses and randomized controlled trials. 
+Results: The disturbed cytokines depend on the phase of the illness. A 
+meta-analysis of cytokines in schizophrenia found higher levels of 
+pro-inflammatory and anti-inflammatory cytokines in the peripheral blood in both 
+patients with first-episode schizophrenia and relapsed patients than in healthy 
+controls. Exploring detailed data on immune-inflammatory disturbances in SZ 
+reveals that IL-6 is one of the most consistently disturbed cytokines. Other 
+cytokines, including IL1, TNF, and IFN, are also disturbed in schizophrenia. 
+Choosing a broad spectrum anti-inflammatory agent that may inhibit subsequent 
+pathways might be particularly useful for the treatment of inflammatory 
+schizophrenia. Highly sensitive C-Reactive Protein is a useful screening marker 
+for detecting inflammation in SZ subjects. Anti-inflammatory agents have shown 
+effectiveness in recently published meta-analyses. Only one study found a 
+significant difference between celecoxib and placebo, but two found a trend 
+toward significance on illness severity and one on positive symptoms. In 
+addition, other published and unpublished data were included in another 
+meta-analysis that concluded the significant effect of add-on celecoxib in 
+positive symptoms in first episode patients. There is a lack of data to 
+determine if aspirin is truly effective in schizophrenia to date. Other 
+anti-inflammatory agents have been explored, including hormonal therapies, 
+antioxidants, omega 3 fatty acids, and minocycline, showing significant effects 
+for reducing total, positive, and negative score symptoms and general 
+functioning. However, each of these agents has multiple properties beyond 
+inflammation and it remains unclear how these drugs improve schizophrenia. 
+Conclusion: The next step is to tailor anti-inflammatory therapy in 
+schizophrenia, with two main challenges: 1. To provide a more efficient 
+anti-inflammatory therapeutic approach that targets specific pathways associated 
+with the pathology of schizophrenia. 2. To develop a more personalized approach 
+in targeting patients who have the best chance of successful treatment.
+
+Copyright © 2020 Fond, Lançon, Korchia, Auquier and Boyer.
+
+DOI: 10.3389/fpsyt.2020.00160
+PMCID: PMC7093323
+PMID: 32256401
+
+
+8. Evid Based Ment Health. 2010 Nov;13(4):122. doi: 10.1136/ebmh.13.4.122.
+
+Adding aspirin to antipsychotics reduces psychopathology in adults with 
+schizophrenia spectrum disorders.
+
+Mondelli V(1), Pariante CM.
+
+Author information:
+(1)Institute of Psychiatry, Kings College London, London, UK.
+
+Comment on
+    J Clin Psychiatry. 2010 May;71(5):520-7. doi: 10.4088/JCP.09m05117yel.
+
+DOI: 10.1136/ebmh.13.4.122
+PMID: 21036984
+
+
+9. J Clin Psychiatry. 2010 May;71(5):520-7. doi: 10.4088/JCP.09m05117yel.
+
+Adjuvant aspirin therapy reduces symptoms of schizophrenia spectrum disorders: 
+results from a randomized, double-blind, placebo-controlled trial.
+
+Laan W(1), Grobbee DE, Selten JP, Heijnen CJ, Kahn RS, Burger H.
+
+Author information:
+(1)Julius Center for Health Sciences and Primary Care, University Medical Center 
+Utrecht, PO Box 85500, 3508 GA, Utrecht, The Netherlands. W.Laan@umcutrecht.nl
+
+Comment in
+    Evid Based Ment Health. 2010 Nov;13(4):122. doi: 10.1136/ebmh.13.4.122.
+
+OBJECTIVE: Inflammatory processes may play a role in the pathophysiology of 
+schizophrenia. The aim of this study was to determine the efficacy of adjuvant 
+treatment with aspirin (acetylsalicylic acid) in schizophrenia spectrum 
+disorders.
+METHOD: This randomized, double-blind, placebo-controlled study was conducted 
+between May 2004 and August 2007. Seventy antipsychotic-treated inpatients and 
+outpatients from 10 psychiatric hospitals in The Netherlands with a 
+DSM-IV-diagnosed schizophrenia spectrum disorder were included. Patients were 
+randomized to adjuvant treatment with aspirin 1000 mg/d or placebo. During a 
+3-month follow-up, psychopathology was assessed with the Positive and Negative 
+Syndrome Scale (PANSS). Other assessments included cognitive tests and immune 
+function. The primary efficacy outcome was the change in total PANSS score. 
+Secondary outcomes were changes in the PANSS subscales and cognitive test 
+results.
+RESULTS: Mixed-effect models showed a 4.86-point (95% CI, 0.91 to 8.80) and 
+1.57-point (95% CI, 0.06 to 3.07) larger decrease in the aspirin group compared 
+to the placebo group on the total and positive PANSS score, respectively. 
+Similar but not statistically significant results were observed for the other 
+PANSS subscale scores. Treatment efficacy on total PANSS score was substantially 
+larger in patients with the more altered immune function (P = .018). Aspirin did 
+not significantly affect cognitive function. No substantial side effects were 
+recorded.
+CONCLUSION: Aspirin given as adjuvant therapy to regular antipsychotic treatment 
+reduces the symptoms of schizophrenia spectrum disorders. The reduction is more 
+pronounced in those with the more altered immune function. Inflammation may 
+constitute a potential new target for antipsychotic drug development.
+TRIAL REGISTRATION: controlled-trials.com Identifier: ISRCTN27745631.
+
+©Copyright 2010 Physicians Postgraduate Press, Inc.
+
+DOI: 10.4088/JCP.09m05117yel
+PMID: 20492850 [Indexed for MEDLINE]
+
+
+10. Int J Neuropsychopharmacol. 2018 Mar 1;21(3):216-225. doi:
+10.1093/ijnp/pyx092.
+
+Studies on Prostaglandin-Endoperoxide Synthase 1: Lower Levels in Schizophrenia 
+and After Treatment with Antipsychotic Drugs in Conjunction with Aspirin.
+
+Dean B(1)(2), Gibbons A, Gogos A(1), Udawela M(1), Thomas E(3), Scarr E(1)(4).
+
+Author information:
+(1)The Florey Institute for Neuroscience and Mental Health, Parkville, Victoria, 
+Australia.
+(2)Centre for Mental Health, Swinburne University of Technology, Hawthorn, 
+Australia.
+(3)The Scripps Research Institute, La Jolla, California.
+(4)Melbourne Veterinary School, Faculty of Veterinary and Agricultural Sciences, 
+The University of Melbourne, Victoria, Australia.
+
+BACKGROUND: Antipsychotic drugs plus aspirin (acetylsalicylic acid), which 
+targets prostaglandin-endoperoxide synthase 1 (PTGS1: COX1), improved 
+therapeutic outcomes when treating schizophrenia. Our microarray data showed 
+higher levels of PTGS1 mRNA in the dorsolateral prefrontal cortex from subjects 
+with schizophrenia of long duration of illness, suggesting aspirin plus 
+antipsychotic drugs could have therapeutic effects by lowering PTGS1 expression 
+in the cortex of subjects with the disorder.
+METHODS: We used Western blotting to measure levels of PTSG1 protein in human 
+postmortem CNS, rat and mouse cortex, and cells in culture.
+RESULTS: Compared with controls, PTGS1 levels were 41% lower in the dorsolateral 
+prefrontal cortex (P<.01), but not the anterior cingulate or frontal pole, from 
+subjects with schizophrenia. Levels of PTGS1 were not changed in the 
+dorsolateral prefrontal cortex in mood disorders or in the cortex of rats 
+treated with antipsychotic drugs. There was a strong trend (P=.05) to lower 
+cortical PTGS1 10 months after mice were treated postnatally with 
+polyinosinic-polycytidylic acid sodium salt (Poly I:C), consistent with cortical 
+PTGS1 being lower in adult mice after exposure to an immune activator 
+postnatally. In CCF-STTG1 cells, a human-derived astrocytic cell line, aspirin 
+caused a dose-dependent decrease in PTGS1 that was decreased further with the 
+addition of risperidone.
+CONCLUSIONS: Our data suggest low levels of dorsolateral prefrontal cortex PTGS1 
+could be associated with the pathophysiology of schizophrenia, and improved 
+therapeutic outcome from treating schizophrenia with antipsychotic drugs 
+augmented with aspirin may be because such treatment lowers cortical PTGS1.
+
+DOI: 10.1093/ijnp/pyx092
+PMCID: PMC5838806
+PMID: 30052978 [Indexed for MEDLINE]
+
+
+11. Front Psychiatry. 2019 May 31;10:375. doi: 10.3389/fpsyt.2019.00375.
+eCollection  2019.
+
+COX-2 Inhibitors, Aspirin, and Other Potential Anti-Inflammatory Treatments for 
+Psychiatric Disorders.
+
+Müller N(1)(2).
+
+Author information:
+(1)Department of Psychiatry and Psychotherapy, Ludwig-Maximilians-Universität 
+Munich, Munich, Germany.
+(2)Marion von Tessin Memory Center, Munich, Germany.
+
+Inflammatory processes associated with persistent (chronic) infection have long 
+been discussed as etiological factors in psychiatric disorders. Studies have 
+found that people with major depression have higher levels of pro-inflammatory 
+cytokines, for example, IL-1, IL-6, and tumor necrosis factor-alpha, and 
+C-reactive protein. In schizophrenia, many reports have described raised levels 
+of cytokines, for example, IL-6; and meta-analyses have confirmed these 
+findings. Microglia cells are important in inflammatory processes, and positron 
+emission tomography studies have shown microglia activation in both depression 
+and schizophrenia.As a consequence of the above findings, immunomodulation is 
+widely discussed as a potential treatment approach in both major depression and 
+schizophrenia. The COX-2 inhibitor celecoxib was found to have a significant 
+positive effect on major depression, not only in single studies but also in 
+meta-analyses. Celecoxib has also been studied in schizophrenia and has shown 
+efficacy, in particular, in early disease stages. The mixed COX inhibitor 
+aspirin (acetylsalicylic acid) seems to have both protective and therapeutic 
+effects on schizophrenia.This paper discusses the hypothesized role of 
+inflammation in major depression and schizophrenia, including markers of 
+inflammation; pertinent studies on celecoxib and aspirin; and additional 
+immunomodulatory therapeutic strategies.
+
+DOI: 10.3389/fpsyt.2019.00375
+PMCID: PMC6555131
+PMID: 31214060
+
+
+12. J Clin Med. 2023 Jun 12;12(12):4012. doi: 10.3390/jcm12124012.
+
+Augmentation Therapies as Treatments for Coexisting Somatic Problems in 
+Schizophrenia-A Systematic Review.
+
+Dróżdż W(1), Wiciński M(2), Szota AM(1), Szambelan M(2), Radajewska I(1), 
+Popławski I(2), Wojciechowski P(2).
+
+Author information:
+(1)Department of Psychiatry, Ludwig Rydygier Collegium Medicum in Bydgoszcz of 
+Nicolaus Copernicus University in Toruń, Curie Skłodowskiej Street 9, 85-094 
+Bydgoszcz, Poland.
+(2)Department of Pharmacology and Therapy, Ludwig Rydygier Collegium Medicum in 
+Bydgoszcz of Nicolaus Copernicus University in Toruń, Curie Skłodowskiej Street 
+9, 85-094 Bydgoszcz, Poland.
+
+The aim of this review is to appraise the data from available randomized 
+clinical trials (RCT) regarding the possible combinations of neuroleptic and 
+non-antipsychotic treatment which could enhance antipsychotic therapy efficacy 
+whilst simultaneously addressing somatic symptoms in individuals with 
+schizophrenia. A systematic search of the PubMed database up to February 2022 
+was conducted. Inclusion criteria: randomized controlled trials using 
+augmentation therapy in chronic schizophrenia in adults, written in English, and 
+only studies with psychometric assessments of schizophrenia were incorporated. 
+Exclusion criteria: non-clinical, first episode of schizophrenia, patients on 
+medication other than antipsychotics augmented, and not adjunctive therapy. 
+Overall, 37 studies of 1931 patients with schizophrenia who received a 
+combination of antipsychotic medication with other drugs were selected. A 
+statistically significant reduction of negative and positive symptoms of 
+schizophrenia, measured with the PANSS scale, when using a combination of 
+antipsychotic treatment along with aspirin, simvastatin, N-acetylcysteine, or 
+pioglitazone was found. A combination of antipsychotic medication with aspirin, 
+simvastatin, N-acetylcysteine, or pioglitazone seems to be effective in the 
+reduction of symptoms of schizophrenia in adults, but long-term studies are 
+required to confirm this effect.
+
+DOI: 10.3390/jcm12124012
+PMCID: PMC10299654
+PMID: 37373704
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+13. BMC Med. 2013 Mar 18;11:74. doi: 10.1186/1741-7015-11-74.
+
+Aspirin: a review of its neurobiological properties and therapeutic potential 
+for mental illness.
+
+Berk M(1), Dean O, Drexhage H, McNeil JJ, Moylan S, O'Neil A, Davey CG, Sanna L, 
+Maes M.
+
+Author information:
+(1)School of Medicine, Deakin University, 75 Pigdon's Road, Waurn Ponds, 
+Geelong, Victoria 3216, Australia. mikebe@barwonhealth.org.au
+
+There is compelling evidence to support an aetiological role for inflammation, 
+oxidative and nitrosative stress (O&NS), and mitochondrial dysfunction in the 
+pathophysiology of major neuropsychiatric disorders, including depression, 
+schizophrenia, bipolar disorder, and Alzheimer's disease (AD). These may 
+represent new pathways for therapy. Aspirin is a non-steroidal anti-inflammatory 
+drug that is an irreversible inhibitor of both cyclooxygenase (COX)-1 and COX-2, 
+It stimulates endogenous production of anti-inflammatory regulatory 'braking 
+signals', including lipoxins, which dampen the inflammatory response and reduce 
+levels of inflammatory biomarkers, including C-reactive protein, tumor necrosis 
+factor-α and interleukin (IL)--6, but not negative immunoregulatory cytokines, 
+such as IL-4 and IL-10. Aspirin can reduce oxidative stress and protect against 
+oxidative damage. Early evidence suggests there are beneficial effects of 
+aspirin in preclinical and clinical studies in mood disorders and schizophrenia, 
+and epidemiological data suggests that high-dose aspirin is associated with a 
+reduced risk of AD. Aspirin, one of the oldest agents in medicine, is a 
+potential new therapy for a range of neuropsychiatric disorders, and may provide 
+proof-of-principle support for the role of inflammation and O&NS in the 
+pathophysiology of this diverse group of disorders.
+
+DOI: 10.1186/1741-7015-11-74
+PMCID: PMC3751197
+PMID: 23506529 [Indexed for MEDLINE]
+
+
+14. Clin Schizophr Relat Psychoses. 2012 Jan;5(4):208-216.
+
+Adjunct treatments for schizophrenia and bipolar disorder: what to try when you 
+are out of ideas.
+
+Torrey EF(1), Davis JM.
+
+Author information:
+(1)The Stanley Medical Research Institute, Chevy Chase, MD 20815, USA. 
+torreyf@stanleyresearch.org
+
+The pharmacologic treatment of schizophrenia and bipolar disorder leaves much to 
+be desired. Repurposed drugs, which are approved for other medical conditions, 
+represent an underutilized therapeutic resource for patients who have not 
+responded to other drugs. Using experience gained from a decade of repurposed 
+drug studies by the Stanley Medical Research Institute and search of the 
+literature, we have identified nine such drugs for which there is some evidence 
+of efficacy for schizophrenia and/or bipolar disorder. These include: aspirin; 
+celecoxib; estrogen/raloxifene; folate; minocycline; mirtazapine; omega-3 fatty 
+acids; pramipexole; and, pregnenolone. The evidence of efficacy is reviewed for 
+each drug. Because there is little or no financial incentive for pharmaceutical 
+companies to promote such drugs, there is a paucity of definitive trials, and 
+these drugs are less widely known than they deserve to be. Biomarker studies 
+should also be carried out to identify subgroups of patients who do respond to 
+these drugs.
+
+PMID: 22182458 [Indexed for MEDLINE]
+
+
+15. Integr Med (Encinitas). 2024 Jul;23(3):12-23.
+
+Hypothesis: 2 Major Environmental and Pharmaceutical Factors-Acetaminophen 
+Exposure and Gastrointestinal Overgrowth of Clostridia Bacteria Induced By 
+Ingestion of Glyphosate-Contaminated Foods-Dysregulate the Developmental Protein 
+Sonic Hedgehog and Are Major Causes of Autism.
+
+Shaw W(1).
+
+Author information:
+(1)Research Chemist, Mosaic Diagnostics, Overland Park, KS, USA.
+
+Epidemiological studies have found 2 significant factors associated with the 
+increased incidence of autism spectrum disorder (ASD): the increased use of 
+acetaminophen in the 1970s when this drug largely replaced the use of aspirin 
+for many patients because of a fear of Reye syndrome, and the agricultural use 
+in the 1990s of the herbicide glyphosate on crops that were genetically modified 
+(GM) to tolerate glyphosate. The incidence of autism in the United States, where 
+acetaminophen is widely available, is more than 1000 times greater than in Cuba, 
+where acetaminophen is available only by prescription. Metabolites of both 
+glyphosate and acetaminophen likely alter the function of the developmental 
+protein sonic hedgehog (SHH). Glyphosate likely affects SHH indirectly by 
+decreasing the beneficial flora of the gastrointestinal tract and increasing 
+pathogenic Clostridia bacteria, which are resistant to glyphosate. The marked 
+increase of certain Clostridia species caused by glyphosate results in 
+Clostridia production of large amounts of 
+3-(3-hydroxyphenyl)-3-hydroxypropionate (HPHPA) and 4-cresol (p-cresol). The 
+4-cresol metabolite 4-methyl-o-hydroquinone and the acetaminophen metabolite 
+N-acetyl-p-benzoquinone imine (NAPQI) likely react with the sulfhydryl group of 
+the N-terminal cysteine of SHH, blocking the function of this critical amino 
+acid required for the activation of SHH. HPHPA and 4-cresol also inhibit 
+dopamine β-hydroxylase, resulting in overproduction of dopamine and its toxic 
+metabolites, such as aminochrome, that cause biochemical damage to mitochondria 
+and structural proteins in brain cells. Elevated amounts of these Clostridia 
+products in body fluids in people with autism and in animals with autistic signs 
+have been documented in laboratories throughout the world. The synthesis of the 
+HPHPA molecule in extremely large quantities depletes the body of free coenzyme 
+A, which is needed for the palmitoylation of SHH. SHH covalently coupled to 
+palmitic acid is 30 times more active than SHH without palmitic acid. These 
+possible modifications of SHH help to explain the significantly altered 
+quantities of SHH in the blood serum of patients with autism. The severity of 
+autism is related to the degree of SHH abnormality. The spread of pathogenic 
+Clostridia worldwide from soil to food animals to humans, which may be promoted 
+by glyphosate use, is a great public health concern, not only for autism but 
+perhaps for all the neuropsychiatric diseases that appear to be related to 
+gastrointestinal Clostridia overgrowth These diseases include seizures, tremors, 
+tic disorders, Parkinson disease, chronic fatigue syndrome, obsessive compulsive 
+disorder, schizophrenia, bipolar and unipolar depression, ADHD, and anorexia 
+nervosa.
+
+Copyright © 2024 InnoVision Professional Media Inc.
+
+PMCID: PMC11302971
+PMID: 39114279
+
+Conflict of interest statement: Conflicts of Interest The author declares no 
+conflicts of interest regarding the acetaminophen topic. The author’s 
+laboratory, The Great Plains Laboratory (now Mosaic Diagnostics), which he owned 
+in the past, performed metabolomic testing for HPHPA, 4-cresol, homovanillic 
+acid, vanillylmandelic acid, and glyphosate. William Shaw is an employee of 
+Mosaic Diagnostics. The paper reflects the views of William Shaw and not Mosaic 
+Diagnostics.
+
+
+16. Biol Psychiatry. 2014 Feb 15;75(4):292-299. doi:
+10.1016/j.biopsych.2013.12.002.  Epub 2013 Dec 11.
+
+The cytokine model of schizophrenia: emerging therapeutic strategies.
+
+Girgis RR(#)(1)(2), Kumar SS(#)(2)(3), Brown AS(1)(2)(3).
+
+Author information:
+(1)Department of Psychiatry, Columbia University College of Physicians and 
+Surgeons, New York, NY, USA.
+(2)New York State Psychiatric Institute, New York, NY, USA.
+(3)Department of Epidemiology, Columbia University, Mailman School of Public 
+Health, New York, NY, USA.
+(#)Contributed equally
+
+We discuss the rationale for a trial of a novel biological immunotherapy in 
+schizophrenia (SCZ). Available antipsychotic treatments for SCZ are often 
+limited by partial effectiveness and significant side effects. The search for 
+novel medications is of high priority. All current antipsychotics function 
+primarily by blocking D2-type dopamine receptors. An emerging theory of SCZ 
+postulates disturbances of cytokines and inflammatory mediators (i.e., the 
+cytokine model), possibly originating in part from infectious exposures. 
+Cytokines are one of the most important components of the immune system that 
+orchestrate the response to infectious and other exogenous insults. Preclinical 
+models of SCZ support a convergence between a role for certain cytokines in the 
+pathophysiology of SCZ and major neurochemical postulates of the disorder, 
+including the dopamine and glutamate hypotheses. Several cytokines are elevated 
+in plasma in SCZ, and positron emission tomography studies have shown active 
+inflammation in the brains of patients with psychosis. Treatment studies of 
+anti-inflammatory agents, such as celecoxib and aspirin, in patients with SCZ 
+have provided further support for neuroinflammation in this disorder. The 
+development of approved biological therapies for autoimmune diseases provides 
+new opportunities to target cytokine signaling directly as a novel treatment 
+strategy in SCZ. In addition, advances in imaging, immunology, and 
+psychopharmacology have paved the way for using measures of target engagement of 
+neuroimmune components that would facilitate the identification of patient 
+subgroups who are most likely to benefit from cytokine modulation.
+
+Copyright © 2014 Society of Biological Psychiatry. Published by Elsevier Inc. 
+All rights reserved.
+
+DOI: 10.1016/j.biopsych.2013.12.002
+PMCID: PMC3931550
+PMID: 24439555 [Indexed for MEDLINE]
+
+
+17. Cureus. 2023 Jun 15;15(6):e40474. doi: 10.7759/cureus.40474. eCollection 2023
+ Jun.
+
+Safety and Efficacy of Ondansetron and Simvastatin as Potential Adjunctive 
+Treatment for Patients With Schizophrenia: A Systematic Review of Randomized 
+Controlled Trials.
+
+Khan KI(1), Al Shouli R(2), Allakky A(3), Ferguson AA(4), Khan AI(1), Abuzainah 
+B(5), Gutlapalli SD(3), Chaudhuri D(1), Hamid P(6).
+
+Author information:
+(1)Research, California Institute of Behavioral Neurosciences & Psychology, 
+Fairfield, USA.
+(2)Pediatrics, California Institute of Behavioral Neurosciences & Psychology, 
+Fairfield, USA.
+(3)Internal Medicine, California Institute of Behavioral Neurosciences & 
+Psychology, Fairfield, USA.
+(4)Psychiatry, California Institute of Behavioral Neurosciences & Psychology, 
+Fairfield, USA.
+(5)General Practice, California Institute of Behavioral Neurosciences & 
+Psychology, Fairfield, USA.
+(6)Neurology, California Institute of Behavioral Neurosciences & Psychology, 
+Fairfield, USA.
+
+In a generation where advancements in research and understanding have led to 
+remarkable achievements in medicine, it is still unfathomable that, after more 
+than a century, the cause of schizophrenia is still a mystery. While 
+antipsychotics, without a doubt, have brought on an exemplary revolution in the 
+way psychiatric disorders are now treated, there are still imperative deficits 
+that need to be addressed to ultimately enable individuals with schizophrenia to 
+function normally in society. However, without a definite cause of 
+schizophrenia, even though speculation has been made on its inflammatory and 
+neurodegenerative nature, it has provided an unnecessary hindrance to finding 
+further potential treatment modalities for these patients. Nevertheless, some 
+trials are investigating potential adjunctive treatment regimens to 
+antipsychotics, which can help achieve complete remission. Exploring these drugs 
+will have significant implications for managing schizophrenia in future clinical 
+practices. This systematic review was conducted between January 2012 to July 
+2022 according to Preferred Reporting Items for Systematic Review and 
+Meta-Analysis guidelines to evaluate the safety and efficacy of ondansetron and 
+simvastatin as adjunctive treatment to antipsychotics in adult patients with 
+schizophrenia. This review included nine randomized controlled trials. Overall, 
+both simvastatin and ondansetron, when used as adjunctive treatment in 
+schizophrenia, appear to be safe. Ondansetron showed promising results, with all 
+studies on this drug showing positive overall results on schizophrenia symptoms. 
+On the other hand, simvastatin demonstrated mixed results, which can be 
+attributed to the limited participants in the studies and the shorter duration 
+of the trials. However, more extensive trials with uniform assessment tools are 
+needed to demonstrate concrete evidence of the effectiveness of these drugs, 
+whether alone or in combination with each other or perhaps another drug such as 
+aspirin in schizophrenia.
+
+Copyright © 2023, Khan et al.
+
+DOI: 10.7759/cureus.40474
+PMCID: PMC10349656
+PMID: 37456496
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+18. J Psychopharmacol. 2013 Apr;27(4):337-42. doi: 10.1177/0269881112467089. Epub
+ 2012 Nov 13.
+
+A review of anti-inflammatory agents for symptoms of schizophrenia.
+
+Keller WR(1), Kum LM, Wehring HJ, Koola MM, Buchanan RW, Kelly DL.
+
+Author information:
+(1)Maryland Psychiatric Research Center, University of Maryland School of 
+Medicine, Baltimore, MD 21228, USA.
+
+Schizophrenia is a chronic debilitating mental disorder that affects about 1% of 
+the US population. The pathophysiology and etiology remain unknown, thus new 
+treatment targets have been challenging and few novel treatments with new 
+mechanisms of action have come to market in the past few decades. Increasing 
+attention has been paid to the role of inflammation in schizophrenia and new 
+data suggests that decreasing inflammation and inflammatory biomarkers may play 
+some role in schizophrenia treatment. This review summarizes the clinical trial 
+literature regarding medications that possess anti-inflammatory properties that 
+have been tested for schizophrenia symptoms and covers such medications as 
+non-steroidal anti-inflammatory agents, such as the cyclo-oxygenase-2 (COX-2) 
+inhibitors and aspirin, omega-3 fatty acids, neurosteroids and minocycline. 
+Overall, there is accumulating evidence, albeit mostly adjunctive treatments, 
+that agents working on inflammatory pathways have some benefits in people with 
+schizophrenia. In the next few years the field will begin to see data on many 
+treatments with anti-inflammatory properties that are currently under study. 
+Hopefully advancements in understanding inflammation and effective treatments 
+having anti-inflammatory properties may help revolutionize our understanding and 
+provide new targets for prevention and treatment in schizophrenia.
+
+DOI: 10.1177/0269881112467089
+PMCID: PMC3641824
+PMID: 23151612 [Indexed for MEDLINE]
+
+
+19. J Child Adolesc Psychopharmacol. 2013 Oct;23(8):585-6. doi: 
+10.1089/cap.2013.0033.
+
+Aspirin as an adjunctive treatment for childhood onset schizophrenia.
+
+Webb JR(1), Stubbe DE, Poncin YB.
+
+Author information:
+(1)Child Study Center, Yale University , New Haven, Connecticut.
+
+Erratum in
+    J Child Adolesc Psychopharmacol. 2014 Mar;24(2):109. Webb, Jadon E 
+[corrected to Webb, Jadon R].
+
+DOI: 10.1089/cap.2013.0033
+PMID: 24138014 [Indexed for MEDLINE]
+
+
+20. Ann Pharmacother. 2000 May;34(5):615-8. doi: 10.1345/aph.19213.
+
+Clozapine-associated extrapyramidal reaction.
+
+Elliott ES(1), Marken PA, Ruehter VL.
+
+Author information:
+(1)Pharmacy Practice Resident, Western Missouri Mental Health Center, Kansas 
+City, USA.
+
+OBJECTIVE: To report a case of extrapyramidal reaction associated with a dosage 
+increase of clozapine.
+CASE SUMMARY: A 44-year-old white man with a 20-year history of chronic paranoid 
+schizophrenia was admitted to an inpatient psychiatric facility. His prior 
+medications restarted on admission were clozapine 650 mg at bedtime, haloperidol 
+10 mg at bedtime, clonazepam 2 mg/d, and aspirin 325 mg/d. Two days after 
+admission (hospital day 3), clozapine and clonazepam were discontinued, and he 
+was prescribed haloperidol 5 mg every morning and 10 mg every evening. 
+Stabilization occurred over the following 24 days, with progressively lower 
+dosages of haloperidol and increasing dosages of clozapine. Haloperidol was 
+discontinued on day 24. On day 47, the patient was agitated and making bizarre 
+statements; thus, the morning dose of clozapine was increased by 50 mg (total 
+450 mg/d). On day 48 at 2200, a dystonic reaction was diagnosed; he received 
+intramuscular diphenhydramine 50 mg, which caused the reaction to subside. At 
+the time of the adverse reaction, he was prescribed clozapine 450 mg/d, vitamin 
+E 400 IU three times daily, aspirin 325 mg/d, and acetaminophen, milk of 
+magnesia, and Maalox as needed.
+DISCUSSION: Although the risk of extrapyramidal symptoms (EPS) is significantly 
+lower with clozapine than with conventional agents, elevated clozapine blood 
+concentrations have been reported to cause EPS; other reports have cited severe 
+dystonias and dyskinesias on abrupt clozapine withdrawal. Considering the 
+medications prescribed at the time and the discontinuation of haloperidol 24 
+days before the event, clozapine was the most likely cause of the extrapyramidal 
+reaction.
+CONCLUSIONS: Regardless of anticipated safety associated with novel 
+antipsychotics such as clozapine, reports of dystonic reactions must be taken 
+into account and patients monitored appropriately.
+
+DOI: 10.1345/aph.19213
+PMID: 10852089 [Indexed for MEDLINE]
+
+
+21. Prog Neuropsychopharmacol Biol Psychiatry. 2013 Apr 5;42:135-45. doi: 
+10.1016/j.pnpbp.2012.11.007. Epub 2012 Nov 23.
+
+Putative neuroprotective agents in neuropsychiatric disorders.
+
+Dodd S(1), Maes M, Anderson G, Dean OM, Moylan S, Berk M.
+
+Author information:
+(1)School of Medicine, Deakin University, Geelong, Victoria, Australia; 
+Department of Psychiatry, University of Melbourne, Parkville, Victoria, 
+Australia. seetald@barwonhealth.org.au
+
+In many individuals with major neuropsychiatric disorders including depression, 
+bipolar disorder and schizophrenia, their disease characteristics are consistent 
+with a neuroprogressive illness. This includes progressive structural brain 
+changes, cognitive and functional decline, poorer treatment response and an 
+increasing vulnerability to relapse with chronicity. The underlying molecular 
+mechanisms of neuroprogression are thought to include neurotrophins and 
+regulation of neurogenesis and apoptosis, neurotransmitters, inflammatory, 
+oxidative and nitrosative stress, mitochondrial dysfunction, cortisol and the 
+hypothalamic-pituitary-adrenal axis, and epigenetic influences. Knowledge of the 
+involvement of each of these pathways implies that specific agents that act on 
+some or multiple of these pathways may thus block this cascade and have 
+neuroprotective properties. This paper reviews the potential of the most 
+promising of these agents, including lithium and other known psychotropics, 
+aspirin, minocycline, statins, N-acetylcysteine, leptin and melatonin. These 
+agents are putative neuroprotective agents for schizophrenia and mood disorders.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.pnpbp.2012.11.007
+PMID: 23178231 [Indexed for MEDLINE]
+
+
+22. Schizophr Bull. 2014 Jan;40(1):181-91. doi: 10.1093/schbul/sbt139. Epub 2013
+Oct  8.
+
+Efficacy of anti-inflammatory agents to improve symptoms in patients with 
+schizophrenia: an update.
+
+Sommer IE(1), van Westrhenen R, Begemann MJ, de Witte LD, Leucht S, Kahn RS.
+
+Author information:
+(1)*To whom correspondence should be addressed; Department of Psychiatry, 
+University Medical Centre Utrecht, Room A01.161/A01.126, Heidelberglaan 100, 
+3508GA Utrecht, The Netherlands; tel: +31-887556365, fax: +31-887556543, e-mail: 
+i.sommer@umcutrecht.nl.
+
+BACKGROUND: The inflammatory hypothesis of schizophrenia is not new, but 
+recently it has regained interest because more data suggest a role of the immune 
+system in the pathogenesis of schizophrenia. If increased inflammation of the 
+brain contributes to the symptoms of schizophrenia, reduction of the 
+inflammatory status could improve the clinical picture. Lately, several trials 
+have been conducted investigating the potential of anti-inflammatory agents to 
+improve symptoms of schizophrenia. This study provides an update regarding the 
+efficacy of anti-inflammatory agents on schizophrenic symptoms in clinical 
+studies performed so far.
+METHODS: An electronic search was performed using PubMed, Embase, the National 
+Institutes of Health web site http://www.clinicaltrials.gov, Cochrane 
+Schizophrenia Group entries in PsiTri, and the Cochrane Database of Systematic 
+Reviews. Only randomized, double-blind, placebo-controlled studies that 
+investigated clinical outcome were included.
+RESULTS: Our search yielded 26 double-blind randomized controlled trials that 
+provided information on the efficacy on symptom severity of the following 
+components: aspirin, celecoxib, davunetide, fatty acids such as eicosapentaenoic 
+acids and docosahexaenoic acids, estrogens, minocycline, and N-acetylcysteine 
+(NAC). Of these components, aspirin (mean weighted effect size [ES]: 0.3, n = 
+270, 95% CI: 0.06-0.537, I(2) = 0), estrogens (ES: 0.51, n = 262, 95% CI: 
+0.043-0.972, I(2) = 69%), and NAC (ES: 0.45, n = 140, 95% CI: 0.112-0.779) 
+showed significant effects. Celecoxib, minocycline, davunetide, and fatty acids 
+showed no significant effect.
+CONCLUSION: The results of aspirin addition to antipsychotic treatment seem 
+promising, as does the addition of NAC and estrogens. These 3 agents are all 
+very broadly active substances, and it has to be investigated if the beneficial 
+effects on symptom severity are indeed mediated by their anti-inflammatory 
+aspects.
+
+DOI: 10.1093/schbul/sbt139
+PMCID: PMC3885306
+PMID: 24106335 [Indexed for MEDLINE]
+
+
+23. Aust N Z J Psychiatry. 2019 Aug;53(8):742-759. doi: 10.1177/0004867419835028.
+ Epub 2019 Mar 13.
+
+Adjunctive use of anti-inflammatory drugs for schizophrenia: A meta-analytic 
+investigation of randomized controlled trials.
+
+Cho M(1), Lee TY(2), Kwak YB(3), Yoon YB(3), Kim M(2), Kwon JS(2)(3).
+
+Author information:
+(1)1 College of Medicine, The Catholic University of Korea, Seoul, Republic of 
+Korea.
+(2)2 Department of Psychiatry, College of Medicine, Seoul National University, 
+Seoul, Republic of Korea.
+(3)3 Department of Brain and Cognitive Sciences, College of Natural Sciences, 
+Seoul National University, Seoul, Republic of Korea.
+
+OBJECTIVE: Recent evidence suggests that adjuvant anti-inflammatory agents could 
+improve the symptoms of patients with schizophrenia. However, the effects of the 
+adjuvant anti-inflammatory agents on cognitive function, general functioning and 
+side effects have not yet been systematically investigated. The present 
+meta-analysis aimed to explore the effects of anti-inflammatory agents in 
+patients with schizophrenia comprehensively.
+METHOD: We performed a literature search in online databases, including PubMed, 
+EMBASE and the Cochrane Database of Systematic Reviews. Randomized, 
+placebo-controlled double-blind studies that investigated clinical outcomes 
+including psychopathology, neurocognition, general functioning and 
+extrapyramidal side effects were included. The examined anti-inflammatory agents 
+included aspirin, celecoxib, omega-3 fatty acids, estrogen, selective estrogen 
+receptor modulator, pregnenolone, N-acetylcysteine, minocycline, davunetide and 
+erythropoietin.
+RESULTS: Sixty-two double-blind randomized clinical trials studying 2914 
+patients with schizophrenia met the inclusion criteria for quantitative 
+analysis. Significant overall effects were found for anti-inflammatory agents 
+for reducing total, positive and negative symptom scores in the Positive and 
+Negative Syndrome Scale. Cognitive improvements were significant with 
+minocycline and pregnenolone augmentation therapy. General functioning was 
+significantly enhanced by overall anti-inflammatory agents. There were no 
+significant differences in side effects compared with placebo. Baseline total 
+Positive and Negative Syndrome Scale score and illness duration were identified 
+as moderating factors in the effects of anti-inflammatory augmentation on 
+psychiatric symptom improvements.
+CONCLUSION: The comparative evaluation of efficacy and safety supported the use 
+of anti-inflammatory adjuvant therapy over the use of antipsychotics alone. 
+However, future studies could focus on patients with homogeneous clinical 
+profile to figure out more detailed effects of anti-inflammatory therapy.
+
+DOI: 10.1177/0004867419835028
+PMID: 30864461 [Indexed for MEDLINE]
+
+
+24. Can J Physiol Pharmacol. 2024 Mar 1;102(3):150-160. doi:
+10.1139/cjpp-2023-0107.  Epub 2023 Nov 13.
+
+TLR/mTOR inflammatory signaling pathway: novel insight for the treatment of 
+schizophrenia.
+
+Lashgari NA(1)(2), Roudsari NM(1)(2), Shamsnia HS(1)(2), Shayan M(3)(4), Momtaz 
+S(5)(6), Abdolghaffari AH(1)(2).
+
+Author information:
+(1)Department of Toxicology & Pharmacology, Faculty of Pharmacy, Tehran Medical 
+Sciences, Islamic Azad University, Tehran, Iran.
+(2)GI Pharmacology Interest Group (GPIG), Universal Scientific Education and 
+Research Network (USERN), Tehran, Iran.
+(3)Department of Pharmacology, School of Medicine, Tehran University of Medical 
+Sciences, Tehran, Iran.
+(4)Experimental Medicine Research Center, Tehran University of Medical Sciences, 
+Tehran, Iran.
+(5)Medicinal Plants Research Center, Institute of Medicinal Plants, The Academic 
+Center for Education, Culture and Research (ACECR), Karaj, Iran.
+(6)Toxicology and Diseases Group (TDG), Pharmaceutical Sciences Research Center 
+(PSRC), The Institute of Pharmaceutical Sciences (TIPS), and Faculty of 
+Pharmacy, Tehran University of Medical Sciences, Tehran, Iran.
+
+The Toll-like receptor (TLR)/mammalian target of rapamycin (mTOR) signaling 
+pathway is involved in the intracellular regulation of protein synthesis, 
+specifically the ones that mediate neuronal morphology and facilitate synaptic 
+plasticity. The activity of TLR/mTOR signaling has been disrupted, leading to 
+neurodevelopment and deficient synaptic plasticity, which are the main symptoms 
+of schizophrenia. The TLR receptor activates the mTOR signaling pathway and 
+increases the elevation of inflammatory cytokines. Interleukin (IL)-6 is the 
+most commonly altered cytokine, while IL-1, tumor necrosis factor, and 
+interferon (IFN) also lead to SCZ. Anti-inflammatory and anti-oxidative agents 
+such as celecoxib, aspirin, minocycline, and omega-3 fatty acids have shown 
+efficiency against SCZ. As a result, inhibition of the inflammatory process 
+could be suggested for the treatment of SCZ. So mTOR/TLR blockers represent the 
+treatment of SCZ due to their inflammatory consequences. The objective of the 
+present work was to find a novel anti-inflammatory agent that may block the 
+mTOR/TLR inflammatory signaling pathways and might pave the way for the 
+treatment of neuroinflammatory SCZ. Data were collected from experimental and 
+clinical studies published in English between 1998 and October 2022 from Google 
+Scholar, PubMed, Scopus, and the Cochrane library.
+
+DOI: 10.1139/cjpp-2023-0107
+PMID: 37955633 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no relevant financial or 
+non-financial interests to disclose.
+
+
+25. Virus Genes. 2013 Oct;47(2):219-27. doi: 10.1007/s11262-013-0939-6. Epub 2013
+ Jun 28.
+
+Activation of elements in HERV-W family by caffeine and aspirin.
+
+Liu C(1), Chen Y, Li S, Yu H, Zeng J, Wang X, Zhu F.
+
+Author information:
+(1)Department of Medical Microbiology, School of Medicine, Wuhan University, 185 
+Donghu Road, Wuhan, 430071, People's Republic of China.
+
+Caffeine and aspirin have been suggested to be involved in neurologic diseases, 
+such as schizophrenia, and previous data have revealed that abnormal expression 
+of HERV-W elements may be an important factor in the etiopathogenesis of those 
+diseases. In this article, we reported that caffeine and aspirin contributed to 
+the expression of HERV-W env and gag in Human SH-SY5Y neuroblastoma cells. 
+Semi-quantitative RT-PCR and quantitative Real-time PCR were used to detect the 
+mRNA of HERV-W env and gag in cells exposed to caffeine or aspirin. Western 
+blotting was used to detect the protein of HERV-W env. Luciferase activity assay 
+was employed to detect the activity of HERV-W env promoter. It was found that 
+both caffeine and aspirin could increase the expression of HERV-W env and gag in 
+human SH-SY5Y neuroblastoma cells. Caffeine could activate the HERV-W env 
+promoter, while aspirin could not. With previous studies we can conjecture 
+that HERVs might play a bridging role between environmental factors, such as 
+drugs and neurologic diseases.
+
+DOI: 10.1007/s11262-013-0939-6
+PMID: 23813246 [Indexed for MEDLINE]
+
+
+26. Br J Psychiatry Suppl. 1994 Apr;(23):15-9.
+
+Prenatal factors in the pathogenesis of schizophrenia.
+
+Huttunen MO(1), Machon RA, Mednick SA.
+
+Author information:
+(1)Department of Psychiatry, University of Helsinki, Finland.
+
+The excess of winter-spring births among individuals suffering from 
+schizophrenia provides strong evidence for the existence of some prenatally 
+occurring factors in the pathogenesis of schizophrenia. Recent epidemiological 
+findings suggest that maternal viral infections during the second trimester of 
+pregnancy may play a crucial role in the aetiology of adult schizophrenia. A 
+'two-hit window' hypothesis of the mechanism of action of prenatal factors in 
+the pathogenesis of schizophrenia suggests at least two time-specific prenatal 
+aetiological events. The observed association between prenatal viral infection 
+and increased incidence of adult schizophrenia need not be a direct cytotoxic 
+result of the viral infection, but may be caused indirectly, for example from 
+foetal minor cerebral haemorrhages produced by the anticoagulant effects of 
+aspirin.
+
+PMID: 8037896 [Indexed for MEDLINE]
+
+
+27. Brain Behav Immun Health. 2022 Sep 19;26:100518. doi: 
+10.1016/j.bbih.2022.100518. eCollection 2022 Dec.
+
+Anti-inflammatory medications for the treatment of mental disorders: A scoping 
+review.
+
+Fitton R(1)(2)(3), Sweetman J(4), Heseltine-Carp W(5)(6), van der Feltz-Cornelis 
+C(2)(4)(5)(7).
+
+Author information:
+(1)Kings College London, London, United Kingdom.
+(2)Tees Esk and Wear Valley NHS Foundation Trust, Darlington, United Kingdom.
+(3)Leeds and York Partnership NHS Foundation Trust, Leeds, United Kingdom.
+(4)Dept of Health Sciences, University of York, York, United Kingdom.
+(5)Hull York Medical School (HYMS), University of York, York, United Kingdom.
+(6)Hull University Teaching Hospitals NHS Trust, United Kingdom.
+(7)Institute of Health Informatics, University College London, London, United 
+Kingdom.
+
+This scoping review assessed the effect of anti-inflammatory medications in 
+mental disorders. A search in Medline and the Cochrane database focusing on 
+randomised controlled trials and systematic reviews identified 53 primary 
+research articles, conducted in major depression, bipolar disorder, 
+schizophrenia and somatic symptom disorders and related disorders (SSRD). The 
+findings suggest that there is scope to consider the use of anti-inflammatory 
+agents in mental disorders, however, not as a one-size-fits-all solution. 
+Treatment could be especially helpful in subgroups with evidence of baseline 
+inflammation. Anti-inflammatory medications that seem mostly effective in 
+bipolar disorder or major depressive disorder, such as Celecoxib, Pioglitazone 
+and statins, may differ from the ones with indications of effectiveness in 
+schizophrenia, such as Minocycline and Aspirin. This might suggest a different 
+underlying mechanism for treatment success in those two main illness groups. 
+Further studies with larger sample sizes are needed that take levels of 
+inflammation markers into account.
+
+© 2022 The Authors.
+
+DOI: 10.1016/j.bbih.2022.100518
+PMCID: PMC9547233
+PMID: 36217374
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+
+
+28. J Neural Transm (Vienna). 2023 Aug;130(8):1039-1048. doi: 
+10.1007/s00702-022-02566-6. Epub 2022 Nov 19.
+
+Effects of add-on Celecoxib treatment on patients with schizophrenia spectrum 
+disorders and inflammatory cytokine profile trial (TargetFlame): study design 
+and methodology of a multicentre randomized, placebo-controlled trial.
+
+Strube W(1), Aksar A(1), Bauer I(1), Barbosa S(2), Benros M(3), Blankenstein 
+C(4), Campana M(5), Davidovic L(2), Glaichenhaus N(2), Falkai P(5), Görlitz 
+T(1), Hansbauer M(1), Heilig D(6), Khalfallah O(2), Leboyer M(7), Martinuzzi 
+E(2), Mayer S(6), Moussiopoulou J(5), Papazova I(1), Perić N(6), Wagner E(5), 
+Schneider-Axmann T(5), Simon J(6)(8), Hasan A(9).
+
+Author information:
+(1)Department of Psychiatry, Psychotherapy, and Psychosomatics, Medical Faculty, 
+University of Augsburg, Bezirkskrankenhaus Augsburg, Geschwister-Schönert-Str. 
+1, 86156, Augsburg, Germany.
+(2)Institut de Pharmacologie Moléculaire et Cellulaire, Université Côte d'Azur, 
+Centre National de La Recherche Scientifique, Valbonne, France.
+(3)CORE-Copenhagen Research Centre for Mental Health, Mental Health Centre 
+Copenhagen, Copenhagen University Hospital, Copenhagen, Denmark.
+(4)Münchner Studienzentrum, School of Medicine, Technical University of Munich, 
+Munich, Germany.
+(5)Department of Psychiatry and Psychotherapy, University Hospital, LMU Munich, 
+Munich, Germany.
+(6)Department of Health Economics, Center for Public Health, Medical University 
+of Vienna, Vienna, Austria.
+(7)Univ Paris Est Créteil, INSERM U955, IMRB, Translational Neuro-Psychiatry 
+Laboratory, AP-HP, Hôpitaux Universitaires Henri Mondor, Département 
+Médico-Universitaire de Psychiatrie Et d'Addictologie (DMU IMPACT), Fédération 
+Hospitalo-Universitaire de Médecine de Précision en Psychiatrie (FHU ADAPT), 
+Fondation FondaMental, 94010, Créteil, France.
+(8)Department of Psychiatry, University of Oxford, Oxford, UK.
+(9)Department of Psychiatry, Psychotherapy, and Psychosomatics, Medical Faculty, 
+University of Augsburg, Bezirkskrankenhaus Augsburg, Geschwister-Schönert-Str. 
+1, 86156, Augsburg, Germany. alkomiet.hasan@med.uni-augsburg.de.
+
+Neuroinflammation has been proposed to impact symptomatology in patients with 
+schizophrenia spectrum disorders. While previous studies have shown equivocal 
+effects of treatments with add-on anti-inflammatory drugs such as Aspirin, 
+N-acetylcysteine and Celecoxib, none have used a subset of prospectively 
+recruited patients exhibiting an inflammatory profile. The aim of the study is 
+to evaluate the efficacy and safety as well as the cost-effectiveness of a 
+treatment with 400 mg Celecoxib added to an ongoing antipsychotic treatment in 
+patients with schizophrenia spectrum disorders exhibiting an inflammatory 
+profile. The "Add-on Celecoxib treatment in patients with schizophrenia spectrum 
+disorders and inflammatory cytokine profile trial (TargetFlame)" is a 
+multicentre randomized, placebo-controlled phase III investigator-initiated 
+clinical trial with the following two arms: patients exhibiting an inflammatory 
+profile receiving either add-on Celecoxib 400 mg/day or add-on placebo. A total 
+of 199 patients will be assessed for eligibility by measuring blood levels of 
+three pro-inflammatory cytokines, and 109 patients with an inflammatory profile, 
+i.e. inflamed, will be randomized, treated for 8 weeks and followed-up for 
+additional four months. The primary endpoint will be changes in symptom severity 
+as assessed by total Positive and Negative Syndrome Scale (PANSS) score changes 
+from baseline to week 8. Secondary endpoints include various other measures of 
+psychopathology and safety. Additional health economic analyses will be 
+performed. TargetFlame is the first study aimed at evaluating the efficacy, 
+safety and cost-effectiveness of the antiphlogistic agent Celecoxib in a subset 
+of patients with schizophrenia spectrum disorders exhibiting an inflammatory 
+profile. With TargetFlame, we intended to investigate a novel precision medicine 
+approach towards anti-inflammatory antipsychotic treatment augmentation using 
+drug repurposing. Clinical trial registration: http://www.drks.de/DRKS00029044 
+and https://trialsearch.who.int/Trial2.aspx?TrialID=DRKS00029044.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s00702-022-02566-6
+PMCID: PMC10374797
+PMID: 36401749 [Indexed for MEDLINE]
+
+Conflict of interest statement: WS has received a speaker's honorarium from 
+Mag&More GmbH and neurocare and was a member of the advisory board of Recordati. 
+EW was a member of the advisory board of Recordati. PF is a co-editor of the 
+German (DGPPN) Schizophrenia treatment guidelines and a co-author of the WFSBP 
+schizophrenia treatment guidelines. He is on the advisory boards and receives 
+speaker fees from Janssen, Lundbeck, Otsuka, Servier and Richter. AH is 
+co-editor of the German (DGPPN) Schizophrenia treatment guidelines and 
+first-author of the WFSBP schizophrenia treatment guidelines. He has been on the 
+advisory boards and has received speaker fees from Janssen, Lundbeck and Otsuka. 
+All other authors declare no competing financial interests.
+
+
+29. Early Interv Psychiatry. 2019 Oct;13(5):1032-1049. doi: 10.1111/eip.12775.
+Epub  2019 Jan 28.
+
+Putative neuroprotective pharmacotherapies to target the staged progression of 
+mental illness.
+
+Robertson OD(1)(2), Coronado NG(3), Sethi R(4), Berk M(1)(2)(5)(6)(7), Dodd 
+S(1)(2)(5)(6).
+
+Author information:
+(1)IMPACT Strategic Research Centre, School of Medicine, Deakin University, 
+Geelong, Victoria, Australia.
+(2)Mental Health, Drugs and Alcohol Services, University Hospital Geelong, 
+Barwon Health, Geelong, Victoria, Australia.
+(3)Unidad de Gestión Clinica Salud Mental, Hospital Universitario Virgen del 
+Rocio, Sevilla, Spain.
+(4)Department of Psychiatry, Western University, London, Ontario, Canada.
+(5)Department of Psychiatry, The University of Melbourne, Parkville, Victoria, 
+Australia.
+(6)Mood Disorders Research Program, Orygen, the National Centre of Excellence in 
+Youth Mental Health, Parkville, Victoria, Australia.
+(7)Department of Psychiatry, Florey Institute of Neuroscience and Mental Health, 
+Parkville, Victoria, Australia.
+
+AIM: Neuropsychiatric disorders including depression, bipolar and schizophrenia 
+frequently exhibit a neuroprogressive course from prodrome to chronicity. There 
+are a range of agents exhibiting capacity to attenuate biological mechanisms 
+associated with neuroprogression. This review will update the evidence for 
+putative neuroprotective agents including clinical efficacy, mechanisms of 
+action and limitations in current assessment tools, and identify novel agents 
+with neuroprotective potential.
+METHOD: Data for this review were sourced from online databases PUBMED, Embase 
+and Web of Science. Only data published since 2012 were included in this review, 
+no data were excluded based on language or publication origin.
+RESULTS: Each of the agents reviewed inhibit one or multiple pathways of 
+neuroprogression including: inflammatory gene expression and cytokine release, 
+oxidative and nitrosative stress, mitochondrial dysfunction, neurotrophin 
+dysregulation and apoptotic signalling. Some demonstrate clinical efficacy in 
+preventing neural damage or loss, relapse or cognitive/functional decline. 
+Agents include: the psychotropic medications lithium, second generation 
+antipsychotics and antidepressants; other pharmacological agents such as 
+minocycline, aspirin, cyclooxygenase-2 inhibitors, statins, ketamine and 
+alpha-2-delta ligands; and others such as erythropoietin, oestrogen, leptin, 
+N-acetylcysteine, curcumin, melatonin and ebselen.
+CONCLUSIONS: Signals of evidence of clinical neuroprotection are evident for a 
+number of candidate agents. Adjunctive use of multiple agents may present a 
+viable avenue to clinical realization of neuroprotection. Definitive prospective 
+studies of neuroprotection with multimodal assessment tools are required.
+
+© 2019 John Wiley & Sons Australia, Ltd.
+
+DOI: 10.1111/eip.12775
+PMID: 30690898 [Indexed for MEDLINE]
+
+
+30. Schizophr Res. 1998 Feb 9;29(3):269-74. doi: 10.1016/s0920-9964(97)00100-x.
+
+Niacin skin flush in schizophrenia: a preliminary report.
+
+Ward PE(1), Sutherland J, Glen EM, Glen AI.
+
+Author information:
+(1)Craig Dunain Hospital, Inverness, UK.
+
+The aim of this pilot study was to evaluate a potential skin test for 
+schizophrenia based on the effect of aqueous methyl nicotinate (AMN) on the 
+production of prostaglandin D2 (PGD2) from skin macrophages and the resultant 
+cutaneous capillary vasodilatation. Four concentrations of AMN were applied 
+topically to the forearm skin in patients and controls, and any resulting 
+vasodilatation was rated as redness after 5 min. The test was carried out on 38 
+patients with schizophrenia diagnosed according to DSM-III-R criteria, and 22 
+normal control subjects. At all concentrations of AMN, the schizophrenics were 
+highly significantly different from the controls. One concentration gave the 
+greatest degree of differentiation: at this concentration at 5 min, 83% of 
+schizophrenics but only 23% of controls had a zero or minimal response to AMN. 
+The skin flushing seen after oral administration of nicotinic acid is due to the 
+same reaction, and this has been normal in those with affective illness and 
+neurosis; cyclo-oxygenase inhibitors, e.g., aspirin, give a false-positive 
+result (failure of vasodilatation). This result is consistent with the concept 
+of reduced membrane arachidonic acid levels in schizophrenia. This test may 
+contribute to the reliable diagnosis of schizophrenia.
+
+DOI: 10.1016/s0920-9964(97)00100-x
+PMID: 9516668 [Indexed for MEDLINE]

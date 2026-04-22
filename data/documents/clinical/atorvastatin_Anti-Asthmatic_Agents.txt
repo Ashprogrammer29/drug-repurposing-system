@@ -1,0 +1,6 @@
+Trial: NCT00292201
+Title: Statin Treatment in Patients With Asthma
+Phase: PHASE2
+Status: TERMINATED
+Summary: Asthma is a chronic respiratory condition characterized by bronchial hyper-responsiveness secondary to abnormal inflammation of the lung. Steroids remain the most effective treatment for this condition. The lipid lowering agents statins have been found to have anti-inflammatory properties. This study is to test the hypothesize that statins will decrease bronchial hyperresponsiveness and inflammati
+---

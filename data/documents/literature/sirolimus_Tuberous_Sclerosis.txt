@@ -1,0 +1,1319 @@
+1. An Bras Dermatol. 2018 Jun;93(3):323-331. doi: 10.1590/abd1806-4841.20186972.
+
+Tuberous sclerosis complex: review based on new diagnostic criteria.
+
+Portocarrero LKL(1), Quental KN(1), Samorano LP(1), Oliveira ZNP(1), 
+Rivitti-Machado MCDM(1).
+
+Author information:
+(1)Hospital das Clínicas, Faculdade de Medicina, Universidade de São Paulo, São 
+Paulo, SP, Brazil.
+
+Tuberous sclerosis complex is a multisystemic, autosomal dominant genetic 
+disorder with complete penetrance, that can evolve with hamartomas in multiple 
+organs, such as skin, central nervous system, kidney and lung. Due to the wide 
+phenotypic variability, the disease is often not recognized. Tuberous sclerosis 
+complex affects one in 10,000 newborns and most patients are diagnosed during 
+the first 15 months of life. The diagnostic criteria for tuberous sclerosis were 
+reviewed in 2012, at the second International Tuberous Sclerosis Complex 
+Consensus Conference. The diagnosis is based on genetic criteria, by the 
+identification of inactivating pathogenic mutation of tumor suppressor genes 
+TSC1 and TSC2, and clinical criteria, including cutaneous, renal, pulmonary, 
+cardiac and neurological manifestations. The treatment of tuberous sclerosis 
+complex consists, mainly, in management of the symptoms caused by hamartomas and 
+in prevention of organ failure. Multidisciplinary approach is recommended, in 
+order to obtain better clinical outcomes.
+
+DOI: 10.1590/abd1806-4841.20186972
+PMCID: PMC6001077
+PMID: 29924239 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interests: None.
+
+
+2. Brain. 2023 Jul 3;146(7):2694-2710. doi: 10.1093/brain/awad048.
+
+Epileptogenesis in tuberous sclerosis complex-related developmental and 
+epileptic encephalopathy.
+
+Aronica E(1)(2), Specchio N(3), Luinenburg MJ(1), Curatolo P(4).
+
+Author information:
+(1)Department of Neuropathology, Amsterdam Neuroscience, Amsterdam UMC, 
+University of Amsterdam, Amsterdam 1105 AZ, The Netherlands.
+(2)Stichting Epilepsie Instellingen Nederland (SEIN), Heemstede 1105 AZ, The 
+Netherlands.
+(3)Full Member of European Reference Network EpiCARE, Clinical and Experimental 
+Neurology, Bambino Gesù Children's Hospital, IRCCS, Rome 00165, Italy.
+(4)Child Neurology and Psychiatry Unit, Systems Medicine Department, Tor Vergata 
+University, Rome 00133, Italy.
+
+Epileptogenesis in infants with tuberous sclerosis complex (TSC) is a gradual 
+and dynamic process, leading to early onset and difficult-to-treat seizures. 
+Several cellular, molecular and pathophysiologic mechanisms, including mammalian 
+target of rapamycin (mTOR) dysregulation, GABAergic dysfunction and abnormal 
+connectivity, may play a role in this epileptogenic process and may also 
+contribute to the associated developmental encephalopathy. Disease-specific 
+antiseizure medications or drugs targeting the mTOR pathway have proved to be 
+effective in TSC-associated epilepsy. Pre-symptomatic administration of 
+vigabatrin, a GABAergic drug, delays seizure onset and reduces the risk of a 
+subsequent epileptic encephalopathy, such as infantile spasms syndrome or 
+Lennox-Gastaut syndrome. Everolimus, a rapamycin-derived mTOR inhibitor, reduces 
+seizure frequency, especially in younger patients. This evidence suggests that 
+everolimus should be considered early in the course of epilepsy. Future trials 
+are needed to optimize the use of everolimus and determine whether earlier 
+correction of mTOR dysregulation can prevent progression to developmental and 
+epileptic encephalopathies or mitigate their severity in infants with TSC. 
+Clinical trials of several other potential antiseizure drugs (cannabidiol and 
+ganaxolone) that target contributing mechanisms are also underway. This review 
+provides an overview of the different biological mechanisms occurring in 
+parallel and interacting throughout the life course, even beyond the 
+epileptogenic process, in individuals with TSC. These complexities highlight the 
+challenges faced in preventing and treating TSC-related developmental and 
+epileptic encephalopathy.
+
+© The Author(s) 2023. Published by Oxford University Press on behalf of the 
+Guarantors of Brain.
+
+DOI: 10.1093/brain/awad048
+PMCID: PMC10316778
+PMID: 36806388 [Indexed for MEDLINE]
+
+Conflict of interest statement: E.A. has received speaker honoraria from 
+Novartis, Nutricia and UCB; has served as an investigator for UCB and Nutricia; 
+and has served on scientific advisory boards for Novartis and UCB. N.S. has 
+served on scientific advisory boards for GW Pharma, BioMarin, Arvelle, Marinus 
+and Takeda; has received speaker honoraria from Eisai, Biomarin, Livanova, 
+Sanofi; and has served as an investigator for Zogenix, Marinus, Biomarin, UCB 
+and Roche. P.C. has served on scientific advisory boards for Novartis. M.L. 
+reports no competing interests.
+
+
+3. JAMA Dermatol. 2018 Jul 1;154(7):761-762. doi: 10.1001/jamadermatol.2018.0465.
+
+Topical Sirolimus to Treat Tuberous Sclerosis Complex (TSC).
+
+Darling TN(1).
+
+Author information:
+(1)Department of Dermatology, Uniformed Services University of the Health 
+Sciences, Bethesda, Maryland.
+
+Comment on
+    JAMA Dermatol. 2018 Jul 1;154(7):773-780. doi: 
+10.1001/jamadermatol.2018.0464.
+
+DOI: 10.1001/jamadermatol.2018.0465
+PMID: 29800103 [Indexed for MEDLINE]
+
+
+4. Ann Pharmacother. 2024 Apr;58(4):428-433. doi: 10.1177/10600280231182421. Epub
+ 2023 Jun 29.
+
+A Review of Topical Sirolimus for the Treatment of Facial Angiofibromas in 
+Tuberous Sclerosis Complex.
+
+Dao DD(1), Pixley JN(1), Akkurt ZM(1), Feldman SR(1)(2)(3).
+
+Author information:
+(1)Center for Dermatology Research, Department of Dermatology, Wake Forest 
+University School of Medicine, Winston-Salem, NC, USA.
+(2)Department of Pathology, Wake Forest University School of Medicine, 
+Winston-Salem, NC, USA.
+(3)Department of Social Sciences & Health Policy, Wake Forest University School 
+of Medicine, Winston-Salem, NC, USA.
+
+OBJECTIVE: This article assesses the efficacy, safety, pharmacology, and 
+clinical applications of topical sirolimus 0.2% gel for the treatment of 
+tuberous sclerosis complex (TSC)-associated facial angiofibromas.
+DATA SOURCES: A review of the literature was conducted using the Medline 
+(PubMed) and EMBASE databases using the keywords topical sirolimus, rapamycin, 
+Hyftor, and tuberous sclerosis.
+STUDY SELECTION AND DATA EXTRACTION: Articles written in English and relevant to 
+the topic were included.
+DATA SYNTHESIS: In the phase 2 trial, the mean improvement factor, a composite 
+measure of improved tumor size and redness, was achieved in all patient groups 
+(P < 0.001) with significant responses among the adult and pediatric subgroups 
+at week 12. There were no serious adverse events recorded. In the phase 3 trial, 
+60% of participants responded to treatment in the sirolimus group compared with 
+0% in the placebo group with different response rates between the adult and 
+pediatric subgroups at week 12. Sirolimus gel had no serious adverse events, and 
+dry skin was the most common adverse reaction. Patients who had completed the 
+12-week trials were then enrolled in a long-term trial; angiofibromas had 
+response rates of 78.2% to 0.2% sirolimus gel.
+RELEVANCE TO PATIENT CARE AND CLINICAL PRACTICE IN COMPARISON TO EXISTING DRUGS: 
+Topical sirolimus 0.2% is a first-in-class, newly Food and Drug Administration 
+(FDA)-approved, mammalian target of rapamycin (mTOR) inhibitor that is a 
+promising and safe, noninvasive alternative to surgical procedures for 
+TSC-associated angiofibromas.
+CONCLUSIONS: Topical sirolimus 0.2% gel is a moderately effective treatment for 
+TSC-associated facial angiofibromas with an adequate safety profile.
+
+DOI: 10.1177/10600280231182421
+PMID: 37386842 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Conflicting InterestsThe authors 
+declared the following potential conflicts of interest with respect to the 
+research, authorship, and/or publication of this article: Dr SRF has received 
+research, speaking and/or consulting support from AbbVie, Accordant, Almirall, 
+Alvotech, Amgen, Arcutis, Arena, Argenx, Biocon, Boehringer Ingelheim, 
+Bristol-Myers Squibb, Dermavant, Eli Lilly and Company, Eurofins, Forte, 
+Galderma, Helsinn, Janssen, Leo Pharma, Micreos, Mylan, Novartis, Ono, Ortho 
+Dermatology, Pfizer, Regeneron, Samsung, Sanofi, Sun Pharma, UCB, Verrica, 
+Voluntis, and vTv Therapeutics. He is founder and part owner of Causa Research 
+and holds stock in Sensal Health.
+
+
+5. Nat Rev Dis Primers. 2026 Mar 12;12(1):11. doi: 10.1038/s41572-026-00688-9.
+
+Tuberous sclerosis complex.
+
+Winden K(1), Bebin EM(2), Jeste S(3), Krueger DA(4), Paul E(5), Sahin M(6).
+
+Author information:
+(1)Department of Neurology, Rosamund Stone Zander and Hansjoerg Wyss 
+Translational Neuroscience Center, Boston Children's Hospital, Harvard Medical 
+School, Boston, MA, USA.
+(2)Department of Neurology, University of Alabama at Birmingham, Birmingham, AL, 
+USA.
+(3)Department of Pediatrics, UCLA, Los Angeles, CA, USA.
+(4)Division of Neurology, Department of Pediatrics, Cincinnati Children's 
+Hospital Medical Center, Cincinnati, OH, USA.
+(5)Division of Pediatric Nephrology, Department of Pediatrics and Herscot Center 
+for TSC, Massachusetts General Hospital, Boston, MA, USA.
+(6)Department of Neurology, Rosamund Stone Zander and Hansjoerg Wyss 
+Translational Neuroscience Center, Boston Children's Hospital, Harvard Medical 
+School, Boston, MA, USA. mustafa.sahin@childrens.harvard.edu.
+
+Tuberous sclerosis complex (TSC) is a rare genetic disease caused by 
+heterozygous loss-of-function variants in TSC1 or TSC2. Patients present with 
+benign tumours known as hamartomas in the brain, eyes, lungs, kidneys, heart and 
+skin. Many hamartomas contain mosaic second hit variants in TSC1 or TSC2. The 
+most disabling features of TSC include epilepsy and TSC-associated 
+neuropsychiatric disorders (TAND) such as intellectual disability and autism 
+spectrum disorder. Remarkable progress has been made both in understanding the 
+pathogenesis of TSC and in its clinical management, largely due to the discovery 
+of the link between TSC1 and TSC2 and the mechanistic target of rapamycin (mTOR) 
+signalling pathway. TSC1 and TSC2 form a protein complex that inhibits mTOR. 
+Naturally occurring inhibitors of mTOR (rapamycin) and its analogues, 
+collectively known as rapalogues, have been used to test various hypotheses in 
+preclinical models and are approved for the treatment of several manifestations 
+of TSC. Approved drug treatments (rapalogues) exist for subependymal giant cell 
+astrocytomas, renal angiomyolipomas, pulmonary lymphangioleiomyomatosis, facial 
+angiofibromas and refractory seizures. However, there is still an unmet need for 
+effective treatment of TAND and refractory epilepsy, despite the available 
+medical and surgical options.
+
+© 2026. Springer Nature Limited.
+
+DOI: 10.1038/s41572-026-00688-9
+PMID: 41820375 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: E.M.B. declares currently 
+active membership of scientific advisory boards for Apertura Gene Therapy and 
+Cassava Sciences Inc. S.J. declares membership of the safety monitoring 
+committee for Ionis Pharmaceuticals (Angelman syndrome ASO phase II trial). 
+D.A.K. declares membership of scientific advisory boards for Jazz 
+Pharmaceuticals and Aeovian Pharmaceuticals, and grant support from Jazz 
+Pharmaceuticals. M.S. declares membership of scientific advisory boards for 
+Neurogene and Noema; chairmanship of the scientific advisory board for PTEN 
+Research; and grant support from Biogen, Gondalobio and Neurvati. K.W. and E.P. 
+declare no competing interests.
+
+
+6. Seizure. 2022 Apr;97:23-31. doi: 10.1016/j.seizure.2022.03.003. Epub 2022 Mar
+8.
+
+Sirolimus treatment for tuberous sclerosis complex prior to epilepsy: Evidence 
+from a registry-based real-world study.
+
+Shen YW(1), Wang YY(1), Zhang MN(1), Xu Y(1), Lu Q(1), He W(1), Chen HM(1), Liu 
+LY(1), Pang LY(1), Wang QH(1), Dun S(1), Li YF(2), Gao J(1), Han F(1), Zou 
+LP(3).
+
+Author information:
+(1)Department of Pediatrics, Chinese PLA General Hospital, Beijing 100583, 
+China.
+(2)Department of Pediatrics, Shandong Linyi People's Hospital, Linyi 276000, 
+China.
+(3)Department of Pediatrics, Chinese PLA General Hospital, Beijing 100583, 
+China; Center of Epilepsy, Beijing Institute for Brain Disorders, Beijing 
+100069, China; Southern Medical University, Guangzhou 510000, China. Electronic 
+address: zouliping21@hotmail.com.
+
+OBJECTIVE: To evaluate whether sirolimus treatment could relieve the later 
+burden of new-onset seizures in patients with tuberous sclerosis complex (TSC) 
+prior to epilepsy.
+METHODS: A real-world matched case-control study was nested in another registry 
+cohort study. Infants with TSC (<12 months old) without seizures whose parents 
+agreed on sirolimus treatment for other symptoms were eligible for inclusion to 
+the early sirolimus (ES) group. These patients were enrolled from 2015 to 2018. 
+Controls in the late sirolimus (LS) group were matched from the registry cohort 
+database for 2015-2018. Age and genotype were used as the initial stratifying 
+criteria and other symptoms as the greedy matching criteria at a matching ratio 
+of 1:4. None of the preventive drugs were introduced before seizure onset or 
+before 2 years of age in the LS group. Both groups were followed up until June 
+2020. The primary objective was a comparison of the characteristics of the first 
+seizure between the two groups. The secondary objective was the assessment of 
+the final seizure status at the endpoint.
+RESULTS: There were 42 and 168 patients with TSC in the ES and LS groups, 
+respectively. Early sirolimus treatment significantly reduced the seizure onset, 
+especially in the patients aged <6 months. The mean onset-age was significantly 
+delayed by sirolimus treatment (11.34±7.93 months vs. 6.94±6.03 months, 
+P<0.001). The subtype of seizures that benefited the most was spastic (onset) 
+seizures (all were infantile spasms) [5/42 (11.90%) vs. 73/168 (43.45%), 
+P<0.001]; these seizures were either eliminated or alleviated. The sirolimus 
+treatment addition prior to seizures was more effective than its addition after 
+seizures in reducing drug-resistant epilepsy [10/42 (23.81%) vs. 70/147 
+(47.62%), P=0.004].
+CONCLUSION: Early sirolimus treatment for TSC effectively modified the disease 
+by preventing infantile spasms, delaying seizure onset, and relieving its 
+severity. The anti-epileptogenic effect of sirolimus may be time- and 
+dose-dependent.
+
+Copyright © 2022. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.seizure.2022.03.003
+PMID: 35286974 [Indexed for MEDLINE]
+
+
+7. Fetal Pediatr Pathol. 2022 Oct;41(5):800-806. doi: 
+10.1080/15513815.2021.1948646. Epub 2021 Jul 19.
+
+Fetal Tuberous Sclerosis: Sirolimus for the Treatment of Fetal rhabdomyoma.
+
+Dagge A(1), Silva LA(2), Jorge S(3), Nogueira E(3), Rebelo M(3), Pinto L(4).
+
+Author information:
+(1)Department of Obstetrics, Gynecology and Reproductive Medicine, Centro 
+Hospitalar Universitário Lisboa Norte, Lisbon, Portugal.
+(2)Department of Obstetrics and Gynecology, Centro Hospitalar de Setúbal, 
+Lisbon, Portugal.
+(3)Nephrology and Renal Transplantation Unit, Departement of Medicine, Centro 
+Hospitalar Universitário Lisboa Norte, Lisbon, Portugal.
+(4)Pediatric Cardiology Unit, Department of Pediatrics, Centro Hospitalar 
+Universitário Lisboa Norte, Lisbon, Portugal.
+
+BACKGROUND: Sirolimus constitutes a safe and effective treatment for cardiac 
+manifestations of tuberous sclerosis complex (TSC) in children but only four 
+cases describing prenatal treatment of rhabdomyomas with mTOR inhibitors have 
+been published.
+CASE: In this case, sirolimus was initiated at 26 weeks´ gestation in a pregnant 
+woman with TSC with a fetus with a large rabdomyoma conditioning severe 
+arrythmia. There was a significant reduction in the tumor size with ongoing 
+treatment and a partial reversion of the arrythmia.
+CONCLUSION: m-TOR inhibitors can be considered for severe cases of fetal 
+rhabdomyomas with poor prognosis given its potencial benefits.
+
+DOI: 10.1080/15513815.2021.1948646
+PMID: 34281475 [Indexed for MEDLINE]
+
+
+8. Cardiol Young. 2023 Apr;33(4):655-656. doi: 10.1017/S1047951122002372. Epub
+2022  Jul 28.
+
+Amiodarone-sirolimus interaction in a neonate with tuberous sclerosis complex.
+
+Ebrahimi-Fakhari D(1), Kehl HG(2), Omran H(1).
+
+Author information:
+(1)Department of General Pediatrics, University Children's Hospital Muenster, 
+Muenster, Germany.
+(2)Department of Pediatric Cardiology, University Children's Hospital Muenster, 
+Muenster, Germany.
+
+DOI: 10.1017/S1047951122002372
+PMID: 35897151 [Indexed for MEDLINE]
+
+
+9. Pediatr Neurol. 2021 Dec;125:26-31. doi: 10.1016/j.pediatrneurol.2021.09.014. 
+Epub 2021 Sep 25.
+
+Prenatal Sirolimus Treatment for Rhabdomyomas in Tuberous Sclerosis.
+
+Ebrahimi-Fakhari D(1), Stires G(2), Hahn E(3), Krueger D(2), Franz DN(4).
+
+Author information:
+(1)Division of Neurology, Department of Pediatrics, Cincinnati Children's 
+Hospital Medical Center, Cincinnati, Ohio; Department of General Pediatrics, 
+University Children's Hospital Muenster, Muenster, Germany. Electronic address: 
+daniel.ebrahimi-fakhari@ukmuenster.de.
+(2)Division of Neurology, Department of Pediatrics, Cincinnati Children's 
+Hospital Medical Center, Cincinnati, Ohio.
+(3)The Heart Institute, Cincinnati Children's Hospital Medical Center, 
+Cincinnati, Ohio.
+(4)Division of Neurology, Department of Pediatrics, Cincinnati Children's 
+Hospital Medical Center, Cincinnati, Ohio. Electronic address: 
+david.franz@cchmc.org.
+
+BACKGROUND: In tuberous sclerosis, most cardiac rhabdomyomas regress 
+spontaneously. In some cases, the tumors can cause life-threatening hemodynamic 
+compromise requiring subsequent surgical resection. The mechanistic target of 
+rapamycin inhibitors everolimus and sirolimus have shown to be effective 
+treatments for multiple conditions. There are four reports of off-label 
+treatment with transplacental sirolimus for fetal rhabdomyomas due to tuberous 
+sclerosis complex. The optimal dosing regimen is unknown.
+METHODS: We reviewed the medical records of all patients treated prenatally with 
+sirolimus for rhabdomyomas. All fetuses had a clinical and molecular diagnosis 
+of tuberous sclerosis complex (2012 Consensus Diagnostic Criteria, including a 
+positive genetic test). Clinical history, mechanistic target of rapamycin 
+inhibitor dosing and levels, outcome, and adverse events were reviewed after 
+initiation of sirolimus treatment.
+RESULTS: Three fetuses were treated with maternal sirolimus. Dosing regimens and 
+subsequent trough levels differed from 1 mg/day to 6 mg/day and <1.0 ng/mL to 
+12.2 ng/mL. Cardiac rhabdomyomas gradually shrank in all patients. Growth 
+restriction was noted in one patient. No severe adverse events occurred during 
+the treatment period.
+CONCLUSIONS: Maternal sirolimus appears to be a safe treatment option in 
+prenatally detected rhabdomyomas with possible need for intervention. Follow-up 
+visits with fetal ultrasound, echocardiography, and laboratory work should be 
+performed weekly during the treatment period. The optimal dosing and trough 
+level timepoints remain unclear. Based on our results, we recommend a sirolimus 
+starting dose of at least 2 mg/m2/day, preferably 3-3.5 mg/m2/day to achieve a 
+target trough level of 10-12 ng/mL.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.pediatrneurol.2021.09.014
+PMID: 34624607 [Indexed for MEDLINE]
+
+
+10. Neuro Oncol. 2015 Dec;17(12):1550-9. doi: 10.1093/neuonc/nov152. Epub 2015
+Aug  19.
+
+Differentiating the mTOR inhibitors everolimus and sirolimus in the treatment of 
+tuberous sclerosis complex.
+
+MacKeigan JP(1), Krueger DA(1).
+
+Author information:
+(1)Laboratory of Systems Biology, Van Andel Research Institute, Grand Rapids, 
+Michigan (J.P.M.); Department of Pediatrics, Tuberous Sclerosis Clinic, 
+Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio (D.A.K.).
+
+Tuberous sclerosis complex (TSC) is a genetic autosomal dominant disorder 
+characterized by benign tumor-like lesions, called hamartomas, in multiple organ 
+systems, including the brain, skin, heart, kidneys, and lung. These hamartomas 
+cause a diverse set of clinical problems based on their location and often 
+result in epilepsy, learning difficulties, and behavioral problems. TSC is 
+caused by mutations within the TSC1 or TSC2 genes that inactivate the genes' 
+tumor-suppressive function and drive hamartomatous cell growth. In normal cells, 
+TSC1 and TSC2 integrate growth signals and nutrient inputs to downregulate 
+signaling to mammalian target of rapamycin (mTOR), an evolutionarily conserved 
+serine-threonine kinase that controls cell growth and cell survival. The 
+molecular connection between TSC and mTOR led to the clinical use of allosteric 
+mTOR inhibitors (sirolimus and everolimus) for the treatment of TSC. Everolimus 
+is approved for subependymal giant cell astrocytomas and renal angiomyolipomas 
+in patients with TSC. Sirolimus, though not approved for TSC, has undergone 
+considerable investigation to treat various aspects of the disease. Everolimus 
+and sirolimus selectively inhibit mTOR signaling with similar molecular 
+mechanisms, but with distinct clinical profiles. This review differentiates mTOR 
+inhibitors in TSC while describing the molecular mechanisms, pathogenic 
+mutations, and clinical trial outcomes for managing TSC.
+
+© The Author(s) 2015. Published by Oxford University Press on behalf of the 
+Society for Neuro-Oncology. All rights reserved. For permissions, please e-mail: 
+journals.permissions@oup.com.
+
+DOI: 10.1093/neuonc/nov152
+PMCID: PMC4633932
+PMID: 26289591 [Indexed for MEDLINE]
+
+
+11. Med Res Rev. 2006 Mar;26(2):160-80. doi: 10.1002/med.20049.
+
+Molecular activity of sirolimus and its possible application in tuberous 
+sclerosis treatment.
+
+Jozwiak J(1), Jozwiak S, Oldak M.
+
+Author information:
+(1)Department of Histology and Embryology, Center for Biostructure Research, 
+Medical University of Warsaw, Warsaw, Poland. jjozwiak@atdv.com.pl
+
+Sirolimus is one of the intensively investigated drugs with pluripotent 
+activities. It binds to its intracellular receptor FKBP12 (FK506-binding protein 
+12), a member of the family of FK506-binding proteins, and inhibits the activity 
+of mTOR, a serine/threonine kinase involved in numerous cell processes linked to 
+cell growth control. The drug is currently registered for the prophylaxis of 
+organ rejection and for use in coronary stents. However, unique characteristics 
+of sirolimus make it a good candidate for anti-cancer therapy. Indeed, phase II 
+and III clinical studies in humans with several types of neoplasms are already 
+under way. The review describes molecular activity of sirolimus and its analogs, 
+characteristic for specific applications, in view of very recent advances 
+involving tuberous sclerosis complex (TSC)-mediated signaling pathways. Current 
+studies with sirolimus performed in tuberous sclerosis animal models are 
+presented. Possible application of sirolimus for treating tuberous sclerosis, 
+disease caused by mutations of TSC proteins, is discussed.
+
+(c) 2005 Wiley Periodicals, Inc. Med Res Rev.
+
+DOI: 10.1002/med.20049
+PMID: 16329102 [Indexed for MEDLINE]
+
+
+12. Semin Respir Crit Care Med. 2020 Apr;41(2):256-268. doi:
+10.1055/s-0040-1702195.  Epub 2020 Apr 12.
+
+Lymphangioleiomyomatosis.
+
+Xu KF(1)(2), Xu W(1), Liu S(2)(3), Yu J(4), Tian X(1), Yang Y(1)(2), Wang 
+ST(1)(2), Zhang W(5), Feng R(6), Zhang T(1).
+
+Author information:
+(1)Department of Pulmonary and Critical Care Medicine, Peking Union Medical 
+College Hospital, Chinese Academy of Medical Sciences, Peking Union Medical 
+College, Beijing, People's Republic of China.
+(2)Rare Diseases Research Center, Chinese Academy of Medical Sciences, Beijing, 
+People's Republic of China.
+(3)Central Laboratory, Peking Union Medical College Hospital, Chinese Academy of 
+Medical Sciences, Peking Union Medical College, Beijing, People's Republic of 
+China.
+(4)Division of Pulmonary, Critical Care, and Sleep Medicine, Department of 
+Internal Medicine, University of Cincinnati College of Medicine, Cincinnati, 
+Ohio.
+(5)Department of Radiology, Peking Union Medical College Hospital, Chinese 
+Academy of Medical Sciences, Peking Union Medical College, Beijing, People's 
+Republic of China.
+(6)Department of Pathology, Peking Union Medical College Hospital, Chinese 
+Academy of Medical Sciences, Peking Union Medical College, Beijing, People's 
+Republic of China.
+
+Lymphangioleiomyomatosis (LAM) is a slow albeit progressive rare neoplastic 
+disease featured with diffuse thin-walled cysts in lungs and angiomyolipomas in 
+kidneys. LAM affects almost exclusively women and has one of the strongest 
+gender predispositions of any extragenital human disease. Two forms of LAM 
+present clinically, sporadic (S-LAM) and tuberous sclerosis complex-associated 
+(TSC-LAM). TSC is an autosomal dominant genetic multisystems neoplastic disease. 
+A high prevalence of LAM can be detected in adult female TSC patients. 
+Tremendous progress has been made in our understanding and management of this 
+rare disease. Both LAM and TSC are TSC2 or TSC1 mutated diseases that result in 
+overactivation of the mechanistic target of rapamycin (mTOR) pathway. Sirolimus, 
+an mTOR inhibitor, has been approved for LAM treatment in the United States and 
+many other countries. Therapies targeting female sex hormones have shown 
+preclinical efficacy in animal and cell culture-based experiments, but have not 
+been properly investigated clinically. In this review, we summarize current 
+recommendations in the diagnosis and treatment of LAM.
+
+Thieme Medical Publishers 333 Seventh Avenue, New York, NY 10001, USA.
+
+DOI: 10.1055/s-0040-1702195
+PMID: 32279296 [Indexed for MEDLINE]
+
+Conflict of interest statement: None declared.
+
+
+13. N Engl J Med. 2008 Jan 10;358(2):190-2. doi: 10.1056/NEJMe0707153.
+
+Efficacy of sirolimus in treating tuberous sclerosis and 
+lymphangioleiomyomatosis.
+
+Paul E, Thiele E.
+
+Comment on
+    N Engl J Med. 2008 Jan 10;358(2):140-51. doi: 10.1056/NEJMoa063564.
+
+DOI: 10.1056/NEJMe0707153
+PMID: 18184966 [Indexed for MEDLINE]
+
+
+14. Duodecim. 2013;129(17):1779-87.
+
+[Tuberous sclerosis].
+
+[Article in Finnish]
+
+Metsähonkala L(1), Valanne L, Anttonen AK.
+
+Author information:
+(1)HYKS, konsultaatio ja epilepsiaklinikka, lastenneurologian klinikkaryhmä.
+
+Tuberous sclerosis is a polymorphic, dominantly inherited syndrome caused by an 
+inactivating mutation in a tumor suppressor gene. The disease involves benign 
+tumors in several distinct organs such as the skin, kidneys, heart and central 
+nervous system. The tumors interfere with organ function, but only some exhibit 
+a significant tendency to grow. The clinical picture of tuberous sclerosis 
+varies from nearly symptomless to a severe disease. Treatment of growing tumors 
+associated with tuberous sclerosis is changing significantly, since their growth 
+can be suppressed with rapamycin and its derivatives.
+
+PMID: 24159711 [Indexed for MEDLINE]
+
+
+15. Indian J Dermatol Venereol Leprol. 2017 Jan-Feb;83(1):27-32. doi: 
+10.4103/0378-6323.190844.
+
+Topical sirolimus for the treatment of angiofibromas in tuberous sclerosis.
+
+Cinar SL(1), Kartal D(1), Bayram AK(2), Canpolat M(2), Borlu M(1), Ferahbas 
+A(1), Per H(2).
+
+Author information:
+(1)Department of Dermatology and Venereology, Erciyes University Faculty of 
+Medicine, Kayseri, Turkey.
+(2)Department of Pediatric Neurology, Erciyes University Faculty of Medicine, 
+Kayseri, Turkey.
+
+BACKGROUND: The skin is one of the most affected organs in tuberous sclerosis 
+complex and angiofibromas are seen in almost 80% of such patients. These benign 
+tumors impose a great psycho-social burden on patients.
+OBJECTIVE: The aim of the study was to evaluate the effectiveness and 
+tolerability of topical sirolimus for facial angiofibromas in patients with 
+tuberous sclerosis complex.
+METHODS: This was a prospective, single-blinded, cross-over study which involved 
+twelve patients. We investigated the effect and safety of topical 0.1% 
+sirolimus, which was obtained by crushing sirolimus tablets and mixing it with 
+petrolatum. The patients were asked to apply the cream to one side of their 
+face, and vaseline to the other side. The effect of topical sirolimus was 
+evaluated using the "facial angiofibroma severity index."
+RESULTS: There was a significant improvement in the redness and extension of the 
+tumors on the sides to which the active ingredient was applied. Some side 
+effects such as itching and irritation occurred in three patients, which were 
+treated with topical hydrocortisone cream.
+CONCLUSION: Topical sirolimus appears to be a promising, fairly well tolerated 
+treatment for facial angiofibromas in patients with tuberous sclerosis complex. 
+Although its efficacy diminishes with time, repetitive usage is effective.
+
+DOI: 10.4103/0378-6323.190844
+PMID: 27643542 [Indexed for MEDLINE]
+
+
+16. Clin Chest Med. 2016 Sep;37(3):389-403. doi: 10.1016/j.ccm.2016.04.002.
+
+Lymphangioleiomyomatosis.
+
+Johnson SR(1), Taveira-DaSilva AM(2), Moss J(3).
+
+Author information:
+(1)Division of Respiratory Medicine, National Centre for 
+Lymphangioleiomyomatosis, University Hospitals NHS Trust, University of 
+Nottingham, Nottingham, NG7 2UH, UK. Electronic address: 
+simon.johnson@nottingham.ac.uk.
+(2)Cardiovascular and Pulmonary Branch, National Institutes of Health, National 
+Heart Lung and Blood Institute, Building 10, Room 6D05, Bethesda, MD 20814, USA.
+(3)Cardiovascular and Pulmonary Branch, National Institutes of Health, National 
+Heart Lung and Blood Institute, Building 10, Room 6D03, Bethesda, MD 20814, USA.
+
+Lymphangioleiomyomatosis is a rare multisystem disease predominantly affecting 
+women that can occur sporadically or in association with tuberous sclerosis. 
+Lung cysts progressively replace the lung parenchyma, which leads to dyspnea, 
+recurrent pneumothorax, and in some cases respiratory failure. Patients may also 
+have lymphatic disease in the thorax, abdomen, and pelvis, and renal 
+angiomyolipomas. Treatment includes supportive care, bronchodilators, and for 
+those with progressive disease, mammalian target of rapamycin (mTOR) inhibitors.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ccm.2016.04.002
+PMID: 27514586 [Indexed for MEDLINE]
+
+
+17. Seizure. 2020 Jul;79:20-26. doi: 10.1016/j.seizure.2020.03.018. Epub 2020 Apr
+ 26.
+
+Sirolimus improves seizure control in pediatric patients with tuberous 
+sclerosis: A prospective cohort study.
+
+He W(1), Chen J(1), Wang YY(1), Zhang MN(1), Qian-Lu(1), Wang QH(1), Luo XM(2), 
+Chen XQ(1), Zou LP(3).
+
+Author information:
+(1)Department of Pediatrics, The First Medical Center of Chinese, PLA General 
+Hospital, China.
+(2)Center for Brain Disorders Research, Capital Medical University, Beijing 
+Institute for Brain Disorders, China.
+(3)Department of Pediatrics, The First Medical Center of Chinese, PLA General 
+Hospital, China; Center for Brain Disorders Research, Capital Medical 
+University, Beijing Institute for Brain Disorders, China. Electronic address: 
+zouliping21@hotmail.com.
+
+Erratum in
+    Seizure. 2020 Oct;81:342. doi: 10.1016/j.seizure.2020.08.026.
+
+PURPOSE: This study aimed to analyze the therapeutic effect of sirolimus on 
+seizures in pediatric patients with tuberous sclerosis.
+METHODS: We first compared the efficacy of controlling seizures in all patients 
+after they had taken sirolimus for one year, and then we performed a subgroup 
+analysis based on whether the administered antiepileptic drugs were changed to 
+determine whether the efficacy was associated with changes of antiepileptic 
+drugs.
+RESULTS: A total of 91 eligible children were enrolled. The response rate was 
+78.0 % (71/91), and 47.2 % (43/91) of all patients were became seizure-free. The 
+improvement in seizure control before and after treatment with sirolimus was 
+significant (p < 0.001). In the AEDs unaltered group, 34 were responders (34/45, 
+75.6 %, 95 % CI 17.4-88.3), of which 24 were seizure-free (24/34, 70.6 %). In 
+the AEDs-altered group, 37 were responders (37/46, 80.4 %, 95 % CI 56.7-88.1), 
+of which 19 were seizure-free (19/37, 51.4 %). There was no significant 
+difference between the two groups for reductions in rate of seizure frequency 
+(p = 0.308). In the patients with refractory epilepsy, treatment with sirolimus 
+was also effective (p = 0.01). Logistic regression analysis showed that age was 
+an important factor affecting outcome of epilepsy (p = 0.003, 95 % CI 
+2.05-38.31). No Grade 3 or 4 adverse events were noted during the follow-up.
+CONCLUSIONS: Sirolimus has a significant effect on seizures associated with 
+tuberous sclerosis complex (TSC), with no or only moderate adverse events after 
+long-term administration. Sirolimus could be used as the first-line medication 
+for pediatric patients with TSC-associated epilepsy.
+
+Copyright © 2020. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.seizure.2020.03.018
+PMID: 32416565 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no competing interests.
+
+
+18. J Urol. 2014 Nov;192(5):1424-30. doi: 10.1016/j.juro.2014.04.096. Epub 2014
+May  9.
+
+Efficacy and safety of sirolimus for renal angiomyolipoma in patients with 
+tuberous sclerosis complex or sporadic lymphangioleiomyomatosis: a systematic 
+review.
+
+Peng ZF(1), Yang L(1), Wang TT(2), Han P(1), Liu ZH(1), Wei Q(3).
+
+Author information:
+(1)Department of Urology, West China Hospital, Sichuan University, Chengdu, 
+Sichuan, China.
+(2)Department of Neurology, West China Hospital, Sichuan University, Chengdu, 
+Sichuan, China.
+(3)Department of Urology, West China Hospital, Sichuan University, Chengdu, 
+Sichuan, China. Electronic address: weiqiang163163@163.com.
+
+PURPOSE: We evaluate the efficacy and safety of sirolimus in the treatment of 
+renal angiomyolipoma in patients with tuberous sclerosis complex or sporadic 
+lymphangioleiomyomatosis.
+MATERIALS AND METHODS: A systematic search of MEDLINE®, Embase®, ACP (American 
+College of Physicians) Journal Club, Cochrane CENTRAL (Central Register of 
+Controlled Trials) and Cochrane Database of Systematic Reviews was performed. A 
+secondary hand search was performed in relevant journals, references and the 
+grey literature. The screening, quality assessment and data extraction of the 
+retrieved articles were independently performed by 2 reviewers in duplicate. 
+Studies that reported an angiomyolipoma response or adverse events after the 
+treatment of sirolimus were included in the analysis.
+RESULTS: Four prospective nonrandomized studies involving 94 patients were 
+included in the study. The overall response rate of angiomyolipoma was 46.8% (44 
+of 94) in the first year. In the second year the angiomyolipoma response 
+rate for those patients still being treated with sirolimus was 43.5% (20 of 46) 
+and the response rate of the patients whose sirolimus treatment was discontinued 
+was 5% (2 of 40). The most common sirolimus related adverse reactions were 
+stomatitis, respiratory infection, skin lesions and hyperlipidemia, while 
+serious adverse reactions were rarely observed.
+CONCLUSIONS: This study shows that renal angiomyolipoma shrank during sirolimus 
+therapy but tended to regrow after the therapy was stopped. In general, 
+sirolimus is an effective and safe therapy for renal angiomyolipoma in patients 
+with tuberous sclerosis complex or sporadic lymphangioleiomyomatosis.
+
+Copyright © 2014 American Urological Association Education and Research, Inc. 
+Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.juro.2014.04.096
+PMID: 24813310 [Indexed for MEDLINE]
+
+
+19. Orphanet J Rare Dis. 2021 Jul 3;16(1):299. doi: 10.1186/s13023-021-01932-z.
+
+Everolimus versus sirolimus for angiomyolipoma associated with tuberous 
+sclerosis complex: a multi-institutional retrospective study in China.
+
+Luo C(#)(1)(2), Zhang YS(#)(3), Zhang MX(4), Chen MF(1)(2), Li Y(1)(2), Qi 
+L(1)(2), Li HZ(3), Zu XB(1)(2), Cai Y(5)(6).
+
+Author information:
+(1)Department of Urology, Xiangya Hospital, Central South University, No. 87 
+Xiangya Road, Changsha, 410008, Hunan, People's Republic of China.
+(2)National Clinical Research Center for Geriatric Disorders, Xiangya Hospital, 
+Central South University, Changsha, 410008, Hunan, People's Republic of China.
+(3)Department of Urology, Peking Union Medical College Hospital, Chinese Academy 
+of Medical Sciences and Peking Union Medical College, No.1 Shuaifuyuan, 
+Dongcheng District, Beijing, 100730, People's Republic of China.
+(4)Department of Urology, The Affiliated Hospital of Qingdao University, No. 16 
+Jiangsu Road, Shinan District, Qingdao, 266000, Shandong, People's Republic of 
+China.
+(5)Department of Urology, Xiangya Hospital, Central South University, No. 87 
+Xiangya Road, Changsha, 410008, Hunan, People's Republic of China. 
+cai-yi@csu.edu.cn.
+(6)National Clinical Research Center for Geriatric Disorders, Xiangya Hospital, 
+Central South University, Changsha, 410008, Hunan, People's Republic of China. 
+cai-yi@csu.edu.cn.
+(#)Contributed equally
+
+PURPOSE: To evaluate the efficacy and safety of everolimus and sirolimus in 
+patients with tuberous sclerosis complex-associated angiomyolipomas (TSC-AML).
+MATERIALS AND METHODS: We performed a multi-institutional retrospective study of 
+TSC-AML patients treated with oral everolimus 10 mg or sirolimus 2 mg per day 
+for at least 3 months. Angiomyolipoma volume was estimated using orthogonal 
+measurements by MRI or CT. Adverse events (AEs) were assessed according to the 
+National Cancer Institute Common Terminology Criteria for Adverse Events. All 
+analyses were performed using SPSS 19.0 software.
+RESULTS: Response rates were high in both groups. With the prolonged medication 
+durations, the therapeutic efficacy of both agents became more significant. The 
+TSC-AML volume reduction after 6 and 12 months was more pronounced in patients 
+with everolimus than those with sirolimus. More than half of the patients 
+treated with everolimus had ≥ 50% reduction, and approximately 80% of them 
+had ≥ 30% reduction, which was higher than that in patients treated with 
+sirolimus. Regarding safety, there was no significant difference in the 
+incidence of AEs between the two groups.
+CONCLUSIONS: Both everolimus and sirolimus are excellent therapeutic options for 
+TSC-AML. However, everolimus has a better therapeutic efficacy than sirolimus, 
+particularly in reducing TSC-AML volume. Everolimus is therefore recommended as 
+the first choice of therapy for TSC-AML.
+
+DOI: 10.1186/s13023-021-01932-z
+PMCID: PMC8254951
+PMID: 34217357 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+20. J Clin Pharmacol. 2022 Aug;62(8):948-959. doi: 10.1002/jcph.2033. Epub 2022
+Mar  2.
+
+Population Pharmacokinetic Analysis and Dosing Optimization of Sirolimus in 
+Children With Tuberous Sclerosis Complex.
+
+Li S(1)(2), Zhan M(3), Wu S(4), Liao J(5), Xu H(1), Sun D(2)(6), Zhao X(5), Wang 
+Y(1)(2).
+
+Author information:
+(1)Department of Clinical Pharmacy, Wuhan Children's Hospital (Wuhan Maternal 
+and Child Healthcare Hospital), Tongji Medical College, Huazhong University of 
+Science and Technology, Wuhan, People's Republic of China.
+(2)Clinical Medical Research Center for Neurodevelopmental Disabilities in 
+Children, Hubei Province, People's Republic of China.
+(3)Department of Pharmacy, Shenzhen Children's Hospital, Shenzhen, People's 
+Republic of China.
+(4)Department of Pharmacy, Union Hospital, Tongji Medical College, Huazhong 
+University of Science and Technology, Wuhan, People's Republic of China.
+(5)Department of Neurology, Shenzhen Children's Hospital, Shenzhen, People's 
+Republic of China.
+(6)Department of Neurology, Wuhan Children's Hospital (Wuhan Maternal and Child 
+Healthcare Hospital), Tongji Medical College, Huazhong University of Science and 
+Technology, Wuhan, People's Republic of China.
+
+Sirolimus is confirmed to be effective in the treatment of tuberous sclerosis 
+complex (TSC) and related disorders. The study aims to establish a population 
+pharmacokinetic model of oral sirolimus for children with TSC and provide an 
+evidence-based approach for individualization of sirolimus dosing in the 
+pediatric population. A total of 64 children were recruited in this multicenter, 
+retrospective pharmacokinetic study. Whole-blood concentrations of sirolimus, 
+demographic, and clinical information were collected and analyzed using a 
+nonlinear mixed-effects population modeling method. The final model was 
+internally and externally validated. Then Monte Carlo simulations were performed 
+to evaluate and optimize the dosing regimens. In addition, the efficacy and 
+safety of sirolimus therapy was assessed retrospectively in patients with 
+epilepsy or cardiac rhabdomyomas associated with TSC. Finally, the sirolimus 
+pharmacokinetic profile was described by a 1-compartment model with first-order 
+absorption and elimination along with body weight and total daily dose as 
+significant covariates. The typical population parameter estimates of apparent 
+volume of distribution and apparent clearance were 69.48 L and 2.79 L/h, 
+respectively. Simulations demonstrated that dosage regimens stratified by body 
+surface area may be more appropriate for children with TSC. These findings could 
+be used to inform individualized dosing strategies of sirolimus for pediatric 
+patients with TSC.
+
+© 2022, The American College of Clinical Pharmacology.
+
+DOI: 10.1002/jcph.2033
+PMID: 35094415 [Indexed for MEDLINE]
+
+
+21. Nat Commun. 2024 Jan 9;15(1):406. doi: 10.1038/s41467-023-44229-4.
+
+TFEB drives mTORC1 hyperactivation and kidney disease in Tuberous Sclerosis 
+Complex.
+
+Alesi N(#)(1), Khabibullin D(#)(2), Rosenthal DM(2), Akl EW(2), Cory PM(2), 
+Alchoueiry M(2), Salem S(2), Daou M(2), Gibbons WF(2), Chen JA(2), Zhang L(2), 
+Filippakis H(2), Graciotti L(3), Miceli C(4), Monfregola J(4), Vilardo C(4), 
+Morroni M(5), Di Malta C(4)(6), Napolitano G(4)(6)(7), Ballabio 
+A(8)(9)(10)(11)(12), Henske EP(13).
+
+Author information:
+(1)Pulmonary and Critical Care Medicine, Department of Medicine, Brigham and 
+Women's Hospital, Harvard Medical School, Boston, MA, USA. 
+nalesi@bwh.harvard.edu.
+(2)Pulmonary and Critical Care Medicine, Department of Medicine, Brigham and 
+Women's Hospital, Harvard Medical School, Boston, MA, USA.
+(3)Section of Experimental and Technical Sciences, Department of Biomedical 
+Sciences and Public Health, School of Medicine, Università Politecnica delle 
+Marche, Ancona, Italy.
+(4)Telethon Institute of Genetics and Medicine, Naples, Italy.
+(5)Section of Neuroscience and Cell Biology, Department of Experimental and 
+Clinical Medicine, School of Medicine, Università Politecnica delle Marche, 
+Ancona, Italy.
+(6)Medical Genetics Unit, Department of Medical and Translational Science, 
+Federico II University, Naples, Italy.
+(7)SSM School for Advanced Studies, Federico II University, Naples, Italy.
+(8)Telethon Institute of Genetics and Medicine, Naples, Italy. 
+ballabio@tigem.it.
+(9)Medical Genetics Unit, Department of Medical and Translational Science, 
+Federico II University, Naples, Italy. ballabio@tigem.it.
+(10)SSM School for Advanced Studies, Federico II University, Naples, Italy. 
+ballabio@tigem.it.
+(11)Department of Molecular and Human Genetics, Baylor College of Medicine, 
+Houston, TX, USA. ballabio@tigem.it.
+(12)Jan and Dan Duncan Neurological Research Institute, Texas Children's 
+Hospital, Houston, TX, USA. ballabio@tigem.it.
+(13)Pulmonary and Critical Care Medicine, Department of Medicine, Brigham and 
+Women's Hospital, Harvard Medical School, Boston, MA, USA. 
+ehenske@bwh.harvard.edu.
+(#)Contributed equally
+
+Tuberous Sclerosis Complex (TSC) is caused by TSC1 or TSC2 mutations, leading to 
+hyperactivation of mechanistic target of rapamycin complex 1 (mTORC1) and 
+lesions  in multiple organs including lung (lymphangioleiomyomatosis) and kidney 
+(angiomyolipoma and renal cell carcinoma). Previously, we found that TFEB is 
+constitutively active in TSC. Here, we generated two mouse models of TSC in 
+which kidney pathology is the primary phenotype. Knockout of TFEB rescues kidney 
+pathology and overall survival, indicating that TFEB is the primary driver of 
+renal disease in TSC. Importantly, increased mTORC1 activity in the TSC2 
+knockout kidneys is normalized by TFEB knockout. In TSC2-deficient cells, Rheb 
+knockdown or Rapamycin treatment paradoxically increases TFEB phosphorylation at 
+the mTORC1-sites and relocalizes TFEB from nucleus to cytoplasm. In mice, 
+Rapamycin treatment normalizes lysosomal gene expression, similar to TFEB 
+knockout, suggesting that Rapamycin's benefit in TSC is TFEB-dependent. These 
+results change the view of the mechanisms of mTORC1 hyperactivation in TSC and 
+may lead to therapeutic avenues.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41467-023-44229-4
+PMCID: PMC10776564
+PMID: 38195686 [Indexed for MEDLINE]
+
+Conflict of interest statement: A.B. is a cofounder and shareholder of Casma 
+Therapeutics and advisory board member of Next Generation Diagnostics, Avilar 
+Therapeutics, and Coave Therapeutics. The remaining authors declare no competing 
+interests.
+
+
+22. N Engl J Med. 2008 Jan 10;358(2):140-51. doi: 10.1056/NEJMoa063564.
+
+Sirolimus for angiomyolipoma in tuberous sclerosis complex or 
+lymphangioleiomyomatosis.
+
+Bissler JJ(1), McCormack FX, Young LR, Elwing JM, Chuck G, Leonard JM, 
+Schmithorst VJ, Laor T, Brody AS, Bean J, Salisbury S, Franz DN.
+
+Author information:
+(1)Division of Nephrology and Hypertension, Cincinnati Children's Hospital 
+Medical Center, Cincinnati, OH 45229-3039, USA. john.bissler@cchmc.org
+
+Comment in
+    N Engl J Med. 2008 Jan 10;358(2):190-2. doi: 10.1056/NEJMe0707153.
+    N Engl J Med. 2008 May 1;358(18):1963-4; author reply 1964. doi: 
+10.1056/NEJMc086040.
+
+BACKGROUND: Angiomyolipomas in patients with the tuberous sclerosis complex or 
+sporadic lymphangioleiomyomatosis are associated with mutations in tuberous 
+sclerosis genes resulting in constitutive activation of the mammalian target of 
+rapamycin (mTOR). The drug sirolimus suppresses mTOR signaling.
+METHODS: We conducted a 24-month, nonrandomized, open-label trial to determine 
+whether sirolimus reduces the angiomyolipoma volume in patients with the 
+tuberous sclerosis complex or sporadic lymphangioleiomyomatosis. Sirolimus was 
+administered for the first 12 months only. Serial magnetic resonance imaging of 
+angiomyolipomas and brain lesions, computed tomography of lung cysts, and 
+pulmonary-function tests were performed.
+RESULTS: Of the 25 patients enrolled, 20 completed the 12-month evaluation, and 
+18 completed the 24-month evaluation. The mean (+/-SD) angiomyolipoma volume at 
+12 months was 53.2+/-26.6% of the baseline value (P<0.001) and at 24 months was 
+85.9+/-28.5% of the baseline value (P=0.005). At 24 months, five patients had a 
+persistent reduction in the angiomyolipoma volume of 30% or more. During the 
+period of sirolimus therapy, among patients with lymphangioleiomyomatosis, the 
+mean forced expiratory volume in 1 second (FEV1) increased by 118+/-330 ml 
+(P=0.06), the forced vital capacity (FVC) increased by 390+/-570 ml (P<0.001), 
+and the residual volume decreased by 439+/-493 ml (P=0.02), as compared with 
+baseline values. One year after sirolimus was discontinued, the FEV1 was 
+62+/-411 ml above the baseline value, the FVC was 346+/-712 ml above the 
+baseline value, and the residual volume was 333+/-570 ml below the baseline 
+value; cerebral lesions were unchanged. Five patients had six serious adverse 
+events while receiving sirolimus, including diarrhea, pyelonephritis, 
+stomatitis, and respiratory infections.
+CONCLUSIONS: Angiomyolipomas regressed somewhat during sirolimus therapy but 
+tended to increase in volume after the therapy was stopped. Some patients with 
+lymphangioleiomyomatosis had improvement in spirometric measurements and gas 
+trapping that persisted after treatment. Suppression of mTOR signaling might 
+constitute an ameliorative treatment in patients with the tuberous sclerosis 
+complex or sporadic lymphangioleiomyomatosis. (ClinicalTrials.gov number, 
+NCT00457808.)
+
+2008 Massachusetts Medical Society
+
+DOI: 10.1056/NEJMoa063564
+PMCID: PMC3398441
+PMID: 18184959 [Indexed for MEDLINE]
+
+Conflict of interest statement: No other potential conflict of interest relevant 
+to this article was reported.
+
+
+23. World J Pediatr. 2024 Jun;20(6):602-610. doi: 10.1007/s12519-023-00751-5.
+Epub  2023 Sep 29.
+
+Sirolimus can promote the disappearance of renal angiomyolipoma associated with 
+tuberous sclerosis complex: a prospective cohort study.
+
+Dun S(1)(2), Wang YY(2), Wan L(2), Wang QH(2), Lu Q(2), Yang XY(2), Zhang Q(2), 
+Chen HM(2), Qiu LP(1), Zou LP(3)(4).
+
+Author information:
+(1)Medical School of Chinese PLA, Beijing 100853, China.
+(2)Department of Pediatrics, The First Medical Center, Chinese PLA General 
+Hospital, Beijing 100853, China.
+(3)Department of Pediatrics, The First Medical Center, Chinese PLA General 
+Hospital, Beijing 100853, China. zouliping21@sina.com.
+(4)Center of Epilepsy, Beijing Institute for Brain Disorders, Beijing 100069, 
+China. zouliping21@sina.com.
+
+BACKGROUND: Renal angiomyolipoma (RAML) is the most common kidney lesion in 
+patients with tuberous sclerosis complex (TSC), affecting about 80% of patients. 
+It is a benign tumor that grows over time, usually bilaterally, and can easily 
+lead to kidney complications such as acute hemorrhage. Herein, we investigated 
+the efficacy and safety of sirolimus in children with TSC-associated RAML and 
+explored the factors affecting tumor disappearance under sirolimus treatment 
+through subgroup analysis.
+METHODS: A prospective cohort study was conducted. Sirolimus was initiated at 
+1 mg/(m2 × day), and dose adjustments were made by a 2-week titration period to 
+attain a trough blood concentration of 5-10 ng/mL. The disappearance of RAML in 
+children after sirolimus treatment was observed, and Cox regression was used to 
+screen the factors affecting tumor disappearance.
+RESULTS: One hundred and twenty-six patients who met the criteria were analyzed. 
+After 3 months, 6 months, 12 months, and 24 months of follow-up, tumors 
+disappeared in 18 (14.3%), 30 (23.8%), 39 (31.0%), and 42 (33.3%) children, 
+respectively. Tumors disappeared in 50 (39.7%) children by the last visit of 
+each individual, and 30 (60%) of them occurred within 6 months. The multivariate 
+Cox regression analysis showed that patients with a smaller maximum tumor 
+diameter at baseline had a higher tumor disappearance rate. Thirty-six (29%) 
+patients had stomatitis during the entire treatment period, and no serious 
+adverse reactions were observed.
+CONCLUSIONS: Sirolimus could promote the disappearance of TSC-related RAML. The 
+disappearance rate was correlated with the maximum diameter at baseline, and the 
+smaller the tumor was, the higher the disappearance rate. It is well tolerated 
+in the treatment of RAML associated with TSC.
+
+© 2023. Children's Hospital, Zhejiang University School of Medicine.
+
+DOI: 10.1007/s12519-023-00751-5
+PMID: 37773307 [Indexed for MEDLINE]
+
+
+24. Curr Pharm Des. 2024;30(11):877-886. doi:
+10.2174/0113816128299479240213151714.
+
+Remedial Dosing Recommendations for Sirolimus Delayed or Missed Dosages Caused 
+by Poor Medication Compliance in Pediatric Tuberous Sclerosis Complex Patients.
+
+Yang Y(1), Jiang L(2), Zhu HR(3), Sun WX(4), Mao JY(3), Miao JW(3), Wang YC(4), 
+He SM(5), Wang DD(4), Chen X(3).
+
+Author information:
+(1)Department of Pharmacy, The Affiliated Changzhou Children's Hospital of 
+Nantong University, Changzhou, Jiangsu 213003, China.
+(2)Department of Pharmacy, Taixing People's Hospital, Taixing, Jiangsu 225400, 
+China.
+(3)School of Nursing, Xuzhou Medical University, Xuzhou, Jiangsu 221004, China.
+(4)Jiangsu Key Laboratory of New Drug Research and Clinical Pharmacy, School of 
+Pharmacy, Xuzhou Medical University, Xuzhou, Jiangsu 221004, China.
+(5)Department of Pharmacy, Suzhou Hospital, Affiliated Hospital of Medical 
+School, Nanjing University, Suzhou, Jiangsu 215153, China.
+
+BACKGROUND: Delayed or missed dosages caused by poor medication compliance 
+significantly affected the treatment of diseases in children.
+AIMS: The present study aimed to investigate the influence of delayed or missed 
+dosages on sirolimus pharmacokinetics (PK) in pediatric tuberous sclerosis 
+complex (TSC) patients and to recommend remedial dosages for nonadherent 
+patients.
+METHODS: A published sirolimus population PK model in pediatric TSC patients was 
+used to assess the influence of different nonadherence scenarios and recommend 
+optimally remedial dosages based on Monte Carlo simulation. Thirteen nonadherent 
+scenarios were simulated in this study, including delayed 2h, 4 h, 6 h, 8 h, 10 
+h, 12 h, 14 h, 16 h, 18 h, 20 h, 22 h, 23.5 h, and missed one dosage. Remedial 
+dosing strategies contained 10-200% of scheduled dosages. The optimal remedial 
+dosage was that with the maximum probability of returning the individual 
+therapeutic range.
+RESULTS: For delayed or missed sirolimus dosages in pediatric TSC patients, when 
+the delayed time was 0-8 h, 8-10 h, 10-18 h, 18-22.7 h, 22.7-24 h, 70%, 60%, 
+40%, 30%, 20% scheduled dosages were recommended to take immediately. When one 
+dosage was missed, 120% of scheduled dosages were recommended at the next dose.
+CONCLUSION: It was the first time to recommend remedial dosages for delayed or 
+missed sirolimus therapy caused by poor medication compliance in pediatric TSC 
+patients based on Monte Carlo simulation. Meanwhile, the present study provided 
+a potential solution for delayed or missed dosages in clinical practice.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/0113816128299479240213151714
+PMID: 38454763 [Indexed for MEDLINE]
+
+
+25. Am J Med Genet C Semin Med Genet. 2018 Sep;178(3):326-337. doi: 
+10.1002/ajmg.c.31638. Epub 2018 Jul 28.
+
+Pulmonary manifestations in tuberous sclerosis complex.
+
+Gupta N(1), Henske EP(2).
+
+Author information:
+(1)Division of Pulmonary, Critical Care and Sleep Medicine, University of 
+Cincinnati, Cincinnati, Ohio.
+(2)Department of Medicine, Brigham and Women's Hospital and Harvard Medical 
+School, Boston, Massachusetts.
+
+Tuberous sclerosis complex has manifestations in many organ systems, including 
+brain, heart, kidney, skin, and lung. The primary manifestations in the lung are 
+lymphangioleiomyomatosis (LAM) and multifocal micronodular pneumocyte 
+hyperplasia (MMPH). LAM affects almost exclusively women, and causes cystic lung 
+destruction, pneumothorax, and chylous pleural effusions. LAM can lead to 
+dyspnea, oxygen dependence, and respiratory failure, with more rapid disease 
+progression during the premenopausal years. In contrast, MMPH affects men and 
+women equally, causing small nodular pulmonary deposits of type II pneumocytes 
+that rarely progress to symptomatic disease. Here, we review the clinical 
+features and pathogenesis of LAM and MMPH.
+
+© 2018 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajmg.c.31638
+PMCID: PMC6209521
+PMID: 30055039 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: The authors declare no 
+conflicts of interest.
+
+
+26. Seizure. 2020 Oct;81:338-339. doi: 10.1016/j.seizure.2020.06.031. Epub 2020
+Jul  13.
+
+Sirolimus for seizure control in children with Tuberous sclerosis: Is it really 
+a wonder drug?
+
+Panda PK(1), Sharawat IK(2).
+
+Author information:
+(1)Pediatric Neurology Division, Department of Pediatrics, All India Institute 
+of Medical Sciences, Rishikesh, Uttarakhand, 249203, India.
+(2)Pediatric Neurology Division, Department of Pediatrics, All India Institute 
+of Medical Sciences, Rishikesh, Uttarakhand, 249203, India. Electronic address: 
+sherawatdrindar@gmail.com.
+
+Comment in
+    Seizure. 2020 Oct;81:340-341. doi: 10.1016/j.seizure.2020.07.009.
+
+DOI: 10.1016/j.seizure.2020.06.031
+PMID: 32674911 [Indexed for MEDLINE]
+
+
+27. Neurology. 2016 Sep 6;87(10):1011-8. doi: 10.1212/WNL.0000000000003077. Epub 
+2016 Aug 10.
+
+Sirolimus for epilepsy in children with tuberous sclerosis complex: A randomized 
+controlled trial.
+
+Overwater IE(1), Rietman AB(1), Bindels-de Heus K(1), Looman CW(1), Rizopoulos 
+D(1), Sibindi TM(1), Cherian PJ(1), Jansen FE(1), Moll HA(1), Elgersma Y(2), de 
+Wit MC(2).
+
+Author information:
+(1)From the Departments of Neurology (I.E.O., A.B.R., M.-C.Y.d.W.), Pediatrics 
+(K.B.-d.H., H.A.M.), Public Health (C.W.N.L.), Biostatistics (D.R.), 
+Neurophysiology (T.M.S., P.J.C.), and Neuroscience (Y.E.), ENCORE Expertise 
+Centre for Neurodevelopmental Disorders (I.E.O., A.B.R., K.B.-d.H., H.A.M., 
+Y.E., M.-C.Y.d.W.), Erasmus University Medical Centre, Rotterdam; and the 
+Department of Pediatric Neurology (F.E.J.), Brain Center Rudolf Magnus, 
+University Medical Centre Utrecht, the Netherlands.
+(2)From the Departments of Neurology (I.E.O., A.B.R., M.-C.Y.d.W.), Pediatrics 
+(K.B.-d.H., H.A.M.), Public Health (C.W.N.L.), Biostatistics (D.R.), 
+Neurophysiology (T.M.S., P.J.C.), and Neuroscience (Y.E.), ENCORE Expertise 
+Centre for Neurodevelopmental Disorders (I.E.O., A.B.R., K.B.-d.H., H.A.M., 
+Y.E., M.-C.Y.d.W.), Erasmus University Medical Centre, Rotterdam; and the 
+Department of Pediatric Neurology (F.E.J.), Brain Center Rudolf Magnus, 
+University Medical Centre Utrecht, the Netherlands. m.c.y.dewit@erasmusmc.nl 
+y.elgersma@erasmusmc.nl.
+
+Comment in
+    Neurology. 2017 Mar 7;88(10):1008. doi: 10.1212/WNL.0000000000003703.
+    Neurology. 2017 Mar 7;88(10):1008. doi: 10.1212/WNL.0000000000003704.
+    Epilepsy Curr. 2017 Mar-Apr;17(2):84-85. doi: 10.5698/1535-7511.17.2.84.
+
+OBJECTIVE: To investigate whether mammalian target of rapamycin complex 1 
+(mTORC1) inhibitors could reduce seizure frequency in children with tuberous 
+sclerosis complex (TSC).
+METHODS: Due to slow inclusion rate, target inclusion of 30 children was not 
+reached. Twenty-three children with TSC and intractable epilepsy (age 1.8-10.9 
+years) were randomly assigned (1:1) to open-label, add-on sirolimus treatment 
+immediately or after 6 months. Sirolimus was titrated to trough levels of 5-10 
+ng/mL. Primary endpoint was seizure frequency change during the sixth month of 
+sirolimus treatment.
+RESULTS: Intention-to-treat analysis showed sirolimus treatment resulted in 41% 
+seizure frequency decrease (95% confidence interval [CI] -69% to +14%; p = 0.11) 
+compared to the standard-care period. Per protocol analysis of 14 children who 
+reached sirolimus target trough levels in the sixth sirolimus month showed a 
+seizure frequency decrease of 61% (95% CI -86% to +6%; p = 0.06). Cognitive 
+development did not change. All children had adverse events. Five children 
+discontinued sirolimus prematurely.
+CONCLUSIONS: We describe a randomized controlled trial for a non-antiepileptic 
+drug that directly targets a presumed causal mechanism of epileptogenesis in a 
+genetic disorder. Although seizure frequency decreased, especially in children 
+reaching target trough levels, we could not show a significant benefit. Larger 
+trials or meta-analyses are needed to investigate if patients with TSC with 
+seizures benefit from mTORC1 inhibition. This trial was registered at 
+trialregister.nl (NTR3178) and supported by the Dutch Epilepsy Foundation.
+CLASSIFICATION OF EVIDENCE: This study provides Class III evidence that 
+sirolimus does not significantly reduce seizure frequency in children with TSC 
+and intractable epilepsy. The study lacked the precision to exclude a benefit 
+from sirolimus.
+
+© 2016 American Academy of Neurology.
+
+DOI: 10.1212/WNL.0000000000003077
+PMID: 27511181 [Indexed for MEDLINE]
+
+
+28. Clin Cancer Res. 2011 Jun 15;17(12):4071-81. doi:
+10.1158/1078-0432.CCR-11-0445.  Epub 2011 Apr 27.
+
+Sirolimus therapy for angiomyolipoma in tuberous sclerosis and sporadic 
+lymphangioleiomyomatosis: a phase 2 trial.
+
+Davies DM(1), de Vries PJ, Johnson SR, McCartney DL, Cox JA, Serra AL, Watson 
+PC, Howe CJ, Doyle T, Pointon K, Cross JJ, Tattersfield AE, Kingswood JC, 
+Sampson JR.
+
+Author information:
+(1)Institute of Medical Genetics, School of Medicine, Cardiff University, 
+Cardiff CF14 4XN, United Kingdom.
+
+PURPOSE: Renal angiomyolipomas are a frequent manifestation of tuberous 
+sclerosis and sporadic lymphangioleiomyomatosis (LAM). These disorders are 
+associated with mutations of TSC1 or TSC2 that lead to overactivation of mTOR 
+complex 1 (mTORC1), suggesting an opportunity for targeted therapy by using 
+mTORC1 inhibitors. This study investigated the efficacy and safety of the mTORC1 
+inhibitor sirolimus for treatment of renal angiomyolipomas in patients with 
+these disorders.
+EXPERIMENTAL DESIGN: In this multicenter phase 2 nonrandomized open label trial, 
+16 patients with tuberous sclerosis or sporadic LAM and renal angiomyolipoma(s) 
+were treated with oral sirolimus for up to 2 years. Steady-state blood levels 
+were 3 to 10 ng/mL. The primary outcome was change in size of renal 
+angiomyolipomas measured by MRI and assessed by Response Evaluation Criteria in 
+Solid Tumors (RECIST) criteria. Secondary outcomes included safety, 
+neurocognitive function, and pulmonary function.
+RESULTS: The response rate, by RECIST criteria, was 50%. Summated angiomyolipoma 
+diameters were reduced in all 16 patients and by 30% or more in eight (all from 
+the per protocol group of 10). Forty-one of 48 angiomyolipomas were smaller at 
+the last measurement than at baseline. Most shrinkage occurred during the first 
+year of treatment. There was little change in pulmonary function. Recall memory 
+improved in seven of eight patients with tuberous sclerosis. Adverse events were 
+consistent with the known toxicities of sirolimus.
+CONCLUSIONS: This study showed sustained regression of renal angiomyolipomas in 
+patients with tuberous sclerosis or sporadic LAM receiving 2 years of sirolimus 
+treatment. Possible effects on pulmonary function and neurocognition require 
+further investigation.
+
+©2011 AACR.
+
+DOI: 10.1158/1078-0432.CCR-11-0445
+PMID: 21525172 [Indexed for MEDLINE]
+
+
+29. Childs Nerv Syst. 2022 May;38(5):947-952. doi: 10.1007/s00381-022-05446-2.
+Epub  2022 Jan 26.
+
+Long-term administration of sirolimus does not affect the physical development 
+of children with tuberous sclerosis complex.
+
+Chen J(#)(1), He W(#)(1), Wang YY(1), Zhang MN(1), Lu Q(1), Wang QH(1), Luo 
+XM(2), Wang B(1), Zou LP(3)(4).
+
+Author information:
+(1)Faculty of Pediatrics, Department of Pediatrics, The First Medical Center of 
+Chinese, Chinese PLA General Hospital, PLA General Hospital, 28 Fuxing road, 
+Haidian district, Beijing, 100853, China.
+(2)Center for Brain Disorders Research, Capital Medical University, Beijing 
+Institute for Brain Disorders, Beijing, China.
+(3)Faculty of Pediatrics, Department of Pediatrics, The First Medical Center of 
+Chinese, Chinese PLA General Hospital, PLA General Hospital, 28 Fuxing road, 
+Haidian district, Beijing, 100853, China. zouliping21@hotmail.com.
+(4)Center for Brain Disorders Research, Capital Medical University, Beijing 
+Institute for Brain Disorders, Beijing, China. zouliping21@hotmail.com.
+(#)Contributed equally
+
+PURPOSE: There was no evidence whether the mammalian/mechanistic target of 
+rapamycin pathway hyperactivation and long-term use of mTOR inhibitors have any 
+effects on the physical development of children. The aim was to evaluate these 
+effects by comparing the physical development of children with TSC and normal 
+children.
+METHODS: A total of 120 eligible children were enrolled. They were administered 
+sirolimus and followed for at least 12 months. Height, weight, BMI and lipid 
+metabolism index were collected during treatment. Pearson's chi-square and 
+Fisher's exact test were used for comparison of proportions of patients 
+exhibiting normal and abnormal physical growth before and after 1 year of 
+treatment. Logistic regression was used to evaluate the influence of age, sex 
+and abnormal lipid metabolism on the increased BMIs of TSC patients after 
+treatment.
+RESULTS: Most of the enrolled TSC children were in the normal height, weight and 
+BMI ranges at baseline (91.7%, 95.8% and 78.3%, respectively). Most remained in 
+the normal height, weight and BMI ranges after 1 year of sirolimus treatment 
+(94.2%, 95% and 76.7%, respectively). There was no significant difference in the 
+proportion of physical development before and after treatment (p > 0.05). 
+Thirty-eight (38/106, 35.8%) patients had increased BMIs after 1 year of 
+treatment, but there was no significant correlation between age, sex and lipid 
+metabolism and increased BMI.
+CONCLUSIONS: Overactivation of the mTOR pathway and long-term administration of 
+sirolimus does not affect the physical development of children with TSC.
+
+© 2022. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00381-022-05446-2
+PMID: 35083513 [Indexed for MEDLINE]
+
+
+30. J Pediatr. 2021 Jun;233:150-155.e4. doi: 10.1016/j.jpeds.2021.02.040. Epub
+2021  Feb 23.
+
+Sirolimus Can Increase the Disappearance Rate of Cardiac Rhabdomyomas Associated 
+with Tuberous Sclerosis: A Prospective Cohort and Self-Controlled Case Series 
+Study.
+
+Chen XQ(1), Wang YY(2), Zhang MN(2), Lu Q(2), Pang LY(2), Liu LY(3), Li YF(4), 
+Zou LP(5).
+
+Author information:
+(1)Department of Pediatrics, First Medical Center, Chinese PLA General Hospital, 
+Beijing, China; Department of Pediatrics, The 904th Hospital of Joint Logistic 
+Support Force, Wuxi, China.
+(2)Department of Pediatrics, First Medical Center, Chinese PLA General Hospital, 
+Beijing, China.
+(3)Department of Pediatrics, First Medical Center, Chinese PLA General Hospital, 
+Beijing, China; Department of Neurology, Beijing Jingdu Children's Hospital, 
+Beijing, China.
+(4)Department of Pediatrics, Shandong Linyi People's Hospital, Linyi, China.
+(5)Department of Pediatrics, First Medical Center, Chinese PLA General Hospital, 
+Beijing, China; Center of Epilepsy, Beijing Institute for Brain Disorders, 
+Beijing, China. Electronic address: zouliping21@hotmail.com.
+
+OBJECTIVES: To investigate the efficacy and safety of sirolimus in the treatment 
+of cardiac rhabdomyomas associated with tuberous sclerosis complex and the 
+specific benefits in different subgroups.
+STUDY DESIGN: The study was a prospective cohort and self-controlled case series 
+study. Based on the prevalence of cardiac rhabdomyoma at different ages, we 
+estimated the natural tumor disappearance rate. The subgroup analysis was done 
+by Cox regression. Self-controlled case series method was used to assess the 
+magnitude and duration of the drug effect. Adverse events were described.
+RESULTS: A total of 217 patients were included in the cohort study. Tumor 
+disappearance rate was higher in younger age groups (hazard ratio = 0.99, 
+P = .027) and female patients (hazard ratio = 2.08, P = .015). The age-adjusted 
+incidence ratio showed that the disappearance of rhabdomyomas between 3 and 
+6 months was more related to sirolimus. Adverse events were observed 60 times in 
+42 of 217 children, mainly stomatitis.
+CONCLUSIONS: Sirolimus can increase the disappearance rate of cardiac 
+rhabdomyoma in the tuberous sclerosis complex population. Efficacy varies by sex 
+and age: female and younger patients have higher tumor disappearance rate. 
+Sirolimus is well-tolerated.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jpeds.2021.02.040
+PMID: 33631166 [Indexed for MEDLINE]

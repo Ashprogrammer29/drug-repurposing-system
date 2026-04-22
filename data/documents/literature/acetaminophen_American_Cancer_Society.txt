@@ -1,0 +1,2047 @@
+1. Anesth Analg. 2020 Aug;131(2):411-448. doi: 10.1213/ANE.0000000000004833.
+
+Fourth Consensus Guidelines for the Management of Postoperative Nausea and 
+Vomiting.
+
+Gan TJ(1), Belani KG(2), Bergese S(3), Chung F(4), Diemunsch P(5)(6), Habib 
+AS(7), Jin Z(1), Kovac AL(8), Meyer TA(9)(10), Urman RD(11), Apfel CC(12), Ayad 
+S(13)(14), Beagley L(15), Candiotti K(16), Englesakis M(17), Hedrick TL(18), 
+Kranke P(19), Lee S(20), Lipman D(21), Minkowitz HS(22), Morton J(23), Philip 
+BK(11).
+
+Author information:
+(1)From the Department of Anesthesiology, Stony Brook Renaissance School of 
+Medicine, Stony Brook, New York.
+(2)Department of Anesthesiology, M Health Fairview, Masonic Children's Hospital, 
+University of Minnesota, Minneapolis, Minnesota.
+(3)Department of Anesthesiology and Neurological Surgery, Stony Brook 
+Renaissance School of Medicine, Stony Brook, New York.
+(4)Department of Anesthesia and Pain Management, Toronto Western Hospital, 
+University Health Network, University of Toronto, Ontario, Canada.
+(5)Department of Anaesthesia and Surgical Resuscitation, University of 
+Strasbourg, Strasbourg, France.
+(6)Department of the Anaesthesia and Intensive Care, University Hospitals of 
+Hautepierre and CMCO, Strasbourg, France.
+(7)Department of Anesthesiology, Duke University School of Medicine, Durham, 
+North Carolina.
+(8)Department of Anesthesiology, University of Kansas Medical Center, Kansas 
+City, Kansas.
+(9)Department of Pharmacy, Baylor Scott & White Health-Temple Medical Center, 
+Temple, Texas.
+(10)Department of Anesthesiology, Texas A&M College of Medicine, Bryan, Texas.
+(11)Department of Anesthesiology, and Perioperative and Pain Medicine, Harvard 
+Medical School, Brigham and Women's Hospital, Boston, Massachusetts.
+(12)Department of Epidemiology & Biostatistics, University of California San 
+Francisco Medical Center, San Francisco, California.
+(13)Department of Anesthesiology, Cleveland Clinic Lerner College of Medicine, 
+Case Western Reserve University, Cleveland, Ohio.
+(14)Outcomes Research Department, Anesthesiology Institute, Cleveland Clinic, 
+Cleveland, Ohio.
+(15)Department of Nursing Education, Swedish Hospital Part of NorthShore, 
+Chicago, Illinois.
+(16)Department of Anesthesiology, Perioperative Medicine and Pain Management, 
+Miller School of Medicine, University of Miami, Miami, Florida.
+(17)Library & Information Services, University Health Network, Toronto, Ontario, 
+Canada.
+(18)Department of Surgery, University of Virginia Health System, 
+Charlottesville, Virginia.
+(19)Department of Anaesthesia, University Hospital of Wuerzburg, Würzburg, 
+Germany.
+(20)Department of Anesthesiology, University of Colorado Hospital, Aurora, 
+Colorado.
+(21)Department of Anesthesiology, MD Anderson Cancer Center, Houston, Texas.
+(22)Department of Anesthesiology and Perioperative Medicine, The University of 
+Texas MD Anderson Cancer Center, Houston, Texas.
+(23)Department of Surgery, Yale School of Medicine, New Haven, Connecticut.
+
+Erratum in
+    Anesth Analg. 2020 Nov;131(5):e241. doi: 10.1213/ANE.0000000000005245.
+
+Comment in
+    Anesth Analg. 2021 Feb 1;132(2):e29-e31. doi: 10.1213/ANE.0000000000005279.
+    Anesth Analg. 2021 Feb 1;132(2):e31-e33. doi: 10.1213/ANE.0000000000005280.
+
+This consensus statement presents a comprehensive and evidence-based set of 
+guidelines for the care of postoperative nausea and vomiting (PONV) in both 
+adult and pediatric populations. The guidelines are established by an 
+international panel of experts under the auspices of the American Society of 
+Enhanced Recovery and Society for Ambulatory Anesthesia based on a comprehensive 
+search and review of literature up to September 2019. The guidelines provide 
+recommendation on identifying high-risk patients, managing baseline PONV risks, 
+choices for prophylaxis, and rescue treatment of PONV as well as recommendations 
+for the institutional implementation of a PONV protocol. In addition, the 
+current guidelines focus on the evidence for newer drugs (eg, second-generation 
+5-hydroxytryptamine 3 [5-HT3] receptor antagonists, neurokinin 1 (NK1) receptor 
+antagonists, and dopamine antagonists), discussion regarding the use of general 
+multimodal PONV prophylaxis, and PONV management as part of enhanced recovery 
+pathways. This set of guidelines have been endorsed by 23 professional societies 
+and organizations from different disciplines (Appendix 1).Guidelines currently 
+available include the 3 iterations of the consensus guideline we previously 
+published, which was last updated 6 years ago; a guideline published by American 
+Society of Health System Pharmacists in 1999; a brief discussion on PONV 
+management as part of a comprehensive postoperative care guidelines; focused 
+guidelines published by the Society of Obstetricians and Gynecologists of 
+Canada, the Association of Paediatric Anaesthetists of Great Britain & Ireland 
+and the Association of Perianesthesia Nursing; and several guidelines published 
+in other languages.The current guideline was developed to provide perioperative 
+practitioners with a comprehensive and up-to-date, evidence-based guidance on 
+the risk stratification, prevention, and treatment of PONV in both adults and 
+children. The guideline also provides guidance on the management of PONV within 
+enhanced recovery pathways.The previous consensus guideline was published 6 
+years ago with a literature search updated to October 2011. Several guidelines, 
+which have been published since, are either limited to a specific populations or 
+do not address all aspects of PONV management. The current guideline was 
+developed based on a systematic review of the literature published up through 
+September 2019. This includes recent studies of newer pharmacological agents 
+such as the second-generation 5-hydroxytryptamine 3 (5-HT3) receptor 
+antagonists, a dopamine antagonist, neurokinin 1 (NK1) receptor antagonists as 
+well as several novel combination therapies. In addition, it also contains an 
+evidence-based discussion on the management of PONV in enhanced recovery 
+pathways. We have also discussed the implementation of a general multimodal PONV 
+prophylaxis in all at-risk surgical patients based on the consensus of the 
+expert panel.
+
+DOI: 10.1213/ANE.0000000000004833
+PMID: 32467512 [Indexed for MEDLINE]
+
+
+2. Prescription of Controlled Substances: Benefits and Risks.
+
+Preuss CV(1), Kalava A(1), King KC(2).
+
+In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2026 
+Jan–.
+2025 Jul 6.
+
+Author information:
+(1)University of South Florida
+(2)Muhlenberg Community Hospital Greenville
+
+One of the most difficult challenges for any prescriber is distinguishing 
+between the legitimate prescription of controlled substances and the 
+prescription that may be used for illegitimate purposes. To discern the 
+difference, prescribers need to understand the signs, symptoms, and treatment of 
+acute and chronic pain and the signs and symptoms of patients misusing 
+controlled substances. Pain relief remains one of the most common reasons 
+patients seek medical attention. Although many categories of pain medications 
+are available, opioid analgesics are approved by the Food and Drug 
+Administration (FDA) for moderate-to-severe pain. As such, they are a common 
+choice for patients with acute, cancer-related, neurologic, and end-of-life 
+pain. Prescribing opioid analgesics for chronic pain is controversial and 
+fraught with inconclusive standards. In the 1990s, the chronic failure of health 
+professionals to treat severe pain appropriately led to an expansion in opioid 
+analgesic prescribing. Unfortunately, this resulted in increased overuse, 
+diversion of drugs, opioid use disorder, and overdose. The Catch-22 is that 
+health professionals either undertreat patients, leading to unnecessary 
+suffering, or overtreat them, which can cause adverse effects such as increased 
+risk of opioid analgesic use disorder and potential overdose. Opioid analgesic 
+prescribing reached its highest point in 2011. Since then, both prescribing and 
+overdose have been declining. However, as a society, in both the lay and 
+scientific literature, there are significant concerns that we are still in the 
+middle of an opioid crisis. One of the biggest challenges in caring for patients 
+with pain is their varying tolerance levels, which necessitate different opioid 
+doses to achieve adequate pain relief. Patients may exhibit a wide range of 
+behavioral, cultural, emotional, and psychological responses to pain compared to 
+those with a substance use disorder; often, distinguishing between the two can 
+be challenging. All healthcare professionals engaged in pain control need an 
+understanding of the treatment recommendations and safety concerns in 
+prescribing opioid analgesics. Appropriate opioid prescribing requires a 
+thorough patient assessment, short- and long-term treatment planning, close 
+follow-up, and continued monitoring. All healthcare providers need to be aware 
+of appropriate patient assessment, treatment planning, and the potential for 
+substance use disorder, drug diversion, and hazardous behavioral responses to 
+controlled substances, such as opioid analgesics, which differ from 
+pseudoaddiction and physical dependence. Many clinicians have limited knowledge 
+of opioid use disorder. They often fail to recognize it as a disease and 
+mistakenly believe that opioid dependence is the same as opioid use disorder. A 
+lack of clear understanding can lead to confusion between patients with chronic 
+non-use disorder and those misusing their prescribed opioids. A lack of training 
+and educational deficits often interfere with the appropriate prescription of 
+opioid analgesic agents. To prevent the misuse of controlled substances, 
+healthcare providers who prescribe controlled substances should learn 
+prescribing practices that minimize or prevent adverse consequences. 
+Definitions: Addiction: According to the American Society of Addiction Medicine 
+(ASAM), addiction is a primary, chronic disease of brain reward, motivation, 
+memory, and related circuitry. Dysfunction in these circuits leads to 
+characteristic biological, psychological, social, and spiritual manifestations. 
+This dysfunction is reflected in an individual pathologically pursuing reward or 
+relief through substance use and other behaviors. Addiction is now 
+termed substance use disorder and is characterized by an inability to 
+consistently abstain, cravings for the drug, impairment in behavioral control, 
+diminished ability to recognize significant problems with one's behaviors and 
+interpersonal relationships, and a dysfunctional emotional response. Like other 
+chronic diseases, substance use disorder often involves cycles of relapse and 
+remission. Without treatment or engagement in recovery activities, substance use 
+disorder is progressive and can result in disability or premature death. : 
+Appropriate opioid analgesic prescribing: This involves providing pain control 
+while minimizing toxicity, substance use disorder, or the risk of substance use 
+disorder and implementing safeguards to reduce drug diversion. Inappropriate 
+opioid analgesic prescribing: Non-prescribing, inadequate prescribing, excessive 
+prescribing, or continued prescribing despite evidence of the lack of 
+effective opioid analgesic treatment. Controlled substances: These substances 
+are drugs or medications that possess the potential for being misused and 
+are considered to be substances that have a substantially high risk of resulting 
+in substance use disorder. Opioid analgesics: These drugs dull the senses and 
+relieve pain, such as morphine. In addition, these medications may induce sleep. 
+The Drug Enforcement Administration (DEA, USA) uses the term narcotic to refer 
+to drugs that are opioid analgesics. Characteristics of Addiction or 
+Substance Use Disorder: Craving for drugs or rewards. Diminished recognition of 
+significant problems in behavior. Dysfunctional emotional response. Impairment 
+in behavioral control. Inability to consistently abstain . Drug Schedules of 
+Controlled Substances All healthcare providers should be familiar with the 
+guidelines and laws for each schedule, which are based on the purpose of the 
+drug and the risk of substance use disorder. In the United States, controlled 
+substances are subject to strict regulation by both federal and state laws that 
+govern their manufacture and distribution. Controlled substances have a high 
+risk of resulting in addiction and substance use disorder. As the schedules 
+decrease from I to V, the drugs listed within each category have a lower 
+potential to cause a substance use or addiction disorder. Controlled Substances 
+Act In the United States, the Comprehensive Drug Abuse Prevention and Control 
+Act was passed in 1970 and included the Controlled Substances Act. The 
+Controlled Substances Act covers various aspects of drugs as follows: 
+Classification and regulation of drugs, according to their content and purpose. 
+Manufacturing of drugs. Distribution of drugs. Exportation and sale of drugs. 
+The Controlled Substances Act established 5 drug schedules to regulate the 
+manufacture and distribution of controlled substances. As part of the 
+regulation, healthcare providers who prescribe controlled substances and 
+pharmacists who fill these prescriptions must obtain a license from the 
+DEA. These licenses include specific license numbers allowing controlled 
+substance prescriptions to be tracked and linked to a specific healthcare 
+provider or distributor. These schedules categorize substances based on their 
+medical value, risk of addiction, and potential to cause harm. The schedules 
+range from Schedule I, which has the highest potential for addiction and 
+substance use disorder, to Schedule V, which has the lowest potential for 
+addiction and substance use disorder. Schedule I: Schedule I drugs possess the 
+highest potential for substance use disorder and misuse. These drugs have no 
+medical use and are illicit or street drugs. Examples of Schedule I drugs 
+include heroin, lysergic acid diethylamide, mescaline, 
+methylenedioxymethamphetamine, and methaqualone. Marijuana, which is legal in 
+some states, is still classified as a Schedule I drug at the federal level as of 
+this writing. Schedule II: Schedule II drugs have a reduced potential for 
+substance use disorder compared to Schedule I. These drugs are at high risk for 
+both physical and psychological dependence. These drugs have a high capacity for 
+both substance use disorder and misuse. Schedule II drugs are typically 
+prescribed to treat severe pain, anxiety, insomnia, and attention-deficit 
+hyperactivity disorder. Examples of Schedule II substances include fentanyl, 
+hydromorphone, meperidine, methadone, morphine, oxycodone, dextroamphetamine, 
+methylphenidate, methamphetamine, pentobarbital, and secobarbital. These drugs 
+were previously prescribed only through a paper prescription, but they are now 
+permitted to be transmitted electronically through Electronic Prescriptions for 
+Controlled Substances (EPCS). No refills are allowed. . Schedule II drugs have 
+the tightest regulations compared to other prescription drugs. Schedule III: 
+Schedule III drugs have a lower misuse potential compared to Schedule I and II 
+drugs. These drugs may cause physical dependence but more commonly lead to 
+psychological dependence. Medications in this category are often used for pain 
+control, anesthesia, or appetite suppression. Examples of Schedule III 
+substances include benzphetamine, ketamine, phendimetrazine, and anabolic 
+steroids. Opioid analgesics in this schedule include products containing not 
+more than 90 mg of codeine per dosage unit and buprenorphine. Schedule III 
+drugs may be prescribed verbally over the phone, with a paper prescription, or 
+through EPCS. Within a 6-month timeframe, refill requirements are such that the 
+drug can only have 5 refills. . Schedule IV: Schedule IV drugs have a lower 
+potential for misuse compared to Schedule I, II, or III drugs. These drugs have 
+a limited risk of physical or psychological dependence. Examples of Schedule IV 
+substances include alprazolam, carisoprodol, clonazepam, clorazepate, diazepam, 
+lorazepam, midazolam, temazepam, tramadol, and triazolam. Drugs in this class 
+may be used for pain control as long as the healthcare provider deems the drug 
+medically necessary and the patient is likely to benefit. Schedule IV drugs can 
+be prescribed verbally over the phone, with a paper prescription, or through 
+EPCS. Refills are permitted up to 5 times in a 6-month timeframe from the 
+issuance date. Schedule V: Schedule V drugs are the least likely of the 
+controlled substances to be misused. These drugs result in minimal physical or 
+psychological dependence. Examples include cough medicines containing codeine, 
+antidiarrheal medications containing atropine or diphenoxylate, pregabalin, and 
+ezogabine. Despite their low abuse potential, they still need to be managed 
+appropriately and administered with care. When these medicines contain codeine, 
+they must have less than 200 mg of codeine per 100 mL. Partial prescription 
+fills cannot occur more than 6 months after the issue date. When a partial fill 
+occurs, it is treated in the same manner and with the same rules as a refill of 
+the drug. Drug Use Disorder, Abuse, and Misuse Drug use disorder differs from 
+drug abuse and misuse. Drugs taken may be illicit street drugs, stolen drugs, or 
+those obtained through a legal prescription. Misusing a drug typically involves 
+taking the drug in a harmful or detrimental way, resulting in personal, 
+professional, or social problems. A patient abusing an opioid analgesic may no 
+longer be able to interact appropriately with their family or friends and 
+perform their duties at work. Misuse of a controlled substance refers to using a 
+prescribed drug in a way that was not intended, whether intentionally or 
+accidentally. A negative result may or may not occur. Examples of misuse include 
+taking too much of a drug, using an incorrect dose, an incorrect route, or using 
+prescription drugs written for another person. Controlled substances include 
+both prescription drugs and illicit drugs with no recognized medical value. Both 
+categories have the potential to be abused or misused. Although the use of 
+Schedule I drugs is illegal, prescription drugs found in Schedules II through V 
+are also commonly abused and misused, and their misuse is a challenging problem 
+that has increased over the last several years. The Centers for Disease Control 
+and Prevention (CDC) has declared prescription drug abuse a problem of 
+epidemic proportions. The CDC believes that the absence of checks and balances 
+on the prescription and distribution of controlled substances, including those 
+prescribed for medical use, has the potential for abuse, and misuse is likely to 
+continue increasing. Prescriber Shopping A common practice among individuals who 
+intentionally misuse controlled substances is to seek multiple sources for 
+drugs. These individuals visit different healthcare providers, presenting a list 
+of complaints that are often fictitious and vary from one healthcare provider to 
+another. As a result, they may be able to obtain multiple prescriptions, which 
+they then fill at different pharmacies. To combat this practice, known as 
+prescriber shopping, many states have implemented systems that enable healthcare 
+providers to view all the prescriptions written for each patient. The use of 
+these systems is helping to gradually reduce such misuse. Diversion Some 
+prescription drugs can be sold on the street for as much as $50 per 
+tablet. Diversion is when a patient sells their drugs as a method of earning 
+money. Patients may also sell their drugs to buy food, pay expenses, or purchase 
+more potent street drugs. In some worst cases, healthcare providers may divert 
+drugs from patients for their personal use or sell them to others. Some 
+individuals use controlled substances for purposes other than their intended 
+medical use. Rather than pain control, they may be used to stay awake, induce 
+sleep, or get high. Before the popularity of prescription drug diversion, the 
+only method to obtain illicit drugs was to import from other countries or 
+manufacture them in private labs. Today, law enforcement agencies have the 
+tremendous challenge of dealing with prescription drugs sold by diversion and 
+illicit drugs imported or manufactured. In both instances, these drug sales and 
+usage result in increased criminal activity, dangerous overdoses, and death.  
+Methods of Obtaining Prescription Drugs A review of multiple studies highlights 
+a variety of ways individuals obtain prescription drugs. The findings are 
+summarized below: 55% free from a friend or relative. 20% from a prescriber. 10% 
+purchased from a friend or relative. 5% stolen from a friend or relative. 5% 
+purchased from a drug dealer. 2% from multiple doctors. 1% through theft from a 
+medical practice or pharmacy. Less than 1% obtained them from the internet. 
+Studies also reveal that the source of the majority of these drugs was a single 
+legal prescriber. Opioid Knowledge Deficit Among Healthcare Providers There are 
+significant knowledge gaps regarding appropriate and inappropriate opioid 
+analgesic prescribing, including a lack of understanding of current research, 
+legislation, and proper prescribing practices. Healthcare providers often have 
+knowledge deficits that include: Understanding of addiction. At-risk opioid 
+addiction populations. Prescription versus non-prescription opioid addiction. 
+The belief that addiction and dependence on opioids are synonymous. The belief 
+that opioid addiction is a psychological problem instead of a chronic painful 
+disease. Due to a long history of misunderstanding, poor society, insufficient 
+education for healthcare providers, and inconsistent laws, prescribing opioids 
+has resulted in significant societal challenges. These challenges can only be 
+addressed through comprehensive education and training. Misuse of Controlled 
+Substances The misuse of controlled substances resulting in morbidity and 
+mortality is rampant. According to the 2016 National Survey on Drug Use and 
+Health conducted by the United States Department of Health and Human Services, 
+over 10 million people misuse prescription pain medications, and over 2 million 
+misuse sedatives, stimulants, and tranquilizers each year. The survey also 
+identified pain relief as the most common reason for misuse. The CDC estimates 
+that more than 40,000 individuals die each year from an opioid overdose.  
+Controlled Substances Three major classes of controlled substances are 
+frequently misused—opioids, depressants, and stimulants. Opioids: Opioids are 
+commonly prescribed for pain control by binding to mu-opioid receptors in the 
+central nervous system (CNS), which reduces the transmission of pain signals to 
+the brain. In addition, opioids affect receptors in the gastrointestinal tract 
+and respiratory system. These medications are used to treat pain, diarrhea, and 
+cough. Common opioids: Codeine: Codeine is one of the most commonly used opioid 
+medications. This medication is at the center of the opioid addiction problem in 
+the United States and thus is highly regulated. Codeine is primarily prescribed 
+for pain and cough. FDA-approved indication: Pain: Codeine is used to treat mild 
+to moderate pain. The use of codeine is recognized in chronic pain due to 
+ongoing cancer and palliative care. However, the use of codeine to treat other 
+types of chronic pain remains controversial. Chronic pain, defined by the 
+International Association for the Study of Pain, is pain persisting beyond the 
+standard tissue healing time, which is 3 months. The most common causes of 
+non-cancer chronic pain include back pain, fibromyalgia, osteoarthritis, and 
+headache. Non–FDA-approved indications: Cough: Codeine is useful in treating 
+various etiologies that produce a chronic cough. Additionally, 46% of patients 
+with chronic cough do not have a distinct etiology despite undergoing a proper 
+diagnostic evaluation. In such cases, codeine has been shown to reduce both the 
+frequency and severity of coughs. However, the evidence supporting its 
+effectiveness in treating chronic cough is limited. The dose can vary from 15 to 
+120 mg/d. In specific populations such as lung cancer, codeine is indicated for 
+managing prolonged cough, typically as 30 mg every 4 to 6 hours as needed. 
+Restless leg syndrome: Codeine is effective in treating restless leg syndrome 
+when given at night, especially for individuals whose symptoms are not relieved 
+by other medications. Persistent diarrhea (palliative): Codeine and loperamide 
+are equally effective for managing persistent diarrhea. The choice between 
+codeine and loperamide depends on the physician's evaluation of codeine's 
+addictive potential versus loperamide's higher cost, along with the patient's 
+susceptibility to adverse effects. Fentanyl: Transdermal patches and intravenous 
+formulations are commonly abused and used in combination with other drugs. 
+Fentanyl is a synthetic opioid that is 80 to 100 times stronger compared to 
+morphine and is often added to heroin to increase its potency. This drug can 
+cause severe respiratory depression and death, particularly when mixed with 
+other drugs or alcohol. Fentanyl has a high potential for addiction. 
+Hydrocodone: Hydrocodone is a Schedule II semi-synthetic opioid medication used 
+to treat pain. Immediate-release hydrocodone is available only in combination 
+with other agents, such as acetaminophen and ibuprofen, and is approved by the 
+FDA for managing pain severe enough to require an opioid analgesic and for which 
+alternative (nonopioid) treatments are inadequate. Single-entity hydrocodone is 
+only available in extended-release formulations and is approved by the FDA to 
+treat persistent, severe pain requiring around-the-clock, long-term opioid 
+therapy when alternative options are insufficient. Hydrocodone is also an 
+antitussive and is indicated for the treatment of cough in adults. Morphine 
+sulfate: Morphine sulfate is approved by the FDA for moderate-to-severe 
+pain, whether acute or chronic. Most commonly used in pain control, morphine 
+provides significant relief to patients afflicted with pain. Clinical situations 
+that significantly benefit from medicating with morphine include managing 
+palliative or end-of-life care, active cancer treatment, and vaso-occlusive pain 
+during sickle cell crises. Morphine is widely used off-label for almost any 
+condition that causes pain. In the emergency department, morphine is given for 
+musculoskeletal pain, abdominal pain, chest pain, arthritis, and even headaches 
+when patients fail to respond to first- and second-line agents. Although 
+morphine is rarely used for procedural sedation, clinicians sometimes combine a 
+low dose of morphine with a low dose of benzodiazepine, such as lorazepam, for 
+minor procedures. Oxycodone: Oxycodone is an opioid agonist prescription 
+medication. The immediate-release formulation is approved by the FDA for 
+managing acute or chronic moderate-to-severe pain when alternative treatments 
+are inadequate and opioid therapy is deemed appropriate. The extended-release 
+formulation is approved by the FDA for managing pain severe enough to require 
+continuous (24 h/d), long-term opioid treatment, and for which there are no 
+alternative options to treat the pain. The oxycodone to morphine dose equivalent 
+ratio is approximately 1:1.5 for immediate-release and 1:2 for extended-release 
+formulations. Tramadol: Tramadol is an FDA-approved medication for pain relief. 
+This medication has specific indications for moderate-to-severe pain. 
+Tramadol is classified as a Schedule IV drug by the FDA. Due to its potential 
+for abuse and addiction, tramadol should be reserved for pain that is 
+unresponsive to other treatments, including nonopioid analgesics. Tramadol is 
+available in 2 formulations: extended-release and immediate-release. The 
+immediate-release form is not intended for use as an as-needed medication; 
+instead, it is for pain of less than 1 week duration. For pain lasting more 
+than 1 week, the extended-release form is preferred, as it is indicated for pain 
+control under 24-hour management or an extended period. Tramadol has 
+demonstrated off-label effectiveness in the management of premature ejaculation 
+and restless leg syndrome that is refractory to other treatments. For the 
+off-label use of tramadol for premature ejaculation, both sporadic and daily use 
+is effective for treating the condition. Patients generally prefer as-needed 
+therapy for premature ejaculation due to the lack of adverse effects compared to 
+the daily use of tramadol. Addiction, Dependence, and Tolerance Although each of 
+these terms is similar, healthcare providers should be aware of the differences. 
+Addiction: The constant need for a drug despite harmful consequences. 
+Pseudoaddiction: Constant fear of being in pain and hypervigilance; typically, 
+there is a resolution with pain resolution. Dependence: Physical adaptation to a 
+medication where it is necessary for normal function, and withdrawal occurs with 
+the lack of drugs. Tolerance: The lack of expected response to a medication, 
+increasing dose to achieve the same pain relief, resulting from CNS adaptation 
+to the medication over time. Mainstreaming Addiction Treatment Act The 
+Mainstreaming Addiction Treatment (MAT) Act updates federal guidelines to expand 
+the availability of evidence-based treatment to address the opioid epidemic. The 
+MAT Act empowers all healthcare providers with a standard controlled substance 
+license to prescribe buprenorphine for opioid use disorder, just as they 
+prescribe other essential medications. The MAT Act aims to help destigmatize a 
+standard of care for opioid use disorder and integrate substance use disorder 
+treatment across all healthcare settings.  As of December 2022, the MAT Act has 
+eliminated the DATA-Waiver (X-Waiver) program. All DEA-registered practitioners 
+with Schedule III authority may now prescribe buprenorphine for opioid use 
+disorder in their practice if permitted by applicable state law, and the 
+Substance Abuse and Mental Health Services Administration encourages 
+practitioners to do so. Prescribers who were registered as DATA-Waiver 
+prescribers receive a new DEA registration certificate reflecting this change; 
+no action is required on their part. There are no longer any limits on the 
+number of patients with opioid use disorder that a practitioner may treat with 
+buprenorphine. Separate tracking of patients treated with buprenorphine or 
+prescriptions written is no longer required. Pharmacy staff can now fill 
+buprenorphine prescriptions using the prescribing authority's DEA number and do 
+not need a DATA 2000 waiver from the prescriber. However, depending on the 
+pharmacy, the dispensing software may still require the X-Waiver information to 
+proceed. Practitioners are still required to comply with any applicable state 
+limits regarding the treatment of patients with opioid use disorder. For more 
+information or assistance, contact your State Opioid Treatment Authority.
+
+Copyright © 2026, StatPearls Publishing LLC.
+
+PMID: 30726003
+
+Conflict of interest statement: Disclosure: Charles Preuss declares no relevant 
+financial relationships with ineligible companies. Disclosure: Arun Kalava 
+declares no relevant financial relationships with ineligible companies. 
+Disclosure: Kevin King declares no relevant financial relationships with 
+ineligible companies.
+
+
+3. Ann Intern Med. 1999 Jul 6;131(1):37-46. doi: 
+10.7326/0003-4819-131-1-199907060-00009.
+
+Management of pain and spinal cord compression in patients with advanced cancer. 
+ACP-ASIM End-of-life Care Consensus Panel. American College of 
+Physicians-American Society of Internal Medicine.
+
+Abrahm JL(1).
+
+Author information:
+(1)Hospital of the University of Pennsylvania, Philadelphia 19104, USA.
+
+Comment in
+    Ann Intern Med. 2000 Apr 4;132(7):593. doi: 
+10.7326/0003-4819-132-7-200004040-00019.
+
+General internists often care for patients with advanced cancer. These patients 
+have substantial morbidity caused by moderate to severe pain and by spinal cord 
+compression. With appropriate multidisciplinary care, pain can be controlled in 
+90% of patients who have advanced malignant conditions, and 90% of ambulatory 
+patients with spinal cord compression can remain ambulatory. Guidelines have 
+been developed for assessing and managing patients with these problems, but 
+implementing the guidelines can be problematic for physicians who infrequently 
+need to use them. This paper traces the last year of life of Mr. Simmons, a 
+hypothetical patient who is dying of refractory prostate cancer. Mr. Simmons and 
+his family interact with professionals from various disciplines during this 
+year. Advance care planning is completed and activated. Practical suggestions 
+are offered for assessment and treatment of all aspects of his pain, including 
+its physical, psychological, social, and spiritual dimensions. The methods of 
+pain relief used or discussed include nonpharmacologic techniques, nonopioid 
+analgesics, opioids, adjuvant medications, radiation therapy, and 
+radiopharmaceutical agents. Overcoming resistance to taking opioids; initiating, 
+titrating, and changing opioid routes and agents; and preventing or relieving 
+the side effects they induce are also covered. Data on assessment and treatment 
+of spinal cord compression are reviewed. Physicians can use the techniques 
+described to more readily implement existing guidelines and provide comfort and 
+optimize quality of life for patients with advanced cancer.
+
+DOI: 10.7326/0003-4819-131-1-199907060-00009
+PMID: 10391814 [Indexed for MEDLINE]
+
+
+4. J Affect Disord. 2025 Apr 1;374:390-396. doi: 10.1016/j.jad.2025.01.054. Epub 
+2025 Jan 14.
+
+Hepatic adverse events associated with ketamine and esketamine: A 
+population-based disproportionality analysis.
+
+Kwan ATH(1), Lakhani M(2), Teopiz KM(3), Wong S(4), Le GH(5), Ho RC(6), Rhee 
+TG(7), Cao B(8), Rosenblat JD(9), Mansur R(10), McIntyre RS(11).
+
+Author information:
+(1)Faculty of Medicine, University of Ottawa, Ottawa, Ontario, Canada; Brain and 
+Cognition Discovery Foundation, Toronto, Ontario, Canada; Department of 
+Psychiatry, University of Toronto, Toronto, Ontario, Canada; Department of 
+Pharmacology and Toxicology, University of Toronto, Toronto, Ontario, Canada. 
+Electronic address: angela.kwan@mail.utoronto.ca.
+(2)Faculty of Medicine, University of Ottawa, Ottawa, Ontario, Canada; Brain and 
+Cognition Discovery Foundation, Toronto, Ontario, Canada. Electronic address: 
+mlakh088@uottawa.ca.
+(3)Brain and Cognition Discovery Foundation, Toronto, Ontario, Canada. 
+Electronic address: kayla.teopiz@mail.utoronto.ca.
+(4)Brain and Cognition Discovery Foundation, Toronto, Ontario, Canada; 
+Department of Pharmacology and Toxicology, University of Toronto, Toronto, 
+Ontario, Canada; Mood Disorder Psychopharmacology Unit, University Health 
+Network, Toronto, Ontario, Canada. Electronic address: 
+sabrinal.wong@mail.utoronto.ca.
+(5)Brain and Cognition Discovery Foundation, Toronto, Ontario, Canada; Institute 
+of Medical Science, University of Toronto, Toronto, Ontario, Canada; Mood 
+Disorder Psychopharmacology Unit, University Health Network, Toronto, Ontario, 
+Canada. Electronic address: hanny.le@mail.utoronto.ca.
+(6)Department of Psychological Medicine, Yong Loo Lin School of Medicine, 
+National University of Singapore, Singapore; Institute for Health Innovation and 
+Technology (iHealthtech), National University of Singapore, Singapore; Division 
+of Life Science (LIFS), Faculty of Science, Hong Kong University of Science and 
+Technology, Hong Kong. Electronic address: rogercmho@ust.hk.
+(7)Department of Psychiatry, Yale School of Medicine, New Haven, CT, USA; 
+Department of Public Health Sciences, University of Connecticut School of 
+Medicine, Farmington, CT, USA. Electronic address: taeho.rhee@yale.edu.
+(8)Key Laboratory of Cognition and Personality, Faculty of Psychology, Ministry 
+of Education, Southwest University, Chongqing 400715, PR China. Electronic 
+address: bingcao@swu.edu.cn.
+(9)Department of Psychiatry, University of Toronto, Toronto, Ontario, Canada; 
+Department of Pharmacology and Toxicology, University of Toronto, Toronto, 
+Ontario, Canada; Institute of Medical Science, University of Toronto, Toronto, 
+Ontario, Canada; Mood Disorder Psychopharmacology Unit, University Health 
+Network, Toronto, Ontario, Canada. Electronic address: joshua.rosenblat@uhn.ca.
+(10)Department of Psychiatry, University of Toronto, Toronto, Ontario, Canada; 
+Department of Pharmacology and Toxicology, University of Toronto, Toronto, 
+Ontario, Canada. Electronic address: rodrigo.mansur@uhn.ca.
+(11)Department of Psychiatry, University of Toronto, Toronto, Ontario, Canada. 
+Electronic address: roger.mcintyre@bcdf.org.
+
+BACKGROUND AND OBJECTIVE: To determine whether there is disproportionate 
+reporting of hepatobiliary disorders in the United States (US) FDA Adverse Event 
+Reporting System (FAERS) for individuals prescribed ketamine or esketamine.
+DESIGN: We identified Medical Dictionary for Regulatory Activities (MedDRA) 
+terms in the FAERS related to hepatobiliary disorders.
+MAIN MEASURES: Formulations of ketamine and esketamine were evaluated for the 
+proportionality of reporting for each hepatobiliary disorder parameter using the 
+reporting odds ratio (ROR). We also estimated the lower limits of 95 % 
+confidence intervals of information components (IC025) to determine whether the 
+association was significant. Acetaminophen was used as the positive reference 
+agent and lithium as the neutral reference agent.
+KEY RESULTS: We observed disproportionately lower reporting of hepatitis, liver 
+disorder, liver injury, drug-induced liver injury, hepatic failure, and acute 
+hepatic failure for ketamine compared to acetaminophen. Additionally, we 
+observed disproportionately higher reporting of hepatic function abnormalities 
+and hepatic cytolysis for ketamine compared to acetaminophen. For esketamine, we 
+did not find disproportionate reporting of any hepatobiliary toxicity relative 
+to acetaminophen. However, for ketamine, there was disproportionate lower 
+reporting of hepatic function abnormalities, liver disorder and hepatic 
+cirrhosis. In contrast, for esketamine, there was disproportionately higher 
+reporting of hepatic failure.
+CONCLUSIONS: Although causality has not been established, the data support 
+recommendations for periodic monitoring of liver function tests, as well as 
+clinical surveillance for stigmata of hepatobiliary disease in individuals 
+receiving chronic exposure to ketamine and esketamine.
+
+Copyright © 2025 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jad.2025.01.054
+PMID: 39818335 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest Dr. Roger S. 
+McIntyre has received research grant support from CIHR/GACD/National Natural 
+Science Foundation of China (NSFC) and the Milken Institute; 
+speaker/consultation fees from Lundbeck, Janssen, Alkermes, Neumora 
+Therapeutics, Boehringer Ingelheim, Sage, Biogen, Mitsubishi Tanabe, Purdue, 
+Pfizer, Otsuka, Takeda, Neurocrine, Sunovion, Bausch Health, Axsome, Novo 
+Nordisk, Kris, Sanofi, Eisai, Intra-Cellular, NewBridge Pharmaceuticals, 
+Viatris, Abbvie, Atai Life Sciences. Dr. Rodrigo B. Mansur has received research 
+grant support from the Canadian Institutes of Health Research (CIHR), the 
+Physicians' Services Incorporated (PSI) Foundation and the Baszucki Brain 
+Research Fund; and support from an Academic Scholars Award from the Department 
+of Psychiatry, University of Toronto. Dr. Joshua D. Rosenblat has received 
+research grant support from the Canadian Institute of Health Research (CIHR), 
+Physician Services Inc. (PSI) Foundation, Labatt Brain Health Network, Brain and 
+Cognition Discovery Foundation (BCDF), Canadian Cancer Society, Canadian 
+Psychiatric Association, Academic Scholars Award, American Psychiatric 
+Association, American Society of Psychopharmacology, University of Toronto, 
+University Health Network Centre for Mental Health, Joseph M. West Family 
+Memorial Fund and Timeposters Fellowship and industry funding for 
+speaker/consultation/research fees from iGan, Boehringer Ingelheim, Janssen, 
+Allergan, Lundbeck, Sunovion and COMPASS. Kayla M. Teopiz has received fees from 
+Braxia Scientific Corp. Dr. Taeho Greg Rhee was supported in part by the 
+National Institute on Aging (NIA) (#R21AG070666; R21AG078972), National 
+Institute of Mental Health (#R21MH117438), National Institute on Drug Abuse 
+(#R21DA057540) and Institute for Collaboration on Health, Intervention, and 
+Policy (InCHIP) of the University of Connecticut. Dr. Rhee serves as a review 
+committee member for Patient-Centered Outcomes Research Institute (PCORI) and 
+Substance Abuse and Mental Health Services Administration (SAMHSA) and has 
+received honoraria payments from PCORI and SAMHSA. Dr. Rhee has also served as a 
+stakeholder/consultant for PCORI and received consulting fees from PCORI. Dr. 
+Rhee serves as an advisory committee member for International Alliance of Mental 
+Health Research Funders (IAMHRF). Dr. Rhee is currently a co-Editor-in-Chief of 
+Mental Health Science and has received honorarium payments annually from the 
+publisher, John Wiley & Sons, Inc. Dr. Roger Ho has received funding from the 
+National University of Singapore iHeathtech Other Operating Expenses 
+(A-0001415-09-00).
+
+
+5. Cancer Epidemiol Biomarkers Prev. 2011 Jul;20(7):1322-8. doi: 
+10.1158/1055-9965.EPI-11-0210. Epub 2011 May 17.
+
+A large cohort study of long-term acetaminophen use and prostate cancer 
+incidence.
+
+Jacobs EJ(1), Newton CC, Stevens VL, Gapstur SM.
+
+Author information:
+(1)Epidemiology Research Program, American Cancer Society, National Home Office, 
+Northwest Atlanta, GA 30303, USA. Eric.Jacobs@cancer.org
+
+BACKGROUND: Use of aspirin and other nonsteroidal anti-inflammatory drugs 
+(NSAID), particularly long-term use, has been associated with modestly reduced 
+risk of prostate cancer in previous epidemiologic studies. Acetaminophen, a 
+commonly used pain reliever, is not traditionally considered an NSAID but can 
+have anti-inflammatory effects. Few studies have examined the association 
+between long-term acetaminophen use and prostate cancer incidence.
+METHODS: We examined the association between acetaminophen use and prostate 
+cancer incidence among 78,485 men in the Cancer Prevention Study II Nutrition 
+Cohort. Information on acetaminophen use was obtained from a questionnaire 
+completed at study enrollment in 1992 and updated by using follow-up 
+questionnaires in 1997 and every two years thereafter. Relative risks (RR) were 
+estimated by using proportional hazards regression models. All models were 
+adjusted for age, race, education, body mass index, diabetes, NSAID use, and 
+history of prostate-specific antigen testing.
+RESULTS: During follow-up from 1992 through 2007, 8,092 incident prostate cancer 
+cases were identified. Current regular use of acetaminophen (30 or more pills 
+per month) for 5 or more years was associated with lower risk of overall 
+prostate cancer (RR = 0.62, 95% CI: 0.44-0.87) and aggressive prostate cancer 
+(RR = 0.49, 95% CI: 0.27-0.88). Current regular use of less than 5 years 
+duration was not associated with prostate cancer risk.
+CONCLUSION: These results suggest that long-term regular acetaminophen use may 
+be associated with lower prostate cancer risk.
+IMPACT: If the association between acetaminophen use and lower risk of prostate 
+cancer is confirmed, it could provide clues about biological mechanisms that are 
+important in prostate carcinogenesis.
+
+©2011 AACR
+
+DOI: 10.1158/1055-9965.EPI-11-0210
+PMID: 21586623 [Indexed for MEDLINE]
+
+
+6. Mov Disord. 2025 Oct;40(10):2209-2219. doi: 10.1002/mds.30308. Epub 2025 Aug
+13.
+
+Plasma Metabolomics Profiles in Prodromal and Clinical Parkinson's Disease.
+
+Flores-Torres MH(1), Peng X(1), Jeanfavre S(2), Clish C(2), Wang Y(3), 
+McCullough ML(3), Healy B(4), Schwarzschild MA(5), Bjornevik K(1)(2), Ascherio 
+A(1)(6)(7).
+
+Author information:
+(1)Department of Nutrition, Harvard T.H. Chan School of Public Health, Boston, 
+Massachusetts, USA.
+(2)Metabolomics Platform, Broad Institute of Massachusetts Institute of 
+Technology and Harvard University, Cambridge, Massachusetts, USA.
+(3)Department of Population Science, American Cancer Society, Atlanta, Georgia, 
+USA.
+(4)Brigham Multiple Sclerosis Center, Brigham and Women's Hospital, Boston, 
+Massachusetts, USA.
+(5)Department of Neurology, Massachusetts General Hospital, Boston, 
+Massachusetts, USA.
+(6)Department of Epidemiology, Harvard T.H. Chan School of Public Health, 
+Boston, Massachusetts, USA.
+(7)Channing Division of Network Medicine, Brigham and Women's Hospital and 
+Harvard Medical School, Boston, Massachusetts, USA.
+
+BACKGROUND: The long prodromal phase of Parkinson's disease (PD) and the link 
+the disease has with metabolic factors suggest that metabolomics could help 
+identify affected individuals at early stages.
+OBJECTIVE: The goal was to examine whether plasma metabolomic profiles could 
+identify individuals in the prodromal and clinical phase of PD.
+METHODS: We quantified and compared the plasma metabolomic profiles of 922 
+individuals with PD who provided blood samples at a median of 11 years before 
+(n = 809) or 2 years after (n = 113) disease diagnosis to that of matched 
+controls, all selected from three established cohort studies (Nurses' Health 
+Study, Health Professionals Follow-up Study, and Cancer Prevention Study II). We 
+used conditional logistic regression models and machine learning techniques to 
+identify metabolites predicting prodromal and clinically manifest PD.
+RESULTS: Several metabolites, especially amino acids, acyl-carnitines, and other 
+lipids were nominally associated with PD since the years leading to disease 
+diagnosis. Metabolites proposed as biomarkers of foods or care products tended 
+to be associated with a higher PD risk closer to disease diagnosis. Metabolites 
+reflecting higher intake of coffee, smoking, and acetaminophen tended to be 
+associated with a lower PD risk over the course of the disease. Metabolomic 
+profiles in prodromal samples were unable to accurately predict future clinical 
+PD.
+CONCLUSIONS: Metabolic pathways related to the metabolism of amino acids and 
+lipids may be involved in PD progression. Metabolomic differences may also 
+result from behavioral changes and medical management, emphasizing the need to 
+consider prodromal and clinical data in future studies. © 2025 International 
+Parkinson and Movement Disorder Society.
+
+© 2025 International Parkinson and Movement Disorder Society.
+
+DOI: 10.1002/mds.30308
+PMCID: PMC12380052
+PMID: 40799161 [Indexed for MEDLINE]
+
+Conflict of interest statement: Financial disclosure/Conflict of interest: M. 
+Flores-Torres, X. Peng, S. Jeanfavre, C. Clish, Y. Wang, M. McCullough, B. 
+Healy, M. Schwarzschild, K. Bjornevik, and A. Alberto report no relevant 
+disclosures related to this manuscript.
+
+
+7. Florida Controlled Substance Prescribing.
+
+Dydyk AM(1), Sizemore DC(2), Fariba KA(3), Sanghavi DK(4), Porter BR(5).
+
+In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2026 
+Jan–.
+2022 Oct 26.
+
+Author information:
+(1)Abrazo Central Campus
+(2)WVU Medicine
+(3)University Hospital
+(4)Mayo Clinic
+(5)Geisinger Commonwealth School of Medicine and Robert Packer Hospital,
+
+Chronic pain and opioid use and abuse is a significant problem in the United 
+States and in Florida. Over one-quarter of United States citizens suffer from 
+chronic pain. It is among the most common complaints seen in an outpatient 
+clinic and the emergency department. The failure to manage chronic pain, as well 
+as the possible complication of opioid dependence related to treatment, can 
+result in significant morbidity and mortality. One in five patient complaints in 
+an outpatient clinic is related to pain, with over half of all patients seeing 
+their primary care provider for one pain complaint or another. It is paramount 
+that providers have a firm grasp on the management of patients with chronic 
+pain. As a country, the United States spends well over 100 billion dollars a 
+year on healthcare costs related to pain management and opioid 
+dependence. Pain-related expenses exceed those for the costs of cancer, 
+diabetes, and heart disease combined. How a patient's chronic pain gets managed 
+can have profound and long-lasting effects on a patient's quality of life. 
+The International Association for the Study of Pain defines chronic pain as any 
+pain lasting longer than three months. There are multiple sources of chronic 
+pain. Combination therapy for pain includes both pharmacological therapies and 
+nonpharmacological treatment options. There is a more significant reduction in 
+pain with combination therapy compared to a single treatment alone. Escalation 
+of pharmacological therapy is in a stepwise approach. Comorbid depression and 
+anxiety are widespread in patients with chronic pain. Patients with chronic pain 
+are also at increased risk for suicide. Chronic pain can impact every facet of a 
+patient's life. Thus learning to diagnose and appropriately manage patients 
+experiencing chronic pain is critical. Unfortunately, studies have revealed an 
+inherent lack of education regarding pain management in most professional 
+schools and training programs. Many schools have committed to opioid-related 
+education and training by incorporating the Centers for Disease Control and 
+Prevention guidelines for prescribing opioids for chronic pain into the medical 
+school curriculum. Appropriate opioid prescribing includes prescribing 
+sufficient opioid medication through regular assessment, treatment planning, and 
+monitoring to provide effective pain control while avoiding addiction, abuse, 
+overdose, diversion, and misuse. To be successful, clinicians must understand 
+appropriate opioid prescribing, assessment, the potential for abuse and 
+addiction, and potential psychological problems. Inappropriate opioid 
+prescribing typically involves not prescribing, under prescribing, 
+overprescribing, or continuing to prescribe opioids when they are no longer 
+effective. The American Society of Addiction Medicine describes addiction as a 
+treatable chronic disease that involves environmental pressures, genetics, an 
+individual's life experiences, and interactions among brain 
+circuits. Individuals that become addicted to opioids or other medications often 
+engage in behaviors that become compulsive and result in dangerous consequences. 
+The American Society of Addiction Medicines notes that while the following 
+should not be used as diagnostic criteria due to variability among addicted 
+individuals, they identify five characteristics of addiction: 1. Craving for 
+drug or positive reward. 2. Dysfunctional emotional response. 3. Failure to 
+recognize significant problems affecting behavior and relationships. 4. 
+Inability to consistently abstain. 5. Impairment in control of behavior. 
+Unfortunately, for most health providers, understanding of addiction is often 
+confusing, inaccurate, and inconsistent due to the broad range of perspectives 
+of those dealing with patients suffering from addiction. While a knowledge gap 
+is present among healthcare providers, it is equally prevalent in politicians 
+writing laws and law enforcement attempting to enforce the laws they write. 
+Payers are responsible for the expenses associated with the evaluation and 
+treatment of addiction. Persistent lack of education and the use of obsolete 
+terminology continue to contribute to a societal lack of understanding for 
+effectively dealing with the challenges of addiction. In the past, the American 
+Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders 
+defined "addiction," "substance abuse," and "substance dependence" separately. 
+The result was provider confusion contributed to the under-treatment of pain. 
+Over time, the manual has eliminated these terms and now uses "substance use 
+disorder," ranging from mild to severe. Unfortunately, there are numerous 
+challenges in pain management, such as both underprescribing and overprescribing 
+opioids. The concerns are particularly prominent in patients with chronic pain 
+and have resulted in patients suffering from inadequately treated pain while at 
+the same time there has been a development of concomitant opioid abuse, 
+addiction, diversion, and overdose. As a result, providers are often negatively 
+influenced and fail to deliver appropriate, effective, and safe opioids to 
+patients with chronic pain. Providers have, in the past, been poorly trained and 
+ill-informed in their opioid prescribing. To make the challenges even worse, 
+chronic pain patients often develop opioid tolerance, significant psychological, 
+behavioral, and emotional problems, including anxiety and depression related to 
+under or overprescribing opioids.  Clinicians who prescribe opioids face 
+challenges that involve medical negligence in either failure to provide adequate 
+pain control or risk of licensure or even criminal charges if it is perceived 
+they are involved in drug diversion or misuse. All providers that prescribe 
+opioids need additional education and training to provide the best patient 
+outcomes and avoid the social and legal entanglements associated with over and 
+under prescribing opioids. Prescribers of Controlled Substances In Florida: 
+Physicians (DOs/MDs). Physician Assistants. Podiatrists. Dentists. Optometrists. 
+Advanced Practice Registered Nurses. Veterinarians. Provider Opioid Knowledge 
+Deficit  There are substantial knowledge gaps around appropriate and 
+inappropriate opioid prescribing, including deficits in understanding current 
+research, legislation, and appropriate prescribing practices. Providers often 
+have knowledge deficits that include: Understanding of addiction. At-risk opioid 
+addiction populations. Prescription vs. non-prescription opioid addiction. The 
+belief that addiction and dependence on opioids is synonymous. The belief that 
+opioid addiction is a psychologic problem instead related to a chronic painful 
+disease. With a long history of misunderstanding, poor society, provider 
+education, and inconsistent laws, the prescription of opioids has resulted in 
+significant societal challenges that will only resolve with significant 
+education and training. Misuse of Controlled Substances Unfortunately, the 
+misuse of controlled substances resulting in morbidity and mortality is 
+rampant. According to the National Survey on Drug Use and Health,2016, performed 
+by the U.S. Department of Health and Human Services, over 10 million people 
+misuse prescription pain medications, and over 2 million misuse sedatives, 
+stimulants, and tranquilizers each year. The same study found that the most 
+common reason for misuse is for the treatment of physical pain. The Center for 
+Disease Control estimates more than 40,000 people die each year die from an 
+opioid overdose.  Controlled Substances There are three common classes of 
+controlled substances commonly misused: opioids, depressants, and stimulants.  
+Opioids Opioids are prescribed for pain control by binding to mu-opioid 
+receptors in the central nervous system reducing pain signals to the brain as 
+well as receptors in the GI tract and respiratory system, and are used to treat 
+pain, diarrhea, and cough. Common Opioids Codeine - One of the most commonly 
+taken opioid medications. It is at the center of the opioid addiction problem in 
+the United States and thus is highly regulated. Its main indication is for pain 
+and cough. FDA-Approved Indication Pain Codeine plays a role in the treatment of 
+mild to moderate pain. Its use is recognized in chronic pain due to ongoing 
+cancer and palliative care. However, the use of codeine to treat other types of 
+chronic pain remains controversial. Chronic pain, defined by the International 
+Association for the Study of Pain, is pain persisting beyond the standard tissue 
+healing time, which is three months.[1] The most prevalent causes of non-cancer 
+chronic pain include back pain, fibromyalgia, osteoarthritis, and headache. 
+Non-FDA Approved Indications Cough Codeine is useful in the treatment of various 
+etiologies producing chronic cough. Also, 46% of patients with chronic cough do 
+not have a distinct etiology despite a proper diagnostic evaluation. Codeine 
+produces a decrease in cough frequency and severity in these patients. However, 
+there is limited literature demonstrating the efficacy of codeine in chronic 
+cough. The dose can vary from 15 mg to 120 mg a day. It is, however, indicated 
+in the management of prolonged cough (in specific populations like lung cancer) 
+usually as 30 mg every 4 to 6 hours as needed. Restless Leg Syndrome Codeine is 
+effective in treating restless leg syndrome when given at night time, especially 
+for those whose symptoms are not relieved by other medications. Persistent 
+Diarrhea (Palliative) Codeine and loperamide are equally effective, and the 
+choice between them has its basis in the assessment of the physician evaluating 
+the small but undoubted addictive potential of codeine versus the higher cost of 
+loperamide, and an individual difference in patient's vulnerability to adverse 
+effects. Fentanyl - Transdermal patch and IV, commonly abused and used in 
+mixture with other drugs. Fentanyl is a synthetic opioid that is 80-100 times 
+stronger than morphine and is often added to heroin to increase its potency. It 
+can cause severe respiratory depression and death, particularly mixed when mixed 
+with other drugs or alcohol. It has a high addiction potential. Hydrocodone 
+- Hydrocodone is a schedule II semi-synthetic opioid medication used to treat 
+pain. Immediate-release (IR) hydrocodone is available as a combination product 
+(combined with acetaminophen, ibuprofen, etc.) and is FDA approved for the 
+management of pain severe enough to require an opioid analgesic and for which 
+alternative (non-opioid) treatments are inadequate. Single-entity hydrocodone is 
+only available in extended-release (ER) formulations. It is FDA approved to 
+treat persistent pain severe enough to require 24-hour, long-term opioid 
+treatment, and for which alternative treatments are inadequate. Hydrocodone is 
+also an antitussive and indicated for cough in adults. Morphine Sulfate 
+- FDA-approved usage of morphine sulfate includes moderate to severe pain that 
+may be acute or chronic. Most commonly used in pain management, morphine 
+provides significant relief to patients afflicted with pain. Clinical situations 
+that benefit significantly by medicating with morphine include managing 
+palliative/end-of-life care, active cancer treatment, and vaso-occlusive pain 
+during sickle cell crisis. Morphine is widely used off-label for almost any 
+condition that causes pain. In the emergency department, morphine is given for 
+musculoskeletal pain, abdominal pain, chest pain, arthritis, and even headaches 
+when patients fail to respond to first and second-line agents. Morphine is 
+rarely used for procedural sedation. However, clinicians will sometimes combine 
+a low dose of morphine with a low dose of benzodiazepine-like lorazepam for 
+small procedures. Oxycodone - An opioid agonist prescription medication. The 
+oxycodone immediate-release formulation is FDA-approved for the management of 
+acute or chronic moderate to severe pain for which other treatments do not 
+suffice, and for which the use of opioid medication is appropriate. The 
+extended-release formulation is FDA-approved for the management of pain severe 
+enough to require continuous (24 hours per day), long-term opioid treatment, and 
+for which there are no alternative options to treat the pain. The oxycodone to 
+morphine dose equivalent ratio is approximately 1 to 1.5 for immediate-release 
+and 1 to 2 for extended-release formulations. Tramadol - Tramadol is an FDA 
+approved medication for pain relief. It has specific indications for moderate to 
+severe pain. It is considered a class IV drug by the FDA. Due to possible abuse 
+and addiction potential, limitations to its use should be for pain that is 
+refractive to other pain medication, such as non-opioid pain medication. There 
+are two forms of tramadol: extended-release and immediate release. The 
+immediate-release is not for use as an "as needed" medication; instead, it is 
+for pain of less than a week duration. For pain lasting more than a week, 
+extended-release is the therapeutic choice — the indication for extended-release 
+is for pain control under 24-hour management or an extended period. Off-label, 
+the drug is useful for premature ejaculation and restless leg syndrome 
+refractory to other medications. For the off-label use of tramadol for premature 
+ejaculation, both sporadic and daily use is effective for the treatment of the 
+condition. Patients indicate a preference for "as needed" therapy for premature 
+ejaculation due to the lack of side effects compared to the daily use of 
+tramadol. Addiction, Dependence, and Tolerance While each of these terms is 
+similar, providers should be aware of the differences. Addiction - the constant 
+need for a drug despite harmful consequences. Pseudoaddiction - constant fear of 
+being in pain, hypervigilance; usually, there is a resolution with pain 
+resolution. Dependence - physical adaptation to a medication where it is 
+necessary for normal function and withdrawal occurs with lack of the medication. 
+Tolerance - lack of expected response to a medication increasing dose to achieve 
+the same pain relief resulting from CNS adaptation to the medication over time.
+
+Copyright © 2026, StatPearls Publishing LLC.
+
+PMID: 33428370
+
+Conflict of interest statement: Disclosure: Alexander Dydyk declares no relevant 
+financial relationships with ineligible companies. Disclosure: Daniel Sizemore 
+declares no relevant financial relationships with ineligible companies. 
+Disclosure: Kamron Fariba declares no relevant financial relationships with 
+ineligible companies. Disclosure: Devang Sanghavi declares no relevant financial 
+relationships with ineligible companies. Disclosure: Burdett Porter declares no 
+relevant financial relationships with ineligible companies.
+
+
+8. Plast Reconstr Surg Glob Open. 2023 Nov 15;11(11):e5402. doi: 
+10.1097/GOX.0000000000005402. eCollection 2023 Nov.
+
+Survey of Surgeon-reported Postoperative Protocols for Deep Inferior Epigastric 
+Perforator Flap in Breast Reconstruction.
+
+Araya S(1), Hackley M(2), Amadio GM(2), Deng M(3), Moss C(2), Reinhardt E(4), 
+Walchak A(1), Tecce MG(1), Patel SA(1).
+
+Author information:
+(1)From the Division of Plastic and Reconstructive Surgery, Fox Chase Cancer 
+Center, Philadelphia, Pa.
+(2)Lewis Katz School of Medicine, Temple University, Philadelphia, Pa.
+(3)Biostatistics and Bioinformatics Facility, Fox Chase Cancer Center, 
+Philadelphia, Pa.
+(4)Albany Medical College, Albany, N.Y.
+
+BACKGROUND: The use of deep inferior epigastric perforator (DIEP) flaps is a 
+well-established breast reconstruction technique.
+METHODS: A 29-question survey was e-mailed to 3186 active American Society of 
+Plastic Surgeons members, aiming to describe postoperative monitoring practice 
+patterns among surgeons performing DIEP flaps.
+RESULTS: From 255 responses (8%), 79% performing DIEP surgery were analyzed. 
+Among them, 34.8% practiced for more than 20 years, 34.3% for 10-20 years, and 
+30.9% for less than 10 years. Initial 24-hour post-DIEP monitoring: intensive 
+care unit (39%) and floor (36%). Flap monitoring: external Doppler (71%), tissue 
+oximetry (41%), and implantable Doppler (32%). Postoperative analgesia: 
+acetaminophen (74%), non-steroidal anti-inflammatory drugs (69%), 
+neuromodulators (52%), and opioids (4.4%) were administered on a scheduled 
+basis. On postoperative day 1, 61% halt intravenous fluids, 67% allow 
+ambulation, 70% remove Foley catheter, and 71% start diet. Most surgeons 
+discharged patients from the hospital on postoperative day 3+. Regardless of 
+experience, patients were commonly discharged on day 3. Half of the surgeons are 
+in academic/nonacademic settings and discharge on/after day 3.
+CONCLUSIONS: This study reveals significant heterogeneity among the practice 
+patterns of DIEP surgeons. In light of these findings, it is recommended that a 
+task force be convened to establish standardized monitoring protocols for DIEP 
+flaps. Such protocols have the potential to reduce both the length of hospital 
+stays and overall care costs all while ensuring optimal pain management and 
+vigilant flap monitoring.
+
+Copyright © 2023 The Authors. Published by Wolters Kluwer Health, Inc. on behalf 
+of The American Society of Plastic Surgeons.
+
+DOI: 10.1097/GOX.0000000000005402
+PMCID: PMC10653572
+PMID: 38025610
+
+Conflict of interest statement: The authors have no financial interest to 
+declare in relation to the content of this article. This study was funded by 
+NIH/NCI grant P30CA006927 (Fox Chase Cancer Center Support Grant). A Smiles 
+Factory grant funded the survey deployment.
+
+
+9. J Natl Cancer Inst. 2019 Feb 1;111(2):137-145. doi: 10.1093/jnci/djy100.
+
+Analgesic Use and Ovarian Cancer Risk: An Analysis in the Ovarian Cancer Cohort 
+Consortium.
+
+Trabert B(1), Poole EM(2), White E(3)(4), Visvanathan K(5), Adami HO(6)(7), 
+Anderson GL(3), Brasky TM(8), Brinton LA(1), Fortner RT(9), Gaudet M(10), Hartge 
+P(1), Hoffman-Bolton J(5), Jones M(11), Lacey JV(12), Larsson SC(13), Mackenzie 
+GG(14), Schouten LJ(15), Sandler DP(16), O'Brien K(16), Patel AV(10), Peters 
+U(3), Prizment A(17), Robien K(18), Setiawan VW(19), Swerdlow A(11), van den 
+Brandt PA, Weiderpass E(6)(20)(21), Wilkens LR(22), Wolk A(13), Wentzensen N(1), 
+Tworoger SS(23)(24); Ovarian Cancer Cohort Consortium (OC3).
+
+Author information:
+(1)Division of Cancer Epidemiology and Genetics, National Cancer Institute, 
+Bethesda, MD.
+(2)Brigham and Women's Hospital and Harvard Medical School, Boston, MA.
+(3)Cancer Prevention Program, Fred Hutchinson Cancer Research Center, Seattle, 
+WA.
+(4)Genetic Epidemiology Group, Folkhälsan Research Center, Helsinki, Finland.
+(5)Johns Hopkins Bloomberg School of Public Health, Baltimore, MD.
+(6)Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, 
+Stockholm, Sweden.
+(7)Clinical Effectiveness Research Group, Institute of Health and Society, 
+University of Oslo, Oslo, Norway.
+(8)Division of Cancer Prevention and Control, College of Medicine, The Ohio 
+State University, Columbus, OH.
+(9)Division of Cancer Epidemiology, German Cancer Research Center, Heidelberg, 
+Germany.
+(10)Epidemiology Research Program, American Cancer Society, Atlanta, GA.
+(11)Division of Genetics and Epidemiology and Division of Breast Cancer 
+Research, The Institute of Cancer Research, London, UK.
+(12)City of Hope, Duarte, CA.
+(13)Institute of Environmental Medicine, Karolinska Institutet, Stockholm, 
+Sweden.
+(14)Department of Nutrition, University of California Davis, Davis, CA.
+(15)Department of Epidemiology, GROW-School for Oncology and Developmental 
+Biology, Maastricht University, Maastricht, Netherlands.
+(16)National Institute of Environmental Health Sciences, National Institutes of 
+Health, Research Triangle Park, NC.
+(17)Division of Epidemiology and Community Health, School of Public Health, and 
+Masonic Cancer Center, University of Minnesota, Minneapolis, MN.
+(18)Department of Exercise and Nutrition Sciences, Milken Institute School of 
+Public Health, George Washington University, Washington, DC.
+(19)University of Southern California, Los Angeles, CA.
+(20)Department of Community Medicine, Faculty of Health Sciences, University of 
+Tromsø, The Arctic University of Norway, Tromsø, Norway.
+(21)Department of Research, Cancer Registry of Norway, Institute of Population 
+Based Cancer Research, Oslo, Norway.
+(22)University of Hawaii Cancer Center, Honolulu, HI.
+(23)Department of Epidemiology, Harvard T. H. Chan School of Public Health, 
+Boston, MA.
+(24)Department of Cancer Epidemiology, H. Lee Moffitt Cancer Center and Research 
+Institute, Tampa, FL.
+
+BACKGROUND: Aspirin use is associated with reduced risk of several cancers. A 
+pooled analysis of 12 case-control studies showed a 10% decrease in ovarian 
+cancer risk with regular aspirin use, which was stronger for daily and low-dose 
+users. To prospectively investigate associations of analgesic use with ovarian 
+cancer, we analyzed data from 13 studies in the Ovarian Cancer Cohort Consortium 
+(OC3).
+METHODS: The current study included 758 829 women who at study enrollment 
+self-reported analgesic use, among whom 3514 developed ovarian cancer. Using Cox 
+regression, we assessed associations between frequent medication use and risk of 
+ovarian cancer. Dose and duration were also evaluated. All statistical tests 
+were two-sided.
+RESULTS: Women who used aspirin almost daily (≥6 days/wk) vs infrequent/nonuse 
+experienced a 10% reduction in ovarian cancer risk (rate ratio [RR] = 0.90, 95% 
+confidence interval [CI] = 0.82 to 1.00, P = .05). Frequent use (≥4 days/wk) of 
+aspirin (RR = 0.95, 95% CI = 0.88 to 1.03), nonaspirin nonsteroidal 
+anti-inflammatory drugs (NSAIDs; RR = 1.00, 95% CI = 0.90 to 1.11), or 
+acetaminophen (RR = 1.05, 95% CI = 0.88 to 1.24) was not associated with risk. 
+Daily acetaminophen use (RR = 1.28, 95% CI = 1.00 to 1.65, P = .05) was 
+associated with elevated ovarian cancer risk. Risk estimates for frequent, 
+long-term (10+ years) use of aspirin (RR = 1.15, 95% CI = 0.98 to 1.34) or 
+nonaspirin NSAIDs (RR = 1.19, 95% CI = 0.84 to 1.68) were modestly elevated, 
+although not statistically significantly so.
+CONCLUSIONS: This large, prospective analysis suggests that women who use 
+aspirin daily have a slightly lower risk of developing ovarian cancer (∼10% 
+lower than infrequent/nonuse)-similar to the risk reduction observed in 
+case-control analyses. The observed potential elevated risks for 10+ years of 
+frequent aspirin and NSAID use require further study but could be due to 
+confounding by medical indications for use or variation in drug dosing.
+
+Published by Oxford University Press 2018.
+
+DOI: 10.1093/jnci/djy100
+PMCID: PMC6376910
+PMID: 29860330 [Indexed for MEDLINE]
+
+
+10. Metabolites. 2018 Sep 21;8(4):55. doi: 10.3390/metabo8040055.
+
+Metabolomics Approach for Validation of Self-Reported Ibuprofen and 
+Acetaminophen Use.
+
+Dennis KK(1), Carter BD(2), Gapstur SM(3), Stevens VL(4).
+
+Author information:
+(1)Nutrition and Health Sciences, Laney Graduate School, Emory University 615 
+Michael Street, Atlanta, GA 30322, USA. kkdenni@emory.edu.
+(2)Behavioral and Epidemiology Research Group, American Cancer Society, 250 
+Williams Street, NW, Atlanta, GA 30303, USA. brian.carter@cancer.org.
+(3)Behavioral and Epidemiology Research Group, American Cancer Society, 250 
+Williams Street, NW, Atlanta, GA 30303, USA. susan.gapstur@cancer.org.
+(4)Behavioral and Epidemiology Research Group, American Cancer Society, 250 
+Williams Street, NW, Atlanta, GA 30303, USA. victoria.Stevens@cancer.org.
+
+Over-the-counter analgesic use is common and is typically assessed through 
+self-report; therefore, it is subject to misclassification. Detection of drug 
+metabolites in biofluids offers a viable tool for validating self-reported 
+analgesic use. Thus, the aim of this study was to determine the utility of a 
+metabolomics approach for the validation of acetaminophen and ibuprofen use in 
+blood samples. Untargeted mass spectrometry-based metabolomics analysis was 
+conducted in serum samples from 1547 women and plasma samples from 556 men. The 
+presence of two metabolites each for acetaminophen and ibuprofen at levels at or 
+above a defined cutoff value was used to determine concordance with 
+self-reported use. For acetaminophen use based on the presence of both 
+acetaminophen and acetamidophenylglucuronide, concordance was 98.5⁻100% among 
+individuals reporting use today, and 79.8⁻91.4% for those reporting never or 
+rare use. Ibuprofen use based on the presence of both carboxyibuprofen and 
+hydroxyibuprofen resulted in concordance of 51.3⁻52.5% for individuals reporting 
+use today and 99.4⁻100% for those reporting never or rare use. Our findings 
+suggest that an untargeted metabolomics approach in blood samples may be useful 
+for validating self-reported acetaminophen use. However, this approach appears 
+unlikely to be suitable for validating ibuprofen use.
+
+DOI: 10.3390/metabo8040055
+PMCID: PMC6316588
+PMID: 30248901
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+11. Neurology. 2023 Dec 12;101(24):e2560-e2570. doi:
+10.1212/WNL.0000000000207964.  Epub 2023 Nov 22.
+
+Simultaneous Comparisons of 25 Acute Migraine Medications Based on 10 Million 
+Users' Self-Reported Records From a Smartphone Application.
+
+Chiang CC(1), Fang X(1), Horvath Z(1), Cadiou F(1), Urani A(1), Poh W(1), 
+Narimatsu H(1), Cheng Y(1), Dodick DW(1).
+
+Author information:
+(1)From the Department of Neurology (C.-C.C.), Mayo Clinic, Rochester, MN; 
+Graduate School of Health Innovation (X.F., H.N.), Kanagawa University of Human 
+Services, Kawasaki; IBM Client Engineering (X.F.), Banking Financial Market 
+Unit, Chuo-Ku, Tokyo, Japan; Healint Pte. Ltd. (Z.H., F.C., A.U., W.P.), 
+Singapore; Cancer Prevention and Cancer Control Division (H.N.), Kanagawa Cancer 
+Center Research Institute; Department of Genetic Medicine (H.N.), Kanagawa 
+Cancer Center, Yokohama, Japan; Department of Statistics (Y.C.), University of 
+Pittsburgh, PA; and Department of Neurology (D.W.D.), Mayo Clinic, Scottsdale, 
+AZ.
+
+Erratum in
+    Neurology. 2024 Jul 9;103(1):e209596. doi: 10.1212/WNL.0000000000209596.
+
+Comment in
+    MMW Fortschr Med. 2024 Jun;166(10):26. doi: 10.1007/s15006-024-3986-0.
+
+BACKGROUND AND OBJECTIVES: Many acute treatment options exist for migraine. 
+However, large-scale, head-to-head comparisons of treatment effectiveness from 
+real-world patient experience reports are lacking.
+METHODS: This is a retrospective analysis of 10,842,795 migraine attack records 
+extracted from an e-diary smartphone application between June 30, 2014, and July 
+2, 2020. We analyzed 25 acute medications among 7 classes-acetaminophen, 
+nonsteroid anti-inflammatory drugs (NSAIDs), triptans, combination analgesics, 
+ergots, antiemetics, and opioids. Gepants and ditan were not included in this 
+analysis. Different doses and formulations of each medication, according to the 
+generic names, were combined in this analysis. We used a 2-level nested logistic 
+regression model to analyze the odds ratio (OR) of treatment effectiveness of 
+each medication by adjusting concurrent medications and the covariance within 
+the same user. Subgroup analyses were conducted for users in the United States, 
+the United Kingdom, and Canada.
+RESULTS: Our final analysis included 4,777,524 medication-outcome pairs from 
+3,119,517 migraine attacks among 278,006 users. Triptans (mean OR 4.8), ergots 
+(mean OR 3.02), and antiemetics (mean OR 2.67) were the top 3 classes of 
+medications with the highest effectiveness, followed by opioids (mean OR 2.49), 
+NSAIDs (other than ibuprofen, mean OR 1.94), combination analgesics 
+(acetaminophen/acetylsalicylic acid/caffeine) (OR 1.69, 95% CI 1.67-1.71), 
+others (OR 1.49, 95% CI 1.47-1.50), and acetaminophen (OR 0.83, 95% CI 
+0.83-0.84), using ibuprofen as the reference. Individual medications with the 
+highest ORs were eletriptan (OR 6.1, 95% CI 6.0-6.3), zolmitriptan (OR 5.7, 95% 
+CI 5.6-5.8), and sumatriptan (OR 5.2, 95% CI 5.2-5.3). The ORs of acetaminophen, 
+NSAIDS, combination analgesics, and opioids were mostly around or less than 1, 
+suggesting similar or lower reported effectiveness compared with ibuprofen. The 
+ORs for 24 medications, except that of acetylsalicylic acid, achieved 
+statistical significance with p < 0.0001, and our nested logistic regression 
+model achieved an area under the curve (AUC) of 0.849. Country-specific subgroup 
+analyses revealed similar ORs of each medication and AUC (United States 0.849, 
+United Kingdom 0.864, and Canada 0.842), demonstrating the robustness of our 
+analysis.
+DISCUSSION: Using a big data approach, we analyzed patient-generated real-time 
+records of 10 million migraine attacks and conducted simultaneous head-to-head 
+comparisons of 25 acute migraine medications. Our findings that triptans, 
+ergots, and antiemetics are the most effective classes of medications align with 
+the guideline recommendations and offer generalizable insights to complement 
+clinical practice.
+CLASSIFICATION OF EVIDENCE: This study provides Class IV evidence that for 
+patients with migraine, selected acute medications (e.g., triptans, ergots, 
+antiemetics) are associated with higher odds of user-rated positive response 
+than ibuprofen.
+
+DOI: 10.1212/WNL.0000000000207964
+PMCID: PMC10791049
+PMID: 38030397 [Indexed for MEDLINE]
+
+Conflict of interest statement: The following authors have no financial 
+disclosure: X. Fang, H. Narimatsu, and Y. Cheng. C.-C. Chiang reports the 
+following disclosures—consulting: Satsuma, eNeura. Z. Horvath, F. Cadiou, A. 
+Urani, W. Poh were employees of Healint Pte. Ltd. D.W. Dodick reports the 
+following disclosures—consulting: Amgen, Atria, Cerecin, Cooltech, Ctrl M, 
+Allergan, Abbvie, Biohaven, GSK, Lundbeck, Eli Lilly, Novartis, Impel, Satsuma, 
+Theranica, WL Gore, Genentech, Nocira, Perfood, Praxis, Pfizer, AYYA 
+Biosciences, Revance. Honoraria: American Academy of Neurology, Headache 
+Cooperative of the Pacific, MF Med Ed Research, Biopharm Communications, CEA 
+Group Holding Company (Clinical Education Alliance LLC), Teva (speaking), Amgen 
+(speaking), Eli Lilly (speaking), Lundbeck (speaking), Vector psychometric 
+Group, Clinical Care Solutions, CME Outfitters, Curry Rockefeller Group, 
+DeepBench, Global Access Meetings, KLJ Associates, Academy for Continued 
+Healthcare Learning, Majallin LLC, Medlogix Communications, Medica 
+Communications LLC, MJH Lifesciences, Miller Medical Communications, Synapse, 
+WebMD Health/Medscape, Wolters Kluwer, Oxford University Press, Cambridge 
+University Press. Nonprofit board membership: American Brain Foundation, 
+American Migraine Foundation, ONE Neurology, Precon Health Foundation, 
+International Headache Society Global Patient Advocacy Coalition, Atria Health 
+Collaborative, Domestic Violence HOPE Foundation/Panfila. Research Support: 
+Department of Defense, NIH, Henry Jackson Foundation, Sperling Foundation, 
+American Migraine Foundation, Patient-Centered Outcomes Research Institute 
+(PCORI). Stock Options/Shareholder/Patents/Board of Directors: Ctrl M (options), 
+Aural analytics (options), ExSano (options), Palion (options), Healint 
+(options), Theranica (options), Second Opinion/Mobile Health (options), Epien 
+(options/board), Nocira (options), Matterhorn (shares/board), Ontologics 
+(shares/board), King-Devick Technologies (options/board), Precon Health 
+(options/board), AYYA Biosciences (options), Axon Therapeutics (options/board), 
+Cephalgia Group (options/board), Atria Health (options/employee). Patent 
+17189376.1-1466:vTitle: Botulinum Toxin Dosage Regimen for Chronic Migraine 
+Prophylaxis. Go to Neurology.org/N for full disclosures.
+
+
+12. Hepatology. 2019 May;69(5):2164-2179. doi: 10.1002/hep.30422. Epub 2019 Mar
+11.
+
+p53 Up-regulated Modulator of Apoptosis Induction Mediates Acetaminophen-Induced 
+Necrosis and Liver Injury in Mice.
+
+Chen D(1)(2), Ni HM(3), Wang L(1)(2), Ma X(3), Yu J(1)(4), Ding WX(3), Zhang 
+L(1)(2).
+
+Author information:
+(1)UPMC Hillman Cancer Center, Pittsburgh, PA.
+(2)Department of Pharmacology and Chemical Biology, University of Pittsburgh 
+School of Medicine, Pittsburgh, PA.
+(3)Department of Pharmacology, Toxicology and Therapeutics, University of Kansas 
+Medical Center, Kansas City, KS.
+(4)Department of Pathology, University of Pittsburgh School of Medicine, 
+Pittsburgh, PA.
+
+Acetaminophen (APAP) overdose is one of the leading causes of hepatotoxicity and 
+acute liver failure in the United States. Accumulating evidence suggests that 
+hepatocyte necrosis plays a critical role in APAP-induced liver injury (AILI). 
+However, the mechanisms of APAP-induced necrosis and liver injury are not fully 
+understood. In this study, we found that p53 up-regulated modulator of apoptosis 
+(PUMA), a B-cell lymphoma-2 (Bcl-2) homology domain 3 (BH3)-only Bcl-2 family 
+member, was markedly induced by APAP in mouse livers and in isolated human and 
+mouse hepatocytes. PUMA deficiency suppressed APAP-induced mitochondrial 
+dysfunction and release of cell death factors from mitochondria, and protected 
+against APAP-induced hepatocyte necrosis and liver injury in mice. PUMA 
+induction by APAP was p53 independent, and required receptor-interacting protein 
+kinase 1 (RIP1) and c-Jun N-terminal kinase (JNK) by transcriptional activation. 
+Furthermore, a small-molecule PUMA inhibitor, administered after APAP treatment, 
+mitigated APAP-induced hepatocyte necrosis and liver injury. Conclusion: Our 
+results demonstrate that RIP1/JNK-dependent PUMA induction mediates AILI by 
+promoting hepatocyte mitochondrial dysfunction and necrosis, and suggest that 
+PUMA inhibition is useful for alleviating acute hepatotoxicity attributed to 
+APAP overdose.
+
+© 2018 by the American Association for the Study of Liver Diseases.
+
+DOI: 10.1002/hep.30422
+PMCID: PMC6461480
+PMID: 30552702 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: The authors declare that 
+there are no conflicts of interest.
+
+
+13. Cureus. 2024 Dec 30;16(12):e76644. doi: 10.7759/cureus.76644. eCollection
+2024  Dec.
+
+Liver Bed Infiltration With Isobaric Levobupivacaine Versus Intravenous 
+Paracetamol Analgesia for Postoperative Pain Management in Patients Undergoing 
+Laparoscopic Cholecystectomy.
+
+Dhar S(1), Kaur A(1), Panghal R(1), Mushtaq M(2), Kaur I(1), Gupta A(3), Kumar 
+P(1), Deeba F(4).
+
+Author information:
+(1)Anesthesia, Adesh Medical College and Hospital, Kurukshetra, IND.
+(2)Anesthesia, Ujala Healthcare Services Private Limited, Kashipur, IND.
+(3)Anesthesia, Mahavir Sansthan Cancer Hospital, Patna, IND.
+(4)Anesthesia, Rohilkhand Medical College and Hospital, Bareilly, IND.
+
+Objectives The study aimed to compare the use of isobaric levobupivacaine for 
+liver bed infiltration and intravenous analgesia with paracetamol 
+(acetaminophen) in managing postoperative pain in patients undergoing 
+laparoscopic cholecystectomy. Methods An observational study was conducted on 80 
+patients scheduled for elective laparoscopic cholecystectomy. Inclusion criteria 
+comprised adults of American Society of Anesthesiologists grade I, aged 18-65, 
+undergoing elective surgeries. Exclusion criteria were contraindications to 
+local anesthetics, history of chronic pain disorders, or ongoing opioid therapy. 
+Participants were divided into two groups: Group LB receiving 30-40 ml 0.5% 
+isobaric levobupivacaine for liver bed infiltration, and Group P receiving 
+paracetamol 1 g intravenous during surgery just after removing the gallbladder 
+out of the laparoscopic port. Primary outcomes included pain scores assessed 
+using the visual analog scale (VAS) at one hour, six hours, 12 hours, 18 hours, 
+and 24 hours postoperatively. Secondary outcomes included the total analgesic 
+consumption, patient satisfaction scores, and any adverse effects experienced. 
+Results In Group LB, the VAS scores showed a declining trend, starting at 6.4 ± 
+0.8 at one hour and decreasing to 4.5 ± 1.5 at six hours, 4.1 ± 1.7 at 12 hours, 
+2.6 ± 1.3 at 18 hours, and 1.3 ± 0.6 at 24 hours. In Group P, the VAS scores 
+also decreased, beginning at 7.2 ± 1.1 at one hour, then dropping to 5.2 ± 1.2 
+at six hours, 4.8 ± 1.1 at 12 hours, 3.2 ± 0.9 at 18 hours, and 1.8 ± 0.5 at 24 
+hours. However, statistically, VAS scores were significantly lower in Group LB 
+as compared to Group P at all time points: one hour, six hours, 12 hours, 18 
+hours, and 24 hours (p<0.05). Group LB demonstrated significantly better 
+outcomes compared to Group P, including a longer time to first rescue analgesia 
+(12 vs. five hours, p<0.0001), a reduced dose of additional analgesic 
+requirement (3 ± 1 vs. 6 ± 2 µg/kg, p<0.0001), and higher patient satisfaction 
+(38 (95%) vs. 23 (57.5%), p=0.0001). The incidence of nausea (3 (7.5%) vs. 6 
+(15%), P=0.481) and vomiting (5 (12.5%) vs. 8 (20%), p=0.363) was comparable 
+between Group LB and Group P. Conclusion The use of levobupivacaine for liver 
+bed infiltration provided adequate pain relief following laparoscopic 
+cholecystectomy in comparison to paracetamol intravenous analgesia. Side effects 
+like nausea and vomiting were statistically comparable in both groups. Overall, 
+levobupivacaine for liver bed infiltration is a safe and effective option for 
+controlling pain and increasing satisfaction among patients undergoing 
+laparoscopic cholecystectomy.
+
+Copyright © 2024, Dhar et al.
+
+DOI: 10.7759/cureus.76644
+PMCID: PMC11781901
+PMID: 39898134
+
+Conflict of interest statement: Human subjects: Consent for treatment and open 
+access publication was obtained or waived by all participants in this study. 
+Institutional Ethical Committee, Adesh Medical College and Hospital, Kurukshetra 
+issued approval IEC/AMCH/05/Nov 2022. Animal subjects: All authors have 
+confirmed that this study did not involve animal subjects or tissue. Conflicts 
+of interest: In compliance with the ICMJE uniform disclosure form, all authors 
+declare the following: Payment/services info: All authors have declared that no 
+financial support was received from any organization for the submitted work. 
+Financial relationships: All authors have declared that they have no financial 
+relationships at present or within the previous three years with any 
+organizations that might have an interest in the submitted work. Other 
+relationships: All authors have declared that there are no other relationships 
+or activities that could appear to have influenced the submitted work.
+
+
+14. N Engl J Med. 1991 Dec 5;325(23):1593-6. doi: 10.1056/NEJM199112053252301.
+
+Aspirin use and reduced risk of fatal colon cancer.
+
+Thun MJ(1), Namboodiri MM, Heath CW Jr.
+
+Author information:
+(1)Department of Epidemiology and Statistics, American Cancer Society, Atlanta, 
+GA 30329.
+
+Comment in
+    N Engl J Med. 1992 May 7;326(19):1289; author reply 1290-1. doi: 
+10.1056/NEJM199205073261912.
+    N Engl J Med. 1992 May 7;326(19):1289-90; author reply 1290-1.
+    N Engl J Med. 1992 May 7;326(19):1290; author reply 1290-1.
+    N Engl J Med. 1991 Dec 5;325(23):1644-6. doi: 10.1056/NEJM199112053252309.
+
+BACKGROUND AND METHODS: Experiments in animals and two epidemiologic studies in 
+humans suggest that aspirin and other nonsteroidal antiinflammatory drugs 
+(NSAIDs) may be protective against colon cancer. We tested this hypothesis in a 
+prospective mortality study of 662,424 adults who provided information in 1982 
+on the frequency and duration of their aspirin use. Death rates from colon 
+cancer were measured through 1988. The possible influence of other risk factors 
+for colon cancer was examined in multivariate analyses for 598 case patients and 
+3058 matched control subjects drawn from the cohort.
+RESULTS: Death rates from colon cancer decreased with more frequent aspirin use 
+in both men and women. The relative risk among persons who used aspirin 16 or 
+more times per month for at least one year was 0.60 in men (95 percent 
+confidence interval, 0.40 to 0.89) and 0.58 in women (95 percent confidence 
+interval, 0.37 to 0.90). The risk estimates were unaffected when we excluded 
+persons who reported at entry into the study that they had cancer, heart 
+disease, stroke, or another condition that might influence both their aspirin 
+use and their mortality. Adjustment for dietary factors, obesity, physical 
+activity, and family history did not alter the findings significantly. No 
+association was found between the use of acetaminophen and the risk of colon 
+cancer.
+CONCLUSIONS: Regular aspirin use at low doses may reduce the risk of fatal colon 
+cancer. Whether this is due to a direct effect of aspirin, perhaps mediated by 
+the inhibition of prostaglandin synthesis, or to other factors indirectly 
+associated with aspirin use is unclear.
+
+DOI: 10.1056/NEJM199112053252301
+PMID: 1669840 [Indexed for MEDLINE]
+
+
+15. Pain Physician. 2014 Sep-Oct;17(5):393-400.
+
+Efficacy and safety of dexmedetomidine added to caudal bupivacaine in pediatric 
+major abdominal cancer surgery.
+
+Fares KM(1), Othman AH, Alieldin NH.
+
+Author information:
+(1)Assistant Professor of Anesthesia, ICU and Pain Relief, South Egypt Cancer 
+Institute, Assiut University, Egypt; Lecturer of Anesthesia, ICU and Pain 
+Relief, South Egypt Cancer Institute, Assiut University, Egypt; and Professor of 
+Biostatistics and Cancer.
+
+BACKGROUND: Caudal analgesia has been prolonged by the addition of various 
+adjuvants. Dexmedetomidine is a highly selective alpha-2 agonist with sedative 
+and analgesic properties.
+OBJECTIVE: To investigate the effect of addition of dexmedetomidine to 0.25% 
+bupivacaine for caudal analgesia in children undergoing major abdominal cancer 
+surgery.
+STUDY DESIGN: A randomized double-blind trial.
+SETTING: Academic medical center.
+METHODS: Forty pediatric patients, aged 3 - 12 years, weighting 10 - 40 kg, and 
+of American Society of Anesthesiologists (ASA) physical status I and II 
+scheduled for major abdominal cancer surgeries under general anesthesia combined 
+with caudal analgesia were enrolled. They were randomly allocated into 2 groups: 
+Group I (BD): (n = 20) received 1 mL/kg bupivacaine 0.25% with dexmedetomidine 1 
+μg/kg and group II (B): (n = 20) received 1 mL/kg bupivacaine 0.25%. Heart rate 
+(HR), mean arterial pressure (MAP), and oxygen saturation (SPO2) were recorded 
+for 120 minutes. Pain was assessed immediately postoperative and at hours 2, 4, 
+6, 12, 18, and 24 of postoperative period by Face, Legs, Activity, Cry and 
+Consolability (FLACC) score. Time to first request for analgesia and total 
+analgesic consumption in the first 24 hours were recorded. The level of sedation 
+was recorded using Ramsay's sedation scale [Intravenous acetaminophen 15mg/kg 
+(perfalgan, Squibb)]. Adverse effects were recorded and treated.
+RESULTS: There was significant reduction in FLACC score in group BD at 2, 4, 6, 
+and 12 hours postoperatively compared to group B. At the eighteenth and 
+twenty-fourth hour there was no significant difference. Time of the first rescue 
+analgesic requirement was significantly prolonged in group BD compared to group 
+B. The mean total consumption of rescue analgesia in the 24 hours of the 
+postoperative period was significantly decreased in group BD (405.00 ± 215.03) 
+mg when compared with group B (810.35 ± 200.93) mg.
+LIMITATIONS: This study is limited by its small sample size.
+CONCLUSION: Addition of dexmedetomidine (1 μg/kg) to caudal bupivacaine 0.25% (1 
+mL/kg) in pediatric major abdominal cancer surgeries achieved significant 
+postoperative pain relief for up to 19 hours, with less use of postoperative 
+analgesics, and prolonged duration of arousable sedation. Hemodynamic changes 
+were statistically significant, yet of no clinical significance.
+
+PMID: 25247897 [Indexed for MEDLINE]
+
+
+16. Int J Environ Res Public Health. 2020 Sep 28;17(19):7097. doi: 
+10.3390/ijerph17197097.
+
+Independent Research on Cancer Pain Management in the Setting of Early 
+Palliative Care: A Flywheel to Counteract General Opioid Misuse and Abuse.
+
+Bandieri E(1), Potenza L(2), Efficace F(3), Bruera E(4), Luppi M(2).
+
+Author information:
+(1)Oncology and Palliative Care Units, Civil Hospital Carpi, USL, 41012 Carpi, 
+Italy.
+(2)Hematology Unit and Chair, Azienda Ospedaliera Universitaria di Modena and 
+Department of Medical and Surgical Sciences, University of Modena and Reggio 
+Emilia, 41125 Modena, Italy.
+(3)Italian Group for Adult Hematologic Diseases (GIMEMA), Data Center and Health 
+Outcomes Research Unit, 00182 Rome, Italy.
+(4)Palliative Care & Rehabilitation Medicine, UT MD Anderson Cancer Center, 
+Houston, TA 77030, USA.
+
+The increased recognition of the high prevalence and important burden of cancer 
+pain and the documentation of a large proportion of patients receiving 
+inadequate analgesic treatment should have reinforced the need for 
+evidence-based recommendations. The World health Organization (WHO) guidelines 
+on cancer pain management-or palliative care-are traditionally based on a 
+sequential, three-step, analgesic ladder according to pain intensity: nonopioids 
+(paracetamol or nonsteroidal anti-inflammatory drugs) to mild pain in step I; 
+weak opioids (eg, codeine or tramadol) to mild-moderate pain in step II; and 
+strong opioids to moderate-severe pain in step. III. Despite the widespread use 
+of this ladder, unrelieved pain continues to be a substantial concern in one 
+third of patients with either solid or hematologic malignancies. The sequential 
+WHO analgesic ladder, and in particular, the usefulness of step II opioids have 
+been questioned but there are no universally used guidelines for the treatment 
+of pain in patients with advanced cancer and not all guideline recommendations 
+are evidence-based. The American Society of Clinical Oncology and the European 
+Society of Medical Oncology have recommended the implementation of early 
+palliative care (EPC), which is a novel model of care, consisting of delivering 
+dedicated palliative service concurrent with active treatment as early as 
+possible in the cancer disease trajectory. Improvement in cancer pain management 
+is one of the several important positive effects following EPC interventions. 
+Independent well-designed research studies on pharmacological interventions on 
+cancer pain, especially in the EPC setting are warranted and may contribute to 
+spur research initiatives to investigate the poorly addressed issues of pain 
+management in non cancer patients.
+
+DOI: 10.3390/ijerph17197097
+PMCID: PMC7579568
+PMID: 32998243 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest 
+related to the Commentary.
+
+
+17. Cancer Res. 1993 Mar 15;53(6):1322-7.
+
+Aspirin use and risk of fatal cancer.
+
+Thun MJ(1), Namboodiri MM, Calle EE, Flanders WD, Heath CW Jr.
+
+Author information:
+(1)American Cancer Society, Atlanta, Georgia 30329.
+
+Comment in
+    Cancer Res. 1993 Dec 15;53(24):6074.
+
+Aspirin and other nonsteroidal antiinflammatory drugs inhibit prostaglandin 
+synthesis and tumor growth in many experimental systems, but it is unclear which 
+of these tumor models are relevant to humans. We have reported reduced risk of 
+fatal colon cancer among persons who used aspirin in a large prospective study. 
+This analysis examines other fatal cancers in relation to aspirin among 635,031 
+adults in that study who provided information in 1982 on the frequency and 
+duration of their aspirin use and did not report cancer. Death rates were 
+measured through 1988. Death rates decreased with more frequent aspirin use for 
+cancers of the esophagus, stomach, colon, and rectum but not generally for other 
+cancers. For each digestive tract cancer, death rates were approximately 40% 
+lower among persons who used aspirin 16 times/month or more for at least 1 year 
+compared to those who used no aspirin. The trend of decreasing risk with more 
+frequent aspirin use was strongest among persons who had used aspirin for 10 
+years or more; it remained statistically significant, except for esophageal 
+cancer, in multivariate analyses that adjusted for other known risk factors. 
+Biases such as early detection or aspirin avoidance among cases do not appear to 
+explain the results. Our data suggest that regular, prolonged use of aspirin may 
+reduce the risk of fatal cancer of the esophagus, stomach, colon, and rectum. 
+Future epidemiological and basic research should examine all digestive tract 
+cancers in considering the chemopreventive or therapeutic potential of 
+nonsteroidal antiinflammatory drugs.
+
+PMID: 8443812 [Indexed for MEDLINE]
+
+
+18. Anesth Pain Med. 2016 Jul 2;6(4):e33526. doi: 10.5812/aapm.33526. eCollection
+ 2016 Aug.
+
+Multi-Modal Preemptive Analgesia With Pregabalin, Acetaminophen, Naproxen, and 
+Dextromethorphan in Radical Neck Dissection Surgery: A Randomized Clinical 
+Trial.
+
+Amiri HR(1), Mirzaei M(1), Beig Mohammadi MT(1), Tavakoli F(1).
+
+Author information:
+(1)Department of Anesthesiology and Critical Care, Imam Khomeini Hospital 
+Complex, Tehran University of Medical Sciences, Tehran, Iran.
+
+BACKGROUND: Preemptive analgesia may be considered as a method not only to 
+alleviate postoperative pain but also to decrease analgesic consumption. 
+Different regimens are suggested, but there is currently no standard.
+OBJECTIVES: The aim was to measure the efficacy of preemptive analgesia with 
+pregabalin, acetaminophen, naproxen, and dextromethorphan in radical neck 
+dissection surgery for reducing the intensity of pain and morphine consumption.
+PATIENTS AND METHODS: This study was conducted as a randomized double-blind 
+clinical trial. Eighty adult patients (18 to 60 years of age) under the American 
+society of anesthesiologists (ASA) physical status I and II undergoing elective 
+radical neck dissection were enrolled. Patients were randomized into two groups 
+of 40 with a simple randomization method. The case group received a combination 
+of 15 mg/kg acetaminophen, 2.5 mg/kg pregabalin, 7 mg/kg naproxen, and 0.3 mg/kg 
+dextromethorphan administered orally one hour prior to surgery. Postoperative 
+pain was assessed with the universal pain assessment tool (UPAT) at 0, 2, 4, 6, 
+12, and 24 hours after surgery. Subjects received morphine based on 
+postoperative pain control protocol. Total administered morphine doses were 
+noted.
+RESULTS: Postoperative pain rates at 0, 2, 4, 6, 12, and 24 hours after surgery 
+were significantly lower for the case group than the control group (P values = 
+0.014, 0.003, 0.00, 0.00, and 0.00, respectively). Total morphine doses for the 
+preemptive analgesia group were 45% lower than those of the other group. Side 
+effects were similar for both groups.
+CONCLUSIONS: A single preoperative oral dose of pregabalin, acetaminophen, 
+dextromethorphan, and naproxen one hour before surgery is an effective method 
+for reducing postoperative pain and morphine consumption in patients undergoing 
+radical neck dissection.
+
+DOI: 10.5812/aapm.33526
+PMCID: PMC5099949
+PMID: 27843771
+
+
+19. J Affect Disord. 2024 Oct 15;363:589-594. doi: 10.1016/j.jad.2024.07.128.
+Epub  2024 Jul 17.
+
+A replication study using the World Health Organization pharmacovigilance 
+database (VigiBase®) to evaluate whether an association between ketamine and 
+esketamine and alcohol and substance misuse exists.
+
+Kwan ATH(1), Rosenblat JD(2), Mansur RB(3), Rhee TG(4), Teopiz K(5), Le GH(6), 
+Wong S(7), Cao B(8), Ho R(9), McIntyre RS(10).
+
+Author information:
+(1)Faculty of Medicine, University of Ottawa, Ottawa, Ontario, Canada; Brain and 
+Cognition Discovery Foundation, Toronto, Ontario, Canada. Electronic address: 
+angela.kwan@mail.utoronto.ca.
+(2)Brain and Cognition Discovery Foundation, Toronto, Ontario, Canada; 
+Department of Pharmacology and Toxicology, University of Toronto, Toronto, 
+Ontario, Canada. Electronic address: joshua.rosenblat@uhn.ca.
+(3)Brain and Cognition Discovery Foundation, Toronto, Ontario, Canada; 
+Department of Pharmacology and Toxicology, University of Toronto, Toronto, 
+Ontario, Canada. Electronic address: rodrigo.mansur@uhn.ca.
+(4)Department of Psychiatry, Yale School of Medicine, New Haven, CT, USA; 
+Department of Public Health Sciences, Farmington, CT, USA. Electronic address: 
+taeho.rhee@yale.edu.
+(5)Brain and Cognition Discovery Foundation, Toronto, Ontario, Canada. 
+Electronic address: admin@bcdf.org.
+(6)Brain and Cognition Discovery Foundation, Toronto, Ontario, Canada; Institute 
+of Medical Science, University of Toronto, Toronto, ON, Canada. Electronic 
+address: hanny.le@mail.utoronto.ca.
+(7)Brain and Cognition Discovery Foundation, Toronto, Ontario, Canada; 
+Department of Pharmacology and Toxicology, University of Toronto, Toronto, 
+Ontario, Canada. Electronic address: sabrinal.wong@mail.utoronto.ca.
+(8)Key Laboratory of Cognition and Personality, Faculty of Psychology, Ministry 
+of Education, Southwest University, Chongqing 400715, PR China. Electronic 
+address: bingcao@swu.edu.cn.
+(9)Department of Psychological Medicine, Yong Loo Lin School of Medicine, 
+National University of Singapore, Singapore; Institute for Health Innovation and 
+Technology (iHealthtech), National University of Singapore, Singapore. 
+Electronic address: pcmrhcm@nus.edu.sg.
+(10)Brain and Cognition Discovery Foundation, Toronto, Ontario, Canada; 
+Department of Psychiatry, University of Toronto, Toronto, Ontario, Canada; 
+Department of Pharmacology and Toxicology, University of Toronto, Toronto, 
+Ontario, Canada. Electronic address: roger.mcintyre@bcdf.org.
+
+BACKGROUND AND OBJECTIVES: Ketamine and esketamine are increasingly prescribed 
+in the treatment of resistant mood disorders and persons at risk of suicide. 
+Ketamine is a drug of misuse with increasing non-therapeutic use in the general 
+population. Herein, our aim was to determine whether ketamine and/or esketamine 
+are disproportionately associated with reports of substance and/or alcohol 
+misuse.
+METHODS: Replicating a similar analysis recently conducted using the Food and 
+Drug Administration Adverse Event Reporting System (FAERS) database, we 
+identified cases of "alcohol problem, alcoholism, alcohol abuse, substance 
+dependence, substance use disorder (SUD), substance abuse, drug dependence, drug 
+use disorder and drug abuse" in association with ketamine and esketamine 
+reported to the World Health Organization Pharmacovigilance Database (WHO 
+VigiBase). We searched the database from inception to January 2024. The 
+reporting odds ratio (ROR) of each of the aforementioned parameters was 
+calculated; acetaminophen was used as the control. The numerator of the equation 
+represents the number of cases (n) and the denominator represents the total 
+cases of psychiatric disorders (N). Significance was obtained when the lower 
+limit of the 95 % confidence (CI) > 1.0.
+RESULTS: The RORs for ketamine was increased for most parameters (i.e., alcohol 
+abuse (3.24), substance dependence (12.48), substance use disorder (170.44), 
+substance abuse (2.94), drug dependence (2.88), drug use disorder (11.54) and 
+drug abuse (2.85), respectively). With respect to esketamine, the RORs were 
+observed to be different from ketamine insofar as we observed a reduction in the 
+RORs for three parameters (i.e., substance abuse (0.41), drug dependence (0.083) 
+and drug abuse (0.052), respectively). The IC025 values were significant for 
+ketamine in cases of alcohol abuse (0.35), substance dependence (0.50), 
+substance use disorder (2.77), substance abuse (0.83), drug dependence (0.97), 
+drug use disorder (1.95) and drug abuse (0.94). Additionally, oxycontin showed 
+significant IC025 values for substance use disorder (0.0014), substance abuse 
+(0.042), and drug dependence (0.17).
+CONCLUSION: Esketamine was not associated with an increased ROR for any 
+parameter of alcohol and/or substance use disorder. Mixed results were observed 
+with ketamine with some RORs increased and others decreased. Estimating RORs 
+using a pharmacovigilance database does not establish causation in the case of 
+elevated RORs and cannot be assumed to be a therapeutic effect when lower RORs 
+were observed.
+
+Copyright © 2024 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jad.2024.07.128
+PMID: 39029700 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest Dr. Roger S. 
+McIntyre has received research grant support from CIHR/GACD/National Natural 
+Science Foundation of China (NSFC) and the Milken Institute; 
+speaker/consultation fees from Lundbeck, Janssen, Alkermes, Neumora 
+Therapeutics, Boehringer Ingelheim, Sage, Biogen, Mitsubishi Tanabe, Purdue, 
+Pfizer, Otsuka, Takeda, Neurocrine, Sunovion, Bausch Health, Axsome, Novo 
+Nordisk, Kris, Sanofi, Eisai, Intra-Cellular, NewBridge Pharmaceuticals, 
+Viatris, Abbvie, Atai Life Sciences. Dr. Roger S. McIntyre is a CEO of Braxia 
+Scientific Corp. Dr. Rodrigo B. Mansur has received research grant support from 
+the Canadian Institutes of Health Research (CIHR), the Physicians' Services 
+Incorporated (PSI) Foundation and the Baszucki Brain Research Fund; and support 
+from an Academic Scholars Award from the Department of Psychiatry, University of 
+Toronto. Dr. Joshua D. Rosenblat has received research grant support from the 
+Canadian Institute of Health Research (CIHR), Physician Services Inc. (PSI) 
+Foundation, Labatt Brain Health Network, Brain and Cognition Discovery 
+Foundation (BCDF), Canadian Cancer Society, Canadian Psychiatric Association, 
+Academic Scholars Award, American Psychiatric Association, American Society of 
+Psychopharmacology, University of Toronto, University Health Network Centre for 
+Mental Health, Joseph M. West Family Memorial Fund and Timeposters Fellowship 
+and industry funding for speaker/consultation/research fees from iGan, 
+Boehringer Ingelheim, Janssen, Allergan, Lundbeck, Sunovion and COMPASS. Dr. 
+Taeho Greg Rhee serves as a review committee member for Patient-Centered 
+Outcomes Research Institute (PCORI) and Substance Abuse and Mental Health 
+Services Administration (SAMHSA) and has received honoraria payments from PCORI 
+and SAMHSA. Dr. Rhee has also served as a stakeholder/consultant for PCORI and 
+received consulting fees from PCORI. Dr. Rhee serves as an advisory committee 
+member for International Alliance of Mental Health Research Funders (IAMHRF). 
+Dr. Rhee is currently a co-Editor-in-Chief of Mental Health Science and has 
+received honorarium payments annually from the publisher, John Wiley & Sons, 
+Inc.
+
+
+20. PLoS One. 2016 Nov 9;11(11):e0166227. doi: 10.1371/journal.pone.0166227. 
+eCollection 2016.
+
+Paravertebral Block Plus Thoracic Wall Block versus Paravertebral Block Alone 
+for Analgesia of Modified Radical Mastectomy: A Retrospective Cohort Study.
+
+Li NL(1), Yu BL(2), Hung CF(3).
+
+Author information:
+(1)Department of Anesthesiology, Koo Foundation Sun Yat-Sen Cancer Center, 
+Taipei, Taiwan, Republic of China.
+(2)Department of Surgery, Koo Foundation Sun Yat-Sen Cancer Center, Taipei, 
+Taiwan, Republic of China.
+(3)Biostatistics Section, Office of Clinical Research, Koo Foundation Sun 
+Yat-Sen Cancer Center, Taipei, Taiwan, Republic of China.
+
+BACKGROUND AND OBJECTIVES: Paravertebral block placement was the main anesthetic 
+technique for modified radical mastectomy in our hospital until February 2014, 
+when its combination with blocks targeting the pectoral musculature was 
+initiated. We compared the analgesic effects of paravertebral blocks with or 
+without blocks targeting the pectoral musculature for modified radical 
+mastectomy.
+METHODS: We retrospectively collected data from a single surgeon and 
+anesthesiologist from June 1, 2012, to May 31, 2015. Intraoperative sedatives 
+and analgesic requirements, time to the first analgesic request, postoperative 
+analgesic doses, patient satisfaction, and complications were compared.
+RESULTS: Fifty-four patients received a paravertebral block alone (PECS 0), and 
+46 received a paravertebral block combined with blocks targeting the pectoral 
+musculature (PECS 1). The highest intraoperative effect-site concentration of 
+propofol was significantly lower in the PECS 1 group than in the PECS 0 group 
+[2.3 (1.5, 2.8) vs 2.5 (1.5, 4) μg/mL, p = 0.0014]. The intraoperative rescue 
+analgesic dose was significantly lower in the PECS 1 group [0 (0, 25) vs 0 (0, 
+75) mg of ketamine, p = 0.0384]. Furthermore, the PECS 1 group had a 
+significantly longer time to the first analgesic request [636.5 (15, 720) vs 
+182.5 (14, 720) min, p = 0.0001]. After further adjustment for age, body mass 
+index, American Society of Anesthesiologists Physical Status classification, 
+chronic pain history, incidence of a superficial cervical plexus block 
+placement, and operation duration, blocks targeting the pectoral musculature 
+were determined to be the only significant factor (hazard ratio, 0.36; 95% 
+confidence interval, 0.23-0.58; p < 0.0001). Very few patients used potent 
+analgesics including morphine and ketorolac; the cumulative use of morphine or 
+ketorolac was similar in the study groups. However, the incidence of all 
+analgesic use, namely morphine, ketorolac, acetaminophen, and celecoxib, was 
+significantly lower in the PECS 1 group [3.5 (0, 6) vs 5 (0, 12), p < 0.0001].
+CONCLUSIONS: Compared with the placement of a paravertebral block alone, 
+combining blocks targeting the pectoral musculature with a paravertebral block 
+for modified radical mastectomy reduced the sedative and analgesic requirements 
+during operation and provided more effective postoperative analgesia.
+
+DOI: 10.1371/journal.pone.0166227
+PMCID: PMC5102399
+PMID: 27829018 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+21. Curr Med Res Opin. 2006 Oct;22(10):1949-54. doi: 10.1185/030079906x132659.
+
+Clinical equivalence of IV paracetamol compared to IV dipyrone for postoperative 
+analgesia after surgery for breast cancer.
+
+Kampe S(1), Warm M, Landwehr S, Dagtekin O, Haussmann S, Paul M, Pilgram B, 
+Kiencke P.
+
+Author information:
+(1)Department of Anaesthesiology, University of Cologne, Cologne, Germany. 
+Sandra.Kampe@uk-koeln.de
+
+OBJECTIVE: To assess clinical efficacy of IV paracetamol 1 g and IV dipyrone 1 g 
+on a 24-h dosing schedule in this randomised, double-blinded study of 40 ASA 
+I-III (American Society of Anesthesiologists classification of physical status) 
+patients undergoing surgery for breast cancer.
+RESEARCH DESIGN AND METHODS: General anaesthesia using remifentanil and propofol 
+was performed for surgery. The patients were randomly allocated to two groups, 
+receiving infusions of paracetamol 1 g/100 mL (Para Group) or of dipyrone 1 
+g/100 mL (Dipy Group) 30 min before arrival in the recovery area and every 6 h 
+up to 24 h postoperatively. All patients had unrestricted access to opioid 
+rescue medication via an IV patient-controlled analgesia (PCA) device.
+MAIN OUTCOME MEASURES: The primary variables for clinical equivalence were the 
+differences between the mean values for pain scores at rest and pain scores on 
+coughing over 30 h postoperatively. The equivalence margin was determined as 
++/-10 mm on the visual analogue scale (VAS).
+RESULTS: Regarding pain scores at rest, the 90% CI of the mean differences 
+between the treatment groups over 30 h postoperatively was found to be within 
+the predefined equivalence margin [+7.5/-6.2], and the CI values for pain scores 
+on coughing [+7.3/-9.0] were similar. The two groups did not differ in 
+cumulative opioid rescue consumption (Dipy-Group 14.8 +/- 17.7 mg vs. Para Group 
+12.1 +/- 8.8 mg, p = 0.54) nor in piritramide loading dose (Dipy Group 0.95 +/- 
+2.8 mg vs. Para Group 1.3 +/- 2.8 mg, p = 0.545). Five patients in the Dipy 
+Group experienced hypotension in contrast to none in the Para Group (p = 0.047). 
+There were no significant between-treatment differences for other adverse 
+events, patient satisfaction scores (p = 0.4) or quality of recovery scores (p = 
+0.3).
+CONCLUSION: IV paracetamol 1 g is clinically equivalent to IV dipyrone 1 g for 
+postoperative analgesia after surgery for breast cancer.
+
+DOI: 10.1185/030079906x132659
+PMID: 17022854 [Indexed for MEDLINE]
+
+
+22. Pharmacology. 2009;84(5):276-81. doi: 10.1159/000242998. Epub 2009 Oct 1.
+
+Clinical equivalence of controlled-release oxycodone 20 mg and 
+controlled-release tramadol 200 mg after surgery for breast cancer.
+
+Kampe S(1), Wolter K, Warm M, Dagtekin O, Shaheen S, Landwehr S.
+
+Author information:
+(1)Department of Anesthesiology and Pain Therapy, Ruhrlandklinik, University of 
+Essen, DE-45239 Essen, Germany. sandra.kampe@ruhrlandklinik.uk-essen.de
+
+AIMS: To assess clinical equivalence of 20 mg controlled-release oxycodone 
+(Oxygesic; Mundipharma, Limburg, Germany) and 200 mg controlled-release tramadol 
+(Tramal long; Grunenthal, Aachen, Germany) on a 12-hour dosing schedule in a 
+randomized, double-blinded study of 54 ASA I-III physical status (American 
+Society of Anesthesiologists classification of physical status) patients 
+undergoing surgery for breast cancer.
+METHODS: General anesthesia using remifentanil and propofol was performed for 
+surgery. Patients were randomly allocated to 2 groups, receiving either 20 mg 
+controlled-release oxycodone (Oxy group) or 200 mg controlled-release tramadol 
+(Trama group) with the premedication (7.5 mg midazolam) and again 12 hours 
+later. All patients had access to rescue medication (i.v. paracetamol). The 
+primary variables for clinical equivalence were the differences between the mean 
+values for pain scores at rest and pain scores on coughing over 24 hours after 
+operation. The equivalence margin was determined as +/-10 on the visual analogue 
+scale.
+RESULTS: Fifty-four patients were enrolled. Regarding pain scores at rest, the 
+90% CI of the mean differences between the treatment groups over 24 hours after 
+operation was found to be within the predefined equivalence margin [-4.5 to 
++1.7], and the CI values for pain scores on coughing [-6.2 to +1.7] were 
+similar. Cumulative paracetamol given over the 24-hour observation period did 
+not differ significantly between the Oxy group (1.32 +/-1.9 g) and the Trama 
+group (1.61 +/- 1.1 g; p = 0.32). There were no significant differences between 
+the treatment groups regarding adverse events such as nausea (p = 0.13), 
+vomiting (p = 0.24) and itching (p = 0.77). Also, no differences were found 
+concerning patient satisfaction scores (p = 0.8) or patients' general perception 
+of postoperative pain management (p = 0.71).
+CONCLUSION: 20 mg controlled-release oxycodone is clinically equivalent to 200 
+mg controlled-release tramadol for postoperative analgesia after surgery for 
+breast cancer.
+
+Copyright 2009 S. Karger AG, Basel.
+
+DOI: 10.1159/000242998
+PMID: 19797937 [Indexed for MEDLINE]
+
+
+23. NP Safe Prescribing of Controlled Substances While Avoiding Drug Diversion.
+
+Dydyk AM(1), Sizemore DC(2), Haddad LM(3), Lindsay L(4), Porter BR(5).
+
+In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2026 
+Jan–.
+2023 Jan 29.
+
+Author information:
+(1)Abrazo Central Campus
+(2)WVU Medicine
+(3)East Tennessee State University
+(4)Un of North Florida
+(5)Geisinger Commonwealth School of Medicine and Robert Packer Hospital,
+
+Chronic pain and opioid use and abuse is a significant problem in the United 
+States. Over one-quarter of United States citizens suffer from chronic pain. It 
+is among the most common complaints in an outpatient clinic and the emergency 
+department. The failure to manage chronic pain, as well as the possible 
+complication of opioid dependence related to treatment, can result in 
+significant morbidity and mortality. One in 5 patient complaints in an 
+outpatient clinic is related to pain, with over half of all patients seeing 
+their primary care provider for 1 pain complaint or another. It is paramount 
+that providers have a firm grasp on the management of patients with chronic 
+pain. As a country, the United States spends well over 100 billion dollars a 
+year on healthcare costs related to pain management and opioid 
+dependence. Pain-related expenses exceed those for the costs of cancer, 
+diabetes, and heart disease combined. How a patient's chronic pain gets managed 
+can have profound and long-lasting effects on a patient's quality of life. 
+The International Association for the Study of Pain defines chronic pain as any 
+pain lasting longer than 3 months. There are multiple sources of chronic pain. 
+Combination therapy for pain includes both pharmacological therapies and 
+nonpharmacological treatment options. There is a more significant reduction in 
+pain with combination therapy compared to a single treatment alone. Escalation 
+of pharmacological therapy is done using a stepwise approach. Comorbid 
+depression and anxiety are widespread in patients with chronic pain. Patients 
+with chronic pain are also at increased risk for suicide. Chronic pain can 
+impact every facet of a patient's life. Thus, learning to diagnose and 
+appropriately manage patients experiencing chronic pain is critical. 
+Unfortunately, studies have revealed an inherent lack of education regarding 
+pain management in most professional schools and training programs. Many schools 
+have committed to opioid-related education and training by incorporating the 
+Centers for Disease Control and Prevention guidelines for prescribing opioids 
+for chronic pain into the medical school curriculum. Appropriate opioid 
+prescribing includes prescribing sufficient opioid medication through regular 
+assessment, treatment planning, and monitoring to provide adequate pain control 
+while avoiding addiction, abuse, overdose, diversion, and misuse. To be 
+successful, clinicians must understand appropriate opioid prescribing, 
+assessment, the potential for abuse and addiction, and potential psychological 
+problems. Inappropriate opioid prescribing typically involves not prescribing, 
+underprescribing, overprescribing, or continuing to prescribe opioids when they 
+are no longer effective. The American Society of Addiction Medicine describes 
+addiction as a treatable chronic disease that involves environmental pressures, 
+genetics, an individual's life experiences, and interactions among brain 
+circuits. Individuals who become addicted to opioids or other medications often 
+engage in behaviors that become compulsive and result in dangerous consequences. 
+The American Society of Addiction Medicines notes that while the following 
+should not be used as diagnostic criteria due to variability among addicted 
+individuals, they identify 5 characteristics of addiction: 1. Craving for drug 
+or positive reward. 2. Dysfunctional emotional response. 3. Failure to recognize 
+significant problems affecting behavior and relationships. 4. Inability to 
+consistently abstain. 5. Impairment in control of behavior. Unfortunately, for 
+most health providers, understanding addiction is often confusing, inaccurate, 
+and inconsistent due to the broad range of perspectives of those dealing with 
+patients suffering from addiction. While a knowledge gap is present among 
+healthcare providers, it is equally prevalent in politicians writing laws and 
+law enforcement attempting to enforce the laws they write. Payers are 
+responsible for the expenses associated with evaluating and treating addiction. 
+Persistent lack of education and the use of obsolete terminology continue to 
+contribute to a societal lack of understanding for effectively dealing with the 
+challenges of addiction. In the past, the American Psychiatric Association's 
+Diagnostic and Statistical Manual of Mental Disorders defined "addiction," 
+"substance abuse," and "substance dependence" separately. The result was 
+provider confusion contributed to the under-treatment of pain. Over time, the 
+manual has eliminated these terms and now uses "substance use disorder," ranging 
+from mild to severe. Unfortunately, there are numerous challenges in pain 
+management, such as both underprescribing and overprescribing opioids. The 
+concerns are particularly prominent in patients with chronic pain and have 
+resulted in patients suffering from inadequately treated pain. At the same time, 
+there has been a development of concomitant opioid abuse, addiction, diversion, 
+and overdose. As a result, providers are often negatively influenced and fail to 
+deliver appropriate, effective, and safe opioids to patients with chronic pain. 
+Providers have, in the past, been poorly trained and ill-informed in their 
+opioid prescribing. To make the challenges even worse, chronic pain patients 
+often develop opioid tolerance and significant psychological, behavioral, and 
+emotional problems, including anxiety and depression related to under or 
+overprescribing opioids.  Clinicians who prescribe opioids face challenges that 
+involve medical negligence in either failure to provide adequate pain control or 
+risk of licensure or even criminal charges if it is perceived they are involved 
+in drug diversion or misuse. All providers that prescribe opioids need 
+additional education and training to provide the best patient outcomes and avoid 
+the social and legal entanglements associated with over and under-prescribing 
+opioids. Provider Opioid Knowledge Deficit  There are substantial knowledge gaps 
+around appropriate and inappropriate opioid prescribing, including deficits in 
+understanding current research, legislation, and appropriate prescribing 
+practices. Providers often have knowledge deficits that include: Understanding 
+of addiction. At-risk opioid addiction populations. Prescription vs. 
+non-prescription opioid addiction. The belief that addiction and dependence on 
+opioids are synonymous. The belief that opioid addiction is a psychological 
+problem instead related to a chronic painful disease. With a long history of 
+misunderstanding, poor society, provider education, and inconsistent laws, the 
+prescription of opioids has resulted in significant societal challenges that 
+will only be resolved with significant education and training. Misuse of 
+Controlled Substances Unfortunately, the misuse of controlled substances 
+resulting in morbidity and mortality is rampant. According to the National 
+Survey on Drug Use and Health, 2016, performed by the US Department of Health 
+and Human Services, over 10 million people misuse prescription pain medications, 
+and over 2 million misuse sedatives, stimulants, and tranquilizers each year. 
+The same study found that the most common reason for misuse is for the treatment 
+of physical pain. The Center for Disease Control estimates more than 40,000 
+people die each year from an opioid overdose.  Controlled Substances Three 
+common classes of controlled substances are commonly misused: opioids, 
+depressants, and stimulants.  Opioids Opioids are prescribed for pain control by 
+binding to mu-opioid receptors in the central nervous system, reducing pain 
+signals to the brain and receptors in the GI tract and respiratory system, and 
+are used to treat pain, diarrhea, and cough. Common Opioids Codeine - One of the 
+most commonly taken opioid medications. It is at the center of the opioid 
+addiction problem in the United States and thus is highly regulated. Its main 
+indication is for pain and cough. FDA-Approved Indication Pain Codeine is used 
+to treat mild to moderate pain. Its use is recognized in chronic pain due to 
+ongoing cancer and palliative care. However, the use of codeine to treat other 
+types of chronic pain remains controversial. Chronic pain, defined by the 
+International Association for the Study of Pain, persists beyond the standard 
+tissue healing time of 3 months. The most prevalent causes of non-cancer chronic 
+pain include back pain, fibromyalgia, osteoarthritis, and headache. Non-FDA 
+Approved Indications Cough Codeine is helpful in the treatment of various 
+etiologies producing chronic cough. Also, 46% of patients with chronic cough do 
+not have a distinct etiology despite a proper diagnostic evaluation. Codeine 
+produces a decrease in cough frequency and severity in these patients. However, 
+there is limited literature demonstrating the efficacy of codeine in chronic 
+cough. The dose can vary from 15 mg to 120 mg a day. It is, however, indicated 
+in the management of prolonged cough (in specific populations like lung cancer), 
+usually as 30 mg every 4 to 6 hours as needed. Restless Leg Syndrome Codeine is 
+effective in the treatment of restless leg syndrome when given at night time, 
+especially for those whose symptoms are not relieved by other medications. 
+Persistent Diarrhea (Palliative) Codeine and loperamide are equally effective, 
+and the choice between them has its basis in the assessment of the physician 
+evaluating the small but undoubted addictive potential of codeine versus the 
+higher cost of loperamide and an individual difference in a patient's 
+vulnerability to adverse effects. Fentanyl - Transdermal patch and IV, commonly 
+abused and used in a mixture with other drugs. Fentanyl is a synthetic opioid 
+that is 80-100 times stronger than morphine and is often added to heroin to 
+increase its potency. It can cause severe respiratory depression and death, 
+particularly mixed when mixed with other drugs or alcohol. It has high addiction 
+potential. Hydrocodone - Hydrocodone is a schedule II semi-synthetic opioid 
+medication used to treat pain. Immediate-release (IR) hydrocodone is available 
+as a combination product (combined with acetaminophen, ibuprofen, etc). It is 
+FDA-approved for the management of pain severe enough to require an opioid 
+analgesic and for which alternative (non-opioid) treatments are inadequate. 
+Single-entity hydrocodone is only available in extended-release (ER) 
+formulations. It is FDA-approved to treat persistent pain severe enough to 
+require 24-hour, long-term opioid treatment and for which alternative treatments 
+are inadequate. Hydrocodone is also an antitussive and is indicated for cough in 
+adults. Morphine Sulfate - FDA-approved usage of morphine sulfate includes 
+moderate to severe pain that may be acute or chronic. Most commonly used in pain 
+management, morphine provides significant relief to patients afflicted with 
+pain. Clinical situations that benefit significantly from medicating with 
+morphine include management of palliative/end-of-life care, active cancer 
+treatment, and vaso-occlusive pain during a sickle cell crisis. Morphine is 
+widely used off-label for almost any condition that causes pain. In the 
+emergency department, morphine is given for musculoskeletal pain, abdominal 
+pain, chest pain, arthritis, and even headaches when patients fail to respond to 
+first and second-line agents. Morphine is rarely used for procedural sedation. 
+However, for minor procedures, clinicians will sometimes combine a low dose of 
+morphine with a low dose of benzodiazepine-like lorazepam. Oxycodone - An opioid 
+agonist prescription medication. The oxycodone immediate-release formulation is 
+FDA-approved for the management of acute or chronic moderate to severe pain for 
+which other treatments do not suffice and for which the use of opioid medication 
+is appropriate. The extended-release formulation is FDA-approved for the 
+management of pain severe enough to require continuous (24 hours per day), 
+long-term opioid treatment, and for which there are no alternative options to 
+treat the pain. The oxycodone to morphine dose equivalent ratio is approximately 
+1 to 1.5 for immediate-release and 1 to 2 for extended-release formulations. 
+Tramadol - Tramadol is an FDA-approved medication for pain relief. It has 
+specific indications for moderate to severe pain. It is considered a class IV 
+drug by the FDA. Due to possible abuse and addiction potential, limitations to 
+its use should be for pain that is refractive to other pain medication, such as 
+non-opioid pain medication. There are 2 forms of tramadol: extended-release and 
+immediate-release. The immediate release is not for use as an "as needed" 
+medication; instead, it is for pain of less than a week duration. For pain 
+lasting more than a week, the extended-release is the therapeutic choice — the 
+indication for extended-release is for pain control under 24-hour management or 
+an extended period. Off-label, the drug is useful for premature ejaculation and 
+restless leg syndrome refractory to other medications. For the off-label use of 
+tramadol for premature ejaculation, both sporadic and daily use is effective for 
+the treatment of the condition. Patients indicate a preference for "as needed" 
+therapy for premature ejaculation due to the lack of side effects compared to 
+the daily use of tramadol. Addiction, Dependence, and Tolerance While each of 
+these terms is similar, providers should know the differences. Addiction - the 
+constant need for a drug despite harmful consequences. Pseudoaddiction - 
+constant fear of being in pain, hypervigilance; usually, there is a resolution 
+with pain resolution. Dependence - physical adaptation to a medication where it 
+is necessary for normal function, and withdrawal occurs with a lack of the 
+medication. Tolerance - lack of expected response to a medication, such as 
+increasing dose to achieve the same pain relief due to CNS adaptation to the 
+medication over time.
+
+Copyright © 2026, StatPearls Publishing LLC.
+
+PMID: 33232099
+
+Conflict of interest statement: Disclosure: Alexander Dydyk declares no relevant 
+financial relationships with ineligible companies. Disclosure: Daniel Sizemore 
+declares no relevant financial relationships with ineligible companies. 
+Disclosure: Lisa Haddad declares no relevant financial relationships with 
+ineligible companies. Disclosure: Linda Lindsay declares no relevant financial 
+relationships with ineligible companies. Disclosure: Burdett Porter declares no 
+relevant financial relationships with ineligible companies.

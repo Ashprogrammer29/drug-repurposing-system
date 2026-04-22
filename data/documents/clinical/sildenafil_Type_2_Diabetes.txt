@@ -1,0 +1,77 @@
+Trial: NCT06605508
+Title: Regenerative Injection of Stem Cells or Stem Cell-derived Exosomes for Erectile Dysfunction (RISE)
+Phase: NA
+Status: RECRUITING
+Summary: The goal of this prospective observational study is to evaluate whether injections of stem cells derived from the patient's own fat tissue (adipose tissue) can improve erectile function in men aged 30 to 75 who have erectile dysfunction (ED) and have not responded well to standard treatments like PDE-5 inhibitors (e.g., Viagra).
+
+The main questions the study aims to answer are:
+
+Will the stem cell
+---
+Trial: NCT00527995
+Title: Acute Effects of Sildenafil on Endothelial Function in People With Diabetes
+Phase: PHASE3
+Status: COMPLETED
+Summary: This is a double-blind, placebo-controlled, cross-over trial using a single dose of 100 mg sildenafil or placebo in 40 subjects with T2DM without known cardiovascular disease. Effects on haemodynamic parameters, flow mediated dilatation (FMD) in brachial artery, cardiovascular autonomic function tests, and spontaneous baroreflex sensitivity (BRS) were investigated.
+---
+Trial: NCT00645268
+Title: A Multicenter, Double-blind Study to Evaluate the Effect of Pretreatment With a Daily Dose of Sildenafil on the As-Needed Efficacy of Viagra in Men With Erectile Dysfunction and Type 2 Diabetes
+Phase: PHASE4
+Status: COMPLETED
+Summary: To determine the effect on erectile function in a population of type 2 diabetic men with erectile dysfunction who have undergone the following treatment regimen: pre-treatment with a daily dose of double-blind sildenafil versus placebo for 4 weeks (Phase I) followed by an as-needed, flexible-dose, open-label treatment phase with sildenafil for 12 weeks (Phase II). To assess safety and tolerability
+---
+Trial: NCT00692237
+Title: Cardiovascular Effects of Chronic Sildenafil in Men With Type 2 Diabetes
+Phase: PHASE4
+Status: COMPLETED
+Summary: Type 2 Diabetes Mellitus (T2DM) represents a model of endothelial dysfunction, where chronic nitric oxide deprivation, hyperglycaemia and hyperinsulinemia and fibrogenic mediators lead to cardiovascular remodelling associated with diabetic cardiomyopathy and in consequence to secondary complications of diabetes. Specific anti-oxidative and anti-fibrotic therapies are not currently available. Silde
+---
+Trial: NCT04219462
+Title: Effect of ESWT on ED in Type 2 Diabetics
+Phase: NA
+Status: UNKNOWN
+Summary: Diabetes mellitus (DM) is known not only for its widespread prevalence, but also for its significant complications including cerebrovascular disease, coronary artery disease, renal failure, vision loss, and neuropathy. Of particular importance to sexual medicine, diabetes has also been strongly associated with erectile dysfunction (ED).ED is defined as the inability to obtain and/or maintain the e
+---
+Trial: NCT03462017
+Title: Pharmacodynamic Study to Assess the Effects of Repeated Dosing of SAR247799 on Endothelial Function in Patients With Type 2 Diabetes Mellitus
+Phase: PHASE1
+Status: COMPLETED
+Summary: Primary Objective:
+
+To assess the pharmacodynamic effects of SAR247799 on macrovascular endothelial function of the brachial artery using flow-mediated dilation (FMD) in patients with type 2 diabetes mellitus (T2DM).
+
+Secondary Objective:
+
+* To assess the pharmacodynamic effects of SAR247799 on microvascular endothelial function using laser Doppler perfusion monitoring in patients with T2DM.
+* To 
+---
+Trial: NCT04170790
+Title: Evaluation of Drug Interactions of Saxagliptin With Sildenafil in Healthy Volunteers
+Phase: NA
+Status: UNKNOWN
+Summary: Patients with diabetes are three times more likely to develop erectile dysfunction (ED), and longer duration of diabetes is strongly associated with ED. The possibility of pharmacokinetic interactions may occur as the two drugs are metabolized by hepatic CYP3A4 and their co administration may affect their plasma concentrations. the aim of work is to investigate the effect of sildenafil a CYP3A4 su
+---
+Trial: NCT07245875
+Title: Umbilical Cord Mesenchymal Stem Cell Secretome Administration in Severe Erectile Dysfunction Non-responsive to Sildenafil
+Phase: NA
+Status: COMPLETED
+Summary: The study is an experimental pre-post-test design involving 12 patients with severe ED non-responsive to sildenafil. Safety parameters included pain, hematoma, local bleeding, and infection, while efficacy was measured using the IIEF-5 questionnaire, EHS, and morning erection.
+---
+Trial: NCT00648596
+Title: A Study to Evaluate Self-esteem and Relationships in Males With Erectile Dysfuntion
+Phase: PHASE4
+Status: COMPLETED
+Summary: To determine the improvement in the self-esteem domain score of the Self-Esteem/Overall Relationship (SEAR) questionnaire and the improvement in erectile function (obtained from the Erectile Function \[EF\] domain of the International Index of Erectile Function \[IIEF\]). Furthermore, to determine if the improvement obtained in self-esteem was related to the main erectile dysfunction (ED) co-morbi
+---
+Trial: NCT03361631
+Title: Intracavernous Injection of Autologous Mesenchymal Stem Cells in the Treatment of Erectile Dysfunction Resistant to Oral Treatment in Patients With Type I Diabetes
+Phase: PHASE1
+Status: UNKNOWN
+Summary: Diabetes is a major concern in public health because of its high frequency and its negative consequences. Erectile dysfunction (ED) is present, regardless of age, in 50 to 75% of men with diabetes. It is related to endothelial dysfunction and a decrease in smooth muscle and nerve cells. In type 1 diabetic patients, ED is part of the chronic complications of microangiopathy. Current therapies are e
+---
+Trial: NCT05749354
+Title: Clinical Efficacy of Acupuncture on the Liver Meridian in Men With Erectile Dysfunction Reserve
+Phase: NA
+Status: UNKNOWN
+Summary: Erectile dysfunction (ED) is a kind of worldwide and common sexual dysfunction disease, which mainly affects men over forty years old. The clinical characteristics of ED is the inability to maintain sufficient erection to obtain satisfactory sexual intercourse. Age, education, diabetes, stroke, obesity, and hypertension are factors inducing ED. Recent years, the prevalence of ED is rising, and mor
+---

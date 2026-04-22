@@ -1,0 +1,1475 @@
+1. Eur Heart J. 2017 Jun 7;38(22):1706-1709. doi: 10.1093/eurheartj/ehx246.
+
+Colchicine in Pericarditis.
+
+Bayes-Genis A(1), Adler Y(2), de Luna AB(3), Imazio M(4).
+
+Author information:
+(1)Corresponding author Head, Heart Institute Hospital Universitari Germans 
+Trias i Pujol Badalona, Spain, & Department of Medicine Autonomous University of 
+Barcelona, Spain Tel: +34 93 497 86 62.
+(2)Chaim Sheba Medical Center Tel Hashomer, Israel and The Sackler School of 
+Medicine Tel Aviv University, Tel Aviv, Israel.
+(3)Cardiology Autonomous University of Barcelona and ICCC-St. Pau Hospital & 
+Quiron University Hospital Barcelona, Spain.
+(4)University Cardiology Cardiovascular & Thoracic Department AOU Cittá della 
+Salute e della Scienza di Torino and Department of Public Health and Pediatrics 
+University of Torino, Torino, Italy.
+
+DOI: 10.1093/eurheartj/ehx246
+PMID: 30052886 [Indexed for MEDLINE]
+
+
+2. JAMA. 2024 Oct 1;332(13):1090-1100. doi: 10.1001/jama.2024.12935.
+
+Diagnosis, Risk Stratification, and Treatment of Pericarditis: A Review.
+
+Cremer PC(1), Klein AL(2), Imazio M(3)(4).
+
+Author information:
+(1)Division of Cardiology, Bluhm Cardiovascular Institute, Departments of 
+Medicine and Radiology, Northwestern University Feinberg School of Medicine, 
+Chicago, Illinois.
+(2)Center for the Diagnosis and Treatment of Pericardial Diseases, Section of 
+Cardiovascular Imaging, Department of Cardiovascular Medicine, Heart, Vascular 
+and Thoracic Institute, Cleveland, Ohio.
+(3)Department of Medicine (DMED), University of Udine, Udine, Italy.
+(4)Cardiothoracic Department, University Hospital Santa Maria della 
+Misericordia, Azienda Sanitaria Universitaria Friuli Centrale (ASUFC), Udine, 
+Italy.
+
+IMPORTANCE: Pericarditis accounts for up to 5% of emergency department visits 
+for nonischemic chest pain in North America and Western Europe. With appropriate 
+treatment, 70% to 85% of these patients have a benign course. In acute 
+pericarditis, the development of constrictive pericarditis (<0.5%) and 
+pericardial tamponade (<3%) can be life-threatening.
+OBSERVATIONS: Acute pericarditis is diagnosed with presence of 2 or more of the 
+following: sharp, pleuritic chest pain that worsens when supine (≈90%); new 
+widespread electrocardiographic ST-segment elevation and PR depression 
+(≈25%-50%); a new or increased pericardial effusion that is most often small 
+(≈60%); or a pericardial friction rub (<30%). In North America and Western 
+Europe, the most common causes of acute pericarditis are idiopathic or viral, 
+followed by pericarditis after cardiac procedures or operations. Tuberculosis is 
+the most common cause in endemic areas and is treated with antituberculosis 
+therapy, with corticosteroids considered for associated constrictive 
+pericarditis. Treatment of acute idiopathic and pericarditis after cardiac 
+procedures or operations involves use of high-dose nonsteroidal 
+anti-inflammatory drugs (NSAIDs), with doses tapered once chest pain has 
+resolved and C-reactive protein level has normalized, typically over several 
+weeks. These patients should receive a 3-month course of colchicine to relieve 
+symptoms and reduce the risk of recurrence (37.5% vs 16.7%; absolute risk 
+reduction, 20.8%). With a first recurrence of pericarditis, colchicine should be 
+continued for at least 6 months. Corticosteroids are often used if pericarditis 
+does not improve with NSAIDs and colchicine. In certain patients with multiple 
+recurrences, which can occur for several years, interleukin 1 (IL-1) blockers 
+have demonstrated efficacy and may be preferred to corticosteroids.
+CONCLUSIONS: Acute pericarditis is a common cause of nonischemic chest pain. 
+Tuberculosis is the leading cause of pericarditis in endemic areas and is 
+treated with antitubercular therapy. In North America and Western Europe, 
+pericarditis is typically idiopathic, develops after a viral infection, or 
+develops following cardiac procedures or surgery. Treatment with NSAIDs and 
+colchicine leads to a favorable prognosis in most patients, although 15% to 30% 
+of patients develop recurrence. Patients with multiple recurrent pericarditis 
+can have a disease duration of several years or more, are often treated with 
+corticosteroids, and IL-1 blockers may be used for selected patients as 
+steroid-sparing therapy.
+
+DOI: 10.1001/jama.2024.12935
+PMID: 39235771 [Indexed for MEDLINE]
+
+
+3. Cochrane Database Syst Rev. 2014 Aug 28;2014(8):CD010652. doi: 
+10.1002/14651858.CD010652.pub2.
+
+Colchicine for pericarditis.
+
+Alabed S(1), Cabello JB, Irving GJ, Qintar M, Burls A.
+
+Author information:
+(1)Continuing Education, University of Oxford, Oxford, UK.
+
+Comment in
+    Heart. 2015 Sep;101(18):1437-8. doi: 10.1136/heartjnl-2015-307780.
+
+BACKGROUND: Pericarditis is the inflammation of the pericardium, the membranous 
+sac surrounding the heart. Recurrent pericarditis is the most common 
+complication of acute pericarditis, causing severe and disabling chest pains. 
+Recurrent pericarditis affects one in three patients with acute pericarditis 
+within the first 18 months. Colchicine has been suggested to be beneficial in 
+preventing recurrent pericarditis.
+OBJECTIVES: To review all randomised controlled trials (RCTs) that assess the 
+effects of colchicine alone or combined, compared to any other intervention to 
+prevent further recurrences of pericarditis, in people with acute or recurrent 
+pericarditis.
+SEARCH METHODS: We searched the following bibliographic databases on 4 August 
+2014: Cochrane Central Register of Controlled Trials (CENTRAL, Issue 7 of 12, 
+2014 on The Cochrane Library), MEDLINE (OVID, 1946 to July week 4, 2014), EMBASE 
+(OVID, 1947 to 2014 week 31), and the Conference Proceedings Citation Index - 
+Science on Web of Science (Thomson Reuters) 1990 to 1 Aug 2014. We did not apply 
+any language or time restrictions.
+SELECTION CRITERIA: RCTs of people with acute or recurrent pericarditis who are 
+receiving colchicine compared to any other treatment, in order to prevent 
+recurrences.
+DATA COLLECTION AND ANALYSIS: Two review authors independently selected trials 
+for inclusion, extracted data and assessed the risk of bias. The first primary 
+outcome was the time to recurrence, measured by calculating the hazard ratios 
+(HRs). The second primary outcome was the adverse effects of colchicine. 
+Secondary outcomes were the rate of recurrences at 6, 12 and 18 months, and 
+symptom relief.
+MAIN RESULTS: We included four RCTs, involving 564 participants in this review. 
+We compared the effects of colchicine in addition to a non-steroidal 
+anti-inflammatory drug (NSAID) such as ibuprofen, aspirin or indomethacin to the 
+effects of the NSAID alone. Two comparable trials studied the effects of 
+colchicine in 204 participants with recurrent pericarditis and two trials 
+studied 360 people with acute pericarditis. All trials had a moderate quality 
+for the primary outcomes. We identified two on-going trials; one of these trials 
+examines acute pericarditis and the other assesses recurrent pericarditis.There 
+was moderate quality evidence that colchicine reduces episodes of pericarditis 
+in people with recurrent pericarditis over 18 months follow-up (HR 0.37; 95% 
+confidence interval (CI) 0.24 to 0.58). It is expected that at 18 months, the 
+number needed to treat (NNT) is 4. In people with acute pericarditis, there was 
+moderate quality evidence that colchicine reduces recurrence (HR 0.40; 95% CI 
+0.27 to 0.61) at 18 months follow-up. Colchicine led to a greater chance of 
+symptom relief at 72 hours (risk ratio (RR) 1.4; 95% CI 1.26 to 1.56; low 
+quality evidence). Adverse effects were mainly gastrointestinal and included 
+abdominal pain and diarrhoea. The pooled RR for adverse events was 1.26 (95% CI 
+0.75 to 2.12). While the number of people experiencing adverse effects was 
+higher in the colchicine than the control groups (9% versus 7%), the quality of 
+evidence was low owing to imprecision, and there was no statistically 
+significant difference between the treatment groups (P = 0.42). There was 
+moderate quality evidence that treatment with colchicine led to more people 
+stopping treatment due to adverse events (RR 1.87; 95% CI 1.02 to 3.41).
+AUTHORS' CONCLUSIONS: Colchicine, as adjunctive therapy to NSAIDs, is effective 
+in reducing the number of pericarditis recurrences in patients with recurrent 
+pericarditis or acute pericarditis. However, evidence is based on a limited 
+number of small trials. Patients with multiple resistant recurrences were not 
+represented in any published or on-going trials, and it is these patients that 
+are in the most need for treatment.
+
+DOI: 10.1002/14651858.CD010652.pub2
+PMCID: PMC10645160
+PMID: 25164988 [Indexed for MEDLINE]
+
+Conflict of interest statement: None known.
+
+
+4. N Engl J Med. 2013 Oct 17;369(16):1522-8. doi: 10.1056/NEJMoa1208536. Epub
+2013  Aug 31.
+
+A randomized trial of colchicine for acute pericarditis.
+
+Imazio M(1), Brucato A, Cemin R, Ferrua S, Maggiolini S, Beqaraj F, Demarie D, 
+Forno D, Ferro S, Maestroni S, Belli R, Trinchero R, Spodick DH, Adler Y; ICAP 
+Investigators.
+
+Collaborators: Imazio M, Trinchero R, Adler Y, Spodick DH, Shabetai R, Imazio M, 
+Belli R, Beqaraj F, Demarie D, Forno D, Ferro S, Brucato A, Maestroni S, Cumetti 
+D, Cemin R, Ferrua S, Varbella F, Maggiolini S.
+
+Author information:
+(1)Cardiology Department, Maria Vittoria Hospital, Turin, Italy. 
+massimo_imazio@yahoo.it
+
+Comment in
+    N Engl J Med. 2014 Feb 20;370(8):781. doi: 10.1056/NEJMc1315351.
+    N Engl J Med. 2014 Feb 20;370(8):780. doi: 10.1056/NEJMc1315351.
+    N Engl J Med. 2014 Feb 20;370(8):780. doi: 10.1056/NEJMc1315351.
+    N Engl J Med. 2014 Feb 20;370(8):780-1. doi: 10.1056/NEJMc1315351.
+
+BACKGROUND: Colchicine is effective for the treatment of recurrent pericarditis. 
+However, conclusive data are lacking regarding the use of colchicine during a 
+first attack of acute pericarditis and in the prevention of recurrent symptoms.
+METHODS: In a multicenter, double-blind trial, eligible adults with acute 
+pericarditis were randomly assigned to receive either colchicine (at a dose of 
+0.5 mg twice daily for 3 months for patients weighing >70 kg or 0.5 mg once 
+daily for patients weighing ≤70 kg) or placebo in addition to conventional 
+antiinflammatory therapy with aspirin or ibuprofen. The primary study outcome 
+was incessant or recurrent pericarditis.
+RESULTS: A total of 240 patients were enrolled, and 120 were randomly assigned 
+to each of the two study groups. The primary outcome occurred in 20 patients 
+(16.7%) in the colchicine group and 45 patients (37.5%) in the placebo group 
+(relative risk reduction in the colchicine group, 0.56; 95% confidence interval, 
+0.30 to 0.72; number needed to treat, 4; P<0.001). Colchicine reduced the rate 
+of symptom persistence at 72 hours (19.2% vs. 40.0%, P=0.001), the number of 
+recurrences per patient (0.21 vs. 0.52, P=0.001), and the hospitalization rate 
+(5.0% vs. 14.2%, P=0.02). Colchicine also improved the remission rate at 1 week 
+(85.0% vs. 58.3%, P<0.001). Overall adverse effects and rates of study-drug 
+discontinuation were similar in the two study groups. No serious adverse events 
+were observed.
+CONCLUSIONS: In patients with acute pericarditis, colchicine, when added to 
+conventional antiinflammatory therapy, significantly reduced the rate of 
+incessant or recurrent pericarditis. (Funded by former Azienda Sanitaria Locale 
+3 of Turin [now Azienda Sanitaria Locale 2] and Acarpia; ICAP ClinicalTrials.gov 
+number, NCT00128453.).
+
+DOI: 10.1056/NEJMoa1208536
+PMID: 23992557 [Indexed for MEDLINE]
+
+
+5. Trends Cardiovasc Med. 2015 Feb;25(2):129-36. doi: 10.1016/j.tcm.2014.09.011. 
+Epub 2014 Oct 2.
+
+Colchicine for pericarditis.
+
+Imazio M(1).
+
+Author information:
+(1)Cardiology Department, Maria Vittoria Hospital and University of Torino, 
+Torino, Italy. Electronic address: massimo_imazio@yahoo.it.
+
+Comment in
+    Trends Cardiovasc Med. 2015 Feb;25(2):137-9. doi: 10.1016/j.tcm.2014.10.022.
+
+Colchicine is one of the oldest available drugs. It has been used for centuries 
+to treat and prevent gouty attacks and more recently to prevent attacks of 
+autoinflammatory diseases such as Familial Mediterranean Fever. Its main 
+mechanism of action is the capability to block the polymerization of tubulin, 
+thus affecting the function of microtubules. The capability to concentrate in 
+white blood cells, especially granulocytes, and interfere with their function 
+explains its potentiality as an anti-inflammatory drug. Colchicine (0.5mg twice 
+daily for patients >70kg or once daily for those weighing less) in addition to 
+standard anti-inflammatory therapy, in either acute or recurrent pericarditis, 
+may hasten the response to anti-inflammatory therapy and reduce the subsequent 
+risk of recurrences. After exclusion of contraindication and appropriate dose 
+adjustment, the drug is safe and well tolerated. The more common side effect is 
+gastrointestinal intolerance occurring in 5-10% of cases and may be controlled 
+by dose reduction or temporary discontinuation.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.tcm.2014.09.011
+PMID: 25454379 [Indexed for MEDLINE]
+
+
+6. N Engl J Med. 2019 Dec 26;381(26):2497-2505. doi: 10.1056/NEJMoa1912388. Epub 
+2019 Nov 16.
+
+Efficacy and Safety of Low-Dose Colchicine after Myocardial Infarction.
+
+Tardif JC(1), Kouz S(1), Waters DD(1), Bertrand OF(1), Diaz R(1), Maggioni 
+AP(1), Pinto FJ(1), Ibrahim R(1), Gamra H(1), Kiwan GS(1), Berry C(1), 
+López-Sendón J(1), Ostadal P(1), Koenig W(1), Angoulvant D(1), Grégoire JC(1), 
+Lavoie MA(1), Dubé MP(1), Rhainds D(1), Provencher M(1), Blondeau L(1), Orfanos 
+A(1), L'Allier PL(1), Guertin MC(1), Roubille F(1).
+
+Author information:
+(1)From the Montreal Heart Institute (J.-C.T., R.I., J.C.G., M.-A.L., M.-P.D., 
+D.R., P.L.L.) and the Montreal Health Innovations Coordinating Center (M.P., 
+L.B., A.O., M.-C.G.), Montreal, Centre Hospitalier Régional de Lanaudière, 
+Joliette (S.K.), and Institut de Cardiologie et Pneumologie de Québec, Quebec 
+City (O.F.B.) - all in Canada; San Francisco General Hospital, San Francisco 
+(D.D.W.); Estudios Clínicos Latinoamérica, Rosario, Argentina (R.D.); 
+Associazione Nazionale Medici Cardiologi Ospedalieri Research Center, Florence, 
+Italy (A.P.M.); Santa Maria University Hospital (Centro Hospitalar Universitário 
+Lisboa Norte), Centro Académico de Medicina de Lisboa, Centro Cardiovascular da 
+Universidade de Lisboa, Faculdade de Medicina da Universidade de Lisboa, Lisbon, 
+Portugal (F.J.P.); Fattouma Bourguiba University Hospital, Monastir, Tunisia 
+(H.G.); Bellevue Medical Center, Beirut, Lebanon (G.S.K.); Institute of 
+Cardiovascular and Medical Sciences, University of Glasgow, and NHS Greater 
+Glasgow and Clyde, Glasgow, United Kingdom (C.B.); Hospital Universitario La 
+Paz, Universidad Autónoma de Madrid, Instituto de Investigación La Paz, Centro 
+de Investigación Biomédica en Red-Enfermedades Cardiovasculares, Madrid 
+(J.L.-S.); Cardiovascular Center, Na Homolce Hospital, Prague, Czech Republic 
+(P.O.); Deutsches Herzzentrum München, Technische Universität München, and DZHK 
+(German Center for Cardiovascular Research), partner site Munich Heart Alliance, 
+Munich, and Institute of Epidemiology and Medical Biometry, University of Ulm, 
+Ulm - all in Germany (W.K.); Centre Hospitalier Universitaire (CHU) de Tours and 
+Équipe d'Accueil 4245 Transplantation Immunité Inflammation Loire Valley 
+Cardiovascular Collaboration, Tours University, Tours (D.A.), and PhyMedExp 
+(Physiologie et Médecine Expérimentale du Cœur et des Muscles), Université de 
+Montpellier, INSERM, Centre National de la Recherche Scientifique, Cardiology 
+Department, CHU de Montpellier, Montpellier (F.R.) - all in France.
+
+Comment in
+    N Engl J Med. 2019 Dec 26;381(26):2562-2563. doi: 10.1056/NEJMe1914378.
+    Nat Rev Cardiol. 2020 Feb;17(2):70-71. doi: 10.1038/s41569-019-0323-x.
+    MMW Fortschr Med. 2020 Mar;162(5):32. doi: 10.1007/s15006-020-0254-9.
+    Ann Intern Med. 2020 Apr 21;172(8):JC39. doi: 10.7326/ACPJ202004210-039.
+    N Engl J Med. 2020 Apr 23;382(17):1666-1667. doi: 10.1056/NEJMc2001194.
+    N Engl J Med. 2020 Apr 23;382(17):1667. doi: 10.1056/NEJMc2001194.
+    N Engl J Med. 2020 Apr 23;382(17):1667-1668. doi: 10.1056/NEJMc2001194.
+
+BACKGROUND: Experimental and clinical evidence supports the role of inflammation 
+in atherosclerosis and its complications. Colchicine is an orally administered, 
+potent antiinflammatory medication that is indicated for the treatment of gout 
+and pericarditis.
+METHODS: We performed a randomized, double-blind trial involving patients 
+recruited within 30 days after a myocardial infarction. The patients were 
+randomly assigned to receive either low-dose colchicine (0.5 mg once daily) or 
+placebo. The primary efficacy end point was a composite of death from 
+cardiovascular causes, resuscitated cardiac arrest, myocardial infarction, 
+stroke, or urgent hospitalization for angina leading to coronary 
+revascularization. The components of the primary end point and safety were also 
+assessed.
+RESULTS: A total of 4745 patients were enrolled; 2366 patients were assigned to 
+the colchicine group, and 2379 to the placebo group. Patients were followed for 
+a median of 22.6 months. The primary end point occurred in 5.5% of the patients 
+in the colchicine group, as compared with 7.1% of those in the placebo group 
+(hazard ratio, 0.77; 95% confidence interval [CI], 0.61 to 0.96; P = 0.02). The 
+hazard ratios were 0.84 (95% CI, 0.46 to 1.52) for death from cardiovascular 
+causes, 0.83 (95% CI, 0.25 to 2.73) for resuscitated cardiac arrest, 0.91 (95% 
+CI, 0.68 to 1.21) for myocardial infarction, 0.26 (95% CI, 0.10 to 0.70) for 
+stroke, and 0.50 (95% CI, 0.31 to 0.81) for urgent hospitalization for angina 
+leading to coronary revascularization. Diarrhea was reported in 9.7% of the 
+patients in the colchicine group and in 8.9% of those in the placebo group 
+(P = 0.35). Pneumonia was reported as a serious adverse event in 0.9% of the 
+patients in the colchicine group and in 0.4% of those in the placebo group 
+(P = 0.03).
+CONCLUSIONS: Among patients with a recent myocardial infarction, colchicine at a 
+dose of 0.5 mg daily led to a significantly lower risk of ischemic 
+cardiovascular events than placebo. (Funded by the Government of Quebec and 
+others; COLCOT ClinicalTrials.gov number, NCT02551094.).
+
+Copyright © 2019 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa1912388
+PMID: 31733140 [Indexed for MEDLINE]
+
+
+7. Circulation. 2022 Jan 4;145(1):61-78. doi: 10.1161/CIRCULATIONAHA.121.056171. 
+Epub 2021 Dec 29.
+
+Colchicine in Cardiovascular Disease: In-Depth Review.
+
+Deftereos SG(1), Beerkens FJ(2), Shah B(3), Giannopoulos G(4), Vrachatis DA(1), 
+Giotaki SG(1), Siasos G(1), Nicolas J(2), Arnott C(5)(6), Patel S(6), Parsons 
+M(7), Tardif JC(8), Kovacic JC(2)(9)(10), Dangas GD(1)(2).
+
+Author information:
+(1)Medical School, National Kapodistrian University of Athens, Greece (S.G.D., 
+D.A.V., S.G.G., G.S., G.D.D.).
+(2)Mount Sinai Hospital, Icahn School of Medicine at Mount Sinai, New York 
+(F.J.B., J.N., J.C.K., G.D.D.).
+(3)VA New York Harbor Healthcare System, New York University School of Medicine, 
+New York (B.S.).
+(4)Medical School, Aristotelian University, Thessaloniki, Greece (G.G.).
+(5)The George Institute for Global Health, Faculty of Medicine, University of 
+New South Wales, Sydney, Australia (C.A.).
+(6)Department of Cardiology, Royal Prince Alfred Hospital, Sydney Medical 
+School, University of Sydney, Australia (C.A., S.P.).
+(7)Department of Neurology, Liverpool Hospital and Ingham Institute for Applied 
+Medical Research at South Western Sydney Clinical School, University of New 
+South Wales, Australia (M.P.).
+(8)Montreal Heart Institute, Université de Montréal, Canada (J.-C.T.).
+(9)Victor Chang Cardiac Research Institute, Darlinghurst, Australia (J.C.K.).
+(10)St Vincent's Clinical School, University of New South Wales, Darlinghurst, 
+Australia (J.C.K.).
+
+Inflammation plays a prominent role in the development of atherosclerosis and 
+other cardiovascular diseases, and anti-inflammatory agents may improve 
+cardiovascular outcomes. For years, colchicine has been used as a safe and 
+well-tolerated agent in diseases such as gout and familial Mediterranean fever. 
+The widely available therapeutic has several anti-inflammatory effects, however, 
+that have proven effective in a broad spectrum of cardiovascular diseases as 
+well. It is considered standard-of-care therapy for pericarditis, and several 
+clinical trials have evaluated its role in postoperative and postablation atrial 
+fibrillation, postpericardiotomy syndrome, coronary artery disease, percutaneous 
+coronary interventions, and cerebrovascular disease. We aim to summarize 
+colchicine's pharmacodynamics and the mechanism behind its anti-inflammatory 
+effect, outline thus far accumulated evidence on treatment with colchicine in 
+cardiovascular disease, and present ongoing randomized clinical trials. We also 
+emphasize real-world clinical implications that should be considered on the 
+basis of the merits and limitations of completed trials. Altogether, 
+colchicine's simplicity, low cost, and effectiveness may provide an important 
+addition to other standard cardiovascular therapies. Ongoing studies will 
+address complementary questions pertaining to the use of low-dose colchicine for 
+the treatment of cardiovascular disease.
+
+DOI: 10.1161/CIRCULATIONAHA.121.056171
+PMCID: PMC8726640
+PMID: 34965168 [Indexed for MEDLINE]
+
+
+8. JAMA. 2015 Oct 13;314(14):1498-506. doi: 10.1001/jama.2015.12763.
+
+Evaluation and Treatment of Pericarditis: A Systematic Review.
+
+Imazio M(1), Gaita F(2), LeWinter M(3).
+
+Author information:
+(1)Cardiology Department, Maria Vittoria Hospital and Department of Public 
+Health and Pediatrics, University of Torino, Torino, Italy.
+(2)University Division of Cardiology, Department of Medical Sciences, Città 
+della Salute e Della Scienza, University of Torino, Torino, Italy.
+(3)Cardiology Unit, University of Vermont College of Medicine and University of 
+Vermont Medical Center, Burlington.
+
+Erratum in
+    JAMA. 2015 Nov 10;314(18):1978. doi: 10.1001/jama.2015.14847.
+    JAMA. 2016 Jan 5;315(1):90. doi: 10.1001/jama.2015.16998.. Dosage error in 
+article text.
+
+IMPORTANCE: Pericarditis is the most common form of pericardial disease and a 
+relatively common cause of chest pain.
+OBJECTIVE: To summarize published evidence on the causes, diagnosis, therapy, 
+prevention, and prognosis of pericarditis.
+EVIDENCE REVIEW: A literature search of BioMedCentral, Google Scholar, MEDLINE, 
+Scopus, and the Cochrane Database of Systematic Reviews was performed for human 
+studies without language restriction from January 1, 1990, to August 31, 2015. 
+After literature review and selection of meta-analyses, randomized clinical 
+trials, and large observational studies, 30 studies (5 meta-analyses, 10 
+randomized clinical trials, and 16 cohort studies) with 7569 adult patients were 
+selected for inclusion.
+FINDINGS: The etiology of pericarditis may be infectious (eg, viral and 
+bacterial) or noninfectious (eg, systemic inflammatory diseases, cancer, and 
+post-cardiac injury syndromes). Tuberculosis is a major cause of pericarditis in 
+developing countries but accounts for less than 5% of cases in developed 
+countries, where idiopathic, presumed viral causes are responsible for 80% to 
+90% of cases. The diagnosis is based on clinical criteria including chest pain, 
+a pericardial rub, electrocardiographic changes, and pericardial effusion. 
+Certain features at presentation (temperature >38°C [>100.4°F], subacute course, 
+large effusion or tamponade, and failure of nonsteroidal anti-inflammatory drug 
+[NSAID] treatment) indicate a poorer prognosis and identify patients requiring 
+hospital admission. The most common treatment for idiopathic and viral 
+pericarditis in North America and Europe is NSAID therapy. Adjunctive colchicine 
+can ameliorate the initial episode and is associated with approximately 50% 
+lower recurrence rates. Corticosteroids are a second-line therapy for those who 
+do not respond, are intolerant, or have contraindications to NSAIDs and 
+colchicine. Recurrences may occur in 30% of patients without preventive therapy.
+CONCLUSIONS AND RELEVANCE: Pericarditis is the most common form of pericardial 
+disease worldwide and may recur in as many as one-third of patients who present 
+with idiopathic or viral pericarditis. Appropriate triage and treatment with 
+NSAIDs may reduce readmission rates for pericarditis. Treatment with colchicine 
+can reduce recurrence rates.
+
+DOI: 10.1001/jama.2015.12763
+PMID: 26461998 [Indexed for MEDLINE]
+
+
+9. Eur J Prev Cardiol. 2020 Jun;27(9):956-964. doi: 10.1177/2047487319879534.
+Epub  2019 Oct 15.
+
+Anakinra for corticosteroid-dependent and colchicine-resistant pericarditis: The 
+IRAP (International Registry of Anakinra for Pericarditis) study.
+
+Imazio M(1), Andreis A(1), De Ferrari GM(1), Cremer PC(2), Mardigyan V(3), 
+Maestroni S(4), Luis SA(5), Lopalco G(6), Emmi G(7), Lotan D(8), Marcolongo 
+R(9), Lazaros G(10), De Biasio M(11), Cantarini L(12), Dagna L(13), Cercek 
+AC(14), Pivetta E(15), Varma B(2), Berkson L(3), Tombetti E(16), Iannone F(6), 
+Prisco D(7), Caforio ALP(9), Vassilopoulos D(10), Tousoulis D(10), De Luca 
+G(13), Giustetto C(1), Rinaldi M(1), Oh JK(5), Klein AL(2), Brucato A(16), Adler 
+Y(8).
+
+Author information:
+(1)Coordinating Center: University Cardiology, A.O.U. Città della Salute e della 
+Scienza di Torino, Italy.
+(2)Heart and Vascular Institute, Cleveland Clinic, USA.
+(3)McGill University, Jewish General Hospital, Canada.
+(4)Internal Medicine Division, Ospedale Papa Giovanni XXIII, Italy.
+(5)Department of Cardiovascular Medicine, Mayo Clinic, USA.
+(6)Department of Emergency and Organ Transplantation (DETO), University of Bari, 
+Italy.
+(7)Department of Experimental and Clinical Medicine, University of Firenze, 
+Italy.
+(8)Leviev Heart Center, Chaim Sheba Medical Center (affiliated to Tel Aviv 
+University), Israel.
+(9)Department of Cardiac Thoracic Vascular Sciences and Public Health, 
+Policlinico Universitario, Italy.
+(10)1st Cardiology Clinic, Hippokration General Hospital, School of Medicine, 
+National and Kapodistrian University of Athens, Greece.
+(11)Cardiology Department, Udine Hospital, Italy.
+(12)Research Center of Systemic Autoinflammatory Diseases, University of Siena, 
+Italy.
+(13)Unit of Immunology, Rheumatology, Allergy and Rare Diseases (UnIRAR), IRCCS 
+San Raffaele Hospital, Italy.
+(14)Department of Cardiology, University Medical Center Ljubljana, Slovenia.
+(15)Emergency Medicine Division and High Dependency Unit and CPO Piemonte, 
+A.O.U. Città della Salute e della Scienza di Torino, Italy.
+(16)Dipartimento Scienze Cliniche e biomediche Luigi Sacco, ASST 
+Fatebenefratelli-Sacco, Università degli Studi di Milano, Italy.
+
+Comment in
+    Eur J Prev Cardiol. 2020 Jun;27(9):953-955. doi: 10.1177/2047487319887462.
+
+AIMS: Novel therapies are needed for recurrent pericarditis, particularly when 
+corticosteroid dependent and colchicine resistant. Based on limited data, 
+interleukin-1 blockade with anakinra may be beneficial. The aim of this 
+multicentre registry was to evaluate the broader effectiveness and safety of 
+anakinra in a 'real world' population.
+METHODS AND RESULTS: This registry enrolled consecutive patients with recurrent 
+pericarditis who were corticosteroid dependent and colchicine resistant and 
+treated with anakinra. The primary outcome was the pericarditis recurrence rate 
+after treatment. Secondary outcomes included emergency department visits, 
+hospitalisations, corticosteroid use and adverse events. Among 224 patients 
+(46 ± 14 years old, 63% women, 75% idiopathic), the median duration of disease 
+was 17 months (interquartile range 9-33). Most patients had elevated C-reactive 
+protein (91%) and pericardial effusion (88%). After a median treatment of 6 
+months (3-12), pericarditis recurrences were reduced six-fold (2.33-0.39 per 
+patient per year), emergency department admissions were reduced 11-fold 
+(1.08-0.10 per patient per year), hospitalisations were reduced seven-fold 
+(0.99-0.13 per patient per year). Corticosteroid use was decreased by anakinra 
+(respectively from 80% to 27%; P < 0.001). No serious adverse events occurred; 
+adverse events consisted mostly of transient skin reactions (38%) at the 
+injection site. Adverse events led to discontinuation in 3%. A full-dose 
+treatment duration of over 3 months followed by a tapering period of over 3 
+months were the therapeutic schemes associated with a lower risk of recurrence.
+CONCLUSION: In patients with recurrent pericarditis, anakinra appears 
+efficacious and safe in reducing recurrences, emergency department admissions 
+and hospitalisations.
+
+DOI: 10.1177/2047487319879534
+PMID: 31610707 [Indexed for MEDLINE]
+
+
+10. Arterioscler Thromb Vasc Biol. 2024 May;44(5):1031-1041. doi: 
+10.1161/ATVBAHA.124.319851. Epub 2024 Mar 21.
+
+Colchicine's Role in Cardiovascular Disease Management.
+
+Buckley LF(1), Libby P(2).
+
+Author information:
+(1)Department of Pharmacy (L.F.B.), Brigham and Women's Hospital, Boston, MA.
+(2)Division of Cardiovascular Medicine (P.L.), Brigham and Women's Hospital, 
+Boston, MA.
+
+Erratum in
+    Arterioscler Thromb Vasc Biol. 2024 Jul;44(7):e208. doi: 
+10.1161/ATV.0000000000000172.
+
+Colchicine-an anti-inflammatory alkaloid-has assumed an important role in the 
+management of cardiovascular inflammation ≈3500 years after its first medicinal 
+use in ancient Egypt. Primarily used in high doses for the treatment of acute 
+gout flares during the 20th century, research in the early 21st century 
+demonstrated that low-dose colchicine effectively treats acute gout attacks, 
+lowers the risk of recurrent pericarditis, and can add to secondary prevention 
+of major adverse cardiovascular events. As the first Food and Drug 
+Administration-approved targeted anti-inflammatory cardiovascular therapy, 
+colchicine currently has a unique role in the management of atherosclerotic 
+cardiovascular disease. The safe use of colchicine requires careful monitoring 
+for drug-drug interactions, changes in kidney and liver function, and counseling 
+regarding gastrointestinal upset. Future research should elucidate the 
+mechanisms of anti-inflammatory effects of colchicine relevant to 
+atherosclerosis, the potential role of colchicine in primary prevention, in 
+other cardiometabolic conditions, colchicine's safety in cardiovascular 
+patients, and opportunities for individualizing colchicine therapy using 
+clinical and molecular diagnostics.
+
+DOI: 10.1161/ATVBAHA.124.319851
+PMCID: PMC11047118
+PMID: 38511324 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosures L.F. Buckley has received consulting 
+fees from Kiniksa Pharmaceuticals and speaker fees from Boehringer Ingelheim 
+Pharmaceuticals, Inc, and Eli Lilly and Company through ASHP Advantage. P. Libby 
+is an unpaid consultant to, or involved in clinical trials for, Amgen, 
+AstraZeneca, Baim Institute, Beren Therapeutics, Esperion Therapeutics, 
+Genentech, Kancera, Kowa Pharmaceuticals, Medimmune, Merck, Moderna, Novo 
+Nordisk, Novartis, Pfizer, and Sanofi-Regeneron. P. Libby is a member of the 
+scientific advisory board for Amgen, Caristo Diagnostics, Cartesian 
+Therapeutics, CSL Behring, DalCor Pharmaceuticals, Dewpoint Therapeutics, 
+Eulicid Bioimaging, Kancera, Kowa Pharmaceuticals, Olatec Therapeutics, 
+Medimmune, Novartis, PlaqueTec, TenSixteen Bio, Soley Therapeutics, and 
+XBiotech, Inc. P. Libby’s laboratory has received research funding in the last 2 
+years from Novartis, Novo Nordisk, and Genentech. P. Libby is on the Board of 
+Directors of XBiotech, Inc. P. Libby has a financial interest in Xbiotech, a 
+company developing therapeutic human antibodies, in TenSixteen Bio, a company 
+targeting somatic mosaicism and clonal hematopoiesis of indeterminate potential 
+to discover and develop novel therapeutics to treat age-related diseases, and in 
+Soley Therapeutics, a biotechnology company that is combining artificial 
+intelligence with molecular and cellular response detection for discovering and 
+developing new drugs, currently focusing on cancer therapeutics. P. Libby’s 
+interests were reviewed and are managed by Brigham and Women’s Hospital and Mass 
+General Brigham in accordance with their conflicts-of-interest policies.
+
+
+11. Eur Heart J. 2021 Jul 21;42(28):2745-2760. doi: 10.1093/eurheartj/ehab221.
+
+Colchicine and the heart.
+
+Imazio M(1), Nidorf M(2).
+
+Author information:
+(1)Cardiology, Cardiothoracic Department, University Hospital "Santa Maria della 
+Misericordia", ASUFC, Piazzale Santa Maria della Misericordia 15, 33100 Udine, 
+Italy.
+(2)GenesisCare, 3/140 Mounts Bay Rd, Perth, Western Australia, Australia.
+
+Colchicine is a unique, sophisticated anti-inflammatory agent that has been used 
+for decades for the prevention of acute inflammatory flares in gout and familial 
+Mediterranean fever. In recent years, clinical trials have demonstrated its 
+potential in a range of cardiovascular (CV) conditions. Colchicine is avidly 
+taken up by leucocytes, and its ability to bind to tubulin and interfere with 
+microtubular function affects the expression of cytokines and interleukins, and 
+the ability of neutrophils to marginate, ingress, aggregate, express superoxide, 
+release neutrophil extracellular traps, and interact with platelets. In patients 
+with acute and recurrent pericarditis, clinical trials in >1600 patients have 
+consistently shown that colchicine halves the risk of recurrence [relative risk 
+(RR) 0.50, 95% confidence interval (CI) 0.42-0.60]. In patients with acute and 
+chronic coronary syndromes, multicentre randomized controlled trials in >11 000 
+patients followed for up to 5 years demonstrated that colchicine may reduce the 
+risk of CV death, myocardial infarction, ischaemic stroke and ischaemia-driven 
+revascularization by >30% (RR 0.63, 95% CI 0.49-0.81). The use of colchicine at 
+doses of 0.5-1.0 mg daily in CV trials has proved safe. Early gastrointestinal 
+intolerance limits its use in ∼10% of patients; however, ∼90% of patients 
+tolerate it well over the long term. Despite isolated case reports, clinically 
+relevant drug interactions with moderate to strong CYP3A4 inhibitors/competitors 
+or P-glycoprotein inhibitors/competitors are rare if this dosage of colchicine 
+is used in the absence of advanced renal or liver disease. The aim of this 
+review is to summarize the contemporary data supporting the efficacy and safety 
+of colchicine in patients with CV disease.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of the 
+European Society of Cardiology.
+
+DOI: 10.1093/eurheartj/ehab221
+PMCID: PMC8294843
+PMID: 33961006 [Indexed for MEDLINE]
+
+
+12. Curr Cardiol Rep. 2023 Mar;25(3):157-170. doi: 10.1007/s11886-023-01839-0.
+Epub  2023 Feb 7.
+
+Pediatric Pericarditis: Update.
+
+Shahid R(1), Jin J(2), Hope K(3), Tunuguntla H(3), Amdani S(4).
+
+Author information:
+(1)Department of Pediatric Cardiology, Cleveland Clinic Children's Hospital, 
+Cleveland, OH, USA.
+(2)Division of Pediatric Cardiology, Northwestern Feinberg School of Medicine, 
+Ann & Robert H. Lurie Children's Hospital of Chicago, Chicago, IL, USA.
+(3)Lillie Frank Abercrombie Division of Pediatric Cardiology, Department of 
+Pediatrics, Texas Children's Hospital, Baylor College of Medicine, Houston, TX, 
+USA.
+(4)Department of Pediatric Cardiology, Cleveland Clinic Children's Hospital, 
+Cleveland, OH, USA. amdanis@ccf.org.
+
+PURPOSE OF REVIEW: While there have now been a variety of large reviews on adult 
+pericarditis, this detailed review specifically focuses on the epidemiology, 
+clinical presentation, diagnosis, and management of pediatric pericarditis. We 
+have tried to highlight most pediatric studies conducted on this topic, with 
+special inclusion of important adult studies that have shaped our understanding 
+of and management for acute and recurrent pericarditis.
+RECENT FINDINGS: We find that the etiology of pediatric pericarditis differs 
+from adult patients with pericarditis and has evolved over the years. Also, with 
+the current COVID-19 pandemic, it is important for pediatric clinicians to be 
+aware of pericardial involvement both due to the infection and from vaccination. 
+Oftentimes, pericarditis maybe the only cardiac involvement in children with 
+COVID-19, and so caregivers should maintain a high index of suspicion when they 
+encounter children with pericarditis.  Large-scale contemporary epidemiological 
+data regarding incidence and prevalence of both acute and recurrent pericarditis 
+is lacking in pediatrics, and future studies should focus on highlighting this 
+important research gap. Most of the current management strategies for pediatric 
+pericarditis are from experiences gathered from adult data. Pediatric 
+multicenter trials are warranted to understand the best management strategy for 
+those with acute and recurrent pericarditis.
+CASE VIGNETTE: A 6-year-old child with a past history of pericarditis almost 
+2 months ago comes in with a 2-day history of chest pain and fever. Per mother, 
+he stopped his steroids about 2 weeks ago, and for the last 2 days has had a 
+temperature of 102F and has been complaining of sharp mid-sternal chest pain 
+that gets worse when he lies down and is relieved when he sits up and leans 
+forward. On examination, he is tachycardic (heart rate 160 bpm), with normal 
+blood pressure for age. He appears to be in pain (5/10), and on auscultation has 
+a pericardial friction rub. His lab studies are notable for elevated white blood 
+cell count and inflammatory markers (CRP and ESR). His electrocardiogram reveals 
+sinus tachycardia and diffuse ST-elevation in all precordial leads. His 
+echocardiogram demonstrates normal biventricular function and a trace 
+pericardial effusion. His cardiac MRI confirms recurrent pericarditis. He is 
+started on indomethacin and colchicine. He has complete resolution of his 
+symptoms by day 3 of admission and is discharged with close follow-up.
+
+© 2023. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s11886-023-01839-0
+PMCID: PMC9903287
+PMID: 36749541 [Indexed for MEDLINE]
+
+Conflict of interest statement: SA is site PI for a multicenter study led by the 
+University of Michigan—reports no salary support. KH reports the following: 
+International Society for Heart and Lung Transplantation (Pediatrics 
+Professional Community Representative to the Early Career and Trainee 
+Committee—2020–present. Unpaid leadership position), International Society for 
+Heart and Lung Transplantation (Co-Chair, Early Career and Trainee 
+Committee—2022–present. Unpaid leadership position), and Advanced Cardiac 
+Therapies Improving Outcomes Network (Co-Chair-VAD Recovery Taskforce, 
+2022–present. Unpaid leadership position). The other authors declare that they 
+have no conflict of interest.
+
+
+13. Prim Care. 2024 Mar;51(1):111-124. doi: 10.1016/j.pop.2023.07.006. Epub 2023
+Aug  26.
+
+Myocarditis and Pericarditis.
+
+Spotts PH(1), Zhou F(2).
+
+Author information:
+(1)Department of Family Medicine & Community Health, Duke Student Health, Duke 
+University, 305 Towerview Road, Second Floor, Durham, NC 27708, USA. Electronic 
+address: hunter.spotts@duke.edu.
+(2)Department of Family Medicine & Community Health, Duke Student Health, Duke 
+University, 305 Towerview Road, Second Floor, Durham, NC 27708, USA.
+
+Pericarditis typically presents with classic symptoms of acute sharp, 
+retrosternal, and pleuritic chest pain. It can have several different underlying 
+causes including viral, bacterial, and autoimmune etiologies. The mainstays of 
+pericarditis treatment are nonsteroidal anti-inflammatory drugs and colchicine 
+with glucocorticoids or other immunosuppressive drugs used for refractory cases 
+and relapse. Myocarditis is an inflammatory disease of the cardiac muscle that 
+is caused by a variety of infectious and noninfectious conditions. It mainly 
+affects young adults (median age 30-45 years), and men more than women. The 
+clinical manifestations of myocarditis are highly variable, so a high level of 
+suspicion in the early stage of disease is important to facilitate diagnosis. 
+The treatment of myocarditis includes nonspecific treatment aimed at 
+complications such as heart failure and arrhythmia, as well as specific 
+treatment aimed at underlying causes. Pericarditis and myocarditis associated 
+with vaccine have been extremely rare before coronavirus disease 2019 
+(COVID-19). There is a small increase of incidence after COVID-19 messenger 
+ribonucleic acid vaccine, but the relative risk for pericarditis and myocarditis 
+due to severe acute respiratory syndrome coronavirus 2 infection is much higher. 
+Therefore, vaccination against COVID-19 is currently recommended for everyone 
+aged 6 years and older.
+
+Copyright © 2023 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.pop.2023.07.006
+PMID: 38278565 [Indexed for MEDLINE]
+
+
+14. Am Fam Physician. 2024 May;109(5):441-446.
+
+Acute Pericarditis: Rapid Evidence Review.
+
+Peterson TA(1), Turner SP(1), Dolezal KA(2).
+
+Author information:
+(1)Madigan Army Medical Center Family Medicine Residency Program, Tacoma, 
+Washington; Uniformed Services University of the Health Sciences, Bethesda, 
+Maryland; University of Washington School of Medicine, Seattle, Washington.
+(2)Madigan Army Medical Center Family Medicine Residency Program, Tacoma, 
+Washington; Uniformed Services University of the Health Sciences, Bethesda, 
+Maryland.
+
+Acute pericarditis is defined as inflammation of the pericardium and occurs in 
+approximately 4.4% of patients who present to the emergency department for 
+nonischemic chest pain, with a higher prevalence in men. Although there are 
+numerous etiologies of pericarditis, most episodes are idiopathic and the cause 
+is presumed to be viral. Diagnosis of pericarditis requires at least two of the 
+following criteria: new or worsening pericardial effusion, characteristic 
+pleuritic chest pain, pericardial friction rub, or electrocardiographic changes, 
+including new, widespread ST elevations or PR depressions. Pericardial friction 
+rubs are highly specific but transient, and they have been reported in 18% to 
+84% of patients with acute pericarditis. Classic electrocardiographic findings 
+include PR-segment depressions; diffuse, concave, upward ST-segment elevations 
+without reciprocal changes; and T-wave inversions. Transthoracic 
+echocardiography should be performed in all patients with acute pericarditis to 
+characterize the size of effusions and evaluate for complications. Nonsteroidal 
+anti-inflammatory drugs are the first-line treatment option. Glucocorticoids 
+should be reserved for patients with contraindications to first-line therapy and 
+those who are pregnant beyond 20 weeks' gestation or have other systemic 
+inflammatory conditions. Colchicine should be used in combination with first- or 
+second-line treatments to reduce the risk of recurrence. Patients with a higher 
+risk of complications should be admitted to the hospital for further workup and 
+treatment.
+
+PMID: 38804758 [Indexed for MEDLINE]
+
+
+15. Semin Arthritis Rheum. 2015 Dec;45(3):341-50. doi: 
+10.1016/j.semarthrit.2015.06.013. Epub 2015 Jun 26.
+
+Colchicine--Update on mechanisms of action and therapeutic uses.
+
+Leung YY(1), Yao Hui LL(2), Kraus VB(3).
+
+Author information:
+(1)Department of Rheumatology & Immunology, Singapore General Hospital, The 
+Academia, Level 4, 20 College Rd, Singapore 169856; Department of Clinical 
+Sciences, Duke-NUS Graduate Medical School, Singapore. Electronic address: 
+katyccc@hotmail.com.
+(2)Department of Rheumatology & Immunology, Singapore General Hospital, The 
+Academia, Level 4, 20 College Rd, Singapore 169856.
+(3)Duke Molecular Physiology Institute and Division of Rheumatology, Department 
+of Medicine, Duke University School of Medicine, Durham, NC.
+
+Comment in
+    Semin Arthritis Rheum. 2016 Apr;45(5):e15. doi: 
+10.1016/j.semarthrit.2015.09.012.
+    Semin Arthritis Rheum. 2016 Jun;45(6):e25. doi: 
+10.1016/j.semarthrit.2016.02.007.
+
+OBJECTIVES: To review the literature and provide an update on the mechanisms of 
+action and therapeutic uses of oral colchicine in arthritis and inflammatory 
+conditions.
+METHODS: We performed PubMed database searches through June 2014 for relevant 
+studies in the English literature published since the last update of colchicine 
+in 2008. Searches encompassed colchicine mechanisms of action and clinical 
+applications in medical conditions. A total of 381 articles were reviewed.
+RESULTS: The primary mechanism of action of colchicine is tubulin disruption. 
+This leads to subsequent down regulation of multiple inflammatory pathways and 
+modulation of innate immunity. Newly described mechanisms include various 
+inhibitory effects on macrophages including the inhibition of the 
+NACHT-LRRPYD-containing protein 3 (NALP3) inflammasome, inhibition of pore 
+formation activated by purinergic receptors P2X7 and P2X2, and stimulation of 
+dendritic cell maturation and antigen presentation. Colchicine also has 
+anti-fibrotic activities and various effects on endothelial function. The 
+therapeutic use of colchicine has extended beyond gouty arthritis and familial 
+Mediterranean fever, to osteoarthritis, pericarditis, and atherosclerosis.
+CONCLUSION: Further understanding of the mechanisms of action underlying the 
+therapeutic efficacy of colchicine will lead to its potential use in a variety 
+of conditions.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.semarthrit.2015.06.013
+PMCID: PMC4656054
+PMID: 26228647 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest There is no conflict of 
+interest in regard to the content of the manuscript.
+
+
+16. Eur Heart J. 2009 Mar;30(5):532-9. doi: 10.1093/eurheartj/ehn608. Epub 2009
+Feb  3.
+
+Colchicine for pericarditis: hype or hope?
+
+Imazio M(1), Brucato A, Trinchero R, Spodick D, Adler Y.
+
+Author information:
+(1)Cardiology Department, Maria Vittoria Hospital, Torino, Italy. 
+massimo_imazio@yahoo.it
+
+Colchicine has been effectively used in the treatment of several inflammatory 
+conditions, such as gouty attacks, serositis related to familial Mediterranean 
+fever, Behçet syndrome, and more recently also in acute and recurrent 
+pericarditis. Growing evidence has shown that the drug may be useful to treat an 
+acute attack and may be a way to cope with the prevention of pericarditis in 
+acute and recurrent cases and after cardiac surgery. Nevertheless, clinicians 
+are often sceptical about the efficacy of the drug, and concerns have risen on 
+possible side effects and tolerability. In this review, we analyse current 
+evidence to support the use of the drug, as well as possible harms and risks 
+related to drug interactions, reaching the conclusion that colchicine is safe 
+and useful in recurrent pericarditis, if specific precautions are followed, 
+although less evidence supports its use for the treatment of acute pericarditis, 
+where colchicine remains optional and there is a need for further multicentre 
+confirmatory studies. This paper also reviews specific dosing and precautions 
+for the clinical use.
+
+DOI: 10.1093/eurheartj/ehn608
+PMID: 19190012 [Indexed for MEDLINE]
+
+
+17. Arch Dis Child. 2016 Oct;101(10):953-6. doi:
+10.1136/archdischild-2015-310287.  Epub 2016 Apr 15.
+
+Colchicine for children with pericarditis: systematic review of clinical 
+studies.
+
+Alabed S(1), Pérez-Gaxiola G(2), Burls A(3).
+
+Author information:
+(1)Academic Radiology Registrar at Sheffield Teaching Hospitals NHS Foundation 
+Trust, Sheffield, UK.
+(2)Cochrane México, Hospital Pediátrico de Sinaloa, Culiacán, México.
+(3)Professor of Public Health, City University London, London, UK.
+
+OBJECTIVE: To review the evidence for the efficacy and safety of colchicine in 
+children with pericarditis.
+DESIGN: Systematic review.
+SEARCH STRATEGY: The following databases were searched for studies about 
+colchicine in children with pericarditis (June 2015): Cochrane Central, Medline, 
+EMBASE and LILACS.
+ELIGIBILITY CRITERIA: All observational and experimental studies on humans with 
+any length of follow-up and no limitations on language or publication status 
+were included. The outcomes studied were recurrences of pericarditis and adverse 
+events.
+DATA EXTRACTION: Two authors extracted data and assessed quality of included 
+studies using the Cochrane risk of bias tool for non-randomised trials.
+RESULTS: Two case series and nine case reports reported the use of colchicine in 
+a total of 86 children with pericarditis. Five articles including 74 paediatric 
+patients were in favour of colchicine in preventing further pericarditis 
+recurrences. Six studies including 12 patients showed that colchicine did not 
+prevent recurrences of pericarditis.
+LIMITATIONS: No randomised controlled trials (RCTs) were found.
+CONCLUSIONS: Although colchicine is an established treatment for pericarditis in 
+adults, it is not routinely used in children. There is not enough evidence to 
+support or discourage the use of colchicine in children with pericarditis. 
+Further research in the form of large double-blind RCTs is needed to establish 
+the efficacy of colchicine in children with pericarditis.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not 
+already granted under a licence) please go to 
+http://www.bmj.com/company/products-services/rights-and-licensing/
+
+DOI: 10.1136/archdischild-2015-310287
+PMID: 27083755 [Indexed for MEDLINE]
+
+
+18. BMC Cardiovasc Disord. 2019 Sep 2;19(1):207. doi: 10.1186/s12872-019-1190-4.
+
+Meta-analysis for the value of colchicine for the therapy of pericarditis and of 
+postpericardiotomy syndrome.
+
+Lutschinger LL(1), Rigopoulos AG(2), Schlattmann P(3), Matiakis M(2), Sedding 
+D(2), Schulze PC(1), Noutsias M(4)(5).
+
+Author information:
+(1)Department of Internal Medicine I, Division of Cardiology, Pneumology, 
+Angiology and Intensive Medical Care, University Hospital Jena, 
+Friedrich-Schiller-University Jena, Jena, Germany.
+(2)Mid-German Heart Center, Department of Internal Medicine III (KIM III), 
+Division of Cardiology, Angiology and Intensive Medical Care, University 
+Hospital Halle, Martin-Luther-University Halle-Wittenberg, Ernst-Grube-Strasse 
+40, D-06120, Halle (Saale), Germany.
+(3)Institute of Medical Statistics, Informatics and Data Science (IMSID), 
+University Hospital Jena, Friedrich-Schiller University Jena, Jena, Germany.
+(4)Department of Internal Medicine I, Division of Cardiology, Pneumology, 
+Angiology and Intensive Medical Care, University Hospital Jena, 
+Friedrich-Schiller-University Jena, Jena, Germany. michel.noutsias@uk-halle.de.
+(5)Mid-German Heart Center, Department of Internal Medicine III (KIM III), 
+Division of Cardiology, Angiology and Intensive Medical Care, University 
+Hospital Halle, Martin-Luther-University Halle-Wittenberg, Ernst-Grube-Strasse 
+40, D-06120, Halle (Saale), Germany. michel.noutsias@uk-halle.de.
+
+Erratum in
+    BMC Cardiovasc Disord. 2019 Oct 18;19(1):227. doi: 
+10.1186/s12872-019-1195-z.
+
+BACKGROUND: Colchicine has been used as anti-inflammatory agent in pericardial 
+effusion (PE). We sought to perform a meta-analysis of randomized trials 
+assessing the efficacy and safety of colchicine in patients with pericarditis or 
+postpericardiotomy syndrome (PPS).
+METHODS: In the systematic literature search following the PRISMA statement, 10 
+prospective randomized controlled studies with 1981 patients with an average 
+follow-up duration of 13.6 months were identified.
+RESULTS: Colchicine reduced the recurrence rate of pericarditis in patients with 
+acute and recurrent pericarditis and reduced the incidence of PPS (RR: 0.57, 95% 
+CI: 0.44-0.74). Additionally, the rate of rehospitalizations as well as the 
+symptom duration after 72 h was significantly decreased in pericarditis (RR 
+0.33; 95% CI 0.18-0.60; and RR 0.43; 95% CI 0.34-0.54; respectively), but not in 
+PPS. Treatment with colchicine was associated with significantly higher adverse 
+event (AE) rates (RR 1.42; 95% CI 1.05-1.92), with gastrointestinal intolerance 
+being the leading AE. The reported number needed to treat (NNT) for the 
+prevention of recurrent pericarditis ranged between 3 and 5. The reported NNT 
+for PPS prevention was 10, and the number needed to harm (NNH) was 12, 
+respectively. Late colchicine administration > 7 days after heart surgery did 
+not reduce postoperative PE.
+CONCLUSIONS: Our meta-analysis confirms that colchicine is efficacious and safe 
+for prevention of recurrent pericarditis and PPS, while it reduces 
+rehospitalizations and symptom duration in pericarditis. The clinical use of 
+colchicine for the setting of PPS and postoperative PE after heart surgery 
+should be investigated in further multicenter RCT.
+
+DOI: 10.1186/s12872-019-1190-4
+PMCID: PMC6720402
+PMID: 31477020 [Indexed for MEDLINE]
+
+Conflict of interest statement: MN has been consultant to the IKDT (Institute 
+for Cardiac Diagnosis and Therapy GmbH, Berlin) 2004–2008, and has received 
+honoraria for presentations and/or participated in advisory boards from 
+AstraZeneca, Bayer, Fresenius, Miltenyi Biotech, Novartis, Pfizer and Zoll. AGR 
+has received honoraria for presentations from Astra-Zeneca.
+
+
+19. Rev Prat. 2021 Jan;71(1):79-83.
+
+[Pericarditis].
+
+[Article in French; Abstract available in French from the publisher]
+
+Marques C(1), Cacoub P(1).
+
+Author information:
+(1)"Service de médecine interne et immunologie clinique, Centre de référence des 
+maladies auto-immunes et systémiques rares, Centre de référence des maladies 
+auto-inflammatoires, groupe hospitalier La Pitié-Salpêtrière, AP-HP, Paris, 
+France.Sorbonne Universités, UPMC université de Paris-6, UMR 7211, et 
+département inflammation-immunopathologie-biothérapie (DHU i2B) ; Inserm, UMR S 
+959 ; CNRS, FRE3632, Paris, France".
+
+"Pericarditis Acute pericarditis is a common disease, most often idiopathic or 
+viral. This is usually a mild condition but recurrences are frequent. The 
+predominant pathophysiological hypothesis is that of underlying dysimmune 
+disorders, involving an inflammatory response of the innate immune system 
+typical of "autoinflammatory diseases", mainly mediated by interleukin-1 [IL-1] 
+with activation of inflammasome; and an adaptive immune system response, typical 
+of «autoimmune diseases», primarily mediated by autoantibodies and autoreactive 
+T cells. The clinical picture associates fever, chest pain, changes in the 
+electrocardiogram and possible pericardial effusion. Treatment is based on the 
+combination of aspirin/nonsteroidal anti-inflammatory drugs and colchicine for 
+several weeks. In refractory pericarditis, low dose corticosteroid therapy and / 
+or immunosuppressive agents have been proposed with limited efficacy. Growing 
+evidency suggest a place for IL-1 receptor antagonists in the treatment of 
+recurrent pericarditis. Many studies have shown the effectiveness of anakinra 
+with a good safety profile. Other IL-1 receptor antagonists have shown promising 
+results (canakinumab, rilonacept). Further evaluation in larger prospective 
+clinical trials is needed to confirm the long-term efficacy and safety of 
+anti-IL1."
+
+Publisher: "Péricardites La péricardite aiguë est une maladie fréquente, le plus 
+souvent idiopathique ou virale. Il s’agit en règle générale d’une affection 
+bénigne mais fréquemment récidivante. L’hypothèse physiopathologique 
+prédominante est celle de troubles dysimmunitaires sous-jacents, mettant en jeu 
+une réponse inflammatoire du système immunitaire inné typique des « maladies 
+auto-inflammatoires », principalement médiée par l’interleukine-1 (IL-1) avec 
+activation de l’inflammasome ; et une réponse du système immunitaire adaptatif, 
+typique des « maladies auto-immunes », principalement médiée par des 
+auto-anticorps et des lymphocytes T autoréactifs. Le tableau clinique associe 
+des signes généraux, une douleur thoracique, des modifications de 
+l’électrocardiogramme et un possible épanchement péricardique à l’échographie. 
+Le traitement repose sur l’association d’aspirine/anti-inflammatoires non 
+stéroïdiens et de colchicine pendant plusieurs semaines. Dans les péricardites 
+réfractaires, une corticothérapie à faible dose et/ou des agents 
+immunosuppresseurs ont été proposés, avec une efficacité limitée. De plus en 
+plus de preuves suggèrent une place des antagonistes des récepteurs IL-1 dans le 
+traitement de la péricardite récurrente. De nombreuses études ont montré 
+l’efficacité de l’anakinra avec un bon profil de sécurité. D’autres antagonistes 
+des récepteurs IL-1 ont montré des résultats prometteurs (canakinumab, 
+rilonacept). Une évaluation plus approfondie dans des essais cliniques 
+prospectifs plus larges est nécessaire pour confirmer l’efficacité à long terme 
+et l’innocuité des anti-IL-1."
+
+PMID: 34160952 [Indexed for MEDLINE]
+
+Conflict of interest statement: "Les auteurs déclarent n’avoir aucun lien 
+d’intérêts."
+
+
+20. J Cardiovasc Med (Hagerstown). 2014 Dec;15(12):840-6. doi: 
+10.2459/JCM.0000000000000103.
+
+Colchicine for the prevention of pericarditis: what we know and what we do not 
+know in 2014 - systematic review and meta-analysis.
+
+Imazio M(1), Brucato A, Belli R, Forno D, Ferro S, Trinchero R, Adler Y.
+
+Author information:
+(1)aCardiology Department, Maria Vittoria Hospital, Torino bOspedale Papa 
+Giovanni XXIII (ex-Ospedali Riuniti), Bergamo, Italy cChaim Sheba Medical 
+Center, Tel Hashomer dSacker University, Tel Aviv, Israel.
+
+Comment in
+    J Cardiovasc Med (Hagerstown). 2015 Feb;16(2):143-4. doi: 
+10.2459/JCM.0000000000000225.
+    J Cardiovasc Med (Hagerstown). 2015 Feb;16(2):144-7. doi: 
+10.2459/JCM.0000000000000237.
+
+AIMS: The purpose of this study was to investigate and summarize available 
+evidence on the efficacy and safety of colchicine for pericarditis prevention. 
+Disease recurrence is the major and most common complication of pericarditis and 
+its prevention may reduce morbidity and management costs. Colchicine has been 
+intensively studied in the last decade for pericarditis prevention.
+METHODS: Controlled clinical studies were searched in several databases and were 
+included provided they focused on the pharmacologic primary or secondary 
+prevention of pericarditis. We performed a meta-analysis including studies of 
+primary outcome, adverse events and drug withdrawal.
+RESULTS: From the initial sample of 175 citations, seven controlled clinical 
+trials were finally included (1275 patients): five studies were double-blind 
+randomized controlled trials (RCT), and two studies were open-label RCTs. Trials 
+followed patients for a mean of 19 months. Meta-analytic pooling showed that 
+colchicine use was associated with a reduced risk of pericarditis during 
+follow-up [odds ratio (OR) 0.33 (0.25-0.44), P for effect <0.001, P for 
+heterogeneity 0.98, I = 0%] either for primary or secondary prevention without a 
+significant higher risk of adverse events [OR 1.28 (0.84-1.93), P for effect = 
+0.25, P for heterogeneity = 0.72, I = 0%], and drug withdrawals compared with 
+placebo [OR 1.54 (0.98-2.41), P for effect = 0.06, P for heterogeneity = 0.54, I 
+= 0%]. Gastrointestinal intolerance is the most frequent side-effect (mean 
+incidence 8%), but no severe adverse events were recorded.
+CONCLUSION: Colchicine is well tolerated and efficacious for the primary and 
+secondary prevention of pericarditis without a significant increase of the risk 
+of side-effects and drug withdrawals.
+
+DOI: 10.2459/JCM.0000000000000103
+PMID: 25000255 [Indexed for MEDLINE]
+
+
+21. Nat Rev Dis Primers. 2023 Jul 20;9(1):36. doi: 10.1038/s41572-023-00446-1.
+
+Cardiac tamponade.
+
+Adler Y(1)(2), Ristić AD(3)(4), Imazio M(5), Brucato A(6), Pankuweit S(7), 
+Burazor I(4)(8), Seferović PM(3)(4)(9), Oh JK(10).
+
+Author information:
+(1)Sackler Faculty of Medicine, Tel Aviv University, Bnei Brak, Israel. 
+yadlercardiol@gmail.com.
+(2)College of Law and Business, Ramat Gan, Israel. yadlercardiol@gmail.com.
+(3)Department of Cardiology, University Clinical Centre of Serbia, Belgrade, 
+Serbia.
+(4)Faculty of Medicine, Belgrade University, Belgrade, Serbia.
+(5)Cardiothoracic Department, Cardiology, University Hospital Santa Maria della 
+Misericordia, Azienda Sanitaria Universitaria Friuli Centrale (ASUFC), Udine, 
+Italy.
+(6)Department of Biomedical and Clinical Sciences, Fatebenefratelli Hospital, 
+The University of Milan, Milan, Italy.
+(7)Department of Internal Medicine-Cardiology, Philipps University Marburg, 
+Marburg, Germany.
+(8)Institute for Cardiovascular Diseases "Dedinje" and Belgrade University, 
+Faculty of Medicine, Belgrade, Serbia.
+(9)Serbian Academy of Sciences and Arts, Belgrade, Serbia.
+(10)Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN, USA.
+
+Cardiac tamponade is a medical emergency caused by the progressive accumulation 
+of pericardial fluid (effusion), blood, pus or air in the pericardium, 
+compressing the heart chambers and leading to haemodynamic compromise, 
+circulatory shock, cardiac arrest and death. Pericardial diseases of any 
+aetiology as well as complications of interventional and surgical procedures or 
+chest trauma can cause cardiac tamponade. Tamponade can be precipitated in 
+patients with pericardial effusion by dehydration or exposure to certain 
+medications, particularly vasodilators or intravenous diuretics. Key clinical 
+findings in patients with cardiac tamponade are hypotension, increased jugular 
+venous pressure and distant heart sounds (Beck triad). Dyspnoea can progress to 
+orthopnoea (with no rales on lung auscultation) accompanied by weakness, 
+fatigue, tachycardia and oliguria. In tamponade caused by acute pericarditis, 
+the patient can experience fever and typical chest pain increasing on 
+inspiration and radiating to the trapezius ridge. Generally, cardiac tamponade 
+is a clinical diagnosis that can be confirmed using various imaging modalities, 
+principally echocardiography. Cardiac tamponade is preferably resolved by 
+echocardiography-guided pericardiocentesis. In patients who have recently 
+undergone cardiac surgery and in those with neoplastic infiltration, 
+effusive-constrictive pericarditis, or loculated effusions, fluoroscopic 
+guidance can increase the feasibility and safety of the procedure. Surgical 
+management is indicated in patients with aortic dissection, chest trauma, 
+bleeding or purulent infection that cannot be controlled percutaneously. After 
+pericardiocentesis or pericardiotomy, NSAIDs and colchicine can be considered to 
+prevent recurrence and effusive-constrictive pericarditis.
+
+© 2023. Springer Nature Limited.
+
+DOI: 10.1038/s41572-023-00446-1
+PMID: 37474539 [Indexed for MEDLINE]
+
+
+22. Tidsskr Nor Laegeforen. 2023 May 29;143(8). doi: 10.4045/tidsskr.22.0580.
+Print  2023 May 30.
+
+Recurrent pericarditis.
+
+[Article in English, Norwegian]
+
+Andel PM(1), Aukrust P(2), Gleditsch J(3), Gude E(4), Haugeberg G(5), Høie S(6), 
+Salte T(7), Steine K(8), Atar D(9).
+
+Author information:
+(1)Revmatologisk seksjon, Oslo universitetssykehus, Rikshospitalet, og, 
+Hjertemedisinsk avdeling, Sykehuset Østfold, og, Institutt for klinisk medisin, 
+Universitetet i Oslo.
+(2)Institutt for indremedisinsk forskning, Universitetet i Oslo, og, Seksjon for 
+klinisk immunologi og infeksjonsmedisin, Oslo universitetssykehus, 
+Rikshospitalet.
+(3)Avdeling for bildediagnostikk, Sykehuset Østfold, og, Institutt for klinisk 
+medisin, Universitetet i Oslo.
+(4)Hjertemedisinsk avdeling, Oslo universitetssykehus, Rikshospitalet.
+(5)Revmatologisk seksjon, Sørlandet sykehus, Kristiansand, og, Institutt for 
+nevromedisin og bevegelsesvitenskap, NTNU.
+(6)Hjertemedisinsk avdeling, Sørlandet sykehus, Arendal, og, Institutt for 
+klinisk medisin, Universitetet i Oslo.
+(7)Revmatologisk avdeling, Stavanger universitetssjukehus.
+(8)Hjertemedisinsk avdeling, Akershus universitetssykehus, og, Institutt for 
+klinisk medisin, Universitetet i Oslo.
+(9)Hjertemedisinsk avdeling, Oslo universitetssykehus, Ullevål sykehus, og, 
+Institutt for klinisk medisin, Universitetet i Oslo.
+
+Pericarditis is an important differential diagnosis in patients with chest pain. 
+The two most common causes in the developed world are idiopathic pericarditis 
+and inflammation following cardiac surgery or myocardial infarction. Recurrence 
+of pericarditis affects up to 30 % of patients, half of whom experience multiple 
+episodes, and approximately 10 % develop steroid-dependent and 
+colchicine-refractory pericarditis. Recurrence is due to autoinflammatory 
+processes in the pericardium. Advanced diagnostic imaging and treatment with 
+colchicine and interleukin-1 inhibitors has helped reduce morbidity considerably 
+in recent years. In this clinical review, we summarise up-to-date knowledge 
+about the diagnostic evaluation and treatment of patients with recurrent primary 
+pericarditis.
+
+DOI: 10.4045/tidsskr.22.0580
+PMID: 37254974 [Indexed for MEDLINE]
+
+
+23. Ann Pharmacother. 2009 Dec;43(12):2075-81. doi: 10.1345/aph.1M234. Epub 2009
+Nov  10.
+
+Colchicine for the primary and secondary prevention of pericarditis: an update.
+
+Kuo If(1), Pearson GJ, Koshman SL.
+
+Author information:
+(1)St. Paul's Hospital, Department of Pharmacy, Vancouver, British Columbia, 
+Canada.
+
+OBJECTIVE: To review the efficacy and safety of colchicine as primary and 
+secondary prophylaxis for pericarditis.
+DATA SOURCES: We searched MEDLINE, EMBASE, PubMed, BIOSIS Previews, 
+International Pharmaceutical Abstracts, Web of Science, and CENTRAL for 
+controlled studies from database inception date to July 2009. Search terms 
+included colchicine, pericarditis, and postpericardiotomy syndrome (PPS).
+STUDY SELECTION AND DATA EXTRACTION: Prospective, randomized, controlled trials 
+investigating the use of colchicine in preventing pericarditis were included. 
+Data extracted included design, inclusion criteria, demographics, interventions, 
+background therapy, and pericarditis-related clinical outcomes.
+DATA SYNTHESIS: Data were synthesized qualitatively, given variable study 
+designs. Three trials were identified. A single trial examining primary 
+prevention evaluated the use of colchicine versus placebo for preventing PPS in 
+patients undergoing cardiopulmonary bypass grafting. No significant reduction in 
+PPS was found. Two studies examined secondary prevention of pericarditis, 
+comparing colchicine plus aspirin versus aspirin alone. One study examined using 
+these comparators to treat a first episode of pericarditis. After 3 months, 
+there was a significant reduction in recurrent pericarditis with colchicine plus 
+aspirin (11.7% vs 33%; p = 0.009). Another study examined this same regimen in 
+recurrent pericarditis, finding a significant reduction in recurrence after 6 
+months (21% vs 45%; p = 0.02).
+CONCLUSIONS: Despite limitations in study designs, current evidence suggests a 
+role for colchicine in the secondary prophylaxis for recurrent pericarditis. The 
+evidence for use of colchicine as primary prophylaxis in PPS is indeterminate; 
+therefore, colchicine cannot be recommended routinely. While colchicine should 
+be recommended for the prevention of recurrent pericarditis, questions regarding 
+the optimal regimen and long-term safety profile need to be further elucidated.
+
+DOI: 10.1345/aph.1M234
+PMID: 19903861 [Indexed for MEDLINE]
+
+
+24. Prog Cardiovasc Dis. 2017 Jan-Feb;59(4):360-368. doi: 
+10.1016/j.pcad.2016.10.001. Epub 2016 Oct 7.
+
+Recurrent Pericarditis.
+
+Imazio M(1), Gribaudo E(2), Gaita F(2).
+
+Author information:
+(1)University Division of Cardiology, Department of Medical Sciences, AOU Città 
+della Salute e della Scienza di Torino and University of Torino, Torino, Italy. 
+Electronic address: massimo.imazio@yahoo.it.
+(2)University Division of Cardiology, Department of Medical Sciences, AOU Città 
+della Salute e della Scienza di Torino and University of Torino, Torino, Italy.
+
+Recurrent pericarditis is the most common and troublesome complication of 
+pericarditis affecting 20% to 50% of patients. Its pathogenesis is often 
+presumed to be immune-mediated, but additional investigations are needed to 
+clarify the pathogenesis in order to develop etiology-oriented therapies. 
+Imaging with computed tomography and especially cardiac magnetic resonance holds 
+promise to help in the identification of more difficult cases and improve their 
+management. Refractory recurrent pericarditis with corticosteroid dependence and 
+colchicine resistance remain still an unsolved issue in search of new therapies, 
+although old drugs such as azathioprine, intravenous immunoglobulins, and 
+biological agents seem promising, but new randomized clinical trials are needed 
+to confirm their role. Despite compromising the quality of life, idiopathic 
+recurrent pericarditis has an overall good long-term outcome without mortality 
+and significant risk of constrictive pericarditis evolution. The risk of 
+constriction, the most feared complication, is related to the etiology and not 
+the number of recurrences.
+
+Copyright Â© 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.pcad.2016.10.001
+PMID: 27725173 [Indexed for MEDLINE]
+
+
+25. JACC Clin Electrophysiol. 2023 Jul;9(7 Pt 2):1067-1069. doi: 
+10.1016/j.jacep.2023.02.015. Epub 2023 Apr 19.
+
+Is Colchicine Useful to Prevent Post-AF Ablation Pericarditis?: A Question in 
+Search of an Answer.
+
+Raviele A(1).
+
+Author information:
+(1)Alliance to Fight Atrial Fibrillation (ALFA), Venice-Mestre, Italy. 
+Electronic address: dr.raviele@gmail.com.
+
+Comment on
+    JACC Clin Electrophysiol. 2023 Jul;9(7 Pt 2):1051-1059. doi: 
+10.1016/j.jacep.2023.01.037.
+    JACC Clin Electrophysiol. 2023 Jul;9(7 Pt 2):1060-1066. doi: 
+10.1016/j.jacep.2023.02.003.
+
+DOI: 10.1016/j.jacep.2023.02.015
+PMID: 37086228 [Indexed for MEDLINE]
+
+Conflict of interest statement: Funding Support and Author Disclosures The 
+author has reported that he has no relationships relevant to the contents of 
+this paper to disclose.
+
+
+26. Am J Health Syst Pharm. 2014 Aug 1;71(15):1277-81. doi: 10.2146/ajhp130724.
+
+Safety and efficacy of colchicine therapy in the prevention of recurrent 
+pericarditis.
+
+Eun J(1), Smith A(2).
+
+Author information:
+(1)Judy Eun is a Pharm.D. student and Andrew Smith, Pharm.D., BCPS 
+(AQ-Cardiology), is Clinical Assistant Professor, University of Missouri-Kansas 
+City School of Pharmacy.
+(2)Judy Eun is a Pharm.D. student and Andrew Smith, Pharm.D., BCPS 
+(AQ-Cardiology), is Clinical Assistant Professor, University of Missouri-Kansas 
+City School of Pharmacy. smithandr@umkc.edu.
+
+Comment in
+    Am J Health Syst Pharm. 2014 Dec 1;71(23):2012-3. doi: 10.2146/ajhp140505.
+
+PURPOSE: A review of published data on the safety and efficacy of colchicine 
+therapy for primary and secondary prevention of pericarditis is presented.
+SUMMARY: Colchicine has been used effectively as an antiinflammatory agent for 
+gout and has shown promise as a treatment for acute and recurrent pericarditis. 
+Several small studies have indicated that colchicine can decrease pericarditis 
+symptom persistence at 72 hours and pericarditis recurrence rates at 18 months 
+compared with conventional therapy (corticosteroids and aspirin or ibuprofen). A 
+review of pooled data from four prospective randomized trials concluded that 
+colchicine is safe and efficacious for the management of acute and recurrent 
+pericarditis, with the results indicating lower rates of the respective primary 
+and secondary endpoints of recurrent disease and symptom persistence in 
+colchicine-treated patients. A separate meta-analysis of five studies found a 
+reduced risk of pericarditis with colchicine use, suggesting that the drug may 
+have clinical utility in both primary and secondary prevention. The accumulated 
+evidence suggests that treatment with colchicine in the context of pericarditis 
+is safe and well tolerated, with gastrointestinal intolerance being the most 
+common adverse event documented in the clinical trials to date.
+CONCLUSION: Based on a review of the literature, prevention of recurrent 
+pericarditis with colchicine can be considered a safe and effective option, 
+though some patients have experienced gastrointestinal intolerance. Due to 
+evidence that corticosteroids may potentially exacerbate the risk of relapse, 
+colchicine may be a safer and preferable option.
+
+Copyright © 2014 by the American Society of Health-System Pharmacists, Inc. All 
+rights reserved.
+
+DOI: 10.2146/ajhp130724
+PMID: 25027534 [Indexed for MEDLINE]
+
+
+27. Isr Med Assoc J. 2008 Jan;10(1):69-72.
+
+Colchicine for the prevention of recurrent pericarditis.
+
+Markel G(1), Imazio M, Brucato A, Adler Y.
+
+Author information:
+(1)Sheba Cancer Research Center, Sheba Medical Center, Tel Hashomer, Israel.
+
+The most troublesome complication of acute pericarditis is recurrent episodes of 
+pericardial inflammation, which occur in 15-32% of cases. It was recently found 
+that viral infection has a major role, but in many cases the cause is unknown. 
+The optimal method for prevention has not been fully established; accepted 
+modalities include non-steroidal anti-inflammatory drugs, corticosteroids, 
+immunosuppressive agents, and pericardiectomy. Based on the proven efficacy of 
+colchicine in familial Mediterranean fever, several small and large-scale 
+international clinical trials have shown the beneficial effect of colchicine 
+therapy in preventing recurrent pericarditis. Indeed, colchicine-treated 
+patients consistently display significantly fewer recurrences, longer 
+symptom-free periods, and even when attacks occur they are weaker and shorter in 
+nature. It was also found that pretreatment with corticosteroids substantially 
+attenuates the efficacy of colchicine, as evidenced by significantly more 
+recurrence episodes and longer therapy periods. Colchicine is a safe and 
+effective modality for the treatment and prevention of recurrent pericarditis, 
+especially as an adjunct to other modalities, since it provides a sustained 
+benefit superior to all current modalities. The safety profile seems superior to 
+other drugs such as corticosteroids and immunosuppressive drugs.
+
+PMID: 18300579 [Indexed for MEDLINE]
+
+
+28. Herz. 2016 Nov;41(7):630-638. doi: 10.1007/s00059-016-4410-z. Epub 2016 Mar
+15.
+
+Colchicine in addition to conventional therapy for pericarditis recurrence : An 
+update meta-analysis.
+
+[Article in English]
+
+Li YL(1), Qiao SB(2), Wang JY(3), Chen YM(4), Luo J(1), Zhang HF(5).
+
+Author information:
+(1)Health Division of Guard Bureau, General staff Department of Chinese PLA, 
+Beijing, China.
+(2)Department of Cardiology, The People's Hospital of Rizhao, Rizhao, Shandong, 
+China.
+(3)Department of Cardiovascular Surgery, The Second People's Hospital of Yunnan 
+Province, Kunming, Yunnan, China.
+(4)Department of Pediatrics, Beijing Chao-Yang Hospital, Capital Medical 
+University, Beijing, China.
+(5)Health Division of Guard Bureau, General staff Department of Chinese PLA, 
+Beijing, China. zhanghaifeng201406@126.com.
+
+BACKGROUND: Randomized controlled trials (RCTs) have investigated the use of 
+colchicine and conventional therapy for reducing the recurrence of pericarditis 
+in patients with acute pericarditis or post-pericardiotomy syndrome. However, 
+the benefits of these treatments are variable.
+METHODS: Studies were retrieved from PubMed, the Cochrane Library, and the 
+EMBASE database.
+RESULTS: We identified nine RCTs with 1832 patients and a mean follow-up of 
+13.1 months. Overall, colchicine therapy significantly decreased the risk of 
+pericarditis recurrence (odds ratio, OR 0.42; 95 % confidence interval, 
+CI 0.33-0.52; P < 0.001; I2 = 17.0 %). Colchicine therapy was associated with 
+significantly lower rates of pericarditis-associated rehospitalization (OR 0.29; 
+95 % CI 0.16-0.53; P < 0.0001; I2 = 0.0 %) and persistence of symptoms (OR 0.29; 
+95 % CI, 0.21-0.41; P = 0.000; I2 = 0.0 %) at 72 h. Adverse events were higher 
+in the colchicine group (relative risk, RR 1.48; 95 % CI, 1.06-2.07; P = 0.02; 
+I2 = 0.0 %). Subgroup analysis showed that recurrence of pericarditis was 
+significantly lower in the colchicine therapy group, irrespective of prednisone 
+use and the cause of pericarditis.
+CONCLUSION: Colchicine significantly decreases the rate of pericarditis 
+recurrence, regardless of prednisone use and the cause of pericarditis. Larger 
+studies are needed to confirm this effect.
+
+DOI: 10.1007/s00059-016-4410-z
+PMID: 26979508 [Indexed for MEDLINE]
+
+
+29. Rev Med Interne. 2017 May;38(5):307-311. doi: 10.1016/j.revmed.2016.12.006.
+Epub  2017 Feb 6.
+
+Recurrent pericarditis.
+
+Imazio M(1), Battaglia A(2), Gaido L(2), Gaita F(2).
+
+Author information:
+(1)University Cardiology, Department of Medical Sciences, AOU Città della Salute 
+e della Scienza di Torino, University of Torino, Torino, Italy. Electronic 
+address: massimo.imazio@yahoo.it.
+(2)University Cardiology, Department of Medical Sciences, AOU Città della Salute 
+e della Scienza di Torino, University of Torino, Torino, Italy.
+
+Recurrent pericarditis is the most troublesome complication of pericarditis 
+occurring in 15 to 30% of cases. The pathogenesis is often presumed to be 
+immune-mediated although a specific rheumatologic diagnosis is commonly 
+difficult to find. The clinical diagnosis is based on recurrent pericarditis 
+chest pain and additional objective evidence of disease activity (e.g. 
+pericardial rub, ECG changes, pericardial effusion, elevation of markers of 
+inflammation, and/or imaging evidence of pericardial inflammation by CT or 
+cardiac MR). The mainstay of medical therapy for recurrent pericarditis is 
+aspirin or a non-steroidal anti-inflammatory drug (NSAID) plus colchicine. 
+Second-line therapy is considered after failure of such treatments and it is 
+generally based on low to moderate doses of corticosteroids (e.g. prednisone 0.2 
+to 0.5 mg/kg/day or equivalent) plus colchicine. More difficult cases are 
+treated with combination of aspirin or NSAID, colchicine and corticosteroids. 
+Refractory cases are managed by alternative medical options, including 
+azathioprine, or intravenous human immunoglobulins or biological agents (e.g. 
+anakinra). When all medical therapies fail, the last option may be surgical by 
+pericardiectomy to be recommended in well-experienced centres. Despite a 
+significant impairment of the quality of life, the most common forms of 
+recurrent pericarditis (usually named as "idiopathic recurrent pericarditis" 
+since without a well-defined etiological diagnosis) have good long-term outcomes 
+with a negligible risk of developing constriction and rarely cardiac tamponade 
+during follow-up. The present article reviews current knowledge on the 
+definition, diagnosis, aetiology, therapy and prognosis of recurrent 
+pericarditis with a focus on the more recent available literature.
+
+Copyright © 2016 Société Nationale Française de Médecine Interne (SNFMI). 
+Published by Elsevier SAS. All rights reserved.
+
+DOI: 10.1016/j.revmed.2016.12.006
+PMID: 28185680 [Indexed for MEDLINE]
+
+
+30. Am J Health Syst Pharm. 2014 Dec 1;71(23):2012-3. doi: 10.2146/ajhp140505.
+
+Colchicine for pericarditis.
+
+Chhabra L(1), Spodick DH(2).
+
+Author information:
+(1)Department of Cardiovascular MedicineHartford HospitalUniversity of 
+Connecticut School of MedicineHartford, CTlovids@hotmail.com.
+(2)Department of Cardiovascular MedicineSaint Vincent HospitalUniversity of 
+Massachusetts Medical SchoolWorcester, MA.
+
+Comment on
+    Am J Health Syst Pharm. 2014 Aug 1;71(15):1277-81. doi: 10.2146/ajhp130724.
+
+DOI: 10.2146/ajhp140505
+PMID: 25404591 [Indexed for MEDLINE]

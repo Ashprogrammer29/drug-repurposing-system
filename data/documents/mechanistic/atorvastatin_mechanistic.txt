@@ -1,0 +1,7 @@
+Mechanistic pathway data for atorvastatin.
+Primary target pathway: HMG-CoA reductase.
+Drug class biological mechanism relevant to disease modulation.
+Protein interaction pathways associated with atorvastatin therapeutic effects.
+Molecular target engagement data for atorvastatin.
+Pathway analysis: HMG-CoA reductase signaling cascade.
+Biological plausibility of atorvastatin in neurological and metabolic disease contexts.

@@ -1,0 +1,18 @@
+Trial: NCT04228770
+Title: Pharmacist-led Perioperative Medicines Optimisation
+Phase: NA
+Status: UNKNOWN
+Summary: Patients attend pre-assessment clinics (POAC) who require an elective operation and who are having a general anaesthetic. At POAC patients are asked about their health, and past medical conditions to assess their fitness for anaesthetic, a list of medicines taken is documented. Patients can then be given a date for surgery. During their stay in hospital patients will see a pharmacist who confirms 
+---
+Trial: NCT02169440
+Title: Effect of BIA 9-1067 on the Pharmacokinetics and Pharmacodynamics of Warfarin
+Phase: PHASE1
+Status: COMPLETED
+Summary: The purpose of this study is to investigate CYP2C9 inhibition by BIA 9-1067 through the assessment of its effect on the pharmacokinetics of S-warfarin, a substrate of CYP2C9.
+---
+Trial: NCT02305030
+Title: Effect of Opicapone at Steady State on Warfarin Pharmacokinetics
+Phase: PHASE1
+Status: COMPLETED
+Summary: Single-centre, open-label, fixed-sequence design consisting of 2 periods separated by a washout period of at least 14 days.
+---
