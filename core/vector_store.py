@@ -14,7 +14,7 @@ QDRANT_PORT = 6333
 SPLITTER = RecursiveCharacterTextSplitter(chunk_size=512, chunk_overlap=64)
 
 # Use in-memory Qdrant for local testing
-_client = QdrantClient(":memory:")
+_client = QdrantClient(host=QDRANT_HOST, port=QDRANT_PORT)
 
 def _ensure_collection_exists(collection_name: str, vector_size: int = 384):
     """Check if collection exists, if not, create it."""
