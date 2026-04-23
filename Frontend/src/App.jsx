@@ -38,6 +38,7 @@ const s = {
 }
 
 export default function App() {
+  const [query, setQuery] = useState('') // FIX: Added state
   const [loading,   setLoading]   = useState(false)
   const [result,    setResult]    = useState(null)
   const [error,     setError]     = useState(null)
@@ -57,7 +58,10 @@ export default function App() {
 
   const addLog = (msg) => setAuditLogs(prev => [...prev, `> ${new Date().toLocaleTimeString()}: ${msg}`])
 
-  const handleSubmit = async (query) => {
+  const handleSubmit = async (overrideQuery) => {
+    const finalQuery = typeof overrideQuery === 'string' ? overrideQuery : query; // Handle button or samples
+    if (!finalQuery) return;
+
     setLoading(true); setError(null); setResult(null); setAuditLogs([])
     
     addLog("🚀 Initializing Agentic AI Context...");
@@ -71,7 +75,7 @@ export default function App() {
     ];
 
     try {
-      const res = await axios.post(API_ANALYZE_ENDPOINT, { query }, {
+      const res = await axios.post(API_ANALYZE_ENDPOINT, { query: finalQuery }, {
         headers: {
           'Content-Type': 'application/json',
           'ngrok-skip-browser-warning': 'true'
@@ -79,8 +83,8 @@ export default function App() {
       })
       timers.forEach(clearTimeout);
       setResult(res.data)
-      addLog("✅ Analysis Complete. Final Score: " + res.data.governance.final_score)
-      setHistory(prev => [res.data, ...prev.filter(h => h.query !== query)].slice(0, 10))
+      addLog("✅ Analysis Complete. Final Score: " + (res.data.governance?.final_score || 'N/A'))
+      setHistory(prev => [res.data, ...prev.filter(h => h.query !== finalQuery)].slice(0, 10))
     } catch (err) {
       timers.forEach(clearTimeout);
       setError(err.response?.data?.detail || 'Analysis failed. System connection error.')
@@ -115,16 +119,18 @@ export default function App() {
         {/* SEARCH AREA */}
         <div style={{ marginTop: '40px', display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '20px' }}>
             <div style={{ position: 'relative', width: '100%', maxWidth: '600px' }}>
-                <input 
-                    id="main-search"
-                    type="text" 
+                <input
+                    type="text"
                     placeholder="Aspirin for Pyrexia..."
+                    value={query} // FIX: Bound to state
+                    onChange={(e) => setQuery(e.target.value)} // FIX: Update state
+                    onKeyDown={(e) => e.key === 'Enter' && handleSubmit()}
                     style={{ width: '100%', padding: '18px', borderRadius: '12px', border: '2px solid #334155', background: '#1e293b', color: 'white', fontSize: '1.1rem' }}
                 />
             </div>
 
-            <button 
-                onClick={() => handleSubmit(document.getElementById('main-search').value)}
+            <button
+                onClick={() => handleSubmit()} // FIX: No more document.getElementById
                 disabled={loading}
                 style={{ padding: '15px 40px', borderRadius: '10px', background: '#3b82f6', color: 'white', fontWeight: 'bold', border: 'none', cursor: 'pointer', transition: 'transform 0.2s' }}
             >
@@ -133,7 +139,7 @@ export default function App() {
 
             <div style={{ display: 'flex', gap: '10px' }}>
                 {["Metformin - Alzheimer's", "Aspirin - Cancer"].map(pair => (
-                    <button key={pair} onClick={() => handleSubmit(pair)} style={{ background: '#334155', color: '#94a3b8', border: 'none', padding: '6px 15px', borderRadius: '20px', cursor: 'pointer', fontSize: '0.8rem' }}>
+                    <button key={pair} onClick={() => { setQuery(pair); handleSubmit(pair); }} style={{ background: '#334155', color: '#94a3b8', border: 'none', padding: '6px 15px', borderRadius: '20px', cursor: 'pointer', fontSize: '0.8rem' }}>
                         {pair}
                     </button>
                 ))}
@@ -143,10 +149,16 @@ export default function App() {
 
       {/* ERROR DISPLAY */}
       {error && (
-        <div style={{ marginTop: '20px', padding: '15px', background: '#451a1a', border: '1px solid #7f1d1d', borderRadius: '8px', color: '#f87171' }}>
+        <div style={{ marginTop: '20px', padding: '15px', background: '#451a1a', border: '1px solid #7f1d1d', borderRadius: '8px', color: '#f87171', textAlign: 'center' }}>
           ⚠️ {error}
         </div>
       )}
+
+      {/* Audit Log Box */}
+      <div style={s.auditBox}>
+          {auditLogs.map((log, i) => <div key={i}>{log}</div>)}
+          <div ref={auditEndRef} />
+      </div>
     </div>
   )
 }
