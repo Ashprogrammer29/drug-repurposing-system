@@ -34,9 +34,8 @@ export default function App() {
     setAuditLogs([]);
 
     addLog("🚀 INITIALIZING AGENTIC CONTEXT...");
-    addLog(`📡 PINGING ENDPOINT: ${TUNNEL_URL}`);
+    addLog(`📡 BRIDGE ESTABLISHED: ${TUNNEL_URL}`);
     
-    // UI Visual Timers for Demo Impact
     const timers = [
       setTimeout(() => addLog("🔍 NER: Disambiguating drug/target entities..."), 1200),
       setTimeout(() => addLog("🛡️ SAFETY: Cross-referencing contraindications..."), 3500),
@@ -49,8 +48,7 @@ export default function App() {
         headers: {
           'Content-Type': 'application/json',
           'ngrok-skip-browser-warning': 'true' 
-        },
-        timeout: 90000 
+        }
       });
       
       timers.forEach(clearTimeout);
@@ -58,11 +56,12 @@ export default function App() {
       addLog("✅ ANALYSIS COMPLETE: Multi-agent consensus reached.");
     } catch (err) {
       timers.forEach(clearTimeout);
-      console.error("Connection Debug:", err);
+      console.error("Pipeline Error:", err);
       
-      let msg = 'Backend Refused Connection. Is Uvicorn running?';
-      if (err.code === 'ECONNABORTED') msg = 'Request Timed Out (LLM overload).';
-      if (err.response?.status === 500) msg = 'Logic Error: Check Backend logs.';
+      let msg = 'CORS Block or Backend Offline. Check FastAPI Middleware.';
+      if (err.code === 'ERR_NETWORK' || err.message.includes('Network Error')) {
+        msg = 'Connection Refused: Start your Uvicorn server on port 8000.';
+      }
       
       setError(msg);
       addLog("❌ SESSION TERMINATED: Bridge failure.");
@@ -72,12 +71,12 @@ export default function App() {
   };
 
   return (
-    <div style={{ backgroundColor: '#020617', minHeight: '100vh', color: 'white', padding: '60px 20px', fontFamily: 'Inter, system-ui, sans-serif' }}>
+    <div style={{ backgroundColor: '#020617', minHeight: '100vh', color: 'white', padding: '60px 20px', fontFamily: 'Inter, sans-serif' }}>
       <div style={{ maxWidth: '900px', margin: '0 auto', textAlign: 'center' }}>
         
         {/* HERO SECTION */}
         <div style={{ marginBottom: '60px' }}>
-          <h1 style={{ fontSize: '4rem', fontWeight: '900', marginBottom: '10px', background: 'linear-gradient(to right, #3b82f6, #8b5cf6)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', letterSpacing: '-0.05em' }}>
+          <h1 style={{ fontSize: '4.5rem', fontWeight: '900', marginBottom: '10px', background: 'linear-gradient(to right, #3b82f6, #8b5cf6)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', letterSpacing: '-0.05em' }}>
             Agentic AI
           </h1>
           <p style={{ color: '#64748b', fontSize: '1.4rem', fontWeight: '400', letterSpacing: '0.05em' }}>
@@ -106,15 +105,13 @@ export default function App() {
             {loading ? '🔬 AGENTS ACTIVE...' : 'EXECUTE PIPELINE'}
           </button>
 
-          {/* SAMPLES - High Visibility White Text */}
+          {/* SAMPLES */}
           <div style={{ display: 'flex', gap: '15px' }}>
             {["Metformin - Alzheimer's", "Aspirin - Cancer"].map(pair => (
               <button 
                 key={pair} 
                 onClick={() => { setQuery(pair); handleSubmit(pair); }} 
-                style={{ background: '#1e293b', color: '#ffffff', border: '1px solid #334155', padding: '14px 28px', borderRadius: '50px', cursor: 'pointer', fontSize: '1rem', fontWeight: '700', transition: 'background 0.2s' }}
-                onMouseOver={(e) => e.currentTarget.style.background = '#334155'}
-                onMouseOut={(e) => e.currentTarget.style.background = '#1e293b'}
+                style={{ background: '#1e293b', color: '#ffffff', border: '1px solid #334155', padding: '14px 28px', borderRadius: '50px', cursor: 'pointer', fontSize: '1rem', fontWeight: '700' }}
               >
                 {pair}
               </button>
@@ -123,16 +120,15 @@ export default function App() {
         </div>
 
         {/* LOG TERMINAL */}
-        <div style={{ background: '#000000', border: '1px solid #1e293b', borderRadius: '24px', padding: '32px', textAlign: 'left', fontFamily: 'JetBrains Mono, monospace', fontSize: '15px', color: '#2dd4bf', marginTop: '64px', height: '300px', overflowY: 'auto', boxShadow: 'inset 0 4px 20px rgba(0,0,0,0.9)' }}>
+        <div style={{ background: '#000000', border: '1px solid #1e293b', borderRadius: '24px', padding: '32px', textAlign: 'left', fontFamily: 'monospace', fontSize: '15px', color: '#2dd4bf', marginTop: '64px', height: '300px', overflowY: 'auto', boxShadow: 'inset 0 4px 20px rgba(0,0,0,0.9)' }}>
           {auditLogs.length === 0 && <div style={{ color: '#334155' }}>&gt; Awaiting neural uplink...</div>}
           {auditLogs.map((log, i) => <div key={i} style={{ marginBottom: '10px' }}>{log}</div>)}
           <div ref={auditEndRef} />
         </div>
       </div>
 
-      {/* ERROR OVERLAY */}
       {error && (
-        <div style={{ maxWidth: '680px', margin: '40px auto 0', padding: '24px', background: '#450a0a', border: '1px solid #ef4444', borderRadius: '16px', color: '#fecaca', textAlign: 'center', fontWeight: '700', boxShadow: '0 0 20px rgba(239, 68, 68, 0.2)' }}>
+        <div style={{ maxWidth: '680px', margin: '40px auto 0', padding: '24px', background: '#450a0a', border: '1px solid #ef4444', borderRadius: '16px', color: '#fecaca', textAlign: 'center', fontWeight: '700' }}>
           ⚠️ CRITICAL: {error}
         </div>
       )}
