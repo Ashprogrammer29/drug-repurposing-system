@@ -41,7 +41,15 @@ async def analyze(data: dict):
         status = "Approved" if is_approved else "Rejected / High Risk"
         safety_v = "Safe" if final_score > 0.55 else "Toxic Potential"
         lit_v = "Strong Evidence" if final_score > 0.7 else "Limited Data"
-        clin_v = "Phase II Ready" if is_approved else "Pre-clinical Only"
+        
+        # CLINICAL AGENT LOGIC LOCKDOWN - Strictly tied to is_approved consensus
+        if is_approved:
+            clin_v = "Phase II Ready"
+            clin_summary = "Pharmacokinetic data supports repositioning goals."
+        else:
+            clin_v = "Pre-clinical Only"
+            clin_summary = "Insufficient data to support immediate human trial advancement."
+        
         patent_v = "FTO Clear" if random.random() > 0.3 else "IP Conflict"
 
         # MOA GENERATION (The Scientific Explanation)
@@ -70,7 +78,7 @@ async def analyze(data: dict):
                 {
                     "name": "Clinical", 
                     "verdict": clin_v, 
-                    "summary": "Pharmacokinetic data supports repositioning goals." if is_approved else "Dosing window too narrow for safe human administration."
+                    "summary": clin_summary
                 },
                 {
                     "name": "Patent", 
