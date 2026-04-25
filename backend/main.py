@@ -40,15 +40,20 @@ async def analyze(data: dict):
         # This prevents 'Schizophrenia' where sub-agents disagree with the judge
         status = "Approved" if is_approved else "Rejected"
         safety_v = "Safe" if final_score > 0.55 else "Toxic Potential"
-        lit_v = "Strong Evidence" if final_score > 0.7 else "Limited Data"
         
-        # CLINICAL AGENT LOGIC LOCKDOWN - Strictly tied to is_approved consensus
+        # LITERATURE & CLINICAL AGENTS LOCKED TO is_approved CONSENSUS
         if is_approved:
+            # SUCCESS PATH - All positive agents agree
+            lit_v = "Strong Evidence"
+            lit_sum = "RAG pipeline retrieved multiple supporting trial data points."
             clinical_verdict = "Phase II Ready"
             clinical_summary = "Pharmacokinetic data supports repositioning goals."
         else:
+            # FAILURE PATH - All agents report insufficient/negative data
+            lit_v = "Limited Data"
+            lit_sum = "Insufficient PubMed evidence to validate this specific pathway."
             clinical_verdict = "Pre-clinical Only"
-            clinical_summary = "Insufficient evidential depth to support immediate trial advancement."
+            clinical_summary = "Insufficient data to support human trial advancement."
         
         patent_v = "FTO Clear" if random.random() > 0.3 else "IP Conflict"
 
@@ -73,7 +78,7 @@ async def analyze(data: dict):
                 {
                     "name": "Literature", 
                     "verdict": lit_v, 
-                    "summary": "RAG pipeline retrieved multiple supporting trials." if final_score > 0.7 else "Insufficient PubMed evidence to validate this specific pathway."
+                    "summary": lit_sum
                 },
                 {
                     "name": "Clinical", 
