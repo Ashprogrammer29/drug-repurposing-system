@@ -136,7 +136,13 @@ export default function App() {
               </tr>
             </thead>
             <tbody>
-              {[{ d: "Sildenafil", i: "Pulmonary Hypertension", c: "Gold", v: "Approved" }, { d: "Warfarin", i: "Hemophilia", c: "Fail", v: "Halted (Safety)" }].map((b, i) => (
+              {[
+                { d: "Sildenafil", i: "Pulmonary Hypertension", c: "Gold", v: "Approved" },
+                { d: "Finasteride", i: "Androgenetic Alopecia", c: "Gold", v: "Approved" },
+                { d: "Raloxifene", i: "Breast Cancer Prevention", c: "Gold", v: "Approved" },
+                { d: "Warfarin", i: "Hemophilia", c: "Fail", v: "Halted (Safety)" },
+                { d: "Statins", i: "Viral Pneumonia", c: "Fail", v: "Rejected (Efficacy)" }
+              ].map((b, i) => (
                 <tr key={i} style={{ borderBottom: '1px solid #020617' }}>
                   <td style={{ padding: '15px', fontWeight: '600' }}>{b.d}</td>
                   <td style={{ padding: '15px', color: '#64748b' }}>{b.i}</td>
@@ -153,3 +159,4 @@ export default function App() {
     </div>
   )
 }
+        
